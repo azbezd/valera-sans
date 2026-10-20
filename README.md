@@ -6,7 +6,7 @@
 
 [Русский](README.md) · [English](README.en.md)
 
-![Образцы трёх начертаний Valera Sans](docs/assets/banner.webp)
+![Valera Sans — живые буквы и картина автора «Молодость»](docs/assets/banner.webp)
 
 [Скачать 0.5.2](https://github.com/azbezd/valera-sans/releases/tag/v0.5.2) · [Попробовать шрифт](https://azbezd.github.io/valera-sans/specimen/) · [Лицензия](LICENSE)
 
@@ -40,6 +40,12 @@
 ```
 
 Для сайта помести файл CSS в одну папку с тремя файлами WOFF2. [Подробнее об установке и использовании](docs/USAGE.md).
+
+## Почерк в деле
+
+Живопись, графика и буквы одного автора. Два примера применения Valera Sans: афиша с натюрмортом и подпись к рисунку.
+
+![Valera Sans с работами «Гранат и мандарины» и «Форель с розмарином и лимоном»](docs/assets/features.webp)
 
 ## Особенности шрифта
 

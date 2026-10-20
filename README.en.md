@@ -6,7 +6,7 @@ Valery Isachenkov's handwriting, with a living line and both Cyrillic and Latin 
 
 [Русский](README.md) · [English](README.en.md)
 
-![Valera Sans: actual type in three weights](docs/assets/banner.webp)
+![Valera Sans lettering with the artist’s painting Youth](docs/assets/banner.webp)
 
 [Download 0.5.2](https://github.com/azbezd/valera-sans/releases/tag/v0.5.2) · [Try the font](https://azbezd.github.io/valera-sans/specimen/) · [License](LICENSE)
 
@@ -40,6 +40,12 @@ Download the [ready-to-use package](https://github.com/azbezd/valera-sans/releas
 ```
 
 Keep the CSS alongside the three WOFF2 files. [Installation and usage details](docs/USAGE.md).
+
+## The handwriting in use
+
+Painting, drawing and lettering by the same artist. Two applications of the actual Valera Sans font: an art poster and an illustrated caption.
+
+![Valera Sans with Pomegranate and Tangerines and Trout with Rosemary and Lemon](docs/assets/features.webp)
 
 ## Letters and behavior
 
