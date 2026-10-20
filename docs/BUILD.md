@@ -32,7 +32,7 @@ Open http://127.0.0.1:8000/specimen/. For browser QA, run `npm ci`, `npx playwri
 Only the author or an explicitly authorized maintainer may modify the Font Software under this project's license.
 
 1. Create a work branch, review the glyph or metadata change and run the checks.
-2. Update `version` and `font_version` in `font-project.json`, and the matching UFO metadata. For 0.5.1 the OpenType revision is 0.501. Record the mapping explicitly for every release.
+2. Update `version` and `font_version` in `font-project.json`, and the matching UFO metadata. For 0.5.2 the OpenType revision is 0.502 (0.5.1 used 0.501). Record the mapping explicitly for every release.
 3. Update `CHANGELOG.md`, download links, specimens and license metadata as needed.
 4. Build, validate, review desktop/mobile specimens, and run `python scripts/package.py`.
 5. Commit the approved sources and generated fonts, then create an annotated tag such as `v0.5.2`. Never move a published tag.

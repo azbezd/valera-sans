@@ -10,6 +10,8 @@
 
 > Шрифт Valera Sans — Валерий Исаченков · https://valerasketch.ru
 
+Telegram-канал автора: [@valerasketch](https://t.me/valerasketch). Его можно добавить к упоминанию автора рядом со ссылкой на сайт.
+
 Для сайта:
 
 ```html
@@ -31,6 +33,8 @@ For a website or app, an about or credits page is sufficient. For a poster, vide
 Ready-to-use text:
 
 > Typeface: Valera Sans by Valery Isachenkov · https://valerasketch.ru
+
+The author's Telegram channel is [@valerasketch](https://t.me/valerasketch). You can include it alongside the website in your attribution.
 
 HTML:
 

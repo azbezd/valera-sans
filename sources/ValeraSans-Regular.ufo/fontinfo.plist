@@ -15,6 +15,10 @@
     <key>openTypeNameDesigner</key>
     <string>Valery Isachenkov</string>
     <key>openTypeNameDesignerURL</key>
+    <string>https://t.me/valerasketch</string>
+    <key>openTypeNameDescription</key>
+    <string>Handwriting by Valery Isachenkov. Latin and Cyrillic; contextual r, kerning and tabular figures. Website: https://valerasketch.ru. Telegram: https://t.me/valerasketch.</string>
+    <key>openTypeNameManufacturerURL</key>
     <string>https://valerasketch.ru</string>
     <key>openTypeNameLicense</key>
     <string>Valera Sans Font License 1.0. Free personal and commercial use with attribution. Font modifications and renaming are not permitted.</string>
@@ -29,7 +33,7 @@
     <key>versionMajor</key>
     <integer>0</integer>
     <key>versionMinor</key>
-    <integer>501</integer>
+    <integer>502</integer>
     <key>xHeight</key>
     <integer>560</integer>
   </dict>

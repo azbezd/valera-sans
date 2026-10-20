@@ -27,8 +27,9 @@ def names(style):
     return {0:f'Copyright {CONFIG["year"]} {author}.',1:legacy,2:'Regular',
         3:f'{CONFIG["font_version"]};NONE;ValeraSans-{style}',4:family+' '+style,
         5:'Version '+CONFIG['font_version'],6:'ValeraSans-'+style,
-        8:author,9:author,10:'Handwriting by Valery Isachenkov. Latin and Cyrillic; contextual r, kerning and tabular figures.',
-        11:CONFIG['website'],12:CONFIG['website'],13:LICENCE,
+        8:author,9:author,10:(f'Handwriting by {author}. Latin and Cyrillic; contextual r, kerning and tabular figures. '
+                            f'Website: {CONFIG["website"]}. Telegram: {CONFIG["telegram"]}.'),
+        11:CONFIG['website'],12:CONFIG['telegram'],13:LICENCE,
         14:CONFIG['repository']+'/blob/main/LICENSE',16:family,17:style}
 
 def legacy_kern(font,features):
@@ -81,7 +82,9 @@ def build(style,weight,cff=False):
     f['head'].fontRevision=float(CONFIG['font_version']);f['head'].macStyle=0
     f['head'].created=FONT_TIME;f['head'].modified=FONT_TIME;f.recalcTimestamp=False
     # Localized author record; never change PostScript identifiers by locale.
-    for ident,text in [(0,f'Copyright {CONFIG["year"]} {CONFIG["author_ru"]}.'),(9,CONFIG['author_ru'])]:
+    for ident,text in [(0,f'Copyright {CONFIG["year"]} {CONFIG["author_ru"]}.'),(9,CONFIG['author_ru']),
+                       (10,f'Автор рукописного шрифта — {CONFIG["author_ru"]}. Кириллица и латиница. '
+                           f'Сайт: {CONFIG["website"]}. Telegram: {CONFIG["telegram"]}.')]:
         f['name'].setName(text,ident,3,1,0x419)
     addOpenTypeFeaturesFromString(f,ufo.features.text)
     legacy_kern(f,ufo.features.text)

@@ -1,6 +1,6 @@
 # Validation
 
-The first public build packages the approved Valera Hand Draft 0.5 as Valera Sans 0.5.1. The release changes naming, licensing metadata, compatibility fields and packaging, not the letter designs.
+The first public build packages the approved Valera Hand Draft 0.5 as Valera Sans 0.5.1. The release changes naming, licensing metadata, compatibility fields and packaging, not the letter designs. Version 0.5.2 adds the author’s Telegram channel to the metadata and preserves the same approved geometry and shaping.
 
 `scripts/validate.py` checks every released TTF, CFF OTF and WOFF2:
 

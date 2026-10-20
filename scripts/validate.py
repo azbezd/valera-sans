@@ -47,6 +47,12 @@ for style,weight in CONFIG['styles'].items():
         assert f['name'].getDebugName(5)=='Version '+CONFIG['font_version']
         for name_id in [0,1,2,3,4,5,6,8,9,10,11,12,13,14,16,17]:assert f['name'].getDebugName(name_id)
         assert 'Valery Isachenkov'in f['name'].getDebugName(0)
+        assert f['name'].getDebugName(11)==CONFIG['website']
+        assert f['name'].getDebugName(12)==CONFIG['telegram']
+        for record in f['name'].names:
+            if record.nameID==10:
+                assert CONFIG['website'] in record.toUnicode()
+                assert CONFIG['telegram'] in record.toUnicode()
         assert 'not permitted'in f['name'].getDebugName(13)
         assert f['name'].getDebugName(14).endswith('/valera-sans/blob/main/LICENSE')
         assert f['OS/2'].usWeightClass==weight and f['OS/2'].fsType==0

@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.5.2 — 2026-10-21
+
+- Added the author's Telegram channel, https://t.me/valerasketch, to project metadata, all nine font files, the UFO sources, author links and attribution guidance.
+- The OpenType designer URL now points to Telegram; the website remains in the vendor URL and font description. Descriptions include both links in English and Russian.
+- Included revised Russian project text and bilingual attribution instructions in the downloadable packages.
+- OpenType revision: **0.502**. Letterforms, spacing, kerning and contextual substitutions are unchanged.
+
 ## 0.5.1 — 2026-10-20
 
 First public release as **Valera Sans**.
