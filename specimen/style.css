@@ -20,3 +20,6 @@
 .art-poster p{margin-top:auto;padding-top:14px}.applications>.muted{margin-top:20px}
 @media(max-width:800px){.hero{gap:4%}.hero h1{font-size:108px}.hero-art{padding:0 12px}.hero .eyebrow{max-width:235px}.art-poster{padding:24px}.art-poster h3{font-size:58px}}
 @media(max-width:650px){.hero{grid-template-columns:1fr;gap:32px;padding:32px 0 40px}.hero h1{font-size:clamp(92px,24vw,132px);line-height:1.03;margin:22px 0 12px}.hero-note{font-size:42px;margin:22px 0}.hero-art{width:76%;justify-self:end;padding-right:18px;margin:8px 0 0}.hero-art figcaption{margin-top:22px}.poster-pair{grid-template-columns:1fr}.art-poster{padding:26px 25px 22px}.art-poster h3{font-size:clamp(62px,16vw,92px)}.art-poster p{font-size:12px}.applications{margin:40px 0}.fish-poster h3{margin-top:4px}.try-link{min-height:44px;padding-top:6px}}
+
+/* Artwork captions belong to the actual-font examples, including small text. */
+.art-poster p{font:400 22px/1.3 "Valera Sans",sans-serif;font-kerning:normal;font-feature-settings:"calt" 1;font-synthesis:none}

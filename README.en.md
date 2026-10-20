@@ -34,6 +34,7 @@ Download the [ready-to-use package](https://github.com/azbezd/valera-sans/releas
 .handwriting {
   font-family: "Valera Sans", sans-serif;
   font-weight: 400;
+  font-synthesis: none;
   font-kerning: normal;
   font-feature-settings: "calt" 1;
 }
@@ -47,9 +48,11 @@ Painting, drawing and lettering by the same artist. Two applications of the actu
 
 ![Valera Sans with Pomegranate and Tangerines and Trout with Rosemary and Lemon](docs/assets/features.webp)
 
+The paintings illustrate the font in use. Reusing the artwork reproductions separately requires [the author's permission](specimen/artworks/README.md).
+
 ## Letters and behavior
 
-The Russian alphabet, including Ё/ё, basic Latin A–Z/a–z, digits, punctuation, ₽ and №: **170 encoded characters and 180 glyphs**. The handwritten tails of `а` and `a` are preserved. Latin `r` changes shape after lowercase `e`: `er` uses the flowing form; `re` and an isolated `r` use the upright form. This is a built-in OpenType `calt` rule.
+The Russian alphabet, including Ё/ё, basic Latin A–Z/a–z, digits, punctuation, ₽ and №: **170 encoded characters and 180 glyphs**. The handwritten tails of `а` and `a` are preserved. Latin `r` changes shape immediately after lowercase Latin `e`: `er` uses the flowing form; `re` and an isolated `r` use the upright form. This is a built-in OpenType `calt` rule.
 
 All three weights include pair kerning and tabular figures through `tnum`. The [interactive specimen](https://azbezd.github.io/valera-sans/specimen/) renders the actual fonts.
 
@@ -57,7 +60,7 @@ All three weights include pair kerning and tabular figures through `tnum`. The [
 
 ## Credit the author
 
-Commercial projects are welcome. Include one reasonably accessible credit per project, in its description, credits, colophon or attribution page.
+Commercial projects are welcome. Include the font name, the author and the author's website in one reasonably accessible credit per project, such as its description, credits, colophon or attribution page.
 
 > Valera Sans — Valery Isachenkov · [valerasketch.ru](https://valerasketch.ru)
 
@@ -71,4 +74,4 @@ Editable UFO sources and the build are included. Official versions receive Git t
 
 ## Author
 
-Handwriting and artistic character by **Valery Isachenkov**. [Telegram channel @valerasketch](https://t.me/valerasketch) · [The author's artwork](https://valerasketch.ru) · [GitHub](https://github.com/azbezd).
+Handwriting and artistic character by **Valery Isachenkov**. [Telegram channel: @valerasketch](https://t.me/valerasketch) · [The author's artwork](https://valerasketch.ru) · [GitHub](https://github.com/azbezd).
