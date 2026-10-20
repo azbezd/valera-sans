@@ -11,7 +11,9 @@ const expected=JSON.parse(fs.readFileSync(path.join(ROOT,'tests/browser-expected
   page.on('pageerror',e=>errors.push(e.message));
   await page.goto(new URL('specimen/',base).href,{waitUntil:'networkidle'});await page.evaluate(()=>document.fonts.ready);
   const measurements=await page.evaluate(async({expected,base})=>{
-   const el=document.createElement('span');el.style.cssText='position:absolute;visibility:hidden;white-space:pre;font-size:64px;letter-spacing:0';document.body.append(el);const rows=[];
+   // One CSS pixel per font unit avoids OS-specific fractional-pixel advance
+   // rounding at small sizes while keeping the strict shaping comparison.
+   const el=document.createElement('span');el.style.cssText='position:absolute;visibility:hidden;white-space:pre;font-size:1000px;letter-spacing:0';document.body.append(el);const rows=[];
    for(const [ext,folder]of[['ttf','ttf'],['otf','otf'],['woff2','web']])for(const [style,cases]of Object.entries(expected)){
     const family='Check'+style+ext,weight={Light:300,Regular:400,Semibold:600}[style];
     const ff=new FontFace(family,`url("${new URL(`fonts/${folder}/ValeraSans-${style}.${ext}`,base).href}")`,{weight:String(weight)});
@@ -19,7 +21,7 @@ const expected=JSON.parse(fs.readFileSync(path.join(ROOT,'tests/browser-expected
     for(const c of cases){el.textContent=c.text;el.style.fontFeatureSettings=c.calt?'"calt" 1':'"calt" 0';el.style.fontKerning=c.kern?'normal':'none';rows.push({ext,style,...c,actual:el.getBoundingClientRect().width})}
    }el.remove();return rows;
   },{expected,base});
-  for(const r of measurements)assert(Math.abs(r.actual-r.width_units*64/1000)<.12,JSON.stringify(r));
+  for(const r of measurements)assert(Math.abs(r.actual-r.width_units)<.12,JSON.stringify(r));
   await page.locator('#calt').uncheck();assert((await page.locator('#text').evaluate(e=>getComputedStyle(e).fontFeatureSettings)).includes('0'));
   await page.locator('#calt').check();await page.locator('#kern').uncheck();assert.equal(await page.locator('#text').evaluate(e=>getComputedStyle(e).fontKerning),'none');await page.locator('#kern').check();
   await page.locator('#tnum').check();assert.equal(await page.locator('#text').evaluate(e=>getComputedStyle(e).fontVariantNumeric),'tabular-nums');await page.locator('#tnum').uncheck();
