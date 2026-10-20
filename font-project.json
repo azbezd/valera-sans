@@ -1,0 +1,17 @@
+{
+  "family": "Valera Sans",
+  "version": "0.5.1",
+  "font_version": "0.501",
+  "author": "Valery Isachenkov",
+  "author_ru": "Валерий Исаченков",
+  "website": "https://valerasketch.ru",
+  "repository": "https://github.com/azbezd/valera-sans",
+  "license": "LicenseRef-ValeraSans-1.0",
+  "year": 2026,
+  "source_date_epoch": 1792454400,
+  "styles": {
+    "Light": 300,
+    "Regular": 400,
+    "Semibold": 600
+  }
+}

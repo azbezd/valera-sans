@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="space.narrow" format="2">
+  <advance width="160"/>
+  <unicode hex="2009"/>
+  <unicode hex="202F"/>
+  <outline>
+  </outline>
+</glyph>

@@ -1,0 +1,80 @@
+VALERA SANS FONT LICENSE 1.0
+
+Copyright 2026 Valery Isachenkov (Валерий Исаченков).
+Author: https://valerasketch.ru
+Official project: https://github.com/azbezd/valera-sans
+
+1. Scope
+
+This license applies to Valera Sans font files, glyph drawings, source files,
+build scripts, specimens and documentation supplied in this repository, unless
+a file expressly identifies separate third-party terms. "Font Software" means
+these materials. "Output" means text, artwork, documents, websites, applications
+and other works created using the fonts, rather than a new or altered font.
+
+2. Permission to use the official, unmodified font
+
+You may download, install, copy and use the official, unmodified Font Software
+without a fee for personal or commercial purposes. You may create, publish,
+print, sell and distribute Output, including client work, logos, packaging,
+videos, websites and applications. Output need not use this license.
+
+You may redistribute the official, unmodified Font Software, on its own or as
+part of a product, provided this license and the copyright and attribution
+notices accompany it. You may inspect the sources and reproduce an official
+build without changing its design, functionality, identity or license.
+
+3. Attribution
+
+When you publicly distribute Output using Valera Sans, give a reasonably
+accessible credit in the work, its accompanying description, project credits,
+colophon, documentation, or a website/application credits page. One credit per
+project or product is sufficient; it need not appear next to every text item.
+Use the following credit or an equivalent identifying the same font and author:
+
+    Valera Sans — Валерий Исаченков / Valery Isachenkov
+    https://valerasketch.ru
+
+For a digital credit, include a link to the author's website where links are
+supported. Retain the copyright notice and this license in copies of the Font
+Software. Credit must not imply the author's endorsement of your work.
+
+4. No modified fonts or renaming
+
+You may not change or publish changes to the Font Software without the author's
+separate written permission. This includes editing glyph shapes, spacing,
+kerning, weights, character coverage, OpenType behavior, names, authorship,
+license metadata or source code; renaming the font; and making or distributing
+a derivative typeface. Public access to the sources does not grant permission
+to modify them. Rights separately granted by the hosting platform for viewing
+or forking remain unaffected, but do not waive this restriction.
+
+Normal typesetting choices in Output, including font size, color, layout,
+tracking and enabling supplied OpenType features, are permitted. Converting
+text to paths or pixels as part of Output is permitted, provided those paths
+or pixels are not assembled or distributed as a font or reusable glyph library.
+
+5. Technical embedding
+
+Embedding the official font in documents, websites, applications and ebooks is
+permitted. Automatic compression, format wrapping and character subsetting
+performed solely for embedding are permitted if the retained glyphs, their
+behavior and identifying notices are not otherwise altered. Such an embedded
+subset or wrapper may be distributed only with the containing Output, not as
+a standalone modified font. Editing the text of an embedded document is allowed.
+These technical operations do not authorize new designs or renamed fonts.
+
+6. Other rights and permissions
+
+All rights not expressly granted remain with the copyright holder. The author
+may issue official modified versions and grant additional permissions. Contact
+the author through the website or the official repository for such permission.
+This is a custom, attribution-required, no-modification license; it is not the
+SIL Open Font License and does not claim to be an open-source license.
+
+7. Disclaimer
+
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER
+IS NOT LIABLE FOR CLAIMS, DAMAGES OR OTHER LIABILITY ARISING FROM ITS USE.

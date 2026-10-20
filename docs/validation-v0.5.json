@@ -1,0 +1,44 @@
+{
+  "Light": {
+    "encoded_pairs_checked_each_calt_state": 28900,
+    "contextual_cases_checked": 2132,
+    "alternate_pair_checks": 341,
+    "tabular_pair_checks": 3300,
+    "unchanged_original_glyphs": 178,
+    "original_r_preserved_exactly_as_alternate": true,
+    "non_r_pair_records_unchanged": 28561,
+    "ttf_woff2_identical_shapes_metrics_layout": true,
+    "native_cross_script_boundaries": 4509,
+    "unexpected_mismatches": 0,
+    "default_outline_points": 286,
+    "sha256": "189b6c00ef0a38d8041bb0953019155cb0272c49f6425d5bf17f98d4187cac14"
+  },
+  "Regular": {
+    "encoded_pairs_checked_each_calt_state": 28900,
+    "contextual_cases_checked": 2132,
+    "alternate_pair_checks": 341,
+    "tabular_pair_checks": 3300,
+    "unchanged_original_glyphs": 178,
+    "original_r_preserved_exactly_as_alternate": true,
+    "non_r_pair_records_unchanged": 28561,
+    "ttf_woff2_identical_shapes_metrics_layout": true,
+    "native_cross_script_boundaries": 4557,
+    "unexpected_mismatches": 0,
+    "default_outline_points": 262,
+    "sha256": "ed5ec6603dce5eb0ece1a5c11f6e2ea6a0b5b4ae13a9dc85db76a4f32d06b178"
+  },
+  "Semibold": {
+    "encoded_pairs_checked_each_calt_state": 28900,
+    "contextual_cases_checked": 2132,
+    "alternate_pair_checks": 341,
+    "tabular_pair_checks": 3300,
+    "unchanged_original_glyphs": 178,
+    "original_r_preserved_exactly_as_alternate": true,
+    "non_r_pair_records_unchanged": 28561,
+    "ttf_woff2_identical_shapes_metrics_layout": true,
+    "native_cross_script_boundaries": 4632,
+    "unexpected_mismatches": 0,
+    "default_outline_points": 226,
+    "sha256": "0baadb7265b12fa8f3f6d472af08bd75b9923c61a98e1d69b194fdf46a4c457d"
+  }
+}

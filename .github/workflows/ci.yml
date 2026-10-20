@@ -1,0 +1,68 @@
+name: Build, verify and publish specimen
+on:
+  push:
+    branches: [main]
+    tags: ['v*']
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: build-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: python -m pip install -r requirements.txt
+      - run: python scripts/build.py
+      - name: Verify reproducible font binaries
+        run: git diff --exit-code -- fonts qa/build-manifest.json
+      - run: python scripts/validate.py
+      - run: npm ci
+      - run: npx playwright install --with-deps chromium
+      - name: Start specimen server
+        run: python -m http.server 8000 --bind 127.0.0.1 > /tmp/valera-specimen.log 2>&1 &
+      - run: npm run check:browser
+      - run: python scripts/package.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: checked-font-packages
+          path: dist/
+      - uses: actions/upload-artifact@v4
+        with:
+          name: validation
+          path: qa/
+      - name: Prepare public specimen
+        if: github.ref == 'refs/heads/main'
+        run: |
+          mkdir -p public
+          cp -R fonts specimen public/
+          cp index.html LICENSE ATTRIBUTION.md public/
+      - uses: actions/upload-pages-artifact@v3
+        if: github.ref == 'refs/heads/main'
+        with:
+          path: public
+  pages:
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    needs: verify
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy specimen
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,11 @@
+{
+  "name": "valera-sans-specimen",
+  "private": true,
+  "version": "0.5.1",
+  "license": "SEE LICENSE IN LICENSE",
+  "scripts": {
+    "check:browser": "node scripts/check-browser.cjs",
+    "showcase": "python3 scripts/showcase.py"
+  },
+  "devDependencies": {"playwright": "1.58.2"}
+}

@@ -1,0 +1,104 @@
+{
+  "fonts": {
+    "fonts/ttf/ValeraSans-Light.ttf": {
+      "glyphs": 180,
+      "characters": 170,
+      "pairs_per_calt_state": 28900,
+      "tabular_pairs": 3300,
+      "contextual_cases": 732,
+      "approved_geometry": true,
+      "complete_metadata": true,
+      "shaping_mismatches": 0,
+      "sha256": "7ac4e9ebc2f31cb3baf79b8d1898d568db8dcaad4f5fc3c000c7693654563ae1"
+    },
+    "fonts/otf/ValeraSans-Light.otf": {
+      "glyphs": 180,
+      "characters": 170,
+      "pairs_per_calt_state": 28900,
+      "tabular_pairs": 3300,
+      "contextual_cases": 732,
+      "approved_geometry": true,
+      "complete_metadata": true,
+      "shaping_mismatches": 0,
+      "sha256": "fb04932df19514b3b48e49c7a1158bf8ca7fa3ef6420c226305e69aab1c5b10e"
+    },
+    "fonts/web/ValeraSans-Light.woff2": {
+      "glyphs": 180,
+      "characters": 170,
+      "pairs_per_calt_state": 28900,
+      "tabular_pairs": 3300,
+      "contextual_cases": 732,
+      "approved_geometry": true,
+      "complete_metadata": true,
+      "shaping_mismatches": 0,
+      "sha256": "8d0b618cdad572f8b6e1324577479450d3cd76785e5fcd671d92ae57fb653950"
+    },
+    "fonts/ttf/ValeraSans-Regular.ttf": {
+      "glyphs": 180,
+      "characters": 170,
+      "pairs_per_calt_state": 28900,
+      "tabular_pairs": 3300,
+      "contextual_cases": 732,
+      "approved_geometry": true,
+      "complete_metadata": true,
+      "shaping_mismatches": 0,
+      "sha256": "384e4353320723c0f4303867ecfc63fe5f6cee5fb1f5de296f64f83fd15d88ca"
+    },
+    "fonts/otf/ValeraSans-Regular.otf": {
+      "glyphs": 180,
+      "characters": 170,
+      "pairs_per_calt_state": 28900,
+      "tabular_pairs": 3300,
+      "contextual_cases": 732,
+      "approved_geometry": true,
+      "complete_metadata": true,
+      "shaping_mismatches": 0,
+      "sha256": "354d2e77d75624bef56e270cc33d3f4447aad7215d80da55067f9d1c5d10a350"
+    },
+    "fonts/web/ValeraSans-Regular.woff2": {
+      "glyphs": 180,
+      "characters": 170,
+      "pairs_per_calt_state": 28900,
+      "tabular_pairs": 3300,
+      "contextual_cases": 732,
+      "approved_geometry": true,
+      "complete_metadata": true,
+      "shaping_mismatches": 0,
+      "sha256": "d0364a07d2cc81a7c81ae8fb925b17e7e97edf6d2a706c78d41fdec0b9564c59"
+    },
+    "fonts/ttf/ValeraSans-Semibold.ttf": {
+      "glyphs": 180,
+      "characters": 170,
+      "pairs_per_calt_state": 28900,
+      "tabular_pairs": 3300,
+      "contextual_cases": 732,
+      "approved_geometry": true,
+      "complete_metadata": true,
+      "shaping_mismatches": 0,
+      "sha256": "4722252fde3dacc933d4096fb22600768527c32679fcfc7a1e2df6deac5b8d28"
+    },
+    "fonts/otf/ValeraSans-Semibold.otf": {
+      "glyphs": 180,
+      "characters": 170,
+      "pairs_per_calt_state": 28900,
+      "tabular_pairs": 3300,
+      "contextual_cases": 732,
+      "approved_geometry": true,
+      "complete_metadata": true,
+      "shaping_mismatches": 0,
+      "sha256": "66162420815d1dd4e624640cd39e6c602f8c8dd6f95e972e97bb5ef914d29647"
+    },
+    "fonts/web/ValeraSans-Semibold.woff2": {
+      "glyphs": 180,
+      "characters": 170,
+      "pairs_per_calt_state": 28900,
+      "tabular_pairs": 3300,
+      "contextual_cases": 732,
+      "approved_geometry": true,
+      "complete_metadata": true,
+      "shaping_mismatches": 0,
+      "sha256": "1a50974f0ae16c82aaf504e25d3548de5e7f909368a8d97c844c1f1d10444814"
+    }
+  },
+  "relative_document_links_checked": 26
+}

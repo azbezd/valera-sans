@@ -1,0 +1,22 @@
+/* Valera Sans — Valery Isachenkov. See LICENSE and ATTRIBUTION.md. */
+@font-face {
+  font-family: "Valera Sans";
+  src: url("ValeraSans-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Valera Sans";
+  src: url("ValeraSans-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Valera Sans";
+  src: url("ValeraSans-Semibold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}

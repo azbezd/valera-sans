@@ -1,0 +1,2125 @@
+{
+  "A": {
+    "row": "latin-upper-1",
+    "components": [
+      1
+    ],
+    "box": [
+      271,
+      654,
+      337,
+      827
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "B": {
+    "row": "latin-upper-1",
+    "components": [
+      3
+    ],
+    "box": [
+      358,
+      663,
+      471,
+      813
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "C": {
+    "row": "latin-upper-1",
+    "components": [
+      4
+    ],
+    "box": [
+      652,
+      662,
+      746,
+      808
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "D": {
+    "row": "latin-upper-1",
+    "components": [
+      5
+    ],
+    "box": [
+      786,
+      666,
+      875,
+      815
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "E": {
+    "row": "latin-upper-1",
+    "components": [
+      6
+    ],
+    "box": [
+      910,
+      672,
+      978,
+      812
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "F": {
+    "row": "latin-upper-1",
+    "components": [
+      10
+    ],
+    "box": [
+      1105,
+      688,
+      1181,
+      815
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "G": {
+    "row": "latin-upper-1",
+    "components": [
+      9
+    ],
+    "box": [
+      1199,
+      686,
+      1297,
+      834
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "H": {
+    "row": "latin-upper-1",
+    "components": [
+      7
+    ],
+    "box": [
+      1318,
+      682,
+      1398,
+      820
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "I": {
+    "row": "latin-upper-1",
+    "components": [
+      11
+    ],
+    "box": [
+      1429,
+      692,
+      1494,
+      834
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "J": {
+    "row": "latin-upper-1",
+    "components": [
+      13
+    ],
+    "box": [
+      1512,
+      704,
+      1602,
+      828
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "K": {
+    "row": "latin-upper-1",
+    "components": [
+      12
+    ],
+    "box": [
+      1619,
+      702,
+      1709,
+      850
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "L": {
+    "row": "latin-upper-1",
+    "components": [
+      14
+    ],
+    "box": [
+      1735,
+      719,
+      1812,
+      845
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "M": {
+    "row": "latin-upper-1",
+    "components": [
+      15
+    ],
+    "box": [
+      1840,
+      723,
+      1949,
+      853
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "N": {
+    "row": "latin-upper-1",
+    "components": [
+      16
+    ],
+    "box": [
+      1978,
+      725,
+      2068,
+      858
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "O": {
+    "row": "latin-upper-1",
+    "components": [
+      19
+    ],
+    "box": [
+      2326,
+      749,
+      2422,
+      863
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "P": {
+    "row": "latin-upper-1",
+    "components": [
+      20
+    ],
+    "box": [
+      2447,
+      749,
+      2531,
+      875
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "Q": {
+    "row": "latin-upper-2",
+    "components": [
+      23
+    ],
+    "box": [
+      251,
+      877,
+      392,
+      1024
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "R": {
+    "row": "latin-upper-2",
+    "components": [
+      22
+    ],
+    "box": [
+      429,
+      872,
+      543,
+      1007
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "S": {
+    "row": "latin-upper-2",
+    "components": [
+      24
+    ],
+    "box": [
+      573,
+      877,
+      667,
+      1010
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "T": {
+    "row": "latin-upper-2",
+    "components": [
+      29
+    ],
+    "box": [
+      1247,
+      892,
+      1362,
+      1012
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "U": {
+    "row": "latin-upper-2",
+    "components": [
+      30
+    ],
+    "box": [
+      1390,
+      899,
+      1474,
+      1027
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "V": {
+    "row": "latin-upper-2",
+    "components": [
+      31
+    ],
+    "box": [
+      1490,
+      906,
+      1571,
+      1033
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "W": {
+    "row": "latin-upper-2",
+    "components": [
+      34
+    ],
+    "box": [
+      1836,
+      921,
+      1974,
+      1041
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "X": {
+    "row": "latin-upper-2",
+    "components": [
+      35
+    ],
+    "box": [
+      1990,
+      924,
+      2091,
+      1066
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "Y": {
+    "row": "latin-upper-2",
+    "components": [
+      37
+    ],
+    "box": [
+      2237,
+      928,
+      2329,
+      1078
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "Z": {
+    "row": "latin-upper-2",
+    "components": [
+      38
+    ],
+    "box": [
+      2345,
+      944,
+      2455,
+      1052
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "a": {
+    "source": "IMG_2704.HEIC",
+    "row": "latin-lower-1",
+    "components": [
+      48
+    ],
+    "box": [
+      580,
+      1120,
+      673,
+      1236
+    ],
+    "selected_variant": 5
+  },
+  "b": {
+    "row": "latin-lower-1",
+    "components": [
+      41
+    ],
+    "box": [
+      707,
+      1098,
+      796,
+      1245
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "c": {
+    "row": "latin-lower-1",
+    "components": [
+      54
+    ],
+    "box": [
+      808,
+      1144,
+      876,
+      1212
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "d": {
+    "row": "latin-lower-1",
+    "components": [
+      42
+    ],
+    "box": [
+      901,
+      1105,
+      998,
+      1237
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "e": {
+    "row": "latin-lower-1",
+    "components": [
+      56
+    ],
+    "box": [
+      1024,
+      1155,
+      1126,
+      1233
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "f": {
+    "row": "latin-lower-1",
+    "components": [
+      39
+    ],
+    "box": [
+      1371,
+      1084,
+      1443,
+      1252
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "g": {
+    "row": "latin-lower-1",
+    "components": [
+      57
+    ],
+    "box": [
+      1440,
+      1158,
+      1516,
+      1301
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "h": {
+    "row": "latin-lower-1",
+    "components": [
+      40
+    ],
+    "box": [
+      1545,
+      1091,
+      1614,
+      1247
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "i": {
+    "row": "latin-lower-1",
+    "components": [
+      62,
+      53
+    ],
+    "box": [
+      1650,
+      1133,
+      1673,
+      1249
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "j": {
+    "row": "latin-lower-1",
+    "components": [
+      58,
+      45,
+      53
+    ],
+    "box": [
+      1659,
+      1113,
+      1753,
+      1338
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "k": {
+    "row": "latin-lower-1",
+    "components": [
+      50
+    ],
+    "box": [
+      1881,
+      1122,
+      1942,
+      1249
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "l": {
+    "row": "latin-lower-1",
+    "components": [
+      52
+    ],
+    "box": [
+      2241,
+      1126,
+      2260,
+      1261
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "m": {
+    "row": "latin-lower-1",
+    "components": [
+      60
+    ],
+    "box": [
+      2303,
+      1159,
+      2422,
+      1270
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "n": {
+    "row": "latin-lower-2",
+    "components": [
+      67
+    ],
+    "box": [
+      257,
+      1284,
+      333,
+      1406
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "o": {
+    "row": "latin-lower-2",
+    "components": [
+      70
+    ],
+    "box": [
+      382,
+      1314,
+      474,
+      1402
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "p": {
+    "row": "latin-lower-2",
+    "components": [
+      71
+    ],
+    "box": [
+      530,
+      1318,
+      612,
+      1462
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "q": {
+    "row": "latin-lower-2",
+    "components": [
+      72
+    ],
+    "box": [
+      635,
+      1320,
+      707,
+      1456
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "r": {
+    "source": "doc00568920260120143019.pdf",
+    "page": 1,
+    "box": [
+      3561,
+      2062,
+      3702,
+      2253
+    ],
+    "rotate180": true,
+    "selected_variant": 3,
+    "contextual_alternate": {
+      "glyph": "uni0072.after_e",
+      "after": "e",
+      "selected_variant": 1,
+      "source_record": {
+        "row": "latin-lower-2",
+        "components": [
+          73
+        ],
+        "box": [
+          755,
+          1322,
+          825,
+          1388
+        ],
+        "source": "IMG_2704.HEIC"
+      }
+    }
+  },
+  "s": {
+    "row": "latin-lower-2",
+    "components": [
+      69
+    ],
+    "box": [
+      857,
+      1313,
+      936,
+      1405
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "t": {
+    "row": "latin-lower-2",
+    "components": [
+      66
+    ],
+    "box": [
+      960,
+      1276,
+      1029,
+      1426
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "u": {
+    "row": "latin-lower-2",
+    "components": [
+      74
+    ],
+    "box": [
+      1060,
+      1326,
+      1138,
+      1429
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "v": {
+    "row": "latin-lower-2",
+    "components": [
+      77
+    ],
+    "box": [
+      1156,
+      1334,
+      1236,
+      1423
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "w": {
+    "row": "latin-lower-2",
+    "components": [
+      78
+    ],
+    "box": [
+      1274,
+      1334,
+      1395,
+      1420
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "x": {
+    "row": "latin-lower-2",
+    "components": [
+      76
+    ],
+    "box": [
+      1423,
+      1333,
+      1493,
+      1439
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "y": {
+    "row": "latin-lower-2",
+    "components": [
+      75
+    ],
+    "box": [
+      1516,
+      1331,
+      1596,
+      1483
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "z": {
+    "row": "latin-lower-2",
+    "components": [
+      81
+    ],
+    "box": [
+      1831,
+      1353,
+      1916,
+      1410
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "0": {
+    "row": "digits",
+    "components": [
+      165
+    ],
+    "box": [
+      274,
+      1946,
+      339,
+      2043
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "1": {
+    "row": "digits",
+    "components": [
+      160
+    ],
+    "box": [
+      367,
+      1941,
+      416,
+      2044
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "2": {
+    "row": "digits",
+    "components": [
+      155
+    ],
+    "box": [
+      442,
+      1937,
+      512,
+      2049
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "3": {
+    "row": "digits",
+    "components": [
+      152
+    ],
+    "box": [
+      832,
+      1935,
+      908,
+      2037
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "4": {
+    "row": "digits",
+    "components": [
+      159
+    ],
+    "box": [
+      930,
+      1939,
+      992,
+      2050
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "5": {
+    "row": "digits",
+    "components": [
+      156
+    ],
+    "box": [
+      1110,
+      1936,
+      1176,
+      2042
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "6": {
+    "row": "digits",
+    "components": [
+      153
+    ],
+    "box": [
+      1426,
+      1934,
+      1498,
+      2045
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "7": {
+    "row": "digits",
+    "components": [
+      154
+    ],
+    "box": [
+      1616,
+      1935,
+      1686,
+      2037
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "8": {
+    "row": "digits",
+    "components": [
+      148
+    ],
+    "box": [
+      1711,
+      1929,
+      1777,
+      2030
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "9": {
+    "row": "digits",
+    "components": [
+      158
+    ],
+    "box": [
+      1801,
+      1936,
+      1852,
+      2037
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "А": {
+    "row": "cyr-upper-1",
+    "components": [
+      183
+    ],
+    "box": [
+      268,
+      2108,
+      331,
+      2233
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "Б": {
+    "row": "cyr-upper-1",
+    "components": [
+      188
+    ],
+    "box": [
+      346,
+      2110,
+      428,
+      2230
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "В": {
+    "row": "cyr-upper-1",
+    "components": [
+      190
+    ],
+    "box": [
+      572,
+      2113,
+      656,
+      2215
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "Г": {
+    "row": "cyr-upper-1",
+    "components": [
+      184
+    ],
+    "box": [
+      677,
+      2108,
+      747,
+      2220
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "Д": {
+    "row": "cyr-upper-1",
+    "components": [
+      181
+    ],
+    "box": [
+      831,
+      2107,
+      931,
+      2229
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "Е": {
+    "row": "cyr-upper-1",
+    "components": [
+      186
+    ],
+    "box": [
+      969,
+      2109,
+      1051,
+      2235
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "Ё": {
+    "row": "cyr-upper-1",
+    "components": [
+      189,
+      170,
+      171
+    ],
+    "box": [
+      1083,
+      2064,
+      1163,
+      2210
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "Ж": {
+    "row": "cyr-upper-1",
+    "components": [
+      182
+    ],
+    "box": [
+      1191,
+      2106,
+      1323,
+      2215
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "З": {
+    "row": "cyr-upper-1",
+    "components": [
+      177
+    ],
+    "box": [
+      1337,
+      2100,
+      1424,
+      2208
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "И": {
+    "row": "cyr-upper-1",
+    "components": [
+      178
+    ],
+    "box": [
+      1743,
+      2101,
+      1832,
+      2212
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "Й": {
+    "row": "cyr-upper-1",
+    "components": [
+      180,
+      172
+    ],
+    "box": [
+      1874,
+      2071,
+      1959,
+      2212
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "К": {
+    "row": "cyr-upper-1",
+    "components": [
+      179
+    ],
+    "box": [
+      2004,
+      2100,
+      2098,
+      2214
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "Л": {
+    "row": "cyr-upper-1",
+    "components": [
+      173
+    ],
+    "box": [
+      2132,
+      2084,
+      2192,
+      2222
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "М": {
+    "row": "cyr-upper-1",
+    "components": [
+      175
+    ],
+    "box": [
+      2350,
+      2096,
+      2496,
+      2231
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "Н": {
+    "row": "cyr-upper-2",
+    "components": [
+      195
+    ],
+    "box": [
+      261,
+      2305,
+      328,
+      2437
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "О": {
+    "row": "cyr-upper-2",
+    "components": [
+      193
+    ],
+    "box": [
+      354,
+      2300,
+      427,
+      2423
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "П": {
+    "row": "cyr-upper-2",
+    "components": [
+      199
+    ],
+    "box": [
+      450,
+      2310,
+      524,
+      2435
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "Р": {
+    "row": "cyr-upper-2",
+    "components": [
+      207
+    ],
+    "box": [
+      547,
+      2314,
+      617,
+      2452
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "С": {
+    "row": "cyr-upper-2",
+    "components": [
+      200
+    ],
+    "box": [
+      626,
+      2311,
+      726,
+      2427
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "Т": {
+    "row": "cyr-upper-2",
+    "components": [
+      201
+    ],
+    "box": [
+      727,
+      2311,
+      830,
+      2438
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "У": {
+    "row": "cyr-upper-2",
+    "components": [
+      194
+    ],
+    "box": [
+      846,
+      2301,
+      918,
+      2432
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "Ф": {
+    "row": "cyr-upper-2",
+    "components": [
+      197
+    ],
+    "box": [
+      937,
+      2308,
+      1057,
+      2447
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "Х": {
+    "row": "cyr-upper-2",
+    "components": [
+      202
+    ],
+    "box": [
+      1085,
+      2310,
+      1173,
+      2439
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "Ц": {
+    "row": "cyr-upper-2",
+    "components": [
+      198
+    ],
+    "box": [
+      1199,
+      2309,
+      1301,
+      2448
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "Ч": {
+    "row": "cyr-upper-2",
+    "components": [
+      196
+    ],
+    "box": [
+      1330,
+      2305,
+      1397,
+      2413
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "Ш": {
+    "row": "cyr-upper-2",
+    "components": [
+      206
+    ],
+    "box": [
+      1434,
+      2312,
+      1545,
+      2409
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "Щ": {
+    "row": "cyr-upper-2",
+    "components": [
+      209
+    ],
+    "box": [
+      1763,
+      2314,
+      1886,
+      2427
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "Ъ": {
+    "row": "cyr-upper-2",
+    "components": [
+      210
+    ],
+    "box": [
+      1917,
+      2314,
+      2019,
+      2421
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "Ы": {
+    "row": "cyr-upper-2",
+    "components": [
+      203,
+      204
+    ],
+    "box": [
+      2068,
+      2310,
+      2193,
+      2415
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "Ь": {
+    "row": "cyr-upper-2",
+    "components": [
+      205
+    ],
+    "box": [
+      2238,
+      2310,
+      2321,
+      2414
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "Э": {
+    "row": "cyr-upper-3",
+    "components": [
+      214
+    ],
+    "box": [
+      244,
+      2485,
+      376,
+      2607
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "Ю": {
+    "row": "cyr-upper-3",
+    "components": [
+      213
+    ],
+    "box": [
+      406,
+      2483,
+      539,
+      2613
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "Я": {
+    "row": "cyr-upper-3",
+    "components": [
+      215
+    ],
+    "box": [
+      591,
+      2487,
+      683,
+      2614
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "а": {
+    "source": "IMG_2704.HEIC",
+    "row": "cyr-lower-1",
+    "components": [
+      232
+    ],
+    "box": [
+      402,
+      2686,
+      494,
+      2789
+    ],
+    "selected_variant": 2
+  },
+  "б": {
+    "row": "cyr-lower-1",
+    "components": [
+      229
+    ],
+    "box": [
+      509,
+      2682,
+      601,
+      2795
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "в": {
+    "row": "cyr-lower-1",
+    "components": [
+      231
+    ],
+    "box": [
+      767,
+      2684,
+      860,
+      2793
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "г": {
+    "row": "cyr-lower-1",
+    "components": [
+      225
+    ],
+    "box": [
+      882,
+      2679,
+      973,
+      2782
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "д": {
+    "row": "cyr-lower-1",
+    "components": [
+      220
+    ],
+    "box": [
+      963,
+      2675,
+      1059,
+      2810
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "е": {
+    "row": "cyr-lower-1",
+    "components": [
+      221
+    ],
+    "box": [
+      1231,
+      2675,
+      1324,
+      2762
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "ж": {
+    "row": "cyr-lower-1",
+    "components": [
+      223
+    ],
+    "box": [
+      1342,
+      2676,
+      1455,
+      2783
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "з": {
+    "row": "cyr-lower-1",
+    "components": [
+      219
+    ],
+    "box": [
+      1469,
+      2672,
+      1558,
+      2781
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "и": {
+    "row": "cyr-lower-1",
+    "components": [
+      222
+    ],
+    "box": [
+      1594,
+      2675,
+      1673,
+      2772
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "й": {
+    "row": "cyr-lower-1",
+    "components": [
+      227,
+      216
+    ],
+    "box": [
+      1713,
+      2645,
+      1792,
+      2770
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "к": {
+    "row": "cyr-lower-1",
+    "components": [
+      230
+    ],
+    "box": [
+      1835,
+      2682,
+      1922,
+      2787
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "л": {
+    "row": "cyr-lower-1",
+    "components": [
+      226
+    ],
+    "box": [
+      1945,
+      2679,
+      2010,
+      2782
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "м": {
+    "row": "cyr-lower-1",
+    "components": [
+      228
+    ],
+    "box": [
+      2052,
+      2681,
+      2150,
+      2789
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "н": {
+    "row": "cyr-lower-1",
+    "components": [
+      234
+    ],
+    "box": [
+      2214,
+      2706,
+      2276,
+      2792
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "о": {
+    "row": "cyr-lower-2",
+    "components": [
+      253
+    ],
+    "box": [
+      342,
+      2854,
+      416,
+      2938
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "п": {
+    "row": "cyr-lower-2",
+    "components": [
+      257
+    ],
+    "box": [
+      449,
+      2857,
+      525,
+      2946
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "р": {
+    "row": "cyr-lower-2",
+    "components": [
+      254
+    ],
+    "box": [
+      568,
+      2854,
+      654,
+      3009
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "с": {
+    "row": "cyr-lower-2",
+    "components": [
+      246
+    ],
+    "box": [
+      690,
+      2848,
+      760,
+      2922
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "т": {
+    "row": "cyr-lower-2",
+    "components": [
+      244,
+      238
+    ],
+    "box": [
+      812,
+      2822,
+      951,
+      2936
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "у": {
+    "row": "cyr-lower-2",
+    "components": [
+      255
+    ],
+    "box": [
+      960,
+      2854,
+      1068,
+      2987
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "ф": {
+    "row": "cyr-lower-2",
+    "components": [
+      239
+    ],
+    "box": [
+      1093,
+      2836,
+      1222,
+      2971
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "х": {
+    "row": "cyr-lower-2",
+    "components": [
+      241
+    ],
+    "box": [
+      1364,
+      2841,
+      1457,
+      2920
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "ц": {
+    "row": "cyr-lower-2",
+    "components": [
+      242
+    ],
+    "box": [
+      1485,
+      2841,
+      1571,
+      2952
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "ч": {
+    "row": "cyr-lower-2",
+    "components": [
+      240
+    ],
+    "box": [
+      1592,
+      2839,
+      1654,
+      2936
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "ш": {
+    "row": "cyr-lower-2",
+    "components": [
+      247,
+      260
+    ],
+    "box": [
+      1681,
+      2849,
+      1796,
+      2969
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "щ": {
+    "row": "cyr-lower-2",
+    "components": [
+      252
+    ],
+    "box": [
+      1869,
+      2852,
+      1993,
+      2956
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "ъ": {
+    "row": "cyr-lower-2",
+    "components": [
+      249
+    ],
+    "box": [
+      2016,
+      2851,
+      2079,
+      2928
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "ы": {
+    "row": "cyr-lower-2",
+    "components": [
+      248,
+      250
+    ],
+    "box": [
+      2117,
+      2848,
+      2210,
+      2929
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "ь": {
+    "row": "cyr-lower-3",
+    "components": [
+      264
+    ],
+    "box": [
+      251,
+      3023,
+      321,
+      3116
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "э": {
+    "row": "cyr-lower-3",
+    "components": [
+      265
+    ],
+    "box": [
+      506,
+      3022,
+      584,
+      3114
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "ю": {
+    "row": "cyr-lower-3",
+    "components": [
+      267
+    ],
+    "box": [
+      760,
+      3028,
+      873,
+      3113
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "я": {
+    "row": "cyr-lower-3",
+    "components": [
+      263
+    ],
+    "box": [
+      895,
+      3018,
+      978,
+      3127
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "!": {
+    "row": "punct-1",
+    "components": [
+      86,
+      112
+    ],
+    "box": [
+      279,
+      1524,
+      294,
+      1653
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "#": {
+    "row": "punct-1",
+    "components": [
+      90
+    ],
+    "box": [
+      398,
+      1529,
+      501,
+      1649
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "$": {
+    "row": "punct-1",
+    "components": [
+      83
+    ],
+    "box": [
+      545,
+      1515,
+      629,
+      1671
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "&": {
+    "row": "punct-1",
+    "components": [
+      84
+    ],
+    "box": [
+      778,
+      1517,
+      890,
+      1647
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "(": {
+    "row": "punct-1",
+    "components": [
+      91
+    ],
+    "box": [
+      955,
+      1530,
+      988,
+      1665
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  ")": {
+    "row": "punct-1",
+    "components": [
+      95
+    ],
+    "box": [
+      1004,
+      1535,
+      1032,
+      1666
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "*": {
+    "row": "punct-1",
+    "components": [
+      92
+    ],
+    "box": [
+      1065,
+      1532,
+      1132,
+      1593
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "+": {
+    "row": "punct-1",
+    "components": [
+      98
+    ],
+    "box": [
+      1303,
+      1563,
+      1386,
+      1650
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "/": {
+    "row": "punct-1",
+    "components": [
+      100
+    ],
+    "box": [
+      1816,
+      1576,
+      1866,
+      1684
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "<": {
+    "row": "punct-1",
+    "components": [
+      107
+    ],
+    "box": [
+      2006,
+      1603,
+      2061,
+      1676
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  ">": {
+    "row": "punct-1",
+    "components": [
+      102
+    ],
+    "box": [
+      2155,
+      1591,
+      2219,
+      1679
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "?": {
+    "row": "punct-1",
+    "components": [
+      99,
+      122
+    ],
+    "box": [
+      2249,
+      1573,
+      2309,
+      1712
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "@": {
+    "row": "punct-2",
+    "components": [
+      126
+    ],
+    "box": [
+      267,
+      1707,
+      382,
+      1877
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "[": {
+    "row": "punct-2",
+    "components": [
+      123
+    ],
+    "box": [
+      605,
+      1700,
+      659,
+      1830
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "\\": {
+    "row": "punct-2",
+    "components": [
+      127
+    ],
+    "box": [
+      677,
+      1711,
+      733,
+      1830
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "]": {
+    "row": "punct-2",
+    "components": [
+      130
+    ],
+    "box": [
+      784,
+      1713,
+      835,
+      1839
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "^": {
+    "row": "punct-2",
+    "components": [
+      124
+    ],
+    "box": [
+      857,
+      1703,
+      918,
+      1754
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "{": {
+    "row": "punct-2",
+    "components": [
+      119
+    ],
+    "box": [
+      1029,
+      1699,
+      1096,
+      1865
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "|": {
+    "row": "punct-2",
+    "components": [
+      125
+    ],
+    "box": [
+      1121,
+      1705,
+      1138,
+      1861
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "}": {
+    "row": "punct-2",
+    "components": [
+      120
+    ],
+    "box": [
+      1158,
+      1699,
+      1223,
+      1879
+    ],
+    "source": "IMG_2704.HEIC"
+  },
+  "\"": {
+    "source": "IMG_2704.HEIC",
+    "box": [
+      330,
+      1514,
+      380,
+      1588
+    ],
+    "method": "selected ink rectangle",
+    "row": "punct-1"
+  },
+  "'": {
+    "source": "IMG_2704.HEIC",
+    "box": [
+      910,
+      1514,
+      940,
+      1568
+    ],
+    "method": "selected ink rectangle",
+    "row": "punct-1"
+  },
+  "%": {
+    "source": "IMG_2704.HEIC",
+    "box": [
+      640,
+      1514,
+      752,
+      1666
+    ],
+    "method": "selected ink rectangle",
+    "row": "punct-1"
+  },
+  ",": {
+    "source": "IMG_2704.HEIC",
+    "box": [
+      1392,
+      1658,
+      1418,
+      1696
+    ],
+    "method": "selected ink rectangle",
+    "row": "punct-1"
+  },
+  ".": {
+    "source": "IMG_2704.HEIC",
+    "box": [
+      1776,
+      1646,
+      1804,
+      1678
+    ],
+    "method": "selected ink rectangle",
+    "row": "punct-1"
+  },
+  ":": {
+    "source": "IMG_2704.HEIC",
+    "box": [
+      1894,
+      1592,
+      1924,
+      1664
+    ],
+    "method": "selected ink rectangle",
+    "row": "punct-1"
+  },
+  ";": {
+    "source": "IMG_2704.HEIC",
+    "box": [
+      1946,
+      1586,
+      1978,
+      1682
+    ],
+    "method": "selected ink rectangle",
+    "row": "punct-1"
+  },
+  "-": {
+    "source": "IMG_2704.HEIC",
+    "box": [
+      1430,
+      1590,
+      1492,
+      1620
+    ],
+    "method": "selected ink rectangle",
+    "row": "punct-1"
+  },
+  "–": {
+    "source": "IMG_2704.HEIC",
+    "box": [
+      1512,
+      1586,
+      1614,
+      1624
+    ],
+    "method": "selected ink rectangle",
+    "row": "punct-1"
+  },
+  "—": {
+    "source": "IMG_2704.HEIC",
+    "box": [
+      1630,
+      1588,
+      1760,
+      1624
+    ],
+    "method": "selected ink rectangle",
+    "row": "punct-1"
+  },
+  "=": {
+    "source": "IMG_2704.HEIC",
+    "box": [
+      2064,
+      1608,
+      2146,
+      1674
+    ],
+    "method": "selected ink rectangle",
+    "row": "punct-1"
+  },
+  "_": {
+    "source": "IMG_2704.HEIC",
+    "box": [
+      878,
+      1832,
+      1008,
+      1864
+    ],
+    "method": "selected ink rectangle",
+    "row": "punct-2"
+  },
+  "~": {
+    "source": "IMG_2704.HEIC",
+    "box": [
+      1260,
+      1752,
+      1376,
+      1812
+    ],
+    "method": "selected ink rectangle",
+    "row": "punct-2"
+  },
+  "№": {
+    "source": "IMG_2704.HEIC",
+    "box": [
+      1402,
+      1700,
+      1546,
+      1868
+    ],
+    "method": "selected ink rectangle",
+    "row": "punct-2"
+  },
+  "ё": {
+    "method": "composite of handwritten е and dots from Ё",
+    "source": "IMG_2704.HEIC"
+  },
+  "₽": {
+    "source": "doc00568920260120143019.pdf",
+    "box": [
+      766,
+      1306,
+      818,
+      1371
+    ],
+    "method": "isolated actual handwritten ruble, size aligned to capitals"
+  },
+  "«": {
+    "method": "composed from repeated handwritten <",
+    "source": "IMG_2704.HEIC"
+  },
+  "»": {
+    "method": "composed from repeated handwritten >",
+    "source": "IMG_2704.HEIC"
+  },
+  "…": {
+    "method": "composed from repeated handwritten .",
+    "source": "IMG_2704.HEIC"
+  }
+}
