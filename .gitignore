@@ -9,3 +9,4 @@ qa/browser-*.png
 qa/preview-*.png
 qa/browser-validation.json
 qa/reproducibility.json
+.orig/

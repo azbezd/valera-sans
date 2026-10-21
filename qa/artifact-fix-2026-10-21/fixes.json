@@ -1,0 +1,345 @@
+{
+ "Regular": [
+  {
+   "type": "drip",
+   "index": 0
+  },
+  {
+   "type": "drip",
+   "index": 1
+  },
+  {
+   "type": "drip",
+   "index": 3
+  },
+  {
+   "type": "drip",
+   "index": 4
+  },
+  {
+   "type": "drip",
+   "index": 6
+  },
+  {
+   "type": "drip",
+   "index": 11
+  },
+  {
+   "type": "drip",
+   "index": 14
+  },
+  {
+   "type": "drip",
+   "index": 28
+  },
+  {
+   "type": "drip",
+   "index": 32
+  },
+  {
+   "type": "drip",
+   "index": 39
+  },
+  {
+   "type": "drip",
+   "index": 50
+  },
+  {
+   "type": "remove",
+   "glyph": "uni007D",
+   "contour": 1
+  },
+  {
+   "type": "drip",
+   "index": 59
+  },
+  {
+   "type": "span",
+   "contour": 0,
+   "glyph": "uni0446",
+   "a": [
+    426,
+    144
+   ],
+   "b": [
+    284,
+    -47
+   ],
+   "via": [
+    [
+     540,
+     52
+    ],
+    [
+     549,
+     -22
+    ],
+    [
+     527,
+     -76
+    ],
+    [
+     472,
+     -101
+    ],
+    [
+     405,
+     -107
+    ],
+    [
+     340,
+     -89
+    ]
+   ],
+   "tension": 0.36
+  },
+  {
+   "type": "span",
+   "contour": 0,
+   "glyph": "uni0449",
+   "a": [
+    768,
+    -3
+   ],
+   "b": [
+    703,
+    -60
+   ]
+  },
+  {
+   "type": "span",
+   "contour": 0,
+   "glyph": "uni007D",
+   "a": [
+    211,
+    91
+   ],
+   "b": [
+    150,
+    73
+   ]
+  }
+ ],
+ "Light": [
+  {
+   "type": "drip",
+   "index": 1
+  },
+  {
+   "type": "drip",
+   "index": 9
+  },
+  {
+   "type": "drip",
+   "index": 20
+  },
+  {
+   "type": "drip",
+   "index": 36
+  },
+  {
+   "type": "drip",
+   "index": 51
+  },
+  {
+   "type": "drip",
+   "index": 52
+  },
+  {
+   "type": "drip",
+   "index": 53
+  },
+  {
+   "type": "drip",
+   "index": 65
+  },
+  {
+   "type": "drip",
+   "index": 73
+  },
+  {
+   "type": "drip",
+   "index": 76
+  },
+  {
+   "type": "span",
+   "contour": 0,
+   "glyph": "uni0446",
+   "a": [
+    419,
+    138
+   ],
+   "b": [
+    282,
+    -46
+   ],
+   "via": [
+    [
+     524,
+     48
+    ],
+    [
+     535,
+     -22
+    ],
+    [
+     516,
+     -70
+    ],
+    [
+     466,
+     -93
+    ],
+    [
+     403,
+     -100
+    ],
+    [
+     340,
+     -82
+    ]
+   ],
+   "tension": 0.36
+  },
+  {
+   "type": "span",
+   "contour": 0,
+   "glyph": "uni0449",
+   "a": [
+    755,
+    -4
+   ],
+   "b": [
+    694,
+    -58
+   ]
+  },
+  {
+   "type": "span",
+   "contour": 0,
+   "glyph": "uni007D",
+   "a": [
+    201,
+    94
+   ],
+   "b": [
+    150,
+    76
+   ]
+  }
+ ],
+ "Semibold": [
+  {
+   "type": "drip",
+   "index": 9
+  },
+  {
+   "type": "drip",
+   "index": 13
+  },
+  {
+   "type": "drip",
+   "index": 19
+  },
+  {
+   "type": "drip",
+   "index": 33
+  },
+  {
+   "type": "span",
+   "contour": 0,
+   "glyph": "uni0446",
+   "a": [
+    456,
+    149
+   ],
+   "b": [
+    290,
+    -47
+   ],
+   "via": [
+    [
+     562,
+     66
+    ],
+    [
+     576,
+     -24
+    ],
+    [
+     556,
+     -86
+    ],
+    [
+     500,
+     -112
+    ],
+    [
+     428,
+     -121
+    ],
+    [
+     355,
+     -102
+    ]
+   ],
+   "tension": 0.36
+  },
+  {
+   "type": "span",
+   "contour": 0,
+   "glyph": "uni0449",
+   "a": [
+    795,
+    -8
+   ],
+   "b": [
+    735,
+    -72
+   ]
+  },
+  {
+   "type": "span",
+   "contour": 0,
+   "glyph": "uni0434",
+   "a": [
+    556,
+    -72
+   ],
+   "b": [
+    300,
+    -120
+   ],
+   "via": [
+    [
+     470,
+     -105
+    ],
+    [
+     405,
+     -113
+    ]
+   ],
+   "tension": 0.33
+  },
+  {
+   "type": "span",
+   "contour": 0,
+   "glyph": "uni007D",
+   "a": [
+    236,
+    77
+   ],
+   "b": [
+    150,
+    62
+   ],
+   "via": [
+    [
+     203,
+     44
+    ]
+   ]
+  }
+ ]
+}

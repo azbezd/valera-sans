@@ -1,5 +1,11 @@
 # Changelog
 
+## Unreleased
+
+- Remove scanned ink drips from 5, 9, a, j, }, а, б, д and э (and tabular 5/9) in the weights where they occurred; remove a detached speck under } in Regular.
+- Redraw the clipped loop of the ц descender and smooth the dent under the щ tail in all three weights.
+- Local contour edits only: advance widths and kerning are unchanged; approved geometry updated for the 13 edited glyphs.
+
 ## 0.5.5 — 2026-10-21
 
 - Expand the reviewed open Cyrillic у contexts to reduce excessive gaps, including ду, лу, му, ну, чу, шу and consecutive у.

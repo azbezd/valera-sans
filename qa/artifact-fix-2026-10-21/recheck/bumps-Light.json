@@ -1,0 +1,1262 @@
+[
+ {
+  "glyph": "uni0078",
+  "char": "x",
+  "contour": 0,
+  "tip": [
+   405,
+   464
+  ],
+  "neckL": [
+   393,
+   456
+  ],
+  "neckR": [
+   399,
+   444
+  ],
+  "arc": 37,
+  "dev": 9.5,
+  "index": 0
+ },
+ {
+  "glyph": "uni0412",
+  "char": "В",
+  "contour": 0,
+  "tip": [
+   64,
+   605
+  ],
+  "neckL": [
+   64,
+   588
+  ],
+  "neckR": [
+   80,
+   602
+  ],
+  "arc": 33,
+  "dev": 8.6,
+  "index": 1
+ },
+ {
+  "glyph": "uni0074",
+  "char": "t",
+  "contour": 0,
+  "tip": [
+   370,
+   44
+  ],
+  "neckL": [
+   354,
+   34
+  ],
+  "neckR": [
+   374,
+   24
+  ],
+  "arc": 40,
+  "dev": 8.5,
+  "index": 2
+ },
+ {
+  "glyph": "uni0068",
+  "char": "h",
+  "contour": 0,
+  "tip": [
+   137,
+   59
+  ],
+  "neckL": [
+   131,
+   67
+  ],
+  "neckR": [
+   125,
+   55
+  ],
+  "arc": 23,
+  "dev": 8.2,
+  "index": 3
+ },
+ {
+  "glyph": "uni002A",
+  "char": "*",
+  "contour": 0,
+  "tip": [
+   119,
+   189
+  ],
+  "neckL": [
+   113,
+   166
+  ],
+  "neckR": [
+   125,
+   181
+  ],
+  "arc": 39,
+  "dev": 8.0,
+  "index": 4
+ },
+ {
+  "glyph": "uni003D",
+  "char": "=",
+  "contour": 1,
+  "tip": [
+   467,
+   215
+  ],
+  "neckL": [
+   467,
+   232
+  ],
+  "neckR": [
+   450,
+   216
+  ],
+  "arc": 34,
+  "dev": 7.9,
+  "index": 5
+ },
+ {
+  "glyph": "uni0425",
+  "char": "Х",
+  "contour": 0,
+  "tip": [
+   16,
+   673
+  ],
+  "neckL": [
+   16,
+   655
+  ],
+  "neckR": [
+   34,
+   673
+  ],
+  "arc": 36,
+  "dev": 7.9,
+  "index": 6
+ },
+ {
+  "glyph": "uni0401",
+  "char": "Ё",
+  "contour": 2,
+  "tip": [
+   501,
+   548
+  ],
+  "neckL": [
+   501,
+   565
+  ],
+  "neckR": [
+   482,
+   548
+  ],
+  "arc": 36,
+  "dev": 7.8,
+  "index": 7
+ },
+ {
+  "glyph": "uni0046",
+  "char": "F",
+  "contour": 0,
+  "tip": [
+   67,
+   791
+  ],
+  "neckL": [
+   67,
+   774
+  ],
+  "neckR": [
+   83,
+   791
+  ],
+  "arc": 33,
+  "dev": 7.7,
+  "index": 8
+ },
+ {
+  "glyph": "uni0041",
+  "char": "A",
+  "contour": 0,
+  "tip": [
+   72,
+   -53
+  ],
+  "neckL": [
+   78,
+   -33
+  ],
+  "neckR": [
+   57,
+   -47
+  ],
+  "arc": 37,
+  "dev": 7.5,
+  "index": 9
+ },
+ {
+  "glyph": "uni0056",
+  "char": "V",
+  "contour": 0,
+  "tip": [
+   228,
+   -1
+  ],
+  "neckL": [
+   242,
+   15
+  ],
+  "neckR": [
+   212,
+   17
+  ],
+  "arc": 46,
+  "dev": 7.3,
+  "index": 10
+ },
+ {
+  "glyph": "uni005A",
+  "char": "Z",
+  "contour": 0,
+  "tip": [
+   111,
+   602
+  ],
+  "neckL": [
+   110,
+   586
+  ],
+  "neckR": [
+   128,
+   603
+  ],
+  "arc": 33,
+  "dev": 7.3,
+  "index": 11
+ },
+ {
+  "glyph": "uni006A",
+  "char": "j",
+  "contour": 2,
+  "tip": [
+   69,
+   -244
+  ],
+  "neckL": [
+   46,
+   -251
+  ],
+  "neckR": [
+   72,
+   -263
+  ],
+  "arc": 44,
+  "dev": 7.3,
+  "index": 12
+ },
+ {
+  "glyph": "uni0448",
+  "char": "ш",
+  "contour": 1,
+  "tip": [
+   483,
+   -139
+  ],
+  "neckL": [
+   484,
+   -121
+  ],
+  "neckR": [
+   467,
+   -140
+  ],
+  "arc": 34,
+  "dev": 7.3,
+  "index": 13
+ },
+ {
+  "glyph": "uni0042",
+  "char": "B",
+  "contour": 0,
+  "tip": [
+   133,
+   823
+  ],
+  "neckL": [
+   133,
+   806
+  ],
+  "neckR": [
+   149,
+   824
+  ],
+  "arc": 33,
+  "dev": 7.2,
+  "index": 14
+ },
+ {
+  "glyph": "uni006D",
+  "char": "m",
+  "contour": 0,
+  "tip": [
+   102,
+   63
+  ],
+  "neckL": [
+   121,
+   83
+  ],
+  "neckR": [
+   88,
+   82
+  ],
+  "arc": 53,
+  "dev": 6.9,
+  "index": 15
+ },
+ {
+  "glyph": "uni044D",
+  "char": "э",
+  "contour": 0,
+  "tip": [
+   94,
+   94
+  ],
+  "neckL": [
+   104,
+   72
+  ],
+  "neckR": [
+   115,
+   97
+  ],
+  "arc": 49,
+  "dev": 6.8,
+  "index": 16
+ },
+ {
+  "glyph": "uni0419",
+  "char": "Й",
+  "contour": 0,
+  "tip": [
+   290,
+   685
+  ],
+  "neckL": [
+   320,
+   698
+  ],
+  "neckR": [
+   288,
+   706
+  ],
+  "arc": 58,
+  "dev": 6.7,
+  "index": 17
+ },
+ {
+  "glyph": "uni0064",
+  "char": "d",
+  "contour": 0,
+  "tip": [
+   499,
+   -35
+  ],
+  "neckL": [
+   514,
+   -3
+  ],
+  "neckR": [
+   482,
+   -23
+  ],
+  "arc": 58,
+  "dev": 6.5,
+  "index": 18
+ },
+ {
+  "glyph": "uni0039",
+  "char": "9",
+  "contour": 0,
+  "tip": [
+   332,
+   552
+  ],
+  "neckL": [
+   291,
+   559
+  ],
+  "neckR": [
+   332,
+   536
+  ],
+  "arc": 60,
+  "dev": 6.2,
+  "index": 19
+ },
+ {
+  "glyph": "uni0044",
+  "char": "D",
+  "contour": 0,
+  "tip": [
+   82,
+   35
+  ],
+  "neckL": [
+   102,
+   31
+  ],
+  "neckR": [
+   80,
+   50
+  ],
+  "arc": 36,
+  "dev": 6.2,
+  "index": 20
+ },
+ {
+  "glyph": "uni0401",
+  "char": "Ё",
+  "contour": 2,
+  "tip": [
+   67,
+   598
+  ],
+  "neckL": [
+   67,
+   582
+  ],
+  "neckR": [
+   81,
+   604
+  ],
+  "arc": 31,
+  "dev": 6.1,
+  "index": 21
+ },
+ {
+  "glyph": "uni004D",
+  "char": "M",
+  "contour": 0,
+  "tip": [
+   74,
+   -2
+  ],
+  "neckL": [
+   105,
+   25
+  ],
+  "neckR": [
+   70,
+   7
+  ],
+  "arc": 59,
+  "dev": 6.0,
+  "index": 22
+ },
+ {
+  "glyph": "uni0057",
+  "char": "W",
+  "contour": 0,
+  "tip": [
+   557,
+   14
+  ],
+  "neckL": [
+   578,
+   32
+  ],
+  "neckR": [
+   540,
+   28
+  ],
+  "arc": 51,
+  "dev": 6.0,
+  "index": 23
+ },
+ {
+  "glyph": "uni0414",
+  "char": "Д",
+  "contour": 0,
+  "tip": [
+   338,
+   625
+  ],
+  "neckL": [
+   333,
+   610
+  ],
+  "neckR": [
+   351,
+   626
+  ],
+  "arc": 29,
+  "dev": 6.0,
+  "index": 24
+ },
+ {
+  "glyph": "uni0420",
+  "char": "Р",
+  "contour": 0,
+  "tip": [
+   89,
+   689
+  ],
+  "neckL": [
+   75,
+   662
+  ],
+  "neckR": [
+   109,
+   679
+  ],
+  "arc": 55,
+  "dev": 6.0,
+  "index": 25
+ },
+ {
+  "glyph": "uni20BD",
+  "char": "₽",
+  "contour": 0,
+  "tip": [
+   243,
+   690
+  ],
+  "neckL": [
+   231,
+   669
+  ],
+  "neckR": [
+   256,
+   684
+  ],
+  "arc": 41,
+  "dev": 6.0,
+  "index": 26
+ },
+ {
+  "glyph": "uni0026",
+  "char": "&",
+  "contour": 1,
+  "tip": [
+   226,
+   534
+  ],
+  "neckL": [
+   226,
+   548
+  ],
+  "neckR": [
+   217,
+   532
+  ],
+  "arc": 24,
+  "dev": 5.9,
+  "index": 27
+ },
+ {
+  "glyph": "uni0077",
+  "char": "w",
+  "contour": 0,
+  "tip": [
+   201,
+   14
+  ],
+  "neckL": [
+   216,
+   25
+  ],
+  "neckR": [
+   181,
+   29
+  ],
+  "arc": 44,
+  "dev": 5.9,
+  "index": 28
+ },
+ {
+  "glyph": "uni0042",
+  "char": "B",
+  "contour": 0,
+  "tip": [
+   177,
+   -24
+  ],
+  "neckL": [
+   194,
+   4
+  ],
+  "neckR": [
+   159,
+   -9
+  ],
+  "arc": 60,
+  "dev": 5.8,
+  "index": 29
+ },
+ {
+  "glyph": "uni0057",
+  "char": "W",
+  "contour": 0,
+  "tip": [
+   183,
+   79
+  ],
+  "neckL": [
+   204,
+   96
+  ],
+  "neckR": [
+   165,
+   99
+  ],
+  "arc": 57,
+  "dev": 5.8,
+  "index": 30
+ },
+ {
+  "glyph": "uni0072",
+  "char": "r",
+  "contour": 0,
+  "tip": [
+   82,
+   509
+  ],
+  "neckL": [
+   59,
+   504
+  ],
+  "neckR": [
+   91,
+   488
+  ],
+  "arc": 50,
+  "dev": 5.8,
+  "index": 31
+ },
+ {
+  "glyph": "uni0421",
+  "char": "С",
+  "contour": 0,
+  "tip": [
+   606,
+   79
+  ],
+  "neckL": [
+   606,
+   95
+  ],
+  "neckR": [
+   592,
+   72
+  ],
+  "arc": 31,
+  "dev": 5.8,
+  "index": 32
+ },
+ {
+  "glyph": "uni0037",
+  "char": "7",
+  "contour": 0,
+  "tip": [
+   389,
+   244
+  ],
+  "neckL": [
+   391,
+   258
+  ],
+  "neckR": [
+   368,
+   241
+  ],
+  "arc": 35,
+  "dev": 5.6,
+  "index": 33
+ },
+ {
+  "glyph": "uni0424",
+  "char": "Ф",
+  "contour": 0,
+  "tip": [
+   391,
+   694
+  ],
+  "neckL": [
+   372,
+   682
+  ],
+  "neckR": [
+   407,
+   683
+  ],
+  "arc": 43,
+  "dev": 5.6,
+  "index": 34
+ },
+ {
+  "glyph": "uni0428",
+  "char": "Ш",
+  "contour": 0,
+  "tip": [
+   629,
+   91
+  ],
+  "neckL": [
+   634,
+   112
+  ],
+  "neckR": [
+   611,
+   87
+  ],
+  "arc": 40,
+  "dev": 5.6,
+  "index": 35
+ },
+ {
+  "glyph": "uni006A",
+  "char": "j",
+  "contour": 0,
+  "tip": [
+   547,
+   780
+  ],
+  "neckL": [
+   523,
+   789
+  ],
+  "neckR": [
+   537,
+   758
+  ],
+  "arc": 56,
+  "dev": 5.5,
+  "index": 36
+ },
+ {
+  "glyph": "uni0072",
+  "char": "r",
+  "contour": 0,
+  "tip": [
+   46,
+   498
+  ],
+  "neckL": [
+   45,
+   481
+  ],
+  "neckR": [
+   54,
+   501
+  ],
+  "arc": 26,
+  "dev": 5.5,
+  "index": 37
+ },
+ {
+  "glyph": "uni0413",
+  "char": "Г",
+  "contour": 0,
+  "tip": [
+   89,
+   590
+  ],
+  "neckL": [
+   83,
+   572
+  ],
+  "neckR": [
+   110,
+   593
+  ],
+  "arc": 40,
+  "dev": 5.5,
+  "index": 38
+ },
+ {
+  "glyph": "uni002D",
+  "char": "-",
+  "contour": 0,
+  "tip": [
+   321,
+   309
+  ],
+  "neckL": [
+   306,
+   309
+  ],
+  "neckR": [
+   328,
+   296
+  ],
+  "arc": 30,
+  "dev": 5.4,
+  "index": 39
+ },
+ {
+  "glyph": "uni006D",
+  "char": "m",
+  "contour": 0,
+  "tip": [
+   616,
+   636
+  ],
+  "neckL": [
+   592,
+   621
+  ],
+  "neckR": [
+   635,
+   615
+  ],
+  "arc": 59,
+  "dev": 5.3,
+  "index": 40
+ },
+ {
+  "glyph": "uni0072",
+  "char": "r",
+  "contour": 0,
+  "tip": [
+   168,
+   2
+  ],
+  "neckL": [
+   173,
+   13
+  ],
+  "neckR": [
+   130,
+   9
+  ],
+  "arc": 56,
+  "dev": 5.3,
+  "index": 41
+ },
+ {
+  "glyph": "uni041A",
+  "char": "К",
+  "contour": 0,
+  "tip": [
+   75,
+   23
+  ],
+  "neckL": [
+   101,
+   44
+  ],
+  "neckR": [
+   72,
+   32
+  ],
+  "arc": 52,
+  "dev": 5.3,
+  "index": 42
+ },
+ {
+  "glyph": "uni041E",
+  "char": "О",
+  "contour": 0,
+  "tip": [
+   297,
+   779
+  ],
+  "neckL": [
+   285,
+   769
+  ],
+  "neckR": [
+   317,
+   770
+  ],
+  "arc": 38,
+  "dev": 5.3,
+  "index": 43
+ },
+ {
+  "glyph": "uni0050",
+  "char": "P",
+  "contour": 0,
+  "tip": [
+   81,
+   646
+  ],
+  "neckL": [
+   74,
+   625
+  ],
+  "neckR": [
+   114,
+   645
+  ],
+  "arc": 57,
+  "dev": 5.2,
+  "index": 44
+ },
+ {
+  "glyph": "uni0448",
+  "char": "ш",
+  "contour": 0,
+  "tip": [
+   586,
+   150
+  ],
+  "neckL": [
+   585,
+   158
+  ],
+  "neckR": [
+   579,
+   147
+  ],
+  "arc": 16,
+  "dev": 5.1,
+  "index": 45
+ },
+ {
+  "glyph": "uni0022",
+  "char": "\"",
+  "contour": 1,
+  "tip": [
+   38,
+   716
+  ],
+  "neckL": [
+   53,
+   705
+  ],
+  "neckR": [
+   38,
+   731
+  ],
+  "arc": 33,
+  "dev": 5.0,
+  "index": 46
+ },
+ {
+  "glyph": "uni0025",
+  "char": "%",
+  "contour": 0,
+  "tip": [
+   330,
+   654
+  ],
+  "neckL": [
+   328,
+   669
+  ],
+  "neckR": [
+   320,
+   644
+  ],
+  "arc": 29,
+  "dev": 5.0,
+  "index": 47
+ },
+ {
+  "glyph": "uni0076",
+  "char": "v",
+  "contour": 0,
+  "tip": [
+   229,
+   -12
+  ],
+  "neckL": [
+   252,
+   -1
+  ],
+  "neckR": [
+   212,
+   3
+  ],
+  "arc": 50,
+  "dev": 5.0,
+  "index": 48
+ },
+ {
+  "glyph": "uni0041",
+  "char": "A",
+  "contour": 0,
+  "tip": [
+   34,
+   -36
+  ],
+  "neckL": [
+   48,
+   -43
+  ],
+  "neckR": [
+   33,
+   -15
+  ],
+  "arc": 38,
+  "dev": 4.9,
+  "index": 49
+ },
+ {
+  "glyph": "uni043C",
+  "char": "м",
+  "contour": 0,
+  "tip": [
+   321,
+   86
+  ],
+  "neckL": [
+   343,
+   105
+  ],
+  "neckR": [
+   300,
+   105
+  ],
+  "arc": 60,
+  "dev": 4.9,
+  "index": 50
+ },
+ {
+  "glyph": "uni0042",
+  "char": "B",
+  "contour": 0,
+  "tip": [
+   586,
+   664
+  ],
+  "neckL": [
+   575,
+   689
+  ],
+  "neckR": [
+   572,
+   645
+  ],
+  "arc": 52,
+  "dev": 4.8,
+  "index": 51
+ },
+ {
+  "glyph": "uni006A",
+  "char": "j",
+  "contour": 2,
+  "tip": [
+   463,
+   497
+  ],
+  "neckL": [
+   451,
+   508
+  ],
+  "neckR": [
+   462,
+   483
+  ],
+  "arc": 30,
+  "dev": 4.8,
+  "index": 52
+ },
+ {
+  "glyph": "uni007A",
+  "char": "z",
+  "contour": 0,
+  "tip": [
+   451,
+   436
+  ],
+  "neckL": [
+   437,
+   436
+  ],
+  "neckR": [
+   461,
+   423
+  ],
+  "arc": 30,
+  "dev": 4.8,
+  "index": 53
+ },
+ {
+  "glyph": "uni0442",
+  "char": "т",
+  "contour": 1,
+  "tip": [
+   481,
+   79
+  ],
+  "neckL": [
+   500,
+   93
+  ],
+  "neckR": [
+   455,
+   101
+  ],
+  "arc": 60,
+  "dev": 4.8,
+  "index": 54
+ },
+ {
+  "glyph": "uni2116",
+  "char": "№",
+  "contour": 0,
+  "tip": [
+   168,
+   831
+  ],
+  "neckL": [
+   148,
+   831
+  ],
+  "neckR": [
+   179,
+   809
+  ],
+  "arc": 45,
+  "dev": 4.8,
+  "index": 55
+ },
+ {
+  "glyph": "uni0038",
+  "char": "8",
+  "contour": 0,
+  "tip": [
+   79,
+   531
+  ],
+  "neckL": [
+   79,
+   517
+  ],
+  "neckR": [
+   90,
+   540
+  ],
+  "arc": 28,
+  "dev": 4.7,
+  "index": 56
+ },
+ {
+  "glyph": "uni003D",
+  "char": "=",
+  "contour": 1,
+  "tip": [
+   464,
+   264
+  ],
+  "neckL": [
+   440,
+   272
+  ],
+  "neckR": [
+   467,
+   243
+  ],
+  "arc": 47,
+  "dev": 4.7,
+  "index": 57
+ },
+ {
+  "glyph": "uni0042",
+  "char": "B",
+  "contour": 0,
+  "tip": [
+   658,
+   335
+  ],
+  "neckL": [
+   648,
+   345
+  ],
+  "neckR": [
+   656,
+   321
+  ],
+  "arc": 29,
+  "dev": 4.7,
+  "index": 58
+ },
+ {
+  "glyph": "uni007B",
+  "char": "{",
+  "contour": 0,
+  "tip": [
+   227,
+   543
+  ],
+  "neckL": [
+   227,
+   557
+  ],
+  "neckR": [
+   216,
+   534
+  ],
+  "arc": 28,
+  "dev": 4.7,
+  "index": 59
+ },
+ {
+  "glyph": "uni0037",
+  "char": "7",
+  "contour": 0,
+  "tip": [
+   395,
+   280
+  ],
+  "neckL": [
+   370,
+   297
+  ],
+  "neckR": [
+   393,
+   266
+  ],
+  "arc": 47,
+  "dev": 4.6,
+  "index": 60
+ },
+ {
+  "glyph": "uni0078",
+  "char": "x",
+  "contour": 0,
+  "tip": [
+   338,
+   24
+  ],
+  "neckL": [
+   328,
+   28
+  ],
+  "neckR": [
+   343,
+   6
+  ],
+  "arc": 30,
+  "dev": 4.6,
+  "index": 61
+ },
+ {
+  "glyph": "uni0072",
+  "char": "r",
+  "contour": 0,
+  "tip": [
+   135,
+   1
+  ],
+  "neckL": [
+   173,
+   13
+  ],
+  "neckR": [
+   130,
+   9
+  ],
+  "arc": 56,
+  "dev": 4.5,
+  "index": 62
+ }
+]
