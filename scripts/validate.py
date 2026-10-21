@@ -76,10 +76,10 @@ for style,weight in CONFIG['styles'].items():
                 assert on-off==record['adjustment'],(style,ext,pair,calt)
         for pair,record in tabs.items():
             assert shape(hf,pair,tab=True)[1]-shape(hf,pair,kern=False,tab=True)[1]==record['adjustment']
-        contexts=sorted(set(['er'+c for c in chars]+[c+'er'for c in chars]+['цу'+c for c in chars]+[c+'цу' for c in chars]+['щу'+c for c in chars]+[c+'щу' for c in chars]+[c['text']for c in BROWSER[style]]))
+        contexts=sorted(set(['er'+c for c in chars]+[c+'er'for c in chars]+['цу'+c for c in chars]+[c+'цу' for c in chars]+['щу'+c for c in chars]+[c+'щу' for c in chars]+['ку'+c for c in chars]+[c+'ку' for c in chars]+['Ку'+c for c in chars]+[c+'Ку' for c in chars]+[c['text']for c in BROWSER[style]]))
         for text in contexts:
             for calt in [True,False]:
-                names=[ALT if c=='r'and i>0 and text[i-1]=='e'and calt else 'uni0443.open' if c=='у' and i>0 and text[i-1] in 'цщЦЩ' and calt else cmap[ord(c)]for i,c in enumerate(text)]
+                names=[ALT if c=='r'and i>0 and text[i-1]=='e'and calt else 'uni0443.open' if c=='у' and i>0 and text[i-1] in 'цщЦЩкК' and calt else cmap[ord(c)]for i,c in enumerate(text)]
                 gids,width=shape(hf,text,calt=calt)
                 for script in ['Cyrl','DFLT']:
                     assert shape(hf,text,calt=calt,script=script)==(gids,width),(style,ext,text,script)

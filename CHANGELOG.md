@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.5.4 — 2026-10-21
+
+- Use the approved open Cyrillic у after к and К, including «Как купить», in all three weights.
+- Retain the existing alternate kerning, contours, glyph metrics and all other contextual rules.
+- Extend shaping and browser checks for ку / Ку and neighboring characters.
+- OpenType revision: **0.504**.
+
 ## 0.5.3 — 2026-10-21
 
 - Added a contextual open Cyrillic у after ц, щ, Ц and Щ in all three weights.

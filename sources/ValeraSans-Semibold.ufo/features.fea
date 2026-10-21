@@ -2,7 +2,7 @@ languagesystem DFLT dflt;
 languagesystem latn dflt;
 languagesystem cyrl dflt;
 feature calt {
- sub [uni0446 uni0449 uni0426 uni0429] uni0443' by uni0443.open;
+ sub [uni0446 uni0449 uni0426 uni0429 uni043A uni041A] uni0443' by uni0443.open;
  sub uni0065 uni0072' by uni0072.after_e;
 } calt;
 lookup AllPairs useExtension {
