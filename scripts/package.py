@@ -15,7 +15,7 @@ for path in ROOT.iterdir():
     if path.is_file()and path.name not in ['.DS_Store']:
         source_files.append(path)
 for folder in ['sources','scripts','fonts','docs','specimen','tests','.github']:
-    source_files += [p for p in (ROOT/folder).rglob('*')if p.is_file()and '__pycache__'not in p.parts and p.suffix not in ['.pyc']and not p.name.startswith(('browser-','preview-'))]
+    source_files += [p for p in (ROOT/folder).rglob('*')if p.is_file()and '__pycache__'not in p.parts and p.suffix not in ['.pyc']and not (p.suffix == '.png' and p.name.startswith(('browser-','preview-')))]
 # Package the maintained reports, not local scratch results from older builds.
 source_files += [ROOT/'qa'/name for name in ['build-manifest.json','validation.json','browser-summary.json']]
 archives=[]
@@ -26,6 +26,9 @@ for kind,files in [('fonts',font_files),('source',source_files)]:
     with ZipFile(target)as z:
         assert z.testzip()is None
         assert prefix+'LICENSE'in z.namelist()
+        if kind == 'source':
+            for required in ['tests/browser-expected.json','tests/approved-v0.5.3.json','scripts/build.py','scripts/validate.py']:
+                assert prefix+required in z.namelist(), required
         for p in font_files:
             assert z.read(prefix+str(p.relative_to(ROOT)))==p.read_bytes()
     archives.append(target)
