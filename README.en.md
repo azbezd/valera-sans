@@ -8,7 +8,7 @@ Valery Isachenkov's handwriting, with a living line and both Cyrillic and Latin 
 
 ![Valera Sans lettering with the artist’s painting Youth](docs/assets/banner.webp)
 
-[Download 0.5.4](https://github.com/azbezd/valera-sans/releases/tag/v0.5.4) · [Try the font](https://azbezd.github.io/valera-sans/specimen/) · [License](LICENSE)
+[Download 0.5.5](https://github.com/azbezd/valera-sans/releases/tag/v0.5.5) · [Try the font](https://azbezd.github.io/valera-sans/specimen/) · [License](LICENSE)
 
 **Free personal and commercial use · attribution required · no font modifications.**
 
@@ -18,7 +18,7 @@ These letters began on the author's handwritten sheets and scans. Their tails, a
 
 ## Start using it
 
-Download the [ready-to-use package](https://github.com/azbezd/valera-sans/releases/download/v0.5.4/ValeraSans-0.5.4-fonts.zip). Install **either TTF or OTF** on your computer. For websites, use **WOFF2** with the supplied CSS.
+Download the [ready-to-use package](https://github.com/azbezd/valera-sans/releases/download/v0.5.5/ValeraSans-0.5.5-fonts.zip). Install **either TTF or OTF** on your computer. For websites, use **WOFF2** with the supplied CSS.
 
 | Style | Weight | Formats |
 |---|---:|---|
@@ -56,7 +56,7 @@ The Russian alphabet, including Ё/ё, basic Latin A–Z/a–z, digits, punctuat
 
 All three weights include pair kerning and tabular figures through `tnum`. The [interactive specimen](https://azbezd.github.io/valera-sans/specimen/) renders the actual fonts.
 
-**0.5.4 is a preview release.** Light and Semibold remain experimental. Extended Latin, italics, a variable axis and dedicated hinting are not included. [Validation and limitations](docs/VALIDATION.md).
+**0.5.5 is a preview release.** Light and Semibold remain experimental. Extended Latin, italics, a variable axis and dedicated hinting are not included. [Validation and limitations](docs/VALIDATION.md).
 
 ## Credit the author
 
@@ -76,4 +76,4 @@ Editable UFO sources and the build are included. Official versions receive Git t
 
 Handwriting and artistic character by **Valery Isachenkov**. [Telegram channel: @valerasketch](https://t.me/valerasketch) · [The author's artwork](https://valerasketch.ru) · [GitHub](https://github.com/azbezd).
 
-Cyrillic у uses its open alternate after ц, щ, Ц, Щ, к and К. Other contexts retain the looped form.
+Cyrillic у selects its open form in reviewed contexts where the loop causes excessive spacing. Other contexts retain the looped form. [Complete context list](docs/CONTEXTS.md).

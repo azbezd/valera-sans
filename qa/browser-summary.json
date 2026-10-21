@@ -2,7 +2,7 @@
   {
     "width": 390,
     "colorScheme": "light",
-    "measurements": 1728,
+    "measurements": 2484,
     "font_formats": 3,
     "weights": 3,
     "controls": true,
@@ -13,7 +13,7 @@
   {
     "width": 390,
     "colorScheme": "dark",
-    "measurements": 1728,
+    "measurements": 2484,
     "font_formats": 3,
     "weights": 3,
     "controls": true,
@@ -24,7 +24,7 @@
   {
     "width": 1440,
     "colorScheme": "light",
-    "measurements": 1728,
+    "measurements": 2484,
     "font_formats": 3,
     "weights": 3,
     "controls": true,
@@ -35,7 +35,7 @@
   {
     "width": 1440,
     "colorScheme": "dark",
-    "measurements": 1728,
+    "measurements": 2484,
     "font_formats": 3,
     "weights": 3,
     "controls": true,

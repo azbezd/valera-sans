@@ -22,8 +22,10 @@ Browser checks load all nine released files and verify real widths against HarfB
 
 The complete pair matrix is checked automatically. It is not a claim that every pair was individually tuned by hand. Visual review uses representative pairs, words and sizes.
 
-Mixed Latin/Cyrillic text can be split into separate shaping runs by a browser or application, so a stored cross-script pair may not apply at that boundary. The calt rules select Latin r after lowercase e and open Cyrillic у after ц, щ, Ц, Щ, к or К.
+Mixed Latin/Cyrillic text can be split into separate shaping runs by a browser or application, so a stored cross-script pair may not apply at that boundary. The calt rules select Latin r after lowercase e and open Cyrillic у in the [reviewed contexts](CONTEXTS.md).
 
 Light and Semibold remain experimental derived weights. No dedicated hinting, italics, extended Latin or variable-font interpolation is provided. Third-party desktop applications have not all been tested individually.
 
 Version 0.5.4 extends only the contextual selection to к/К. The approved 0.5.3 geometry and all glyph-level kerning remain unchanged.
+
+Version 0.5.5 adopts the approved pair audit: 43 preceding character contexts, and 23 / 21 / 15 targeted kerning changes across Light / Regular / Semibold. All 28,900 XуY triples are checked with calt on and off, in addition to the encoded pair matrix. The approved outline baseline remains 0.5.3.

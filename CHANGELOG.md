@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.5.5 — 2026-10-21
+
+- Expand the reviewed open Cyrillic у contexts to reduce excessive gaps, including ду, лу, му, ну, чу, шу and consecutive у.
+- Refine 23 / 21 / 15 glyph kerning pairs in Light / Regular / Semibold where the previous tightening limit left excessive space.
+- Preserve all letter contours, glyph metrics, looped defaults and Latin r alternates.
+- Add full XуY context checks and updated browser/spacing fixtures.
+- OpenType revision: **0.505**.
+
 ## 0.5.4 — 2026-10-21
 
 - Use the approved open Cyrillic у after к and К, including «Как купить», in all three weights.

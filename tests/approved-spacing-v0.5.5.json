@@ -1,0 +1,602 @@
+{
+  "context": "ЁАГДЕЖИЙКЛМНПСТХЦЩЪЫабвгдежклмнпсухцчшщъыьё",
+  "new_context": "ЁАГДЕЖИЙЛМНПСТХЪЫабвгдежлмнпсухчшъыьё",
+  "kerning": {
+    "Light": [
+      {
+        "left": "uni0412",
+        "right": "uni0443",
+        "pair": "Ву",
+        "form": "loop",
+        "before": -180,
+        "after": -210,
+        "safe_after": 64.0,
+        "optical_after": 143.5
+      },
+      {
+        "left": "uni0413",
+        "right": "uni0443",
+        "pair": "Гу",
+        "form": "loop",
+        "before": -180,
+        "after": -300,
+        "safe_after": 91.0,
+        "optical_after": 311.1
+      },
+      {
+        "left": "uni0413",
+        "right": "uni0443.open",
+        "pair": "Гу",
+        "form": "open",
+        "before": -180,
+        "after": -300,
+        "safe_after": 89.0,
+        "optical_after": 171.7
+      },
+      {
+        "left": "uni0416",
+        "right": "uni0443",
+        "pair": "Жу",
+        "form": "loop",
+        "before": -180,
+        "after": -255,
+        "safe_after": 66.0,
+        "optical_after": 159.6
+      },
+      {
+        "left": "uni041A",
+        "right": "uni0443.open",
+        "pair": "Ку",
+        "form": "open",
+        "before": -180,
+        "after": -205,
+        "safe_after": 64.0,
+        "optical_after": 159.3
+      },
+      {
+        "left": "uni0420",
+        "right": "uni0443",
+        "pair": "Ру",
+        "form": "loop",
+        "before": -180,
+        "after": -230,
+        "safe_after": 62.0,
+        "optical_after": 249.3
+      },
+      {
+        "left": "uni0422",
+        "right": "uni0443",
+        "pair": "Ту",
+        "form": "loop",
+        "before": -180,
+        "after": -245,
+        "safe_after": 66.0,
+        "optical_after": 321.7
+      },
+      {
+        "left": "uni0422",
+        "right": "uni0443.open",
+        "pair": "Ту",
+        "form": "open",
+        "before": -180,
+        "after": -285,
+        "safe_after": 66.0,
+        "optical_after": 142.1
+      },
+      {
+        "left": "uni0443.open",
+        "right": "uni0422",
+        "pair": "уТ",
+        "form": "open",
+        "before": -180,
+        "after": -210,
+        "safe_after": 77.0,
+        "optical_after": 142.6
+      },
+      {
+        "left": "uni0423",
+        "right": "uni0443",
+        "pair": "Уу",
+        "form": "loop",
+        "before": -180,
+        "after": -240,
+        "safe_after": 64.0,
+        "optical_after": 163.4
+      },
+      {
+        "left": "uni0433",
+        "right": "uni0443",
+        "pair": "гу",
+        "form": "loop",
+        "before": -180,
+        "after": -260,
+        "safe_after": 63.0,
+        "optical_after": 197.8
+      },
+      {
+        "left": "uni0435",
+        "right": "uni0443",
+        "pair": "еу",
+        "form": "loop",
+        "before": -180,
+        "after": -250,
+        "safe_after": 65.0,
+        "optical_after": 177.3
+      },
+      {
+        "left": "uni0436",
+        "right": "uni0443",
+        "pair": "жу",
+        "form": "loop",
+        "before": -180,
+        "after": -235,
+        "safe_after": 62.0,
+        "optical_after": 172.7
+      },
+      {
+        "left": "uni0437",
+        "right": "uni0443",
+        "pair": "зу",
+        "form": "loop",
+        "before": -180,
+        "after": -220,
+        "safe_after": 63.0,
+        "optical_after": 136.8
+      },
+      {
+        "left": "uni043A",
+        "right": "uni0443.open",
+        "pair": "ку",
+        "form": "open",
+        "before": -180,
+        "after": -200,
+        "safe_after": 62.0,
+        "optical_after": 155.4
+      },
+      {
+        "left": "uni043E",
+        "right": "uni0443",
+        "pair": "оу",
+        "form": "loop",
+        "before": -180,
+        "after": -200,
+        "safe_after": 65.0,
+        "optical_after": 151.2
+      },
+      {
+        "left": "uni0440",
+        "right": "uni0443",
+        "pair": "ру",
+        "form": "loop",
+        "before": -180,
+        "after": -200,
+        "safe_after": 63.0,
+        "optical_after": 141.0
+      },
+      {
+        "left": "uni0441",
+        "right": "uni0443",
+        "pair": "су",
+        "form": "loop",
+        "before": -180,
+        "after": -265,
+        "safe_after": 62.0,
+        "optical_after": 140.2
+      },
+      {
+        "left": "uni0442",
+        "right": "uni0443",
+        "pair": "ту",
+        "form": "loop",
+        "before": -180,
+        "after": -220,
+        "safe_after": 89.0,
+        "optical_after": 134.9
+      },
+      {
+        "left": "uni0444",
+        "right": "uni0443",
+        "pair": "фу",
+        "form": "loop",
+        "before": -180,
+        "after": -210,
+        "safe_after": 72.0,
+        "optical_after": 133.8
+      },
+      {
+        "left": "uni0449",
+        "right": "uni0443.open",
+        "pair": "щу",
+        "form": "open",
+        "before": -180,
+        "after": -205,
+        "safe_after": 65.0,
+        "optical_after": 138.3
+      },
+      {
+        "left": "uni044D",
+        "right": "uni0443",
+        "pair": "эу",
+        "form": "loop",
+        "before": -180,
+        "after": -195,
+        "safe_after": 64.0,
+        "optical_after": 173.1
+      },
+      {
+        "left": "uni0451",
+        "right": "uni0443",
+        "pair": "ёу",
+        "form": "loop",
+        "before": -180,
+        "after": -250,
+        "safe_after": 63.0,
+        "optical_after": 177.3
+      }
+    ],
+    "Regular": [
+      {
+        "left": "uni0412",
+        "right": "uni0443",
+        "pair": "Ву",
+        "form": "loop",
+        "before": -180,
+        "after": -220,
+        "safe_after": 65.0,
+        "optical_after": 142.5
+      },
+      {
+        "left": "uni0413",
+        "right": "uni0443",
+        "pair": "Гу",
+        "form": "loop",
+        "before": -180,
+        "after": -300,
+        "safe_after": 92.0,
+        "optical_after": 314.2
+      },
+      {
+        "left": "uni0413",
+        "right": "uni0443.open",
+        "pair": "Гу",
+        "form": "open",
+        "before": -180,
+        "after": -300,
+        "safe_after": 82.0,
+        "optical_after": 162.7
+      },
+      {
+        "left": "uni0416",
+        "right": "uni0443",
+        "pair": "Жу",
+        "form": "loop",
+        "before": -180,
+        "after": -265,
+        "safe_after": 62.0,
+        "optical_after": 152.0
+      },
+      {
+        "left": "uni041A",
+        "right": "uni0443.open",
+        "pair": "Ку",
+        "form": "open",
+        "before": -180,
+        "after": -195,
+        "safe_after": 65.0,
+        "optical_after": 160.8
+      },
+      {
+        "left": "uni0420",
+        "right": "uni0443",
+        "pair": "Ру",
+        "form": "loop",
+        "before": -180,
+        "after": -235,
+        "safe_after": 63.0,
+        "optical_after": 240.1
+      },
+      {
+        "left": "uni0422",
+        "right": "uni0443",
+        "pair": "Ту",
+        "form": "loop",
+        "before": -180,
+        "after": -255,
+        "safe_after": 64.0,
+        "optical_after": 318.4
+      },
+      {
+        "left": "uni0422",
+        "right": "uni0443.open",
+        "pair": "Ту",
+        "form": "open",
+        "before": -180,
+        "after": -275,
+        "safe_after": 74.0,
+        "optical_after": 146.9
+      },
+      {
+        "left": "uni0443.open",
+        "right": "uni0422",
+        "pair": "уТ",
+        "form": "open",
+        "before": -180,
+        "after": -210,
+        "safe_after": 82.0,
+        "optical_after": 145.5
+      },
+      {
+        "left": "uni0423",
+        "right": "uni0443",
+        "pair": "Уу",
+        "form": "loop",
+        "before": -180,
+        "after": -245,
+        "safe_after": 64.0,
+        "optical_after": 161.7
+      },
+      {
+        "left": "uni0433",
+        "right": "uni0443",
+        "pair": "гу",
+        "form": "loop",
+        "before": -180,
+        "after": -265,
+        "safe_after": 62.0,
+        "optical_after": 191.5
+      },
+      {
+        "left": "uni0435",
+        "right": "uni0443",
+        "pair": "еу",
+        "form": "loop",
+        "before": -180,
+        "after": -255,
+        "safe_after": 65.0,
+        "optical_after": 171.7
+      },
+      {
+        "left": "uni0436",
+        "right": "uni0443",
+        "pair": "жу",
+        "form": "loop",
+        "before": -180,
+        "after": -240,
+        "safe_after": 62.0,
+        "optical_after": 173.6
+      },
+      {
+        "left": "uni0437",
+        "right": "uni0443",
+        "pair": "зу",
+        "form": "loop",
+        "before": -180,
+        "after": -220,
+        "safe_after": 69.0,
+        "optical_after": 141.5
+      },
+      {
+        "left": "uni043E",
+        "right": "uni0443",
+        "pair": "оу",
+        "form": "loop",
+        "before": -180,
+        "after": -195,
+        "safe_after": 64.0,
+        "optical_after": 160.4
+      },
+      {
+        "left": "uni0440",
+        "right": "uni0443",
+        "pair": "ру",
+        "form": "loop",
+        "before": -180,
+        "after": -205,
+        "safe_after": 66.0,
+        "optical_after": 142.6
+      },
+      {
+        "left": "uni0441",
+        "right": "uni0443",
+        "pair": "су",
+        "form": "loop",
+        "before": -180,
+        "after": -250,
+        "safe_after": 65.0,
+        "optical_after": 156.9
+      },
+      {
+        "left": "uni0442",
+        "right": "uni0443",
+        "pair": "ту",
+        "form": "loop",
+        "before": -180,
+        "after": -225,
+        "safe_after": 92.0,
+        "optical_after": 137.6
+      },
+      {
+        "left": "uni0444",
+        "right": "uni0443",
+        "pair": "фу",
+        "form": "loop",
+        "before": -180,
+        "after": -210,
+        "safe_after": 79.0,
+        "optical_after": 141.6
+      },
+      {
+        "left": "uni044D",
+        "right": "uni0443",
+        "pair": "эу",
+        "form": "loop",
+        "before": -180,
+        "after": -200,
+        "safe_after": 66.0,
+        "optical_after": 172.1
+      },
+      {
+        "left": "uni0451",
+        "right": "uni0443",
+        "pair": "ёу",
+        "form": "loop",
+        "before": -180,
+        "after": -260,
+        "safe_after": 63.0,
+        "optical_after": 169.2
+      }
+    ],
+    "Semibold": [
+      {
+        "left": "uni0412",
+        "right": "uni0443",
+        "pair": "Ву",
+        "form": "loop",
+        "before": -180,
+        "after": -215,
+        "safe_after": 76.0,
+        "optical_after": 152.6
+      },
+      {
+        "left": "uni0413",
+        "right": "uni0443",
+        "pair": "Гу",
+        "form": "loop",
+        "before": -180,
+        "after": -300,
+        "safe_after": 87.0,
+        "optical_after": 313.8
+      },
+      {
+        "left": "uni0413",
+        "right": "uni0443.open",
+        "pair": "Гу",
+        "form": "open",
+        "before": -180,
+        "after": -295,
+        "safe_after": 68.0,
+        "optical_after": 157.5
+      },
+      {
+        "left": "uni0420",
+        "right": "uni0443",
+        "pair": "Ру",
+        "form": "loop",
+        "before": -180,
+        "after": -230,
+        "safe_after": 70.0,
+        "optical_after": 237.0
+      },
+      {
+        "left": "uni0422",
+        "right": "uni0443",
+        "pair": "Ту",
+        "form": "loop",
+        "before": -180,
+        "after": -260,
+        "safe_after": 67.0,
+        "optical_after": 309.5
+      },
+      {
+        "left": "uni0422",
+        "right": "uni0443.open",
+        "pair": "Ту",
+        "form": "open",
+        "before": -180,
+        "after": -255,
+        "safe_after": 84.0,
+        "optical_after": 153.2
+      },
+      {
+        "left": "uni0423",
+        "right": "uni0443",
+        "pair": "Уу",
+        "form": "loop",
+        "before": -180,
+        "after": -240,
+        "safe_after": 67.0,
+        "optical_after": 165.1
+      },
+      {
+        "left": "uni0433",
+        "right": "uni0443",
+        "pair": "гу",
+        "form": "loop",
+        "before": -180,
+        "after": -195,
+        "safe_after": 70.0,
+        "optical_after": 248.3
+      },
+      {
+        "left": "uni0435",
+        "right": "uni0443",
+        "pair": "еу",
+        "form": "loop",
+        "before": -180,
+        "after": -260,
+        "safe_after": 67.0,
+        "optical_after": 160.7
+      },
+      {
+        "left": "uni0436",
+        "right": "uni0443",
+        "pair": "жу",
+        "form": "loop",
+        "before": -180,
+        "after": -225,
+        "safe_after": 69.0,
+        "optical_after": 187.0
+      },
+      {
+        "left": "uni0437",
+        "right": "uni0443",
+        "pair": "зу",
+        "form": "loop",
+        "before": -180,
+        "after": -215,
+        "safe_after": 69.0,
+        "optical_after": 149.4
+      },
+      {
+        "left": "uni0442",
+        "right": "uni0443",
+        "pair": "ту",
+        "form": "loop",
+        "before": -180,
+        "after": -210,
+        "safe_after": 68.0,
+        "optical_after": 156.5
+      },
+      {
+        "left": "uni0444",
+        "right": "uni0443",
+        "pair": "фу",
+        "form": "loop",
+        "before": -180,
+        "after": -210,
+        "safe_after": 85.0,
+        "optical_after": 148.9
+      },
+      {
+        "left": "uni044D",
+        "right": "uni0443",
+        "pair": "эу",
+        "form": "loop",
+        "before": -180,
+        "after": -205,
+        "safe_after": 68.0,
+        "optical_after": 166.9
+      },
+      {
+        "left": "uni0451",
+        "right": "uni0443",
+        "pair": "ёу",
+        "form": "loop",
+        "before": -180,
+        "after": -260,
+        "safe_after": 67.0,
+        "optical_after": 160.9
+      }
+    ]
+  }
+}
