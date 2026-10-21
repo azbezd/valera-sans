@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.5.3 — 2026-10-21
+
+- Added a contextual open Cyrillic у after ц, щ, Ц and Щ in all three weights.
+- Matched its stroke weight and softened its terminals; retained the looped default and Latin r after e.
+- Conservatively reduced outline points while preserving advance widths; retained o/о outlines for rasterizer compatibility.
+- Updated approved geometry and kerning fixtures, all nine font files and download links.
+- OpenType revision: **0.503**.
+
 ## 0.5.2 — 2026-10-21
 
 - Added the author's Telegram channel, https://t.me/valerasketch, to project metadata, all nine font files, the UFO sources, author links and attribution guidance.

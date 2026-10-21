@@ -12,18 +12,18 @@
     <integer>-550</integer>
     <key>familyName</key>
     <string>Valera Sans</string>
+    <key>openTypeNameDescription</key>
+    <string>Handwriting by Valery Isachenkov. Latin and Cyrillic; contextual r and Cyrillic u, kerning and tabular figures. Website: https://valerasketch.ru. Telegram: https://t.me/valerasketch.</string>
     <key>openTypeNameDesigner</key>
     <string>Valery Isachenkov</string>
     <key>openTypeNameDesignerURL</key>
     <string>https://t.me/valerasketch</string>
-    <key>openTypeNameDescription</key>
-    <string>Handwriting by Valery Isachenkov. Latin and Cyrillic; contextual r, kerning and tabular figures. Website: https://valerasketch.ru. Telegram: https://t.me/valerasketch.</string>
-    <key>openTypeNameManufacturerURL</key>
-    <string>https://valerasketch.ru</string>
     <key>openTypeNameLicense</key>
     <string>Valera Sans Font License 1.0. Free personal and commercial use with attribution. Font modifications and renaming are not permitted.</string>
     <key>openTypeNameLicenseURL</key>
     <string>https://github.com/azbezd/valera-sans/blob/main/LICENSE</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>https://valerasketch.ru</string>
     <key>openTypeOS2WeightClass</key>
     <integer>300</integer>
     <key>styleName</key>
@@ -33,7 +33,7 @@
     <key>versionMajor</key>
     <integer>0</integer>
     <key>versionMinor</key>
-    <integer>502</integer>
+    <integer>503</integer>
     <key>xHeight</key>
     <integer>560</integer>
   </dict>

@@ -11,7 +11,7 @@ from fontTools.pens.areaPen import AreaPen
 
 ROOT=Path(__file__).resolve().parents[1]
 CONFIG=json.loads((ROOT/'font-project.json').read_text())
-APPROVED=json.loads((ROOT/'tests/approved-v0.5.json').read_text())
+APPROVED=json.loads((ROOT/'tests/approved-v0.5.3.json').read_text())
 BROWSER=json.loads((ROOT/'tests/browser-expected.json').read_text())
 BASE,ALT='uni0072','uni0072.after_e'
 
@@ -19,8 +19,8 @@ def load_hb(font):
     font.flavor=None;data=BytesIO();font.save(data)
     hf=hb.Font(hb.Face(data.getvalue()));hf.scale=(1000,1000);hb.ot_font_set_funcs(hf);return hf
 
-def shape(font,text,kern=True,calt=True,tab=False):
-    b=hb.Buffer();b.add_str(text);b.guess_segment_properties();b.script='Latn';b.direction='ltr'
+def shape(font,text,kern=True,calt=True,tab=False,script="Latn"):
+    b=hb.Buffer();b.add_str(text);b.guess_segment_properties();b.script=script;b.direction='ltr'
     hb.shape(font,b,{'kern':kern,'calt':calt,'tnum':tab})
     return [g.codepoint for g in b.glyph_infos],sum(p.x_advance for p in b.glyph_positions)
 
@@ -40,7 +40,7 @@ for style,weight in CONFIG['styles'].items():
     for ext,folder in [('ttf','ttf'),('otf','otf'),('woff2','web')]:
         path=ROOT/f'fonts/{folder}/ValeraSans-{style}.{ext}';f=TTFont(path)
         order=f.getGlyphOrder();cmap=f.getBestCmap()
-        assert len(order)==180 and {str(k):v for k,v in cmap.items()}==approved['cmap']
+        assert len(order)==181 and {str(k):v for k,v in cmap.items()}==approved['cmap']
         assert f['name'].getDebugName(16)=='Valera Sans'
         assert f['name'].getDebugName(17)==style
         assert f['name'].getDebugName(6)=='ValeraSans-'+style
@@ -76,17 +76,19 @@ for style,weight in CONFIG['styles'].items():
                 assert on-off==record['adjustment'],(style,ext,pair,calt)
         for pair,record in tabs.items():
             assert shape(hf,pair,tab=True)[1]-shape(hf,pair,kern=False,tab=True)[1]==record['adjustment']
-        contexts=sorted(set(['er'+c for c in chars]+[c+'er'for c in chars]+[c['text']for c in BROWSER[style]]))
+        contexts=sorted(set(['er'+c for c in chars]+[c+'er'for c in chars]+['цу'+c for c in chars]+[c+'цу' for c in chars]+['щу'+c for c in chars]+[c+'щу' for c in chars]+[c['text']for c in BROWSER[style]]))
         for text in contexts:
             for calt in [True,False]:
-                names=[ALT if c=='r'and i>0 and text[i-1]=='e'and calt else cmap[ord(c)]for i,c in enumerate(text)]
+                names=[ALT if c=='r'and i>0 and text[i-1]=='e'and calt else 'uni0443.open' if c=='у' and i>0 and text[i-1] in 'цщЦЩ' and calt else cmap[ord(c)]for i,c in enumerate(text)]
                 gids,width=shape(hf,text,calt=calt)
+                for script in ['Cyrl','DFLT']:
+                    assert shape(hf,text,calt=calt,script=script)==(gids,width),(style,ext,text,script)
                 assert [order[i]for i in gids]==names,(style,ext,text,'GSUB')
                 expected=sum(f['hmtx'][n][0]for n in names)+sum(kern_map.get(p,0)for p in zip(names,names[1:]))
                 assert width==expected,(style,ext,text,'GPOS')
         for case in BROWSER[style]:
             assert shape(hf,case['text'],calt=case['calt'],kern=case['kern'])[1]==case['width_units']
-        results[str(path.relative_to(ROOT))]=dict(glyphs=180,characters=170,pairs_per_calt_state=28900,
+        results[str(path.relative_to(ROOT))]=dict(glyphs=181,characters=170,pairs_per_calt_state=28900,
             tabular_pairs=len(tabs),contextual_cases=len(contexts)*2,approved_geometry=True,
             complete_metadata=True,shaping_mismatches=0,sha256=hashlib.sha256(path.read_bytes()).hexdigest())
         print(style,ext,'passed',flush=True)

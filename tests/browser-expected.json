@@ -695,6 +695,246 @@
       "calt": false,
       "kern": false,
       "width_units": 1321
+    },
+    {
+      "text": "цу",
+      "calt": true,
+      "kern": true,
+      "width_units": 914
+    },
+    {
+      "text": "цу",
+      "calt": true,
+      "kern": false,
+      "width_units": 1064
+    },
+    {
+      "text": "цу",
+      "calt": false,
+      "kern": true,
+      "width_units": 1229
+    },
+    {
+      "text": "цу",
+      "calt": false,
+      "kern": false,
+      "width_units": 1194
+    },
+    {
+      "text": "щу",
+      "calt": true,
+      "kern": true,
+      "width_units": 1109
+    },
+    {
+      "text": "щу",
+      "calt": true,
+      "kern": false,
+      "width_units": 1289
+    },
+    {
+      "text": "щу",
+      "calt": false,
+      "kern": true,
+      "width_units": 1444
+    },
+    {
+      "text": "щу",
+      "calt": false,
+      "kern": false,
+      "width_units": 1419
+    },
+    {
+      "text": "Цу",
+      "calt": true,
+      "kern": true,
+      "width_units": 986
+    },
+    {
+      "text": "Цу",
+      "calt": true,
+      "kern": false,
+      "width_units": 1156
+    },
+    {
+      "text": "Цу",
+      "calt": false,
+      "kern": true,
+      "width_units": 1316
+    },
+    {
+      "text": "Цу",
+      "calt": false,
+      "kern": false,
+      "width_units": 1286
+    },
+    {
+      "text": "Щу",
+      "calt": true,
+      "kern": true,
+      "width_units": 1171
+    },
+    {
+      "text": "Щу",
+      "calt": true,
+      "kern": false,
+      "width_units": 1276
+    },
+    {
+      "text": "Щу",
+      "calt": false,
+      "kern": true,
+      "width_units": 1406
+    },
+    {
+      "text": "Щу",
+      "calt": false,
+      "kern": false,
+      "width_units": 1406
+    },
+    {
+      "text": "цуц",
+      "calt": true,
+      "kern": true,
+      "width_units": 1436
+    },
+    {
+      "text": "цуц",
+      "calt": true,
+      "kern": false,
+      "width_units": 1611
+    },
+    {
+      "text": "цуц",
+      "calt": false,
+      "kern": true,
+      "width_units": 1776
+    },
+    {
+      "text": "цуц",
+      "calt": false,
+      "kern": false,
+      "width_units": 1741
+    },
+    {
+      "text": "щущ",
+      "calt": true,
+      "kern": true,
+      "width_units": 1861
+    },
+    {
+      "text": "щущ",
+      "calt": true,
+      "kern": false,
+      "width_units": 2061
+    },
+    {
+      "text": "щущ",
+      "calt": false,
+      "kern": true,
+      "width_units": 2216
+    },
+    {
+      "text": "щущ",
+      "calt": false,
+      "kern": false,
+      "width_units": 2191
+    },
+    {
+      "text": "улица",
+      "calt": true,
+      "kern": true,
+      "width_units": 2590
+    },
+    {
+      "text": "улица",
+      "calt": true,
+      "kern": false,
+      "width_units": 2680
+    },
+    {
+      "text": "улица",
+      "calt": false,
+      "kern": true,
+      "width_units": 2590
+    },
+    {
+      "text": "улица",
+      "calt": false,
+      "kern": false,
+      "width_units": 2680
+    },
+    {
+      "text": "французских",
+      "calt": true,
+      "kern": true,
+      "width_units": 5570
+    },
+    {
+      "text": "французских",
+      "calt": true,
+      "kern": false,
+      "width_units": 5975
+    },
+    {
+      "text": "французских",
+      "calt": false,
+      "kern": true,
+      "width_units": 5890
+    },
+    {
+      "text": "французских",
+      "calt": false,
+      "kern": false,
+      "width_units": 6105
+    },
+    {
+      "text": "щука",
+      "calt": true,
+      "kern": true,
+      "width_units": 2189
+    },
+    {
+      "text": "щука",
+      "calt": true,
+      "kern": false,
+      "width_units": 2399
+    },
+    {
+      "text": "щука",
+      "calt": false,
+      "kern": true,
+      "width_units": 2554
+    },
+    {
+      "text": "щука",
+      "calt": false,
+      "kern": false,
+      "width_units": 2529
+    },
+    {
+      "text": "танцуют",
+      "calt": true,
+      "kern": true,
+      "width_units": 4262
+    },
+    {
+      "text": "танцуют",
+      "calt": true,
+      "kern": false,
+      "width_units": 4452
+    },
+    {
+      "text": "танцуют",
+      "calt": false,
+      "kern": true,
+      "width_units": 4607
+    },
+    {
+      "text": "танцуют",
+      "calt": false,
+      "kern": false,
+      "width_units": 4582
     }
   ],
   "Regular": [
@@ -1393,6 +1633,246 @@
       "calt": false,
       "kern": false,
       "width_units": 1351
+    },
+    {
+      "text": "цу",
+      "calt": true,
+      "kern": true,
+      "width_units": 937
+    },
+    {
+      "text": "цу",
+      "calt": true,
+      "kern": false,
+      "width_units": 1082
+    },
+    {
+      "text": "цу",
+      "calt": false,
+      "kern": true,
+      "width_units": 1251
+    },
+    {
+      "text": "цу",
+      "calt": false,
+      "kern": false,
+      "width_units": 1226
+    },
+    {
+      "text": "щу",
+      "calt": true,
+      "kern": true,
+      "width_units": 1128
+    },
+    {
+      "text": "щу",
+      "calt": true,
+      "kern": false,
+      "width_units": 1308
+    },
+    {
+      "text": "щу",
+      "calt": false,
+      "kern": true,
+      "width_units": 1472
+    },
+    {
+      "text": "щу",
+      "calt": false,
+      "kern": false,
+      "width_units": 1452
+    },
+    {
+      "text": "Цу",
+      "calt": true,
+      "kern": true,
+      "width_units": 1016
+    },
+    {
+      "text": "Цу",
+      "calt": true,
+      "kern": false,
+      "width_units": 1176
+    },
+    {
+      "text": "Цу",
+      "calt": false,
+      "kern": true,
+      "width_units": 1340
+    },
+    {
+      "text": "Цу",
+      "calt": false,
+      "kern": false,
+      "width_units": 1320
+    },
+    {
+      "text": "Щу",
+      "calt": true,
+      "kern": true,
+      "width_units": 1203
+    },
+    {
+      "text": "Щу",
+      "calt": true,
+      "kern": false,
+      "width_units": 1298
+    },
+    {
+      "text": "Щу",
+      "calt": false,
+      "kern": true,
+      "width_units": 1427
+    },
+    {
+      "text": "Щу",
+      "calt": false,
+      "kern": false,
+      "width_units": 1442
+    },
+    {
+      "text": "цуц",
+      "calt": true,
+      "kern": true,
+      "width_units": 1477
+    },
+    {
+      "text": "цуц",
+      "calt": true,
+      "kern": false,
+      "width_units": 1642
+    },
+    {
+      "text": "цуц",
+      "calt": false,
+      "kern": true,
+      "width_units": 1811
+    },
+    {
+      "text": "цуц",
+      "calt": false,
+      "kern": false,
+      "width_units": 1786
+    },
+    {
+      "text": "щущ",
+      "calt": true,
+      "kern": true,
+      "width_units": 1894
+    },
+    {
+      "text": "щущ",
+      "calt": true,
+      "kern": false,
+      "width_units": 2094
+    },
+    {
+      "text": "щущ",
+      "calt": false,
+      "kern": true,
+      "width_units": 2258
+    },
+    {
+      "text": "щущ",
+      "calt": false,
+      "kern": false,
+      "width_units": 2238
+    },
+    {
+      "text": "улица",
+      "calt": true,
+      "kern": true,
+      "width_units": 2660
+    },
+    {
+      "text": "улица",
+      "calt": true,
+      "kern": false,
+      "width_units": 2760
+    },
+    {
+      "text": "улица",
+      "calt": false,
+      "kern": true,
+      "width_units": 2660
+    },
+    {
+      "text": "улица",
+      "calt": false,
+      "kern": false,
+      "width_units": 2760
+    },
+    {
+      "text": "французских",
+      "calt": true,
+      "kern": true,
+      "width_units": 5712
+    },
+    {
+      "text": "французских",
+      "calt": true,
+      "kern": false,
+      "width_units": 6137
+    },
+    {
+      "text": "французских",
+      "calt": false,
+      "kern": true,
+      "width_units": 6031
+    },
+    {
+      "text": "французских",
+      "calt": false,
+      "kern": false,
+      "width_units": 6281
+    },
+    {
+      "text": "щука",
+      "calt": true,
+      "kern": true,
+      "width_units": 2228
+    },
+    {
+      "text": "щука",
+      "calt": true,
+      "kern": false,
+      "width_units": 2448
+    },
+    {
+      "text": "щука",
+      "calt": false,
+      "kern": true,
+      "width_units": 2597
+    },
+    {
+      "text": "щука",
+      "calt": false,
+      "kern": false,
+      "width_units": 2592
+    },
+    {
+      "text": "танцуют",
+      "calt": true,
+      "kern": true,
+      "width_units": 4356
+    },
+    {
+      "text": "танцуют",
+      "calt": true,
+      "kern": false,
+      "width_units": 4546
+    },
+    {
+      "text": "танцуют",
+      "calt": false,
+      "kern": true,
+      "width_units": 4700
+    },
+    {
+      "text": "танцуют",
+      "calt": false,
+      "kern": false,
+      "width_units": 4690
     }
   ],
   "Semibold": [
@@ -2091,6 +2571,246 @@
       "calt": false,
       "kern": false,
       "width_units": 1422
+    },
+    {
+      "text": "цу",
+      "calt": true,
+      "kern": true,
+      "width_units": 1008
+    },
+    {
+      "text": "цу",
+      "calt": true,
+      "kern": false,
+      "width_units": 1128
+    },
+    {
+      "text": "цу",
+      "calt": false,
+      "kern": true,
+      "width_units": 1313
+    },
+    {
+      "text": "цу",
+      "calt": false,
+      "kern": false,
+      "width_units": 1293
+    },
+    {
+      "text": "щу",
+      "calt": true,
+      "kern": true,
+      "width_units": 1184
+    },
+    {
+      "text": "щу",
+      "calt": true,
+      "kern": false,
+      "width_units": 1354
+    },
+    {
+      "text": "щу",
+      "calt": false,
+      "kern": true,
+      "width_units": 1539
+    },
+    {
+      "text": "щу",
+      "calt": false,
+      "kern": false,
+      "width_units": 1519
+    },
+    {
+      "text": "Цу",
+      "calt": true,
+      "kern": true,
+      "width_units": 1089
+    },
+    {
+      "text": "Цу",
+      "calt": true,
+      "kern": false,
+      "width_units": 1224
+    },
+    {
+      "text": "Цу",
+      "calt": false,
+      "kern": true,
+      "width_units": 1404
+    },
+    {
+      "text": "Цу",
+      "calt": false,
+      "kern": false,
+      "width_units": 1389
+    },
+    {
+      "text": "Щу",
+      "calt": true,
+      "kern": true,
+      "width_units": 1276
+    },
+    {
+      "text": "Щу",
+      "calt": true,
+      "kern": false,
+      "width_units": 1351
+    },
+    {
+      "text": "Щу",
+      "calt": false,
+      "kern": true,
+      "width_units": 1516
+    },
+    {
+      "text": "Щу",
+      "calt": false,
+      "kern": false,
+      "width_units": 1516
+    },
+    {
+      "text": "цуц",
+      "calt": true,
+      "kern": true,
+      "width_units": 1602
+    },
+    {
+      "text": "цуц",
+      "calt": true,
+      "kern": false,
+      "width_units": 1722
+    },
+    {
+      "text": "цуц",
+      "calt": false,
+      "kern": true,
+      "width_units": 1907
+    },
+    {
+      "text": "цуц",
+      "calt": false,
+      "kern": false,
+      "width_units": 1887
+    },
+    {
+      "text": "щущ",
+      "calt": true,
+      "kern": true,
+      "width_units": 2004
+    },
+    {
+      "text": "щущ",
+      "calt": true,
+      "kern": false,
+      "width_units": 2174
+    },
+    {
+      "text": "щущ",
+      "calt": false,
+      "kern": true,
+      "width_units": 2359
+    },
+    {
+      "text": "щущ",
+      "calt": false,
+      "kern": false,
+      "width_units": 2339
+    },
+    {
+      "text": "улица",
+      "calt": true,
+      "kern": true,
+      "width_units": 2836
+    },
+    {
+      "text": "улица",
+      "calt": true,
+      "kern": false,
+      "width_units": 2931
+    },
+    {
+      "text": "улица",
+      "calt": false,
+      "kern": true,
+      "width_units": 2836
+    },
+    {
+      "text": "улица",
+      "calt": false,
+      "kern": false,
+      "width_units": 2931
+    },
+    {
+      "text": "французских",
+      "calt": true,
+      "kern": true,
+      "width_units": 6093
+    },
+    {
+      "text": "французских",
+      "calt": true,
+      "kern": false,
+      "width_units": 6493
+    },
+    {
+      "text": "французских",
+      "calt": false,
+      "kern": true,
+      "width_units": 6398
+    },
+    {
+      "text": "французских",
+      "calt": false,
+      "kern": false,
+      "width_units": 6658
+    },
+    {
+      "text": "щука",
+      "calt": true,
+      "kern": true,
+      "width_units": 2376
+    },
+    {
+      "text": "щука",
+      "calt": true,
+      "kern": false,
+      "width_units": 2561
+    },
+    {
+      "text": "щука",
+      "calt": false,
+      "kern": true,
+      "width_units": 2746
+    },
+    {
+      "text": "щука",
+      "calt": false,
+      "kern": false,
+      "width_units": 2726
+    },
+    {
+      "text": "танцуют",
+      "calt": true,
+      "kern": true,
+      "width_units": 4605
+    },
+    {
+      "text": "танцуют",
+      "calt": true,
+      "kern": false,
+      "width_units": 4765
+    },
+    {
+      "text": "танцуют",
+      "calt": false,
+      "kern": true,
+      "width_units": 4930
+    },
+    {
+      "text": "танцуют",
+      "calt": false,
+      "kern": false,
+      "width_units": 4930
     }
   ]
 }

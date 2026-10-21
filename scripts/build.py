@@ -27,7 +27,7 @@ def names(style):
     return {0:f'Copyright {CONFIG["year"]} {author}.',1:legacy,2:'Regular',
         3:f'{CONFIG["font_version"]};NONE;ValeraSans-{style}',4:family+' '+style,
         5:'Version '+CONFIG['font_version'],6:'ValeraSans-'+style,
-        8:author,9:author,10:(f'Handwriting by {author}. Latin and Cyrillic; contextual r, kerning and tabular figures. '
+        8:author,9:author,10:(f'Handwriting by {author}. Latin and Cyrillic; contextual r and Cyrillic u, kerning and tabular figures. '
                             f'Website: {CONFIG["website"]}. Telegram: {CONFIG["telegram"]}.'),
         11:CONFIG['website'],12:CONFIG['telegram'],13:LICENCE,
         14:CONFIG['repository']+'/blob/main/LICENSE',16:family,17:style}

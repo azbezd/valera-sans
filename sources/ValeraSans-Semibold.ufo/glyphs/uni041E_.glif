@@ -14,31 +14,29 @@
       <point x="396" y="746" type="qcurve"/>
       <point x="402" y="737"/>
       <point x="424" y="679"/>
-      <point x="449" y="603"/>
+      <point x="449" y="604"/>
       <point x="471" y="528"/>
       <point x="477" y="501" type="qcurve"/>
       <point x="481" y="484"/>
       <point x="490" y="452"/>
       <point x="492" y="448" type="qcurve"/>
       <point x="499" y="433"/>
-      <point x="498" y="356"/>
+      <point x="497" y="356"/>
       <point x="482" y="253"/>
       <point x="468" y="200" type="qcurve"/>
-      <point x="465" y="189"/>
-      <point x="439" y="157"/>
-      <point x="401" y="122"/>
-      <point x="360" y="92"/>
+      <point x="464" y="185"/>
+      <point x="422" y="139"/>
+      <point x="366" y="95"/>
       <point x="342" y="84" type="qcurve"/>
       <point x="290" y="59"/>
       <point x="176" y="92"/>
       <point x="120" y="148" type="qcurve"/>
-      <point x="100" y="168"/>
-      <point x="74" y="204"/>
-      <point x="60" y="246"/>
-      <point x="53" y="302"/>
+      <point x="93" y="175"/>
+      <point x="64" y="223"/>
+      <point x="53" y="289"/>
       <point x="53" y="342" type="qcurve"/>
       <point x="50" y="436"/>
-      <point x="84" y="586"/>
+      <point x="83" y="586"/>
       <point x="147" y="678"/>
       <point x="190" y="684" type="qcurve"/>
       <point x="210" y="687"/>
@@ -62,21 +60,19 @@
       <point x="165" y="549"/>
       <point x="153" y="515" type="qcurve"/>
       <point x="128" y="444"/>
-      <point x="124" y="316"/>
+      <point x="125" y="316"/>
       <point x="162" y="217"/>
       <point x="235" y="160"/>
       <point x="286" y="160" type="qcurve"/>
       <point x="317" y="160"/>
       <point x="372" y="207"/>
       <point x="386" y="245" type="qcurve"/>
-      <point x="394" y="269"/>
-      <point x="408" y="323"/>
-      <point x="416" y="373"/>
+      <point x="398" y="281"/>
+      <point x="416" y="364"/>
       <point x="416" y="390" type="qcurve"/>
-      <point x="416" y="405"/>
-      <point x="407" y="457"/>
-      <point x="393" y="521"/>
-      <point x="375" y="586"/>
+      <point x="416" y="410"/>
+      <point x="401" y="488"/>
+      <point x="378" y="577"/>
     </contour>
   </outline>
 </glyph>

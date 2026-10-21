@@ -186,12 +186,10 @@
       <point x="323" y="384"/>
     </contour>
     <contour>
-      <point x="412" y="314" type="qcurve"/>
       <point x="410" y="327"/>
       <point x="396" y="329"/>
       <point x="396" y="316" type="qcurve"/>
       <point x="396" y="301"/>
-      <point x="405" y="301" type="qcurve"/>
       <point x="414" y="301"/>
     </contour>
   </outline>

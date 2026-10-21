@@ -8,7 +8,7 @@ Valery Isachenkov's handwriting, with a living line and both Cyrillic and Latin 
 
 ![Valera Sans lettering with the artist’s painting Youth](docs/assets/banner.webp)
 
-[Download 0.5.2](https://github.com/azbezd/valera-sans/releases/tag/v0.5.2) · [Try the font](https://azbezd.github.io/valera-sans/specimen/) · [License](LICENSE)
+[Download 0.5.3](https://github.com/azbezd/valera-sans/releases/tag/v0.5.3) · [Try the font](https://azbezd.github.io/valera-sans/specimen/) · [License](LICENSE)
 
 **Free personal and commercial use · attribution required · no font modifications.**
 
@@ -18,7 +18,7 @@ These letters began on the author's handwritten sheets and scans. Their tails, a
 
 ## Start using it
 
-Download the [ready-to-use package](https://github.com/azbezd/valera-sans/releases/download/v0.5.2/ValeraSans-0.5.2-fonts.zip). Install **either TTF or OTF** on your computer. For websites, use **WOFF2** with the supplied CSS.
+Download the [ready-to-use package](https://github.com/azbezd/valera-sans/releases/download/v0.5.3/ValeraSans-0.5.3-fonts.zip). Install **either TTF or OTF** on your computer. For websites, use **WOFF2** with the supplied CSS.
 
 | Style | Weight | Formats |
 |---|---:|---|
@@ -52,11 +52,11 @@ The paintings illustrate the font in use. Reusing the artwork reproductions sepa
 
 ## Letters and behavior
 
-The Russian alphabet, including Ё/ё, basic Latin A–Z/a–z, digits, punctuation, ₽ and №: **170 encoded characters and 180 glyphs**. The handwritten tails of `а` and `a` are preserved. Latin `r` changes shape immediately after lowercase Latin `e`: `er` uses the flowing form; `re` and an isolated `r` use the upright form. This is a built-in OpenType `calt` rule.
+The Russian alphabet, including Ё/ё, basic Latin A–Z/a–z, digits, punctuation, ₽ and №: **170 encoded characters and 181 glyphs**. The handwritten tails of `а` and `a` are preserved. Latin `r` changes shape immediately after lowercase Latin `e`: `er` uses the flowing form; `re` and an isolated `r` use the upright form. This is a built-in OpenType `calt` rule.
 
 All three weights include pair kerning and tabular figures through `tnum`. The [interactive specimen](https://azbezd.github.io/valera-sans/specimen/) renders the actual fonts.
 
-**0.5.2 is a preview release.** Light and Semibold remain experimental. Extended Latin, italics, a variable axis and dedicated hinting are not included. [Validation and limitations](docs/VALIDATION.md).
+**0.5.3 is a preview release.** Light and Semibold remain experimental. Extended Latin, italics, a variable axis and dedicated hinting are not included. [Validation and limitations](docs/VALIDATION.md).
 
 ## Credit the author
 
@@ -75,3 +75,5 @@ Editable UFO sources and the build are included. Official versions receive Git t
 ## Author
 
 Handwriting and artistic character by **Valery Isachenkov**. [Telegram channel: @valerasketch](https://t.me/valerasketch) · [The author's artwork](https://valerasketch.ru) · [GitHub](https://github.com/azbezd).
+
+Cyrillic у uses its open alternate after ц, щ, Ц and Щ. Other contexts retain the looped form.
