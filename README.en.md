@@ -54,6 +54,8 @@ The paintings illustrate the font in use. Reusing the artwork reproductions sepa
 
 The Russian alphabet, including Ё/ё, basic Latin A–Z/a–z, digits, punctuation, ₽, № and °: **171 encoded characters and 529 glyphs**, including 348 additional handwritten alternates of 151 characters taken from the author's scans. They rotate automatically through `calt`: a repeated letter never repeats its shape, and forms vary pseudo-randomly across the text. The handwritten tails of `а` and `a` are preserved. Latin `r` changes shape immediately after lowercase Latin `e`: `er` uses the flowing form; `re` and an isolated `r` use the upright form. This is a built-in OpenType `calt` rule.
 
+Cyrillic `у` takes its open form after letters where the loop would leave a gap, as in «дуга», «луна» and «купить»; see the [full list of contexts](docs/CONTEXTS.md). After any form of `а` the plain `д` is used, its baseline stroke tucking under the tail. After lowercase Cyrillic letters with a bottom tail (`а`, `к`, `ц`, `щ`) the `л` sits slightly higher and closer; this lift is part of kerning. Figures stand almost as tall as capitals, about 95% of the cap height, so prices and dates hold their own next to letters. Stroke edges are evened out: bumps and waves from the scans are smoothed, while shapes, corners and tails stay as drawn.
+
 All three weights include pair kerning and tabular figures through `tnum`. The [interactive specimen](https://azbezd.github.io/valera-sans/specimen/) renders the actual fonts.
 
 **0.6.2 is a preview release.** Light and Semibold remain experimental. Extended Latin, italics, a variable axis and dedicated hinting are not included. [Validation and limitations](docs/VALIDATION.md).
