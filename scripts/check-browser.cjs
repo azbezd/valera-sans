@@ -28,7 +28,7 @@ const expected=JSON.parse(fs.readFileSync(path.join(ROOT,'tests/browser-expected
   for(const weight of ['300','600','400']){await page.locator(`[data-weight="${weight}"]`).click();assert.equal(await page.locator('#text').evaluate(e=>getComputedStyle(e).fontWeight),weight)}
   await page.locator('#text').fill('Valera / er re / ёж');assert(!(await page.locator('#support').innerText()).includes('пока нет'));
   await page.locator('#text').fill('café');assert((await page.locator('#support').innerText()).includes('é'));
-  await page.locator('#text').fill('Буквы, как от руки.\nValera / river / rare\nКраски, бумага, вещи вокруг.');
+  await page.locator('#text').fill('Буквы, как от руки.\nValera / river / rare\nЛадно, налей чаю\u00a0— рисуем до\u00a023:00!');
   await page.locator('#tracking').evaluate(e=>{e.value='20';e.dispatchEvent(new Event('input',{bubbles:true}))});assert((await page.locator('#tracking-value').innerText()).includes('+0.020'));
   await page.locator('#tracking').evaluate(e=>{e.value='0';e.dispatchEvent(new Event('input',{bubbles:true}))});
   assert(!(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth)));assert.equal(errors.length,0);
