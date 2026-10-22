@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.6.4 — 2026-10-22
+
+- Letters no longer touch: a final clearance pass over every pair of forms that occurs in text opens 1,909 / 1,900 / 1,756 pairs (Light / Regular / Semibold) to the stated minimum — 50 units between letters and digits, 40 with punctuation and before Λ-shaped letters, 25 before д. The 0.6.0 pass stopped after opening a pair by 150 units, so pairs such as ee, fe, Ру, ар and йу in some forms came within 1–12 units. Median opening 10 units.
+- л is now raised after every form of а, к, ц and щ, as promised (before, only where the lift gained at least 15 units: never after ц in Regular, never after к or ц in Semibold, e.g. «клад»). It moves left as far as the 50-unit gap allows and never further right than before.
+- Cyrillic у keeps its loop outside the open-у contexts, as promised: all four у alternates from the scans are loopless, and since 0.6.0 the rotation put them at the start of words and after letters such as Р and т. They now rotate with the open у instead: in the listed contexts and in «ууу» the open у takes one of five loopless shapes, so repeated у always change shape.
+- Repeated letters run through all their forms: for 18 of the 150 characters with alternates (e, г, к, т, х, ы, ь, Ж, Ш, Э, S, 0, 1, 2, 5, &, % and the comma) the rotation step divided the number of forms, so «&&&&&» or «22222» alternated just two shapes. Steps are now coprime with the number of forms; this reshuffles which form of these characters follows a given glyph.
+- Latin n is lower: all three forms scaled to the height of m (Regular 698 → 640, Light 693 → 635, Semibold 709 → 653), stroke thickness and sidebearings kept. The only outline change in this release.
+- Count corrected in README, specimen and docs: 347 alternates of 150 characters; the 348th scan became the degree sign.
+- No repeated e before the flowing r: in engineer and eerie the first of two e becomes e.alt2 (e.alt3 after e.alt2); 0.6.3 set both to the default form.
+- Promise checks independent of the model (`scripts/promises.py`, run by `validate.py`): every rule above, the open у contexts, plain д after а and repeated letters are checked on HarfBuzz output and real outlines. README, specimen and CONTEXTS now state the one exception to “a repeated letter always changes shape”: Latin i has no alternates.
+- Apart from n, features and kerning only. OpenType revision: **0.604**.
+
 ## 0.6.3 — 2026-10-22
 
 - Keep the default Latin e before the flowing r (after e): the e alternates joined it badly. Valera, Vera, here, per, every, lever and similar words now always use the default e; in Valeera the first e keeps rotating. Rotation elsewhere is unchanged.

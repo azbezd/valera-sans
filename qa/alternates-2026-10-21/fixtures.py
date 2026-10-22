@@ -20,6 +20,7 @@ STYLES = ['Light', 'Regular', 'Semibold']
 BASE_TAG = 'df51644'   # эталон после правки капель — с него стартует integrate (.orig)
 CHANGED_BASE = {'uni006A'}          # убрана лишняя точка (i со скана)
 CHANGED_BASE |= {f'uni003{d}{t}' for d in range(10) for t in ('', '.tab')}   # цифры крупнее (qa/digits-2026-10-22)
+CHANGED_BASE |= {'uni006E'}         # n ниже, до высоты m (0.6.4)
 POLISHED = json.loads((Path(__file__).parent / 'polish-report.json').read_text())  # отполированные глифы
 SMOOTHED = json.loads((ROOT / 'qa/smooth-2026-10-22/smooth-report.json').read_text())  # выровненный край (0.6.2)
 NEW_ENCODED = {'uni00B0': 0xB0}

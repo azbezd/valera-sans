@@ -7,7 +7,8 @@
 Чередование (calt, после контекстных r/у): у каждого глифа есть «фаза» — индекс формы
 для букв с вариантами, псевдослучайное число для остальных. Буква X после глифа фазы k
 получает форму (k + h_X) mod m_X, где h_X ∈ [1, m_X−1] — поэтому одна и та же буква
-подряд всегда меняет форму, а цепочка по тексту выглядит случайной.
+подряд всегда меняет форму, а цепочка по тексту выглядит случайной. С 0.6.4 h_X взаимно
+просто с m_X: повтор буквы перебирает все её формы, а не две-три по кругу.
 
 Кернинг: прежние 20 718 пар «глиф-глиф» остаются как есть (база); каждая буква со
 своими вариантами — класс, классовые пары повторяют значение базы. Для вариантов
@@ -18,6 +19,7 @@
 на ≥ 20 ед.
 """
 import json
+import math
 import re
 import sys
 import zlib
@@ -87,6 +89,15 @@ def forms_map(font_names, vec_names):
     return forms
 
 
+def coprime_shift(b, m):
+    """Шаг чередования буквы с m формами: 1 + crc mod (m − 1), а если он делит m — следующий
+    взаимно простой (0.6.4; например, у «&» с шестью формами шаг 3 давал «&&&&&» из двух форм)."""
+    h = 1 + crc(b) % (m - 1)
+    while math.gcd(h, m) != 1:
+        h = h % (m - 1) + 1
+    return h
+
+
 def rotation_spec(order, forms):
     n_phase = max(len(v) for v in forms.values())
     phase = {}
@@ -95,7 +106,7 @@ def rotation_spec(order, forms):
             phase[n] = i
     for n in order:
         phase.setdefault(n, crc(n) % n_phase)
-    shift = {b: 1 + crc(b) % (len(fs) - 1) for b, fs in forms.items() if len(fs) > 1}
+    shift = {b: coprime_shift(b, len(fs)) for b, fs in forms.items() if len(fs) > 1}
     return {'phases': n_phase, 'phase': phase, 'forms': forms, 'shift': shift}
 
 
@@ -114,6 +125,10 @@ def rotation_fea(spec):
         lines.append(f'@Phase{k} = [{" ".join(members)}];')
     lines.append(f'@Rotating = [{" ".join(rot)}];')
     lines.append('lookup Rotate {')
+    # «д» после любой формы «а» не чередуется (остаётся обычной), и следующая «д» отсчитывается
+    # уже от обычной — иначе в «аддд» формы шли бы через одну (0.6.4)
+    left, target = KEEP_AFTER
+    lines.append(f" ignore sub [{' '.join(forms.get(left, [left]))}] {target}';")
     lines += [f' sub @Phase{k} @Rotating\' lookup Rotate{k};' for k in range(n)]
     lines.append('} Rotate;')
     return '\n'.join(lines)
@@ -319,7 +334,7 @@ def build_features(old_fea, spec, base_pairs, exc, rep_r, rep_l, lifted=None):
            '# Чередование вариантов: см. qa/alternates-2026-10-21/integrate.py',
            rotation_fea(spec), '',
            keep_after_fea(spec),
-           join_fea(join_rules(spec['forms'])),
+           join_fea(join_rules(spec)),
            'feature calt {', ' lookup Contextual;', ' lookup Rotate;', ' lookup KeepAfter;', ' lookup Join;', '} calt;', '']
     rgroups, lgroups = {}, {}
     for a, r in rep_r.items():
@@ -586,24 +601,56 @@ def restore_tuck(font, base_pairs, exc, rep_r, rep_l, forms, orig_pairs):
 
 R_AFTER_E = 'uni0072.after_e'
 JOIN_E = 'uni0065'          # перед r.after_e — только обычная «e»: остальные стыкуются плохо (решение автора, 0.6.3)
+JOIN_E_FIRST = ('uni0065.alt2', 'uni0065.alt3')   # «eer»: первая e — вариант (alt2 оставляет меньше всего пустоты перед e; alt3 — если перед ней уже alt2), 0.6.4
 JOIN_A = 'uni0061.alt1'     # после r.after_e — a.alt1: меньше всего пустоты под плечом r во всех весах
 JOIN_LIFT = LIFT            # и чуть выше, чтобы встать левее (как «л» после хвостика)
+LOOPED_U = 'uni0443'        # петлевая у: все её варианты со сканов без петли
+OPEN_U = 'uni0443.open'     # открытая у в контекстах чередует себя и четыре варианта без петли, 0.6.4
 
 
-def join_rules(forms):
-    """Стык e–r–a: замены после Rotate и KeepAfter (отдельный lookup Join)."""
-    a_forms = forms[JOIN_A.split('.alt')[0]]
-    return [{'from': forms[JOIN_E][1:], 'to': JOIN_E, 'before': R_AFTER_E},
-            {'from': [n for n in a_forms if n != JOIN_A], 'to': JOIN_A, 'after': R_AFTER_E}]
+def join_rules(rot):
+    """Замены после Rotate и KeepAfter (отдельный lookup Join): стык e–r–a, петлевая у вне
+    контекстов, чередование открытой у. «after» — класс предыдущего (уже обработанного)
+    глифа, «before» — классы следующих по порядку. rot — forms, phase, shift, phases."""
+    forms = rot['forms']
+    e_forms, a_forms = forms[JOIN_E], forms[JOIN_A.split('.alt')[0]]
+    first, second = JOIN_E_FIRST
+    rules = [{'from': e_forms[1:], 'to': JOIN_E, 'before': [[R_AFTER_E]]},
+             # повтор e подряд всегда меняет форму: если перед основной e (перед r) тоже основная — она становится вариантом
+             {'from': [JOIN_E], 'to': second, 'after': [first], 'before': [e_forms, [R_AFTER_E]]},
+             {'from': [JOIN_E], 'to': first, 'before': [e_forms, [R_AFTER_E]]},
+             {'from': [n for n in a_forms if n != JOIN_A], 'to': JOIN_A, 'after': [R_AFTER_E]},
+             # вне контекстов открытой у — петлевая у (обещано в README и CONTEXTS); варианты у — без петли, 0.6.4
+             {'from': forms[LOOPED_U][1:], 'to': LOOPED_U}]
+    # открытая у (после букв из CONTEXTS и после у) чередует пять форм без петли, как остальные буквы:
+    # форма — по фазе предыдущего глифа; у формы i фаза i, поэтому соседние у всегда разные
+    open_forms = [OPEN_U] + forms[LOOPED_U][1:]
+    assert all(rot['phase'][g] == i for i, g in enumerate(open_forms))
+    step = rot['shift'][LOOPED_U]
+    for k in range(rot['phases']):
+        to = open_forms[(k + step) % len(open_forms)]
+        if to != OPEN_U:
+            rules.append({'from': [OPEN_U], 'to': to, 'after': sorted(g for g, q in rot['phase'].items() if q == k)})
+    return rules
 
 
 def join_fea(rules):
-    lines = ['# стык e–r–a: перед r.after_e — обычная «e», после — a.alt1 (решение автора, 0.6.3)', 'lookup Join {']
+    lines = ['# после чередования: стык e–r–a (перед r.after_e — обычная «e», в «eer» первая — вариант, после — a.alt1; 0.6.3–0.6.4)',
+             '# петлевая у вне контекстов открытой, открытая у чередует пять форм (0.6.4)',
+             'lookup Join {']
     for r in rules:
-        src = f"[{' '.join(r['from'])}]'"
-        lines.append(f" sub {src} {r['before']} by {r['to']};" if 'before' in r else f" sub {r['after']} {src} by {r['to']};")
+        back = f"[{' '.join(r['after'])}] " if 'after' in r else ''
+        ahead = ''.join(f" [{' '.join(c)}]" for c in r.get('before', []))
+        lines.append(f" sub {back}[{' '.join(r['from'])}]'{ahead} by {r['to']};")
     lines.append('} Join;')
     return '\n'.join(lines)
+
+
+def rot_spec(spec):
+    """Правила выбора форм для tests/alternates-spec.json и модели."""
+    return {'phases': spec['phases'], 'phase': spec['phase'], 'forms': spec['forms'], 'shift': spec['shift'],
+            'keep_after': [spec['forms'].get(KEEP_AFTER[0], [KEEP_AFTER[0]]), KEEP_AFTER[1]],
+            'join': join_rules(spec)}
 
 
 def join_fit(font, exc, lifted):
@@ -617,6 +664,108 @@ def join_fit(font, exc, lifted):
     lifted[(R_AFTER_E, JOIN_A)] = (k, JOIN_LIFT)
     exc[(R_AFTER_E, JOIN_A)] = k
     return k
+
+
+N_TO_M = ('uni006E', 'uni006D')    # все формы n — до высоты m (решение автора 23.10.2026, 0.6.4)
+
+
+def scale_n(font, forms):
+    """Все формы n — до высоты m при прежнем штрихе: масштаб от базовой линии и сдвиг контура
+    наружу на (1 − s)·штрих/2, как цифры в 0.6.1; поля сохраняются, кернинг не меняется.
+    Форма, уже стоящая на высоте m (±2 ед.), не трогается — повторный запуск ничего не меняет."""
+    D = DIGITS
+    n, m = N_TO_M
+    target = D.bounds(D.ufo_contours(font[m]))[3]
+    report = {'target': round(target), 'glyphs': {}}
+    for name in forms.get(n, [n]):
+        g = font[name]
+        c = D.ufo_contours(g)
+        x0, _, x1, top = D.bounds(c)
+        if abs(top - target) < 2:
+            continue
+        mask = D.raster(c, g.width)
+        w, topo = D.stroke(mask), D.topology(mask)
+        s = (target - w / 2) / (top - w / 2)        # s·top + (1 − s)·w/2 = высота m
+        t = D.transform(c, s, (s - 1) * w / 2)
+        nx0, _, nx1, _ = D.bounds(t)
+        adv = g.width
+        g.width = int(round(nx1 - nx0 + x0 + (g.width - x1)))
+        D.set_ufo_contours(g, t, x0 - nx0)
+        after = D.raster(D.ufo_contours(g), g.width)
+        assert D.topology(after) == topo, name
+        report['glyphs'][name] = {'s': round(s, 4), 'top': [round(top), round(D.bounds(D.ufo_contours(g))[3])],
+                                  'stroke': [round(w, 1), round(D.stroke(after), 1)], 'advance': [adv, g.width]}
+    return report
+
+
+LIFT_ALWAYS = 'акцщ'    # обещано в README и CONTEXTS: «л» после любой формы этих букв всегда выше (0.6.4)
+
+
+def lift_always(font, base_pairs, exc, rep_r, rep_l, forms, lifted):
+    """«л» после любой формы а, к, ц, щ: подъём LIFT всегда; кернинг — левее, насколько
+    позволяет зазор CLEAR_LETTERS с подъёмом, но не правее прежнего."""
+    import touch
+    T = touch.Touch(font)
+    lefts = [x for g in font if g.unicodes and chr(g.unicodes[0]) in LIFT_ALWAYS for x in forms.get(g.name, [g.name])]
+    targets = [x for g in font if g.unicodes and chr(g.unicodes[0]) in LIFT_TARGETS for x in forms.get(g.name, [g.name])]
+    def eff(a, b):
+        if (a, b) in exc:
+            return exc[(a, b)]
+        return base_pairs.get((rep_r.get(a, a), rep_l.get(b, b)), 0)
+    added = 0
+    for a in lefts:
+        for b in targets:
+            if (a, b) in lifted:
+                continue
+            k0 = eff(a, b)
+            k = k0 + 60
+            while k > k0 - 200 and T.dist(a, b, k - 5, LIFT) >= CLEAR_LETTERS:
+                k -= 5
+            lifted[(a, b)] = (int(min(k0, k)), LIFT)
+            exc[(a, b)] = int(min(k0, k))
+            added += 1
+    return added
+
+
+def final_clearance(font, base_pairs, exc, rep_r, rep_l, lifted, rot, cmap_rev):
+    """Последний проход зазора по парам, которые реально встречаются в наборе (модель
+    scripts/alternates_model.py), с подъёмом: край не ближе CLEAR_LETTERS (буквы и цифры),
+    CLEAR_OTHER (знаки), LAMBDA_FLOOR перед Λ-буквами, TUCK_FLOOR перед «д». Раздвигается
+    без ограничения шага — проход 0.6.0 останавливался на +150 ед. Латиница↔кириллица и
+    пары табличных цифр между собой не трогаются."""
+    import touch
+    sys.path.insert(0, str(ROOT / 'scripts'))
+    import alternates_model as M
+    T = touch.Touch(font)
+    cmap = {ord(c): n for n, c in cmap_rev.items()}
+    def eff(a, b):
+        if (a, b) in exc:
+            return exc[(a, b)]
+        return base_pairs.get((rep_r.get(a, a), rep_l.get(b, b)), 0)
+    def floor(b, ca, cb):
+        if b == TUCK:
+            return TUCK_FLOOR
+        if cb in LAMBDA_FAMILY:
+            return LAMBDA_FLOOR
+        return CLEAR_LETTERS if ca.isalnum() and cb.isalnum() else CLEAR_OTHER
+    fixed = {}
+    for a, b in sorted(M.reachable_pairs(cmap, rot)):
+        ca, cb = char_of(a, cmap_rev), char_of(b, cmap_rev)
+        if not ca or not cb or not ca.strip() or not cb.strip():
+            continue
+        if ('.tab' in a and '.tab' in b) or (ca in LAT and cb in CYR) or (ca in CYR and cb in LAT):
+            continue
+        dy = lifted[(a, b)][1] if (a, b) in lifted else 0
+        k0 = k = eff(a, b)
+        lim = floor(b, ca, cb)
+        while T.dist(a, b, k, dy) < lim:
+            k += 5
+        if k != k0:
+            exc[(a, b)] = k
+            if (a, b) in lifted:
+                lifted[(a, b)] = (k, dy)
+            fixed[(a, b)] = (k0, k)
+    return fixed
 
 
 def fix_stray_j_dot(font):
@@ -756,7 +905,10 @@ def main():
         dense_base, dense_alt, dense_target = densify(font, base_pairs, exc, rep_r, rep_l, spec['forms'], lifted)
         tuck = restore_tuck(font, base_pairs, exc, rep_r, rep_l, spec['forms'], parse_pairs(old_fea))
         n_lifted = len(lifted)
+        n_report = scale_n(font, spec['forms'])
         join_k = join_fit(font, exc, lifted)
+        lift_n = lift_always(font, base_pairs, exc, rep_r, rep_l, spec['forms'], lifted)
+        cleared = final_clearance(font, base_pairs, exc, rep_r, rep_l, lifted, rot_spec(spec), cmap_rev)
         clear_report[style] = {'base': {f'{a} {b}': v for (a, b), v in clear_base.items()},
                                'alternates': len(clear_alt)}
         font.features.text = build_features(old_fea, spec, base_pairs, exc, rep_r, rep_l, lifted)
@@ -770,17 +922,14 @@ def main():
                         'right_group': rep_r, 'left_group': rep_l}
         mv = np.array(list(moves.values()))
         print(style, f'точек вариантов {simplified[0]}→{simplified[1]}', '| пар «буква + д» возвращено к 0.5.5:', tuck, '| сближено рыхлых: базовых', len(dense_base), 'с вариантами', dense_alt,
-              'цели', {c: round(v) for c, v in dense_target.items()}, '| «л» поднято в парах', n_lifted, '| a.alt1 после r.after_e: кернинг', join_k,'| раздвинуто (слипались): базовых', len(clear_base), 'с вариантами', len(clear_alt), '| Λ-пар уплотнено', lam, '| пар «X+j» пересчитано', j_changed, '| цифры: масштаб', digits_report[style]['s'], 'пар пересчитано', digit_pairs,
+              'цели', {c: round(v) for c, v in dense_target.items()}, '| «л» поднято в парах', n_lifted, '| n до высоты m:', {k: v['top'] for k, v in n_report['glyphs'].items()}, '| a.alt1 после r.after_e: кернинг', join_k, '| «л» после а/к/ц/щ поднято дополнительно', lift_n, '| раздвинуто последним проходом', len(cleared),'| раздвинуто (слипались): базовых', len(clear_base), 'с вариантами', len(clear_alt), '| Λ-пар уплотнено', lam, '| пар «X+j» пересчитано', j_changed, '| цифры: масштаб', digits_report[style]['s'], 'пар пересчитано', digit_pairs,
               '| выровнено глифов', sum(1 for v in smooth_report[style].values() if 'moved' in v), '| глифов', len(order), 'новых', len(names), 'исключений кернинга', len(exc),
               '| сдвиг полей, медиана |лев| |прав|:', round(float(np.median(abs(mv[:, 0])))), round(float(np.median(abs(mv[:, 1])))))
     (HERE / 'clearance-report.json').write_text(json.dumps(clear_report, ensure_ascii=False, indent=0))
     (HERE / 'polish-report.json').write_text(json.dumps(all_polished, ensure_ascii=False, indent=0))
     (ROOT / 'qa/digits-2026-10-22/digits-report.json').write_text(json.dumps(digits_report, ensure_ascii=False, indent=1))
     (ROOT / 'qa/smooth-2026-10-22/smooth-report.json').write_text(json.dumps(smooth_report, ensure_ascii=False, indent=0))
-    rot = {'phases': spec['phases'], 'phase': spec['phase'], 'forms': spec['forms'], 'shift': spec['shift'],
-           'keep_after': [spec['forms'].get(KEEP_AFTER[0], [KEEP_AFTER[0]]), KEEP_AFTER[1]],
-           'join': join_rules(spec['forms'])}
-    (ROOT / 'tests/alternates-spec.json').write_text(json.dumps({'rotation': rot, 'kerning': specs},
+    (ROOT / 'tests/alternates-spec.json').write_text(json.dumps({'rotation': rot_spec(spec), 'kerning': specs},
                                                                ensure_ascii=False, separators=(',', ':')) + '\n')
 
 

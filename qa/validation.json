@@ -5,99 +5,113 @@
       "characters": 171,
       "pairs_per_calt_state": 29241,
       "tabular_pairs": 3320,
-      "contextual_cases": 60670,
+      "contextual_cases": 60682,
       "approved_geometry": true,
       "complete_metadata": true,
       "shaping_mismatches": 0,
-      "sha256": "6a426f2edf072ccce54717ac662ea3dae73edb6a802c99cac7d2ea0409a28522"
+      "sha256": "8e652a96ab6b0b612d90d258de2a214c8908756ce576ce8c4cc642f71b432af7"
     },
     "fonts/otf/ValeraSans-Light.otf": {
       "glyphs": 529,
       "characters": 171,
       "pairs_per_calt_state": 29241,
       "tabular_pairs": 3320,
-      "contextual_cases": 60670,
+      "contextual_cases": 60682,
       "approved_geometry": true,
       "complete_metadata": true,
       "shaping_mismatches": 0,
-      "sha256": "8d6361f0e24aa36e78ea5487d0fb6100fd65639ba46d61f7f1447687b00fe813"
+      "sha256": "8807c087364d69c4550dc3dd62e52314837745a4cff5131ceeb4f94ac5978064"
     },
     "fonts/web/ValeraSans-Light.woff2": {
       "glyphs": 529,
       "characters": 171,
       "pairs_per_calt_state": 29241,
       "tabular_pairs": 3320,
-      "contextual_cases": 60670,
+      "contextual_cases": 60682,
       "approved_geometry": true,
       "complete_metadata": true,
       "shaping_mismatches": 0,
-      "sha256": "7c25bd9778763a2d8963432d8607857d6d752a8b10e4b076f783b0435a915c44"
+      "sha256": "98895a135ce3838a8ba185fcb31703238557487d7d4e0f5531a36db3a95932bf"
     },
     "fonts/ttf/ValeraSans-Regular.ttf": {
       "glyphs": 529,
       "characters": 171,
       "pairs_per_calt_state": 29241,
       "tabular_pairs": 3320,
-      "contextual_cases": 60670,
+      "contextual_cases": 60682,
       "approved_geometry": true,
       "complete_metadata": true,
       "shaping_mismatches": 0,
-      "sha256": "04c58521daed3a8e486c4bd3b7d76421aa47c8613c2e57cb0f79be0b240db34f"
+      "sha256": "f117df4ee5d833f013a9f6719156968fe2ad68382d3d79ea3cbb194fbd7adebc"
     },
     "fonts/otf/ValeraSans-Regular.otf": {
       "glyphs": 529,
       "characters": 171,
       "pairs_per_calt_state": 29241,
       "tabular_pairs": 3320,
-      "contextual_cases": 60670,
+      "contextual_cases": 60682,
       "approved_geometry": true,
       "complete_metadata": true,
       "shaping_mismatches": 0,
-      "sha256": "0fc4f5aa42a4f79e846fe6e8bcffd23c0b52f097563277cd4d8758d943fb4b54"
+      "sha256": "988f640daa2c1466909127415a7e66950fd69da0569a6be079333dc69eae3a81"
     },
     "fonts/web/ValeraSans-Regular.woff2": {
       "glyphs": 529,
       "characters": 171,
       "pairs_per_calt_state": 29241,
       "tabular_pairs": 3320,
-      "contextual_cases": 60670,
+      "contextual_cases": 60682,
       "approved_geometry": true,
       "complete_metadata": true,
       "shaping_mismatches": 0,
-      "sha256": "64092f9c56e2670036349cfd4562f2de858b208a6cf1f68565a0ed1a2b774249"
+      "sha256": "39fb9398ca76e0fdca14ccc79a95ffa38ef3b24311a17cce94218ce6b40faaf6"
     },
     "fonts/ttf/ValeraSans-Semibold.ttf": {
       "glyphs": 529,
       "characters": 171,
       "pairs_per_calt_state": 29241,
       "tabular_pairs": 3320,
-      "contextual_cases": 60670,
+      "contextual_cases": 60682,
       "approved_geometry": true,
       "complete_metadata": true,
       "shaping_mismatches": 0,
-      "sha256": "168d7c5a632c367e0826767d13eae28ff4a65998d6b76ec3c9e69f83faf531b1"
+      "sha256": "31b794fc57567319caf2483d9f733bcdf943d4786fc425faf01901b9192b9587"
     },
     "fonts/otf/ValeraSans-Semibold.otf": {
       "glyphs": 529,
       "characters": 171,
       "pairs_per_calt_state": 29241,
       "tabular_pairs": 3320,
-      "contextual_cases": 60670,
+      "contextual_cases": 60682,
       "approved_geometry": true,
       "complete_metadata": true,
       "shaping_mismatches": 0,
-      "sha256": "a74423b667c7d9cd1abd3f7543167da7dcb95517976c62b63cc968a814889e83"
+      "sha256": "663039846ed7fc9f95801c623f779f5c0a56c27dfe16acd300c1ab581ca28410"
     },
     "fonts/web/ValeraSans-Semibold.woff2": {
       "glyphs": 529,
       "characters": 171,
       "pairs_per_calt_state": 29241,
       "tabular_pairs": 3320,
-      "contextual_cases": 60670,
+      "contextual_cases": 60682,
       "approved_geometry": true,
       "complete_metadata": true,
       "shaping_mismatches": 0,
-      "sha256": "eb122b6540f6a018603ca9e79de8bcfa60e4a74e8751ae8cbf8aab9a6892e058"
+      "sha256": "97cdec5a6bdc9e34b9c97a7453c80ece7d098cb0de5f3b6c4503e2255de4b674"
+    }
+  },
+  "promises": {
+    "Light": {
+      "edge_clearance_pairs": 52457,
+      "violations": 0
+    },
+    "Regular": {
+      "edge_clearance_pairs": 51153,
+      "violations": 0
+    },
+    "Semibold": {
+      "edge_clearance_pairs": 46803,
+      "violations": 0
     }
   },
   "relative_document_links_checked": 40

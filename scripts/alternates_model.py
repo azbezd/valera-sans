@@ -27,20 +27,26 @@ def base_names(text, cmap, calt):
     return out
 
 
-def rotate(names):
+def rotate(names, rot=None):
+    """Чередование; «д» сразу после любой формы «а» не чередуется (ignore в lookup Rotate)."""
+    rot = rot or ROT
+    keep = rot.get('keep_after')
+    lefts, target = (set(keep[0]), keep[1]) if keep else (set(), None)
     out = list(names)
     for i in range(1, len(out)):
         g = out[i]
-        if g in ROT['shift']:
-            forms = ROT['forms'][g]
-            k = ROT['phase'][out[i - 1]]
-            out[i] = forms[(k + ROT['shift'][g]) % len(forms)]
+        if g == target and out[i - 1] in lefts:
+            continue
+        if g in rot['shift']:
+            forms = rot['forms'][g]
+            k = rot['phase'][out[i - 1]]
+            out[i] = forms[(k + rot['shift'][g]) % len(forms)]
     return out
 
 
-def keep_after(names):
+def keep_after(names, rot=None):
     """После любой формы левой буквы — базовая форма целевой (отдельный lookup после Rotate)."""
-    rule = ROT.get('keep_after')
+    rule = (rot or ROT).get('keep_after')
     if not rule:
         return names
     lefts, target = set(rule[0]), rule[1]
@@ -51,29 +57,64 @@ def keep_after(names):
     return out
 
 
-def join(names):
-    """Стык e–r–a (lookup Join после KeepAfter): форма по соседнему глифу — «before»
-    смотрит на следующий, «after» на предыдущий; на позиции срабатывает первое правило."""
-    rules = ROT.get('join', [])
+def join(names, rot=None):
+    """Стык e–r–a (lookup Join после KeepAfter). Правило: глиф из «from» становится «to»,
+    если предыдущий (уже обработанный) глиф входит в «after», а следующие (ещё не
+    обработанные) — по порядку в классы «before»; на позиции срабатывает первое правило."""
+    rules = _join_sets(rot or ROT)
     out = list(names)
     for i, g in enumerate(out):
-        for r in rules:
-            if g not in r['from']:
+        for src, to, after, ahead in rules:
+            if g not in src:
                 continue
-            if ('before' in r and i + 1 < len(out) and out[i + 1] == r['before']) or \
-                    ('after' in r and i > 0 and out[i - 1] == r['after']):
-                out[i] = r['to']
-                break
+            if after is not None and not (i > 0 and out[i - 1] in after):
+                continue
+            if any(i + 1 + j >= len(out) or out[i + 1 + j] not in cls for j, cls in enumerate(ahead)):
+                continue
+            out[i] = to
+            break
     return out
 
 
-def expected_names(text, cmap, calt=True, tab=False):
+_JOIN_CACHE = {}
+
+
+def _join_sets(rot):
+    key = id(rot)
+    if key not in _JOIN_CACHE:
+        _JOIN_CACHE[key] = (rot, [(set(r['from']), r['to'], set(r['after']) if 'after' in r else None,
+                                   [set(c) for c in r.get('before', [])]) for r in rot.get('join', [])])
+    return _JOIN_CACHE[key][1]
+
+
+def expected_names(text, cmap, calt=True, tab=False, rot=None):
     names = base_names(text, cmap, calt)
     if calt:
-        names = join(keep_after(rotate(names)))
+        names = join(keep_after(rotate(names, rot), rot), rot)
     if tab:
         names = [n.split('.alt')[0] + '.tab' if n.split('.alt')[0] in DIGITS else n for n in names]
     return names
+
+
+def reachable_pairs(cmap, rot=None):
+    """Пары соседних глифов, которые встречаются в наборе (calt вкл., tnum вкл./выкл.):
+    {(левый, правый): пример строки}. Форма глифа зависит от соседей, поэтому перебираются
+    все тройки знаков (пара — второй и третий), плюс «XYer» и «Xeer» для правил Join,
+    которые смотрят на два глифа вперёд."""
+    chars = [chr(c) for c in sorted(cmap) if chr(c).strip()]
+    out = {}
+    def add(s, i, tab=False):
+        n = expected_names(s, cmap, True, tab, rot)
+        out.setdefault((n[i], n[i + 1]), s)
+    for x in chars:
+        for y in chars:
+            add(x + y + 'er', 1)
+            for z in chars:
+                add(x + y + z, 1)
+                if y.isdigit() or z.isdigit():
+                    add(x + y + z, 1, tab=True)
+        add(x + 'eer', 1)
+    return out
 
 
 class Kerning:

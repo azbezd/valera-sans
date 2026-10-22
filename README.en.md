@@ -8,7 +8,7 @@ Valery Isachenkov's handwriting, with a living line and both Cyrillic and Latin 
 
 ![Valera Sans lettering with the artist’s painting Youth](docs/assets/banner.webp)
 
-[Download 0.6.3](https://github.com/azbezd/valera-sans/releases/tag/v0.6.3) · [Try the font](https://azbezd.github.io/valera-sans/specimen/) · [License](LICENSE)
+[Download 0.6.4](https://github.com/azbezd/valera-sans/releases/tag/v0.6.4) · [Try the font](https://azbezd.github.io/valera-sans/specimen/) · [License](LICENSE)
 
 **Free personal and commercial use · attribution required · no font modifications.**
 
@@ -18,7 +18,7 @@ These letters began on the author's handwritten sheets and scans. Their tails, a
 
 ## Start using it
 
-Download the [ready-to-use package](https://github.com/azbezd/valera-sans/releases/download/v0.6.3/ValeraSans-0.6.3-fonts.zip). Install **either TTF or OTF** on your computer. For websites, use **WOFF2** with the supplied CSS.
+Download the [ready-to-use package](https://github.com/azbezd/valera-sans/releases/download/v0.6.4/ValeraSans-0.6.4-fonts.zip). Install **either TTF or OTF** on your computer. For websites, use **WOFF2** with the supplied CSS.
 
 | Style | Weight | Formats |
 |---|---:|---|
@@ -52,13 +52,13 @@ The paintings illustrate the font in use. Reusing the artwork reproductions sepa
 
 ## Letters and behavior
 
-The Russian alphabet, including Ё/ё, basic Latin A–Z/a–z, digits, punctuation, ₽, № and °: **171 encoded characters and 529 glyphs**, including 348 additional handwritten alternates of 151 characters taken from the author's scans. They rotate automatically through `calt`: a repeated letter never repeats its shape, and forms vary pseudo-randomly across the text. The handwritten tails of `а` and `a` are preserved. Latin `r` changes shape immediately after lowercase Latin `e`: `er` uses the flowing form; `re` and an isolated `r` use the upright form. Before that `r` the `e` always keeps its default form, and a following `a` takes its hooked form, set slightly higher and closer so no hole opens under the arm of the `r`: «Valera», «every», «era». This is a built-in OpenType `calt` rule.
+The Russian alphabet, including Ё/ё, basic Latin A–Z/a–z, digits, punctuation, ₽, № and °: **171 encoded characters and 529 glyphs**, including 347 additional handwritten alternates of 150 characters taken from the author's scans (one more scan became the degree sign). They rotate automatically through `calt`: a repeated letter never repeats its shape and runs through all its forms (except Latin `i`, which has no alternates), and forms vary pseudo-randomly across the text. The handwritten tails of `а` and `a` are preserved. Latin `r` changes shape immediately after lowercase Latin `e`: `er` uses the flowing form; `re` and an isolated `r` use the upright form. Before that `r` the `e` always keeps its default form (in «engineer» the first of two `e` is an alternate, so they never repeat), and a following `a` takes its hooked form, set slightly higher and closer so no hole opens under the arm of the `r`: «Valera», «every», «era». This is a built-in OpenType `calt` rule.
 
-Cyrillic `у` takes its open form after letters where the loop would leave a gap, as in «дуга», «луна» and «купить»; see the [full list of contexts](docs/CONTEXTS.md). After any form of `а` the plain `д` is used, its baseline stroke tucking under the tail. After lowercase Cyrillic letters with a bottom tail (`а`, `к`, `ц`, `щ`) the `л` sits slightly higher and closer; this lift, like the one of `a` after `er`, is part of kerning. Figures stand almost as tall as capitals, about 95% of the cap height, so prices and dates hold their own next to letters. Stroke edges are evened out: bumps and waves from the scans are smoothed, while shapes, corners and tails stay as drawn.
+Cyrillic `у` takes its open form after letters where the loop would leave a gap, as in «дуга», «луна» and «купить»; the open form rotates five loopless shapes (its own and four alternates from the scans); elsewhere `у` always keeps its loop. See the [full list of contexts](docs/CONTEXTS.md). After any form of `а` the plain `д` is used, its baseline stroke tucking under the tail. After any form of the lowercase Cyrillic letters with a bottom tail (`а`, `к`, `ц`, `щ`) the `л` always sits slightly higher, and closer as far as the gap between the letters allows; this lift, like the one of `a` after `er`, is part of kerning. Figures stand almost as tall as capitals, about 95% of the cap height, so prices and dates hold their own next to letters. Stroke edges are evened out: bumps and waves from the scans are smoothed, while shapes, corners and tails stay as drawn.
 
 All three weights include pair kerning and tabular figures through `tnum`. The [interactive specimen](https://azbezd.github.io/valera-sans/specimen/) renders the actual fonts.
 
-**0.6.3 is a preview release.** Light and Semibold remain experimental. Extended Latin, italics, a variable axis and dedicated hinting are not included. [Validation and limitations](docs/VALIDATION.md).
+**0.6.4 is a preview release.** Light and Semibold remain experimental. Extended Latin, italics, a variable axis and dedicated hinting are not included. [Validation and limitations](docs/VALIDATION.md).
 
 ## Credit the author
 
