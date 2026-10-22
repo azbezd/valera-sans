@@ -36,6 +36,8 @@ from glyphraster import render, ASC  # noqa: E402
 import polish as POLISH  # noqa: E402
 sys.path.insert(0, str(Path(__file__).parent))
 import simplify as SIMPLIFY  # noqa: E402
+sys.path.insert(0, str(ROOT / 'qa/digits-2026-10-22'))
+import scale_digits as DIGITS  # noqa: E402
 
 STYLES = ['Light', 'Regular', 'Semibold']
 BAND = 10
@@ -631,8 +633,37 @@ def refit_j_column(font, base_pairs, names, style, cmap_rev):
     return changed
 
 
+def refit_digit_pairs(font, base_pairs, names, digits, style, cmap_rev):
+    """Пары с цифрами после их увеличения (qa/digits-2026-10-22) — той же формулой v0.4.
+    Табличные цифры получают только прежние пары (с открытой «у»), между собой не кернятся."""
+    tabs = [d for d in digits if d.endswith('.tab')]
+    plain = [d for d in digits if '.alt' not in d and not d.endswith('.tab')]
+    others = [n for n in names if not n.endswith('.tab') and char_of(n, cmap_rev)]
+    prof = profiles(font, sorted(set(others + tabs)))
+    extra = EXTRA[style]
+    oc = [char_of(n, cmap_rev) for n in others]
+    new = {}
+    for d in plain:
+        cd = char_of(d, cmap_rev)
+        for x, v in zip(others, formula(prof[d], [prof[x] for x in others], cd, oc, extra)):
+            new[(d, x)] = int(v)
+        for x, cx in zip(others, oc):
+            new[(x, d)] = int(formula(prof[x], [prof[d]], cx, [cd], extra)[0])
+    for a, b in [p for p in base_pairs if p[0] in tabs or p[1] in tabs]:
+        new[(a, b)] = int(formula(prof[a], [prof[b]], char_of(a, cmap_rev), [char_of(b, cmap_rev)], extra)[0])
+    changed = 0
+    for p, v in new.items():
+        changed += base_pairs.get(p, 0) != v
+        if v:
+            base_pairs[p] = v
+        else:
+            base_pairs.pop(p, None)
+    return changed
+
+
 def main():
     specs = {}
+    digits_report = {}
     all_polished = {}
     clear_report = {}
     for style in STYLES:
@@ -667,9 +698,12 @@ def main():
                 polished[g.name] = fx
         for n in manual_spans(font, style):
             polished.setdefault(n, []).append([0.0, 0.0, 0.0, 'manual'])
+        # цифры ≈95% высоты прописных при прежнем штрихе (выбор автора, 0.6.1)
+        digit_glyphs, digits_report[style] = DIGITS.scale_ufo(font, style)
         cmap_rev0 = {g.name: chr(g.unicodes[0]) for g in font if g.unicodes}
         base_names = [n for n in order if '.alt' not in n and char_of(n, cmap_rev0)]
         j_changed = refit_j_column(font, base_pairs, base_names, style, cmap_rev0)
+        digit_pairs = refit_digit_pairs(font, base_pairs, base_names, digit_glyphs, style, cmap_rev0)
         cmap_rev = {g.name: chr(g.unicodes[0]) for g in font if g.unicodes}
         moves = fit_sidebearings(font, groups, order, style, cmap_rev)
         exc, rep_r, rep_l = kerning(font, base_pairs, groups, order, style, cmap_rev)
@@ -693,10 +727,11 @@ def main():
                         'right_group': rep_r, 'left_group': rep_l}
         mv = np.array(list(moves.values()))
         print(style, f'точек вариантов {simplified[0]}→{simplified[1]}', '| пар «буква + д» возвращено к 0.5.5:', tuck, '| сближено рыхлых: базовых', len(dense_base), 'с вариантами', dense_alt,
-              'цели', {c: round(v) for c, v in dense_target.items()}, '| «л» поднято в парах', len(lifted), '| раздвинуто (слипались): базовых', len(clear_base), 'с вариантами', len(clear_alt), '| Λ-пар уплотнено', lam, '| пар «X+j» пересчитано', j_changed, '| глифов', len(order), 'новых', len(names), 'исключений кернинга', len(exc),
+              'цели', {c: round(v) for c, v in dense_target.items()}, '| «л» поднято в парах', len(lifted), '| раздвинуто (слипались): базовых', len(clear_base), 'с вариантами', len(clear_alt), '| Λ-пар уплотнено', lam, '| пар «X+j» пересчитано', j_changed, '| цифры: масштаб', digits_report[style]['s'], 'пар пересчитано', digit_pairs, '| глифов', len(order), 'новых', len(names), 'исключений кернинга', len(exc),
               '| сдвиг полей, медиана |лев| |прав|:', round(float(np.median(abs(mv[:, 0])))), round(float(np.median(abs(mv[:, 1])))))
     (HERE / 'clearance-report.json').write_text(json.dumps(clear_report, ensure_ascii=False, indent=0))
     (HERE / 'polish-report.json').write_text(json.dumps(all_polished, ensure_ascii=False, indent=0))
+    (ROOT / 'qa/digits-2026-10-22/digits-report.json').write_text(json.dumps(digits_report, ensure_ascii=False, indent=1))
     rot = {'phases': spec['phases'], 'phase': spec['phase'], 'forms': spec['forms'], 'shift': spec['shift'],
            'keep_after': [spec['forms'].get(KEEP_AFTER[0], [KEEP_AFTER[0]]), KEEP_AFTER[1]]}
     (ROOT / 'tests/alternates-spec.json').write_text(json.dumps({'rotation': rot, 'kerning': specs},

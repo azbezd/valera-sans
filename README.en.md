@@ -8,7 +8,7 @@ Valery Isachenkov's handwriting, with a living line and both Cyrillic and Latin 
 
 ![Valera Sans lettering with the artist’s painting Youth](docs/assets/banner.webp)
 
-[Download 0.6.0](https://github.com/azbezd/valera-sans/releases/tag/v0.6.0) · [Try the font](https://azbezd.github.io/valera-sans/specimen/) · [License](LICENSE)
+[Download 0.6.1](https://github.com/azbezd/valera-sans/releases/tag/v0.6.1) · [Try the font](https://azbezd.github.io/valera-sans/specimen/) · [License](LICENSE)
 
 **Free personal and commercial use · attribution required · no font modifications.**
 
@@ -18,7 +18,7 @@ These letters began on the author's handwritten sheets and scans. Their tails, a
 
 ## Start using it
 
-Download the [ready-to-use package](https://github.com/azbezd/valera-sans/releases/download/v0.6.0/ValeraSans-0.6.0-fonts.zip). Install **either TTF or OTF** on your computer. For websites, use **WOFF2** with the supplied CSS.
+Download the [ready-to-use package](https://github.com/azbezd/valera-sans/releases/download/v0.6.1/ValeraSans-0.6.1-fonts.zip). Install **either TTF or OTF** on your computer. For websites, use **WOFF2** with the supplied CSS.
 
 | Style | Weight | Formats |
 |---|---:|---|
@@ -56,7 +56,7 @@ The Russian alphabet, including Ё/ё, basic Latin A–Z/a–z, digits, punctuat
 
 All three weights include pair kerning and tabular figures through `tnum`. The [interactive specimen](https://azbezd.github.io/valera-sans/specimen/) renders the actual fonts.
 
-**0.6.0 is a preview release.** Light and Semibold remain experimental. Extended Latin, italics, a variable axis and dedicated hinting are not included. [Validation and limitations](docs/VALIDATION.md).
+**0.6.1 is a preview release.** Light and Semibold remain experimental. Extended Latin, italics, a variable axis and dedicated hinting are not included. [Validation and limitations](docs/VALIDATION.md).
 
 ## Credit the author
 

@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.6.1 — 2026-10-22
+
+- Enlarge all figures (default, tabular and alternate forms) to about 95% of the cap height in all three weights: Regular 607 → 696 units, Light 604 → 691, Semibold 624 → 708 (caps 728–745). Previously figures sat between lowercase and caps (~61% of the em) and looked small next to letters, for example in prices.
+- Keep the stroke weight: each figure is scaled from the baseline and its outline offset inwards by the stroke growth, so stroke thickness stays within ±3.5% of the original; same points, counters unchanged.
+- Thicken the default Semibold zero, drawn with the Regular stroke since 0.5.1 (62 → 88 units, as the other Semibold zeros).
+- Proportional figures keep their sidebearings; tabular figures get a common wider advance (Light 527 → 584, Regular 543 → 601, Semibold 576 → 647).
+- Recompute kerning of every pair with a figure using the 0.4 spacing formula (2 288 / 2 400 / 2 234 base pairs changed in Light / Regular / Semibold), followed by the usual alternate, clearance and tightening passes.
+- OpenType revision: **0.601**.
+
 ## 0.6.0 — 2026-10-22
 
 - Remove scanned ink drips from 5, 9, a, j, }, а, б, д and э (and tabular 5/9) in the weights where they occurred; remove a detached speck under } in Regular.

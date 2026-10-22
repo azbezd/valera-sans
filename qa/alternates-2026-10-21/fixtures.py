@@ -19,6 +19,7 @@ from alternates_model import expected_names, Kerning, SPEC  # noqa: E402
 STYLES = ['Light', 'Regular', 'Semibold']
 BASE_TAG = 'df51644'   # эталон после правки капель — с него стартует integrate (.orig)
 CHANGED_BASE = {'uni006A'}          # убрана лишняя точка (i со скана)
+CHANGED_BASE |= {f'uni003{d}{t}' for d in range(10) for t in ('', '.tab')}   # цифры крупнее (qa/digits-2026-10-22)
 POLISHED = json.loads((Path(__file__).parent / 'polish-report.json').read_text())  # отполированные глифы
 NEW_ENCODED = {'uni00B0': 0xB0}
 
@@ -52,7 +53,8 @@ def main():
         for name, cp in NEW_ENCODED.items():
             rec['cmap'][str(cp)] = name
         rec['source'] += ('; alternates-2026-10-21: 348 scan alternates, degree sign, stray dot removed from j, '
-                          'drips/spikes/dents polished (qa/contour-cleanup-2026-10-21)')
+                          'drips/spikes/dents polished (qa/contour-cleanup-2026-10-21); '
+                          'digits-2026-10-22: figures scaled to ~95% of cap height, stroke kept, Semibold zero evened')
         cmap = {int(k): v for k, v in rec['cmap'].items()}
         chars = ''.join(chr(c) for c in sorted(cmap))
         kern = Kerning(style)

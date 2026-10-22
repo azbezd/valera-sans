@@ -1,0 +1,142 @@
+{
+ "Light": {
+  "caps": 728,
+  "digits_top": 604,
+  "digit_stroke": 56.3,
+  "letter_stroke": 55.8,
+  "95": {
+   "s": 1.1526,
+   "d": 4.3,
+   "digits_top_after": 691,
+   "zero_fixed": {},
+   "stroke_ratio_median": 1.0,
+   "stroke_ratio_range": [
+    0.977,
+    1.035
+   ],
+   "topology_changed": [],
+   "erosion_mismatch_max": 0.0187,
+   "tab_advance": [
+    527,
+    584
+   ]
+  },
+  "100": {
+   "s": 1.2158,
+   "d": 6.08,
+   "digits_top_after": 728,
+   "zero_fixed": {},
+   "stroke_ratio_median": 1.0,
+   "stroke_ratio_range": [
+    0.974,
+    1.09
+   ],
+   "topology_changed": [],
+   "erosion_mismatch_max": 0.0194,
+   "tab_advance": [
+    527,
+    608
+   ]
+  }
+ },
+ "Regular": {
+  "caps": 734,
+  "digits_top": 607,
+  "digit_stroke": 65.8,
+  "letter_stroke": 66.5,
+  "95": {
+   "s": 1.1558,
+   "d": 5.12,
+   "digits_top_after": 696,
+   "zero_fixed": {},
+   "stroke_ratio_median": 0.999,
+   "stroke_ratio_range": [
+    0.973,
+    1.019
+   ],
+   "topology_changed": [],
+   "erosion_mismatch_max": 0.0239,
+   "tab_advance": [
+    543,
+    601
+   ]
+  },
+  "100": {
+   "s": 1.2197,
+   "d": 7.22,
+   "digits_top_after": 733,
+   "zero_fixed": {},
+   "stroke_ratio_median": 0.999,
+   "stroke_ratio_range": [
+    0.971,
+    1.019
+   ],
+   "topology_changed": [
+    "uni0034.alt1"
+   ],
+   "erosion_mismatch_max": 0.015,
+   "tab_advance": [
+    543,
+    625
+   ]
+  }
+ },
+ "Semibold": {
+  "caps": 745,
+  "digits_top": 624,
+  "digit_stroke": 89.6,
+  "letter_stroke": 90.4,
+  "95": {
+   "s": 1.1435,
+   "d": 6.43,
+   "digits_top_after": 708,
+   "zero_fixed": {
+    "uni0030": [
+     61.6,
+     88.1
+    ],
+    "uni0030.tab": [
+     61.6,
+     87.9
+    ]
+   },
+   "stroke_ratio_median": 1.0,
+   "stroke_ratio_range": [
+    0.985,
+    1.43
+   ],
+   "topology_changed": [],
+   "erosion_mismatch_max": 0.0109,
+   "tab_advance": [
+    576,
+    647
+   ]
+  },
+  "100": {
+   "s": 1.2077,
+   "d": 9.3,
+   "digits_top_after": 745,
+   "zero_fixed": {
+    "uni0030": [
+     61.6,
+     88.1
+    ],
+    "uni0030.tab": [
+     61.6,
+     87.7
+    ]
+   },
+   "stroke_ratio_median": 0.999,
+   "stroke_ratio_range": [
+    0.984,
+    1.43
+   ],
+   "topology_changed": [],
+   "erosion_mismatch_max": 0.0114,
+   "tab_advance": [
+    576,
+    667
+   ]
+  }
+ }
+}

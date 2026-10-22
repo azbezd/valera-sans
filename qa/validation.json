@@ -9,7 +9,7 @@
       "approved_geometry": true,
       "complete_metadata": true,
       "shaping_mismatches": 0,
-      "sha256": "6456ca94b0999605c2a2c7d7e79885f74b3fdba1dff06ebbe0f91d0ba197a4e6"
+      "sha256": "0d0659d19d89145caf861e02d895abe041f730480a5b1862090ec0b80f64725f"
     },
     "fonts/otf/ValeraSans-Light.otf": {
       "glyphs": 529,
@@ -20,7 +20,7 @@
       "approved_geometry": true,
       "complete_metadata": true,
       "shaping_mismatches": 0,
-      "sha256": "5274ac372e5a78f142966dd60e8e416a037e635e31abff99fca8c67bf862a4d0"
+      "sha256": "6887c68701b149db6e28274eadb8fd931ff3c50b33bc8fbdbf2b582c62ce5f5b"
     },
     "fonts/web/ValeraSans-Light.woff2": {
       "glyphs": 529,
@@ -31,7 +31,7 @@
       "approved_geometry": true,
       "complete_metadata": true,
       "shaping_mismatches": 0,
-      "sha256": "a822ea3dea3da686af8ab2d3ae0284ee377b522df35e019203170580947e3854"
+      "sha256": "54bb96c93dcf4e78245e6df0c6871d5b6d6e7fd3f8e097208de281e33711974d"
     },
     "fonts/ttf/ValeraSans-Regular.ttf": {
       "glyphs": 529,
@@ -42,7 +42,7 @@
       "approved_geometry": true,
       "complete_metadata": true,
       "shaping_mismatches": 0,
-      "sha256": "7882291d6b36db56f44f9e872cff8c2f4bb45a90803a9c9d64c5e7898421fc5f"
+      "sha256": "51b1b8701a962b5a29d9b844f3c4f47ca060b022b96ea8f8c763296953d1fb00"
     },
     "fonts/otf/ValeraSans-Regular.otf": {
       "glyphs": 529,
@@ -53,7 +53,7 @@
       "approved_geometry": true,
       "complete_metadata": true,
       "shaping_mismatches": 0,
-      "sha256": "abf9c5693f4ff8f4ce6ed1b21b7a5553d78dac514e633d0f921f6b7ea139fc9f"
+      "sha256": "d0afc2cdcbfea345b472de32df19f0bfe41f537b291ab9b4562cb99aad4dd16e"
     },
     "fonts/web/ValeraSans-Regular.woff2": {
       "glyphs": 529,
@@ -64,7 +64,7 @@
       "approved_geometry": true,
       "complete_metadata": true,
       "shaping_mismatches": 0,
-      "sha256": "3144d18dc995737494c2e5cecbc6f8eda1aae162d0934a898ef5183d52ef0152"
+      "sha256": "68b91e76f1dfc35e11b070b2d15e59f85cf62ac070e496c6f442e7fa34c1da5b"
     },
     "fonts/ttf/ValeraSans-Semibold.ttf": {
       "glyphs": 529,
@@ -75,7 +75,7 @@
       "approved_geometry": true,
       "complete_metadata": true,
       "shaping_mismatches": 0,
-      "sha256": "1bd203ebe975d28bc660770c84e296cc9bb8cbc6238d2fc2ab105c0da8d544b0"
+      "sha256": "b3988bcbd7576b6b9a8044d99b248817bad6f867aff8d8ef7297b53d8cd9dd91"
     },
     "fonts/otf/ValeraSans-Semibold.otf": {
       "glyphs": 529,
@@ -86,7 +86,7 @@
       "approved_geometry": true,
       "complete_metadata": true,
       "shaping_mismatches": 0,
-      "sha256": "0aea394650e488db90436dc56bae8b0d03fc9036eaccce7099f7a991bbdc24f2"
+      "sha256": "90dd2b817ab1912b0154de2616b397101d341fcc6735acd61122a0703ab7c762"
     },
     "fonts/web/ValeraSans-Semibold.woff2": {
       "glyphs": 529,
@@ -97,8 +97,8 @@
       "approved_geometry": true,
       "complete_metadata": true,
       "shaping_mismatches": 0,
-      "sha256": "5c7e4f8abeb873b4a9a12e21e8605ffb801a21dab6361fb0b1fb62b467778056"
+      "sha256": "995fe21ccf59dc480abcdd57c2f285ab935c672f0e6bee3e647fc655953527b4"
     }
   },
-  "relative_document_links_checked": 38
+  "relative_document_links_checked": 39
 }

@@ -1,0 +1,2057 @@
+{
+ "Light": {
+  "s": 1.1525,
+  "caps": 728,
+  "top_before": 604,
+  "stroke": 56.3,
+  "tab_advance": [
+   527,
+   584
+  ],
+  "glyphs": {
+   "uni0030": {
+    "offset": 3.84,
+    "advance": [
+     463,
+     511
+    ],
+    "stroke": [
+     50.4,
+     50.6
+    ],
+    "topology_same": true
+   },
+   "uni0031": {
+    "offset": 4.19,
+    "advance": [
+     398,
+     431
+    ],
+    "stroke": [
+     54.9,
+     54.3
+    ],
+    "topology_same": true
+   },
+   "uni0032": {
+    "offset": 4.21,
+    "advance": [
+     491,
+     542
+    ],
+    "stroke": [
+     55.2,
+     54.9
+    ],
+    "topology_same": true
+   },
+   "uni0033": {
+    "offset": 4.11,
+    "advance": [
+     527,
+     584
+    ],
+    "stroke": [
+     53.9,
+     53.8
+    ],
+    "topology_same": true
+   },
+   "uni0034": {
+    "offset": 4.73,
+    "advance": [
+     448,
+     492
+    ],
+    "stroke": [
+     62.0,
+     62.0
+    ],
+    "topology_same": true
+   },
+   "uni0035": {
+    "offset": 4.52,
+    "advance": [
+     471,
+     518
+    ],
+    "stroke": [
+     59.2,
+     60.0
+    ],
+    "topology_same": true
+   },
+   "uni0036": {
+    "offset": 4.11,
+    "advance": [
+     502,
+     555
+    ],
+    "stroke": [
+     53.9,
+     54.0
+    ],
+    "topology_same": true
+   },
+   "uni0037": {
+    "offset": 4.15,
+    "advance": [
+     493,
+     545
+    ],
+    "stroke": [
+     54.4,
+     54.0
+    ],
+    "topology_same": true
+   },
+   "uni0038": {
+    "offset": 3.98,
+    "advance": [
+     469,
+     517
+    ],
+    "stroke": [
+     52.2,
+     52.2
+    ],
+    "topology_same": true
+   },
+   "uni0039": {
+    "offset": 4.12,
+    "advance": [
+     382,
+     417
+    ],
+    "stroke": [
+     54.0,
+     55.8
+    ],
+    "topology_same": true
+   },
+   "uni0030.tab": {
+    "offset": 3.84,
+    "advance": [
+     527,
+     584
+    ],
+    "stroke": [
+     50.4,
+     50.0
+    ],
+    "topology_same": true
+   },
+   "uni0031.tab": {
+    "offset": 4.19,
+    "advance": [
+     527,
+     584
+    ],
+    "stroke": [
+     54.9,
+     54.9
+    ],
+    "topology_same": true
+   },
+   "uni0032.tab": {
+    "offset": 4.21,
+    "advance": [
+     527,
+     584
+    ],
+    "stroke": [
+     55.2,
+     55.0
+    ],
+    "topology_same": true
+   },
+   "uni0033.tab": {
+    "offset": 4.11,
+    "advance": [
+     527,
+     584
+    ],
+    "stroke": [
+     53.9,
+     53.7
+    ],
+    "topology_same": true
+   },
+   "uni0034.tab": {
+    "offset": 4.73,
+    "advance": [
+     527,
+     584
+    ],
+    "stroke": [
+     62.0,
+     62.0
+    ],
+    "topology_same": true
+   },
+   "uni0035.tab": {
+    "offset": 4.52,
+    "advance": [
+     527,
+     584
+    ],
+    "stroke": [
+     59.2,
+     60.0
+    ],
+    "topology_same": true
+   },
+   "uni0036.tab": {
+    "offset": 4.11,
+    "advance": [
+     527,
+     584
+    ],
+    "stroke": [
+     53.9,
+     54.0
+    ],
+    "topology_same": true
+   },
+   "uni0037.tab": {
+    "offset": 4.15,
+    "advance": [
+     527,
+     584
+    ],
+    "stroke": [
+     54.4,
+     54.0
+    ],
+    "topology_same": true
+   },
+   "uni0038.tab": {
+    "offset": 3.98,
+    "advance": [
+     527,
+     584
+    ],
+    "stroke": [
+     52.2,
+     52.3
+    ],
+    "topology_same": true
+   },
+   "uni0039.tab": {
+    "offset": 4.13,
+    "advance": [
+     527,
+     584
+    ],
+    "stroke": [
+     54.1,
+     56.0
+    ],
+    "topology_same": true
+   },
+   "uni0030.alt1": {
+    "offset": 4.27,
+    "advance": [
+     562,
+     624
+    ],
+    "stroke": [
+     56.0,
+     55.8
+    ],
+    "topology_same": true
+   },
+   "uni0030.alt2": {
+    "offset": 4.3,
+    "advance": [
+     454,
+     499
+    ],
+    "stroke": [
+     56.4,
+     56.0
+    ],
+    "topology_same": true
+   },
+   "uni0030.alt3": {
+    "offset": 4.22,
+    "advance": [
+     476,
+     525
+    ],
+    "stroke": [
+     55.3,
+     54.9
+    ],
+    "topology_same": true
+   },
+   "uni0031.alt1": {
+    "offset": 4.34,
+    "advance": [
+     383,
+     413
+    ],
+    "stroke": [
+     56.9,
+     58.0
+    ],
+    "topology_same": true
+   },
+   "uni0031.alt2": {
+    "offset": 4.73,
+    "advance": [
+     251,
+     260
+    ],
+    "stroke": [
+     62.0,
+     60.8
+    ],
+    "topology_same": true
+   },
+   "uni0031.alt3": {
+    "offset": 4.58,
+    "advance": [
+     291,
+     307
+    ],
+    "stroke": [
+     60.0,
+     60.0
+    ],
+    "topology_same": true
+   },
+   "uni0031.alt4": {
+    "offset": 4.27,
+    "advance": [
+     286,
+     302
+    ],
+    "stroke": [
+     56.0,
+     56.0
+    ],
+    "topology_same": true
+   },
+   "uni0031.alt5": {
+    "offset": 4.27,
+    "advance": [
+     304,
+     322
+    ],
+    "stroke": [
+     56.0,
+     56.0
+    ],
+    "topology_same": true
+   },
+   "uni0032.alt1": {
+    "offset": 4.37,
+    "advance": [
+     470,
+     518
+    ],
+    "stroke": [
+     57.3,
+     57.7
+    ],
+    "topology_same": true
+   },
+   "uni0032.alt2": {
+    "offset": 4.52,
+    "advance": [
+     507,
+     560
+    ],
+    "stroke": [
+     59.2,
+     59.2
+    ],
+    "topology_same": true
+   },
+   "uni0032.alt3": {
+    "offset": 4.77,
+    "advance": [
+     693,
+     774
+    ],
+    "stroke": [
+     62.5,
+     62.8
+    ],
+    "topology_same": true
+   },
+   "uni0032.alt4": {
+    "offset": 4.28,
+    "advance": [
+     590,
+     656
+    ],
+    "stroke": [
+     56.1,
+     56.0
+    ],
+    "topology_same": true
+   },
+   "uni0032.alt5": {
+    "offset": 4.34,
+    "advance": [
+     549,
+     609
+    ],
+    "stroke": [
+     56.9,
+     56.6
+    ],
+    "topology_same": true
+   },
+   "uni0033.alt1": {
+    "offset": 4.57,
+    "advance": [
+     525,
+     581
+    ],
+    "stroke": [
+     59.9,
+     59.9
+    ],
+    "topology_same": true
+   },
+   "uni0033.alt2": {
+    "offset": 4.43,
+    "advance": [
+     509,
+     562
+    ],
+    "stroke": [
+     58.1,
+     58.1
+    ],
+    "topology_same": true
+   },
+   "uni0034.alt1": {
+    "offset": 4.25,
+    "advance": [
+     427,
+     468
+    ],
+    "stroke": [
+     55.8,
+     54.6
+    ],
+    "topology_same": true
+   },
+   "uni0034.alt2": {
+    "offset": 4.52,
+    "advance": [
+     548,
+     607
+    ],
+    "stroke": [
+     59.2,
+     59.2
+    ],
+    "topology_same": true
+   },
+   "uni0034.alt3": {
+    "offset": 4.64,
+    "advance": [
+     394,
+     430
+    ],
+    "stroke": [
+     60.8,
+     60.5
+    ],
+    "topology_same": true
+   },
+   "uni0035.alt1": {
+    "offset": 4.58,
+    "advance": [
+     631,
+     703
+    ],
+    "stroke": [
+     60.0,
+     60.0
+    ],
+    "topology_same": true
+   },
+   "uni0035.alt2": {
+    "offset": 4.51,
+    "advance": [
+     472,
+     520
+    ],
+    "stroke": [
+     59.1,
+     60.0
+    ],
+    "topology_same": true
+   },
+   "uni0035.alt3": {
+    "offset": 4.16,
+    "advance": [
+     474,
+     523
+    ],
+    "stroke": [
+     54.6,
+     54.0
+    ],
+    "topology_same": true
+   },
+   "uni0035.alt4": {
+    "offset": 4.53,
+    "advance": [
+     572,
+     635
+    ],
+    "stroke": [
+     59.4,
+     58.5
+    ],
+    "topology_same": true
+   },
+   "uni0035.alt5": {
+    "offset": 4.31,
+    "advance": [
+     508,
+     561
+    ],
+    "stroke": [
+     56.6,
+     56.3
+    ],
+    "topology_same": true
+   },
+   "uni0036.alt1": {
+    "offset": 4.65,
+    "advance": [
+     456,
+     501
+    ],
+    "stroke": [
+     61.0,
+     60.9
+    ],
+    "topology_same": true
+   },
+   "uni0036.alt2": {
+    "offset": 4.45,
+    "advance": [
+     383,
+     417
+    ],
+    "stroke": [
+     58.3,
+     58.4
+    ],
+    "topology_same": true
+   },
+   "uni0036.alt3": {
+    "offset": 4.21,
+    "advance": [
+     492,
+     543
+    ],
+    "stroke": [
+     55.2,
+     55.3
+    ],
+    "topology_same": true
+   },
+   "uni0037.alt1": {
+    "offset": 4.37,
+    "advance": [
+     413,
+     452
+    ],
+    "stroke": [
+     57.3,
+     56.0
+    ],
+    "topology_same": true
+   },
+   "uni0037.alt2": {
+    "offset": 4.27,
+    "advance": [
+     542,
+     601
+    ],
+    "stroke": [
+     56.0,
+     56.0
+    ],
+    "topology_same": true
+   },
+   "uni0037.alt3": {
+    "offset": 4.42,
+    "advance": [
+     477,
+     526
+    ],
+    "stroke": [
+     58.0,
+     58.0
+    ],
+    "topology_same": true
+   },
+   "uni0038.alt1": {
+    "offset": 4.07,
+    "advance": [
+     436,
+     479
+    ],
+    "stroke": [
+     53.4,
+     53.9
+    ],
+    "topology_same": true
+   },
+   "uni0038.alt2": {
+    "offset": 4.37,
+    "advance": [
+     450,
+     495
+    ],
+    "stroke": [
+     57.3,
+     57.3
+    ],
+    "topology_same": true
+   },
+   "uni0038.alt3": {
+    "offset": 4.42,
+    "advance": [
+     391,
+     427
+    ],
+    "stroke": [
+     58.0,
+     58.0
+    ],
+    "topology_same": true
+   },
+   "uni0039.alt1": {
+    "offset": 4.23,
+    "advance": [
+     372,
+     405
+    ],
+    "stroke": [
+     55.5,
+     56.0
+    ],
+    "topology_same": true
+   },
+   "uni0039.alt2": {
+    "offset": 4.3,
+    "advance": [
+     464,
+     511
+    ],
+    "stroke": [
+     56.3,
+     56.0
+    ],
+    "topology_same": true
+   },
+   "uni0039.alt3": {
+    "offset": 4.46,
+    "advance": [
+     396,
+     432
+    ],
+    "stroke": [
+     58.4,
+     58.1
+    ],
+    "topology_same": true
+   },
+   "uni0039.alt4": {
+    "offset": 4.49,
+    "advance": [
+     353,
+     383
+    ],
+    "stroke": [
+     58.9,
+     59.1
+    ],
+    "topology_same": true
+   }
+  },
+  "top_after": 691
+ },
+ "Regular": {
+  "s": 1.1558,
+  "caps": 734,
+  "top_before": 607,
+  "stroke": 65.8,
+  "tab_advance": [
+   543,
+   601
+  ],
+  "glyphs": {
+   "uni0030": {
+    "offset": 4.8,
+    "advance": [
+     478,
+     527
+    ],
+    "stroke": [
+     61.6,
+     62.0
+    ],
+    "topology_same": true
+   },
+   "uni0031": {
+    "offset": 5.29,
+    "advance": [
+     416,
+     449
+    ],
+    "stroke": [
+     67.9,
+     66.4
+    ],
+    "topology_same": true
+   },
+   "uni0032": {
+    "offset": 5.09,
+    "advance": [
+     510,
+     562
+    ],
+    "stroke": [
+     65.4,
+     65.8
+    ],
+    "topology_same": true
+   },
+   "uni0033": {
+    "offset": 4.99,
+    "advance": [
+     543,
+     601
+    ],
+    "stroke": [
+     64.0,
+     64.0
+    ],
+    "topology_same": true
+   },
+   "uni0034": {
+    "offset": 5.64,
+    "advance": [
+     463,
+     508
+    ],
+    "stroke": [
+     72.4,
+     72.0
+    ],
+    "topology_same": true
+   },
+   "uni0035": {
+    "offset": 5.47,
+    "advance": [
+     487,
+     536
+    ],
+    "stroke": [
+     70.2,
+     70.1
+    ],
+    "topology_same": true
+   },
+   "uni0036": {
+    "offset": 5.02,
+    "advance": [
+     518,
+     572
+    ],
+    "stroke": [
+     64.4,
+     64.0
+    ],
+    "topology_same": true
+   },
+   "uni0037": {
+    "offset": 5.16,
+    "advance": [
+     508,
+     560
+    ],
+    "stroke": [
+     66.3,
+     66.5
+    ],
+    "topology_same": true
+   },
+   "uni0038": {
+    "offset": 4.88,
+    "advance": [
+     485,
+     535
+    ],
+    "stroke": [
+     62.6,
+     63.2
+    ],
+    "topology_same": true
+   },
+   "uni0039": {
+    "offset": 5.05,
+    "advance": [
+     396,
+     431
+    ],
+    "stroke": [
+     64.8,
+     65.0
+    ],
+    "topology_same": true
+   },
+   "uni0030.tab": {
+    "offset": 4.8,
+    "advance": [
+     543,
+     601
+    ],
+    "stroke": [
+     61.6,
+     62.0
+    ],
+    "topology_same": true
+   },
+   "uni0031.tab": {
+    "offset": 5.29,
+    "advance": [
+     543,
+     601
+    ],
+    "stroke": [
+     67.9,
+     66.1
+    ],
+    "topology_same": true
+   },
+   "uni0032.tab": {
+    "offset": 5.09,
+    "advance": [
+     543,
+     601
+    ],
+    "stroke": [
+     65.4,
+     65.5
+    ],
+    "topology_same": true
+   },
+   "uni0033.tab": {
+    "offset": 4.99,
+    "advance": [
+     543,
+     601
+    ],
+    "stroke": [
+     64.0,
+     64.0
+    ],
+    "topology_same": true
+   },
+   "uni0034.tab": {
+    "offset": 5.64,
+    "advance": [
+     543,
+     601
+    ],
+    "stroke": [
+     72.4,
+     72.1
+    ],
+    "topology_same": true
+   },
+   "uni0035.tab": {
+    "offset": 5.47,
+    "advance": [
+     543,
+     601
+    ],
+    "stroke": [
+     70.2,
+     70.1
+    ],
+    "topology_same": true
+   },
+   "uni0036.tab": {
+    "offset": 5.02,
+    "advance": [
+     543,
+     601
+    ],
+    "stroke": [
+     64.4,
+     64.4
+    ],
+    "topology_same": true
+   },
+   "uni0037.tab": {
+    "offset": 5.16,
+    "advance": [
+     543,
+     601
+    ],
+    "stroke": [
+     66.3,
+     66.0
+    ],
+    "topology_same": true
+   },
+   "uni0038.tab": {
+    "offset": 4.88,
+    "advance": [
+     543,
+     601
+    ],
+    "stroke": [
+     62.6,
+     63.2
+    ],
+    "topology_same": true
+   },
+   "uni0039.tab": {
+    "offset": 5.05,
+    "advance": [
+     543,
+     601
+    ],
+    "stroke": [
+     64.8,
+     66.0
+    ],
+    "topology_same": true
+   },
+   "uni0030.alt1": {
+    "offset": 4.92,
+    "advance": [
+     574,
+     637
+    ],
+    "stroke": [
+     63.2,
+     62.1
+    ],
+    "topology_same": true
+   },
+   "uni0030.alt2": {
+    "offset": 5.07,
+    "advance": [
+     466,
+     512
+    ],
+    "stroke": [
+     65.1,
+     65.1
+    ],
+    "topology_same": true
+   },
+   "uni0030.alt3": {
+    "offset": 5.01,
+    "advance": [
+     488,
+     538
+    ],
+    "stroke": [
+     64.3,
+     64.1
+    ],
+    "topology_same": true
+   },
+   "uni0031.alt1": {
+    "offset": 5.05,
+    "advance": [
+     394,
+     425
+    ],
+    "stroke": [
+     64.8,
+     65.5
+    ],
+    "topology_same": true
+   },
+   "uni0031.alt2": {
+    "offset": 5.45,
+    "advance": [
+     264,
+     273
+    ],
+    "stroke": [
+     70.0,
+     69.0
+    ],
+    "topology_same": true
+   },
+   "uni0031.alt3": {
+    "offset": 5.45,
+    "advance": [
+     304,
+     320
+    ],
+    "stroke": [
+     70.0,
+     70.0
+    ],
+    "topology_same": true
+   },
+   "uni0031.alt4": {
+    "offset": 5.0,
+    "advance": [
+     298,
+     314
+    ],
+    "stroke": [
+     64.1,
+     64.0
+    ],
+    "topology_same": true
+   },
+   "uni0031.alt5": {
+    "offset": 4.99,
+    "advance": [
+     316,
+     335
+    ],
+    "stroke": [
+     64.0,
+     62.5
+    ],
+    "topology_same": true
+   },
+   "uni0032.alt1": {
+    "offset": 5.15,
+    "advance": [
+     484,
+     533
+    ],
+    "stroke": [
+     66.1,
+     66.0
+    ],
+    "topology_same": true
+   },
+   "uni0032.alt2": {
+    "offset": 5.24,
+    "advance": [
+     519,
+     573
+    ],
+    "stroke": [
+     67.2,
+     67.1
+    ],
+    "topology_same": true
+   },
+   "uni0032.alt3": {
+    "offset": 5.53,
+    "advance": [
+     706,
+     788
+    ],
+    "stroke": [
+     71.0,
+     70.8
+    ],
+    "topology_same": true
+   },
+   "uni0032.alt4": {
+    "offset": 5.02,
+    "advance": [
+     603,
+     671
+    ],
+    "stroke": [
+     64.4,
+     64.0
+    ],
+    "topology_same": true
+   },
+   "uni0032.alt5": {
+    "offset": 5.14,
+    "advance": [
+     563,
+     624
+    ],
+    "stroke": [
+     66.0,
+     66.0
+    ],
+    "topology_same": true
+   },
+   "uni0033.alt1": {
+    "offset": 5.29,
+    "advance": [
+     538,
+     595
+    ],
+    "stroke": [
+     67.9,
+     67.5
+    ],
+    "topology_same": true
+   },
+   "uni0033.alt2": {
+    "offset": 5.19,
+    "advance": [
+     521,
+     576
+    ],
+    "stroke": [
+     66.6,
+     66.8
+    ],
+    "topology_same": true
+   },
+   "uni0034.alt1": {
+    "offset": 4.99,
+    "advance": [
+     439,
+     481
+    ],
+    "stroke": [
+     64.0,
+     64.0
+    ],
+    "topology_same": true
+   },
+   "uni0034.alt2": {
+    "offset": 5.29,
+    "advance": [
+     560,
+     620
+    ],
+    "stroke": [
+     67.9,
+     68.0
+    ],
+    "topology_same": true
+   },
+   "uni0034.alt3": {
+    "offset": 5.38,
+    "advance": [
+     409,
+     446
+    ],
+    "stroke": [
+     69.1,
+     69.0
+    ],
+    "topology_same": true
+   },
+   "uni0035.alt1": {
+    "offset": 5.3,
+    "advance": [
+     643,
+     716
+    ],
+    "stroke": [
+     68.0,
+     68.0
+    ],
+    "topology_same": true
+   },
+   "uni0035.alt2": {
+    "offset": 5.3,
+    "advance": [
+     483,
+     532
+    ],
+    "stroke": [
+     68.0,
+     68.0
+    ],
+    "topology_same": true
+   },
+   "uni0035.alt3": {
+    "offset": 5.0,
+    "advance": [
+     486,
+     536
+    ],
+    "stroke": [
+     64.2,
+     63.9
+    ],
+    "topology_same": true
+   },
+   "uni0035.alt4": {
+    "offset": 5.2,
+    "advance": [
+     585,
+     649
+    ],
+    "stroke": [
+     66.8,
+     66.5
+    ],
+    "topology_same": true
+   },
+   "uni0035.alt5": {
+    "offset": 5.1,
+    "advance": [
+     521,
+     576
+    ],
+    "stroke": [
+     65.5,
+     64.9
+    ],
+    "topology_same": true
+   },
+   "uni0036.alt1": {
+    "offset": 5.4,
+    "advance": [
+     468,
+     514
+    ],
+    "stroke": [
+     69.3,
+     68.9
+    ],
+    "topology_same": true
+   },
+   "uni0036.alt2": {
+    "offset": 5.24,
+    "advance": [
+     395,
+     430
+    ],
+    "stroke": [
+     67.2,
+     67.9
+    ],
+    "topology_same": true
+   },
+   "uni0036.alt3": {
+    "offset": 4.92,
+    "advance": [
+     504,
+     556
+    ],
+    "stroke": [
+     63.2,
+     63.6
+    ],
+    "topology_same": true
+   },
+   "uni0037.alt1": {
+    "offset": 5.03,
+    "advance": [
+     426,
+     466
+    ],
+    "stroke": [
+     64.6,
+     64.0
+    ],
+    "topology_same": true
+   },
+   "uni0037.alt2": {
+    "offset": 5.02,
+    "advance": [
+     556,
+     616
+    ],
+    "stroke": [
+     64.4,
+     64.3
+    ],
+    "topology_same": true
+   },
+   "uni0037.alt3": {
+    "offset": 5.16,
+    "advance": [
+     490,
+     540
+    ],
+    "stroke": [
+     66.2,
+     66.0
+    ],
+    "topology_same": true
+   },
+   "uni0038.alt1": {
+    "offset": 4.83,
+    "advance": [
+     449,
+     493
+    ],
+    "stroke": [
+     62.0,
+     61.6
+    ],
+    "topology_same": true
+   },
+   "uni0038.alt2": {
+    "offset": 5.14,
+    "advance": [
+     464,
+     510
+    ],
+    "stroke": [
+     66.0,
+     66.0
+    ],
+    "topology_same": true
+   },
+   "uni0038.alt3": {
+    "offset": 5.14,
+    "advance": [
+     403,
+     439
+    ],
+    "stroke": [
+     66.0,
+     66.0
+    ],
+    "topology_same": true
+   },
+   "uni0039.alt1": {
+    "offset": 4.99,
+    "advance": [
+     383,
+     416
+    ],
+    "stroke": [
+     64.0,
+     63.7
+    ],
+    "topology_same": true
+   },
+   "uni0039.alt2": {
+    "offset": 5.06,
+    "advance": [
+     477,
+     525
+    ],
+    "stroke": [
+     64.9,
+     65.1
+    ],
+    "topology_same": true
+   },
+   "uni0039.alt3": {
+    "offset": 5.21,
+    "advance": [
+     408,
+     445
+    ],
+    "stroke": [
+     66.8,
+     67.1
+    ],
+    "topology_same": true
+   },
+   "uni0039.alt4": {
+    "offset": 5.24,
+    "advance": [
+     365,
+     395
+    ],
+    "stroke": [
+     67.2,
+     66.8
+    ],
+    "topology_same": true
+   }
+  },
+  "top_after": 696
+ },
+ "Semibold": {
+  "s": 1.1435,
+  "caps": 745,
+  "top_before": 624,
+  "stroke": 89.6,
+  "tab_advance": [
+   576,
+   647
+  ],
+  "glyphs": {
+   "uni0030": {
+    "offset": -8.77,
+    "advance": [
+     488,
+     559
+    ],
+    "stroke": [
+     61.6,
+     88.1
+    ],
+    "topology_same": true
+   },
+   "uni0031": {
+    "offset": 6.53,
+    "advance": [
+     449,
+     480
+    ],
+    "stroke": [
+     91.1,
+     90.7
+    ],
+    "topology_same": true
+   },
+   "uni0032": {
+    "offset": 6.48,
+    "advance": [
+     544,
+     593
+    ],
+    "stroke": [
+     90.4,
+     90.1
+    ],
+    "topology_same": true
+   },
+   "uni0033": {
+    "offset": 6.26,
+    "advance": [
+     576,
+     630
+    ],
+    "stroke": [
+     87.2,
+     86.8
+    ],
+    "topology_same": true
+   },
+   "uni0034": {
+    "offset": 6.89,
+    "advance": [
+     497,
+     538
+    ],
+    "stroke": [
+     96.0,
+     96.0
+    ],
+    "topology_same": true
+   },
+   "uni0035": {
+    "offset": 6.68,
+    "advance": [
+     519,
+     563
+    ],
+    "stroke": [
+     93.1,
+     92.8
+    ],
+    "topology_same": true
+   },
+   "uni0036": {
+    "offset": 6.32,
+    "advance": [
+     551,
+     601
+    ],
+    "stroke": [
+     88.1,
+     88.0
+    ],
+    "topology_same": true
+   },
+   "uni0037": {
+    "offset": 6.48,
+    "advance": [
+     544,
+     592
+    ],
+    "stroke": [
+     90.4,
+     90.8
+    ],
+    "topology_same": true
+   },
+   "uni0038": {
+    "offset": 6.25,
+    "advance": [
+     519,
+     565
+    ],
+    "stroke": [
+     87.1,
+     86.6
+    ],
+    "topology_same": true
+   },
+   "uni0039": {
+    "offset": 6.33,
+    "advance": [
+     429,
+     462
+    ],
+    "stroke": [
+     88.2,
+     88.1
+    ],
+    "topology_same": true
+   },
+   "uni0030.tab": {
+    "offset": -8.77,
+    "advance": [
+     576,
+     647
+    ],
+    "stroke": [
+     61.6,
+     87.9
+    ],
+    "topology_same": true
+   },
+   "uni0031.tab": {
+    "offset": 6.53,
+    "advance": [
+     576,
+     647
+    ],
+    "stroke": [
+     91.1,
+     89.8
+    ],
+    "topology_same": true
+   },
+   "uni0032.tab": {
+    "offset": 6.48,
+    "advance": [
+     576,
+     647
+    ],
+    "stroke": [
+     90.4,
+     90.4
+    ],
+    "topology_same": true
+   },
+   "uni0033.tab": {
+    "offset": 6.26,
+    "advance": [
+     576,
+     647
+    ],
+    "stroke": [
+     87.2,
+     86.8
+    ],
+    "topology_same": true
+   },
+   "uni0034.tab": {
+    "offset": 6.89,
+    "advance": [
+     576,
+     647
+    ],
+    "stroke": [
+     96.0,
+     96.0
+    ],
+    "topology_same": true
+   },
+   "uni0035.tab": {
+    "offset": 6.68,
+    "advance": [
+     576,
+     647
+    ],
+    "stroke": [
+     93.1,
+     92.8
+    ],
+    "topology_same": true
+   },
+   "uni0036.tab": {
+    "offset": 6.32,
+    "advance": [
+     576,
+     647
+    ],
+    "stroke": [
+     88.1,
+     88.0
+    ],
+    "topology_same": true
+   },
+   "uni0037.tab": {
+    "offset": 6.48,
+    "advance": [
+     576,
+     647
+    ],
+    "stroke": [
+     90.4,
+     91.1
+    ],
+    "topology_same": true
+   },
+   "uni0038.tab": {
+    "offset": 6.25,
+    "advance": [
+     576,
+     647
+    ],
+    "stroke": [
+     87.1,
+     86.8
+    ],
+    "topology_same": true
+   },
+   "uni0039.tab": {
+    "offset": 6.33,
+    "advance": [
+     576,
+     647
+    ],
+    "stroke": [
+     88.2,
+     88.1
+    ],
+    "topology_same": true
+   },
+   "uni0030.alt1": {
+    "offset": 6.31,
+    "advance": [
+     608,
+     666
+    ],
+    "stroke": [
+     88.0,
+     87.7
+    ],
+    "topology_same": true
+   },
+   "uni0030.alt2": {
+    "offset": 6.33,
+    "advance": [
+     500,
+     543
+    ],
+    "stroke": [
+     88.3,
+     88.6
+    ],
+    "topology_same": true
+   },
+   "uni0030.alt3": {
+    "offset": 6.25,
+    "advance": [
+     522,
+     568
+    ],
+    "stroke": [
+     87.1,
+     87.4
+    ],
+    "topology_same": true
+   },
+   "uni0031.alt1": {
+    "offset": 6.35,
+    "advance": [
+     429,
+     458
+    ],
+    "stroke": [
+     88.5,
+     89.3
+    ],
+    "topology_same": true
+   },
+   "uni0031.alt2": {
+    "offset": 6.74,
+    "advance": [
+     298,
+     307
+    ],
+    "stroke": [
+     94.0,
+     93.7
+    ],
+    "topology_same": true
+   },
+   "uni0031.alt3": {
+    "offset": 6.62,
+    "advance": [
+     338,
+     353
+    ],
+    "stroke": [
+     92.3,
+     92.3
+    ],
+    "topology_same": true
+   },
+   "uni0031.alt4": {
+    "offset": 6.33,
+    "advance": [
+     332,
+     347
+    ],
+    "stroke": [
+     88.2,
+     88.4
+    ],
+    "topology_same": true
+   },
+   "uni0031.alt5": {
+    "offset": 6.25,
+    "advance": [
+     350,
+     367
+    ],
+    "stroke": [
+     87.1,
+     86.8
+    ],
+    "topology_same": true
+   },
+   "uni0032.alt1": {
+    "offset": 6.42,
+    "advance": [
+     517,
+     562
+    ],
+    "stroke": [
+     89.5,
+     89.8
+    ],
+    "topology_same": true
+   },
+   "uni0032.alt2": {
+    "offset": 6.53,
+    "advance": [
+     553,
+     603
+    ],
+    "stroke": [
+     91.0,
+     90.7
+    ],
+    "topology_same": true
+   },
+   "uni0032.alt3": {
+    "offset": 6.77,
+    "advance": [
+     739,
+     815
+    ],
+    "stroke": [
+     94.4,
+     94.8
+    ],
+    "topology_same": true
+   },
+   "uni0032.alt4": {
+    "offset": 6.31,
+    "advance": [
+     636,
+     698
+    ],
+    "stroke": [
+     88.0,
+     88.3
+    ],
+    "topology_same": true
+   },
+   "uni0032.alt5": {
+    "offset": 6.39,
+    "advance": [
+     595,
+     651
+    ],
+    "stroke": [
+     89.1,
+     89.2
+    ],
+    "topology_same": true
+   },
+   "uni0033.alt1": {
+    "offset": 6.61,
+    "advance": [
+     572,
+     625
+    ],
+    "stroke": [
+     92.1,
+     91.8
+    ],
+    "topology_same": true
+   },
+   "uni0033.alt2": {
+    "offset": 6.53,
+    "advance": [
+     555,
+     605
+    ],
+    "stroke": [
+     91.1,
+     90.2
+    ],
+    "topology_same": true
+   },
+   "uni0034.alt1": {
+    "offset": 6.3,
+    "advance": [
+     474,
+     513
+    ],
+    "stroke": [
+     87.9,
+     87.7
+    ],
+    "topology_same": true
+   },
+   "uni0034.alt2": {
+    "offset": 6.56,
+    "advance": [
+     594,
+     650
+    ],
+    "stroke": [
+     91.4,
+     90.0
+    ],
+    "topology_same": true
+   },
+   "uni0034.alt3": {
+    "offset": 6.68,
+    "advance": [
+     442,
+     476
+    ],
+    "stroke": [
+     93.1,
+     92.8
+    ],
+    "topology_same": true
+   },
+   "uni0035.alt1": {
+    "offset": 6.53,
+    "advance": [
+     677,
+     745
+    ],
+    "stroke": [
+     91.1,
+     91.8
+    ],
+    "topology_same": true
+   },
+   "uni0035.alt2": {
+    "offset": 6.6,
+    "advance": [
+     517,
+     562
+    ],
+    "stroke": [
+     92.0,
+     90.6
+    ],
+    "topology_same": true
+   },
+   "uni0035.alt3": {
+    "offset": 6.23,
+    "advance": [
+     520,
+     566
+    ],
+    "stroke": [
+     86.8,
+     86.4
+    ],
+    "topology_same": true
+   },
+   "uni0035.alt4": {
+    "offset": 6.5,
+    "advance": [
+     619,
+     678
+    ],
+    "stroke": [
+     90.6,
+     90.8
+    ],
+    "topology_same": true
+   },
+   "uni0035.alt5": {
+    "offset": 6.37,
+    "advance": [
+     555,
+     606
+    ],
+    "stroke": [
+     88.8,
+     88.8
+    ],
+    "topology_same": true
+   },
+   "uni0036.alt1": {
+    "offset": 6.61,
+    "advance": [
+     502,
+     544
+    ],
+    "stroke": [
+     92.2,
+     92.3
+    ],
+    "topology_same": true
+   },
+   "uni0036.alt2": {
+    "offset": 6.57,
+    "advance": [
+     430,
+     462
+    ],
+    "stroke": [
+     91.6,
+     92.0
+    ],
+    "topology_same": true
+   },
+   "uni0036.alt3": {
+    "offset": 6.26,
+    "advance": [
+     538,
+     586
+    ],
+    "stroke": [
+     87.2,
+     87.1
+    ],
+    "topology_same": true
+   },
+   "uni0037.alt1": {
+    "offset": 6.34,
+    "advance": [
+     460,
+     497
+    ],
+    "stroke": [
+     88.4,
+     87.9
+    ],
+    "topology_same": true
+   },
+   "uni0037.alt2": {
+    "offset": 6.3,
+    "advance": [
+     589,
+     644
+    ],
+    "stroke": [
+     87.9,
+     88.1
+    ],
+    "topology_same": true
+   },
+   "uni0037.alt3": {
+    "offset": 6.46,
+    "advance": [
+     524,
+     570
+    ],
+    "stroke": [
+     90.0,
+     90.0
+    ],
+    "topology_same": true
+   },
+   "uni0038.alt1": {
+    "offset": 6.16,
+    "advance": [
+     482,
+     522
+    ],
+    "stroke": [
+     85.9,
+     86.0
+    ],
+    "topology_same": true
+   },
+   "uni0038.alt2": {
+    "offset": 6.44,
+    "advance": [
+     497,
+     539
+    ],
+    "stroke": [
+     89.8,
+     89.4
+    ],
+    "topology_same": true
+   },
+   "uni0038.alt3": {
+    "offset": 6.43,
+    "advance": [
+     437,
+     470
+    ],
+    "stroke": [
+     89.6,
+     89.8
+    ],
+    "topology_same": true
+   },
+   "uni0039.alt1": {
+    "offset": 6.27,
+    "advance": [
+     416,
+     447
+    ],
+    "stroke": [
+     87.3,
+     86.6
+    ],
+    "topology_same": true
+   },
+   "uni0039.alt2": {
+    "offset": 6.31,
+    "advance": [
+     510,
+     554
+    ],
+    "stroke": [
+     88.0,
+     88.0
+    ],
+    "topology_same": true
+   },
+   "uni0039.alt3": {
+    "offset": 6.49,
+    "advance": [
+     442,
+     476
+    ],
+    "stroke": [
+     90.5,
+     90.5
+    ],
+    "topology_same": true
+   },
+   "uni0039.alt4": {
+    "offset": 6.51,
+    "advance": [
+     398,
+     426
+    ],
+    "stroke": [
+     90.7,
+     90.7
+    ],
+    "topology_same": true
+   }
+  },
+  "top_after": 708
+ }
+}
