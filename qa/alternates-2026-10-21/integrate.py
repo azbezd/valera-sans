@@ -319,7 +319,8 @@ def build_features(old_fea, spec, base_pairs, exc, rep_r, rep_l, lifted=None):
            '# Чередование вариантов: см. qa/alternates-2026-10-21/integrate.py',
            rotation_fea(spec), '',
            keep_after_fea(spec),
-           'feature calt {', ' lookup Contextual;', ' lookup Rotate;', ' lookup KeepAfter;', '} calt;', '']
+           join_fea(join_rules(spec['forms'])),
+           'feature calt {', ' lookup Contextual;', ' lookup Rotate;', ' lookup KeepAfter;', ' lookup Join;', '} calt;', '']
     rgroups, lgroups = {}, {}
     for a, r in rep_r.items():
         rgroups.setdefault(r, [r]).append(a)
@@ -341,7 +342,7 @@ def build_features(old_fea, spec, base_pairs, exc, rep_r, rep_l, lifted=None):
     if lifted:
         # Подъём второй буквы — отдельным контекстным правилом: пара с ValueRecord2
         # «съела» бы вторую букву, и кернинг следующей пары не применился бы.
-        out.append('# «л» после строчной: левее (кернинг выше) и чуть выше (подъём)')
+        out.append('# «л» после строчной и a.alt1 после r.after_e: левее (кернинг выше) и чуть выше (подъём)')
         out.append('lookup Lift {')
         by_target = {}
         for (a, b), (k, dy) in sorted(lifted.items()):
@@ -583,6 +584,41 @@ def restore_tuck(font, base_pairs, exc, rep_r, rep_l, forms, orig_pairs):
     return restored
 
 
+R_AFTER_E = 'uni0072.after_e'
+JOIN_E = 'uni0065'          # перед r.after_e — только обычная «e»: остальные стыкуются плохо (решение автора, 0.6.3)
+JOIN_A = 'uni0061.alt1'     # после r.after_e — a.alt1: меньше всего пустоты под плечом r во всех весах
+JOIN_LIFT = LIFT            # и чуть выше, чтобы встать левее (как «л» после хвостика)
+
+
+def join_rules(forms):
+    """Стык e–r–a: замены после Rotate и KeepAfter (отдельный lookup Join)."""
+    a_forms = forms[JOIN_A.split('.alt')[0]]
+    return [{'from': forms[JOIN_E][1:], 'to': JOIN_E, 'before': R_AFTER_E},
+            {'from': [n for n in a_forms if n != JOIN_A], 'to': JOIN_A, 'after': R_AFTER_E}]
+
+
+def join_fea(rules):
+    lines = ['# стык e–r–a: перед r.after_e — обычная «e», после — a.alt1 (решение автора, 0.6.3)', 'lookup Join {']
+    for r in rules:
+        src = f"[{' '.join(r['from'])}]'"
+        lines.append(f" sub {src} {r['before']} by {r['to']};" if 'before' in r else f" sub {r['after']} {src} by {r['to']};")
+    lines.append('} Join;')
+    return '\n'.join(lines)
+
+
+def join_fit(font, exc, lifted):
+    """a.alt1 после r.after_e: подъём JOIN_LIFT и кернинг вплотную до CLEAR_LETTERS —
+    пустота под плечом r закрывается. После всех общих проходов, чтобы они пару не меняли."""
+    import touch
+    T = touch.Touch(font)
+    k = 100
+    while k > -300 and T.dist(R_AFTER_E, JOIN_A, k - 5, JOIN_LIFT) >= CLEAR_LETTERS:
+        k -= 5
+    lifted[(R_AFTER_E, JOIN_A)] = (k, JOIN_LIFT)
+    exc[(R_AFTER_E, JOIN_A)] = k
+    return k
+
+
 def fix_stray_j_dot(font):
     """У базовой j лишняя точка слева — точка соседней i со скана («ij»). Удаляем контур,
     который целиком левее основной точки и ниже её (в Light/Regular/Semibold он один)."""
@@ -719,6 +755,8 @@ def main():
             exc[(a, b)] = k
         dense_base, dense_alt, dense_target = densify(font, base_pairs, exc, rep_r, rep_l, spec['forms'], lifted)
         tuck = restore_tuck(font, base_pairs, exc, rep_r, rep_l, spec['forms'], parse_pairs(old_fea))
+        n_lifted = len(lifted)
+        join_k = join_fit(font, exc, lifted)
         clear_report[style] = {'base': {f'{a} {b}': v for (a, b), v in clear_base.items()},
                                'alternates': len(clear_alt)}
         font.features.text = build_features(old_fea, spec, base_pairs, exc, rep_r, rep_l, lifted)
@@ -732,7 +770,7 @@ def main():
                         'right_group': rep_r, 'left_group': rep_l}
         mv = np.array(list(moves.values()))
         print(style, f'точек вариантов {simplified[0]}→{simplified[1]}', '| пар «буква + д» возвращено к 0.5.5:', tuck, '| сближено рыхлых: базовых', len(dense_base), 'с вариантами', dense_alt,
-              'цели', {c: round(v) for c, v in dense_target.items()}, '| «л» поднято в парах', len(lifted), '| раздвинуто (слипались): базовых', len(clear_base), 'с вариантами', len(clear_alt), '| Λ-пар уплотнено', lam, '| пар «X+j» пересчитано', j_changed, '| цифры: масштаб', digits_report[style]['s'], 'пар пересчитано', digit_pairs,
+              'цели', {c: round(v) for c, v in dense_target.items()}, '| «л» поднято в парах', n_lifted, '| a.alt1 после r.after_e: кернинг', join_k,'| раздвинуто (слипались): базовых', len(clear_base), 'с вариантами', len(clear_alt), '| Λ-пар уплотнено', lam, '| пар «X+j» пересчитано', j_changed, '| цифры: масштаб', digits_report[style]['s'], 'пар пересчитано', digit_pairs,
               '| выровнено глифов', sum(1 for v in smooth_report[style].values() if 'moved' in v), '| глифов', len(order), 'новых', len(names), 'исключений кернинга', len(exc),
               '| сдвиг полей, медиана |лев| |прав|:', round(float(np.median(abs(mv[:, 0])))), round(float(np.median(abs(mv[:, 1])))))
     (HERE / 'clearance-report.json').write_text(json.dumps(clear_report, ensure_ascii=False, indent=0))
@@ -740,7 +778,8 @@ def main():
     (ROOT / 'qa/digits-2026-10-22/digits-report.json').write_text(json.dumps(digits_report, ensure_ascii=False, indent=1))
     (ROOT / 'qa/smooth-2026-10-22/smooth-report.json').write_text(json.dumps(smooth_report, ensure_ascii=False, indent=0))
     rot = {'phases': spec['phases'], 'phase': spec['phase'], 'forms': spec['forms'], 'shift': spec['shift'],
-           'keep_after': [spec['forms'].get(KEEP_AFTER[0], [KEEP_AFTER[0]]), KEEP_AFTER[1]]}
+           'keep_after': [spec['forms'].get(KEEP_AFTER[0], [KEEP_AFTER[0]]), KEEP_AFTER[1]],
+           'join': join_rules(spec['forms'])}
     (ROOT / 'tests/alternates-spec.json').write_text(json.dumps({'rotation': rot, 'kerning': specs},
                                                                ensure_ascii=False, separators=(',', ':')) + '\n')
 

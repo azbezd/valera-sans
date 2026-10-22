@@ -777,10 +777,16 @@ lookup Rotate {
 lookup KeepAfter {
  sub [uni0430 uni0430.alt1 uni0430.alt2 uni0430.alt3 uni0430.alt4 uni0430.alt5 uni0430.alt6] [uni0434.alt1 uni0434.alt2]' by uni0434;
 } KeepAfter;
+# стык e–r–a: перед r.after_e — обычная «e», после — a.alt1 (решение автора, 0.6.3)
+lookup Join {
+ sub [uni0065.alt1 uni0065.alt2 uni0065.alt3]' uni0072.after_e by uni0065;
+ sub uni0072.after_e [uni0061 uni0061.alt2]' by uni0061.alt1;
+} Join;
 feature calt {
  lookup Contextual;
  lookup Rotate;
  lookup KeepAfter;
+ lookup Join;
 } calt;
 
 @KR_uni0021 = [uni0021 uni0021.alt1 uni0021.alt2];
@@ -29502,7 +29508,7 @@ pos uni0072.after_e uni0053.alt2 -70;
 pos uni0072.after_e uni0053.alt3 5;
 pos uni0072.after_e uni0055.alt1 -10;
 pos uni0072.after_e uni0057.alt1 -30;
-pos uni0072.after_e uni0061.alt1 -40;
+pos uni0072.after_e uni0061.alt1 -95;
 pos uni0072.after_e uni0061.alt2 60;
 pos uni0072.after_e uni0062.alt1 -45;
 pos uni0072.after_e uni0064.alt1 -145;
@@ -98414,8 +98420,9 @@ pos uni0451 @KL_uni0446 -20;
 pos uni0451 @KL_uni0448 -20;
 pos uni0451 @KL_uni0449 -25;
 } AllPairs;
-# «л» после строчной: левее (кернинг выше) и чуть выше (подъём)
+# «л» после строчной и a.alt1 после r.after_e: левее (кернинг выше) и чуть выше (подъём)
 lookup Lift {
+ pos [uni0072.after_e] uni0061.alt1' <0 25 0 0>;
  pos [uni0430 uni0430.alt1 uni0430.alt2 uni0430.alt3 uni0430.alt4 uni0430.alt5 uni0430.alt6 uni043A uni043A.alt1 uni043A.alt2 uni043A.alt3 uni043A.alt5 uni043B.alt2 uni0446 uni0446.alt2 uni0449 uni0449.alt1 uni0449.alt3] uni043B' <0 25 0 0>;
  pos [uni043C.alt2 uni043D.alt1 uni043D.alt3 uni0447 uni0449.alt3] uni043B.alt1' <0 25 0 0>;
  pos [uni0430.alt1 uni0430.alt4 uni0430.alt6 uni043A.alt2 uni043A.alt3 uni043A.alt5 uni043C.alt2 uni043D.alt1 uni0446 uni0449 uni0449.alt1 uni0449.alt3] uni043B.alt2' <0 25 0 0>;

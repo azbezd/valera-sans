@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.6.3 — 2026-10-22
+
+- Keep the default Latin e before the flowing r (after e): the e alternates joined it badly. Valera, Vera, here, per, every, lever and similar words now always use the default e; in Valeera the first e keeps rotating. Rotation elsewhere is unchanged.
+- After the flowing r, Latin a always takes its hooked alternate, which leaves the least space under the arm of the r in all three weights. It is raised 25 units and kerned up to 50 units between the edges (Regular −85, was −20), so era, Valera and opera have no hole between r and a. The lift is part of `kern`, like the raised л.
+- Features only: outlines, advance widths and all other kerning are unchanged.
+- OpenType revision: **0.603**.
+
 ## 0.6.2 — 2026-10-22
 
 - Even out the stroke edges in all glyphs and weights: bumps and waves left from the scans are smoothed by an adaptive low-pass filter (strong on stems and bowls, light on tight curves and stroke ends), corners and joins kept. Edges move at most 8 units; dots, commas and quotes are left as drawn.

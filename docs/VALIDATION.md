@@ -36,5 +36,7 @@ Version 0.6.1 enlarges all figure forms to about 95% of the cap height (`qa/digi
 
 Version 0.6.2 evens the stroke edges of all glyphs (`qa/smooth-2026-10-22`). Each glyph keeps its number of parts and counters (checked on a raster, with a local freeze where smoothing would pinch a gap); edges move at most 8 units. All smoothed glyphs join the changed glyphs of the approved geometry, and kerning is recomputed through the same pipeline.
 
+Version 0.6.3 changes only OpenType features. A `Join` lookup after the rotation keeps the default e before the flowing r and selects `a.alt1` after it; `a.alt1` is raised 25 units and kerned up to 50 units between edges by the same lift lookup as л. The rules are part of `tests/alternates-spec.json` (`rotation.join`, `kerning.*.lift`) and of the model, so every erX / Xer context and the browser words (Valera, Vera, here, every, lever, Valeera, opera, era) are checked for the selected glyphs, kerning and lift. Outlines and advance widths are unchanged.
+
 Kerning of alternates is computed, not hand-tuned pair by pair: the 0.4 formula, a minimum of 50 units between glyph edges (40 with punctuation) and tightening of loose pairs towards the 40th percentile of their group. Visual review used the author's marked words and representative text in all three weights.
 

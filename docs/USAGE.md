@@ -24,7 +24,7 @@ Copy `fonts/web/` and load `valera-sans.css`. It supplies 300, 400 and 600 throu
 .prices { font-variant-numeric: tabular-nums; }
 ```
 
-`calt` drives all contextual forms: it rotates the 348 handwritten alternates (a repeated letter always changes shape), uses the open Cyrillic у in the contexts listed in [CONTEXTS.md](CONTEXTS.md), keeps the plain д after а, and selects the flowing Latin r immediately after lowercase Latin e (`Er`, `re`, Cyrillic е, spaces and punctuation do not trigger the r). With `calt` off every character keeps its default form. The raised л after letters with a bottom tail is part of `kern`. `tnum` gives digits equal advances. Tracking is a typesetting setting, not a replacement for pair kerning.
+`calt` drives all contextual forms: it rotates the 348 handwritten alternates (a repeated letter always changes shape), uses the open Cyrillic у in the contexts listed in [CONTEXTS.md](CONTEXTS.md), keeps the plain д after а, and selects the flowing Latin r immediately after lowercase Latin e (`Er`, `re`, Cyrillic е, spaces and punctuation do not trigger the r). Before that r the e always keeps its default form, and a following a takes the hooked alternate that joins it best (`Valera`, `every`, `era`). With `calt` off every character keeps its default form. The raised л after letters with a bottom tail and the raised a after the flowing r are part of `kern`. `tnum` gives digits equal advances. Tracking is a typesetting setting, not a replacement for pair kerning.
 
 ## Credit and embedding
 

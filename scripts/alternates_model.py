@@ -1,7 +1,7 @@
 """Ожидаемое поведение шрифта по спецификации tests/alternates-spec.json.
 
 Независимая от собранного файла модель: какие глифы выберет набор (контекстные r/у,
-затем чередование вариантов, затем tnum) и какой кернинг между ними. validate.py
+затем чередование вариантов, стык e–r–a, затем tnum) и какой кернинг между ними. validate.py
 сверяет с ней HarfBuzz, а тестовые таблицы пар строятся из неё же, не из сборки.
 """
 import json
@@ -51,10 +51,26 @@ def keep_after(names):
     return out
 
 
+def join(names):
+    """Стык e–r–a (lookup Join после KeepAfter): форма по соседнему глифу — «before»
+    смотрит на следующий, «after» на предыдущий; на позиции срабатывает первое правило."""
+    rules = ROT.get('join', [])
+    out = list(names)
+    for i, g in enumerate(out):
+        for r in rules:
+            if g not in r['from']:
+                continue
+            if ('before' in r and i + 1 < len(out) and out[i + 1] == r['before']) or \
+                    ('after' in r and i > 0 and out[i - 1] == r['after']):
+                out[i] = r['to']
+                break
+    return out
+
+
 def expected_names(text, cmap, calt=True, tab=False):
     names = base_names(text, cmap, calt)
     if calt:
-        names = keep_after(rotate(names))
+        names = join(keep_after(rotate(names)))
     if tab:
         names = [n.split('.alt')[0] + '.tab' if n.split('.alt')[0] in DIGITS else n for n in names]
     return names
