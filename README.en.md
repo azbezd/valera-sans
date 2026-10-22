@@ -52,7 +52,7 @@ The paintings illustrate the font in use. Reusing the artwork reproductions sepa
 
 ## Letters and behavior
 
-The Russian alphabet, including Ё/ё, basic Latin A–Z/a–z, digits, punctuation, ₽ and №: **170 encoded characters and 181 glyphs**. The handwritten tails of `а` and `a` are preserved. Latin `r` changes shape immediately after lowercase Latin `e`: `er` uses the flowing form; `re` and an isolated `r` use the upright form. This is a built-in OpenType `calt` rule.
+The Russian alphabet, including Ё/ё, basic Latin A–Z/a–z, digits, punctuation, ₽, № and °: **171 encoded characters and 529 glyphs**, including 348 additional handwritten alternates of 151 characters taken from the author's scans. They rotate automatically through `calt`: a repeated letter never repeats its shape, and forms vary pseudo-randomly across the text. The handwritten tails of `а` and `a` are preserved. Latin `r` changes shape immediately after lowercase Latin `e`: `er` uses the flowing form; `re` and an isolated `r` use the upright form. This is a built-in OpenType `calt` rule.
 
 All three weights include pair kerning and tabular figures through `tnum`. The [interactive specimen](https://azbezd.github.io/valera-sans/specimen/) renders the actual fonts.
 

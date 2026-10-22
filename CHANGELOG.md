@@ -5,6 +5,17 @@
 - Remove scanned ink drips from 5, 9, a, j, }, а, б, д and э (and tabular 5/9) in the weights where they occurred; remove a detached speck under } in Regular.
 - Redraw the clipped loop of the ц descender and smooth the dent under the щ tail in all three weights.
 - Local contour edits only: advance widths and kerning are unchanged; approved geometry updated for the 13 edited glyphs.
+- Add 348 handwritten alternates of 151 characters selected by the author from the scans, in all three weights: traced from the scans, stroke weight matched to each master, burrs and drips removed.
+- Rotate alternates automatically in `calt` after the contextual r/у rules: a repeated letter always changes shape; tabular figures map every digit form to its `.tab` glyph.
+- Kern alternates with the 0.4 spacing formula: profile-based kerning groups reproduce every approved base pair; per-pair exceptions where an alternate needs different spacing (Latin↔Cyrillic pairs are skipped, as shapers split such runs).
+- Add the degree sign °. Remove a stray dot (from the neighbouring i on the scan) from Latin j and refit the pairs before j.
+- Polish outlines in all glyphs and weights: narrow drips, spikes and chopped stroke ends replaced by smooth curves (inner corners of strokes kept); hook of j cleaned by hand. Alternates keep the counters of their scans.
+- Tighten pairs before Λ-shaped letters (л, Л, д, Д, А, A and their alternates) where the white space collects in a triangle at the top: up to 30 units, keeping the stroke ends at least 40 units apart.
+- Keep letters from touching: wherever the real distance between the edges of two glyphs (any forms) is below 50 units for letters and digits or 40 for punctuation, the pair is opened exactly to that limit (228 base pairs and 8 759 alternate combinations in Regular).
+- After lowercase Cyrillic letters with a bottom tail (а, к, ц, щ and some alternates) the л sits 25 units higher and further left, where this gains at least 15 units without the edges coming closer than 50 (a separate contextual lookup, so kerning of the next pair is kept).
+- Tighten loose letter pairs (same script, all form combinations): white space between letters is brought down to the 40th percentile of its case group, never closer than 50 units between edges.
+- After any form of а the plain д is used, and pairs before д keep the 0.5.5 values so its baseline stroke tucks under the previous letter (opened only where an alternate would come closer than 25 units).
+- Validation follows `tests/alternates-spec.json` through `scripts/alternates_model.py`; the legacy `kern` table keeps the base glyph pairs only.
 
 ## 0.5.5 — 2026-10-21
 

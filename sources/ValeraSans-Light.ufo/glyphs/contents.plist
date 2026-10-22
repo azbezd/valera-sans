@@ -10,78 +10,202 @@
     <string>space.narrow.glif</string>
     <key>uni0021</key>
     <string>uni0021.glif</string>
+    <key>uni0021.alt1</key>
+    <string>uni0021.alt1.glif</string>
+    <key>uni0021.alt2</key>
+    <string>uni0021.alt2.glif</string>
     <key>uni0022</key>
     <string>uni0022.glif</string>
+    <key>uni0022.alt1</key>
+    <string>uni0022.alt1.glif</string>
     <key>uni0023</key>
     <string>uni0023.glif</string>
+    <key>uni0023.alt1</key>
+    <string>uni0023.alt1.glif</string>
+    <key>uni0023.alt2</key>
+    <string>uni0023.alt2.glif</string>
     <key>uni0024</key>
     <string>uni0024.glif</string>
+    <key>uni0024.alt1</key>
+    <string>uni0024.alt1.glif</string>
     <key>uni0025</key>
     <string>uni0025.glif</string>
+    <key>uni0025.alt1</key>
+    <string>uni0025.alt1.glif</string>
+    <key>uni0025.alt2</key>
+    <string>uni0025.alt2.glif</string>
+    <key>uni0025.alt3</key>
+    <string>uni0025.alt3.glif</string>
     <key>uni0026</key>
     <string>uni0026.glif</string>
+    <key>uni0026.alt1</key>
+    <string>uni0026.alt1.glif</string>
+    <key>uni0026.alt2</key>
+    <string>uni0026.alt2.glif</string>
+    <key>uni0026.alt3</key>
+    <string>uni0026.alt3.glif</string>
+    <key>uni0026.alt4</key>
+    <string>uni0026.alt4.glif</string>
+    <key>uni0026.alt5</key>
+    <string>uni0026.alt5.glif</string>
     <key>uni0027</key>
     <string>uni0027.glif</string>
     <key>uni0028</key>
     <string>uni0028.glif</string>
+    <key>uni0028.alt1</key>
+    <string>uni0028.alt1.glif</string>
     <key>uni0029</key>
     <string>uni0029.glif</string>
+    <key>uni0029.alt1</key>
+    <string>uni0029.alt1.glif</string>
     <key>uni002A</key>
     <string>uni002A_.glif</string>
+    <key>uni002A.alt1</key>
+    <string>uni002A_.alt1.glif</string>
+    <key>uni002A.alt2</key>
+    <string>uni002A_.alt2.glif</string>
     <key>uni002B</key>
     <string>uni002B_.glif</string>
+    <key>uni002B.alt1</key>
+    <string>uni002B_.alt1.glif</string>
     <key>uni002C</key>
     <string>uni002C_.glif</string>
+    <key>uni002C.alt1</key>
+    <string>uni002C_.alt1.glif</string>
+    <key>uni002C.alt2</key>
+    <string>uni002C_.alt2.glif</string>
+    <key>uni002C.alt3</key>
+    <string>uni002C_.alt3.glif</string>
     <key>uni002D</key>
     <string>uni002D_.glif</string>
+    <key>uni002D.alt1</key>
+    <string>uni002D_.alt1.glif</string>
     <key>uni002E</key>
     <string>uni002E_.glif</string>
     <key>uni002F</key>
     <string>uni002F_.glif</string>
     <key>uni0030</key>
     <string>uni0030.glif</string>
+    <key>uni0030.alt1</key>
+    <string>uni0030.alt1.glif</string>
+    <key>uni0030.alt2</key>
+    <string>uni0030.alt2.glif</string>
+    <key>uni0030.alt3</key>
+    <string>uni0030.alt3.glif</string>
     <key>uni0030.tab</key>
     <string>uni0030.tab.glif</string>
     <key>uni0031</key>
     <string>uni0031.glif</string>
+    <key>uni0031.alt1</key>
+    <string>uni0031.alt1.glif</string>
+    <key>uni0031.alt2</key>
+    <string>uni0031.alt2.glif</string>
+    <key>uni0031.alt3</key>
+    <string>uni0031.alt3.glif</string>
+    <key>uni0031.alt4</key>
+    <string>uni0031.alt4.glif</string>
+    <key>uni0031.alt5</key>
+    <string>uni0031.alt5.glif</string>
     <key>uni0031.tab</key>
     <string>uni0031.tab.glif</string>
     <key>uni0032</key>
     <string>uni0032.glif</string>
+    <key>uni0032.alt1</key>
+    <string>uni0032.alt1.glif</string>
+    <key>uni0032.alt2</key>
+    <string>uni0032.alt2.glif</string>
+    <key>uni0032.alt3</key>
+    <string>uni0032.alt3.glif</string>
+    <key>uni0032.alt4</key>
+    <string>uni0032.alt4.glif</string>
+    <key>uni0032.alt5</key>
+    <string>uni0032.alt5.glif</string>
     <key>uni0032.tab</key>
     <string>uni0032.tab.glif</string>
     <key>uni0033</key>
     <string>uni0033.glif</string>
+    <key>uni0033.alt1</key>
+    <string>uni0033.alt1.glif</string>
+    <key>uni0033.alt2</key>
+    <string>uni0033.alt2.glif</string>
     <key>uni0033.tab</key>
     <string>uni0033.tab.glif</string>
     <key>uni0034</key>
     <string>uni0034.glif</string>
+    <key>uni0034.alt1</key>
+    <string>uni0034.alt1.glif</string>
+    <key>uni0034.alt2</key>
+    <string>uni0034.alt2.glif</string>
+    <key>uni0034.alt3</key>
+    <string>uni0034.alt3.glif</string>
     <key>uni0034.tab</key>
     <string>uni0034.tab.glif</string>
     <key>uni0035</key>
     <string>uni0035.glif</string>
+    <key>uni0035.alt1</key>
+    <string>uni0035.alt1.glif</string>
+    <key>uni0035.alt2</key>
+    <string>uni0035.alt2.glif</string>
+    <key>uni0035.alt3</key>
+    <string>uni0035.alt3.glif</string>
+    <key>uni0035.alt4</key>
+    <string>uni0035.alt4.glif</string>
+    <key>uni0035.alt5</key>
+    <string>uni0035.alt5.glif</string>
     <key>uni0035.tab</key>
     <string>uni0035.tab.glif</string>
     <key>uni0036</key>
     <string>uni0036.glif</string>
+    <key>uni0036.alt1</key>
+    <string>uni0036.alt1.glif</string>
+    <key>uni0036.alt2</key>
+    <string>uni0036.alt2.glif</string>
+    <key>uni0036.alt3</key>
+    <string>uni0036.alt3.glif</string>
     <key>uni0036.tab</key>
     <string>uni0036.tab.glif</string>
     <key>uni0037</key>
     <string>uni0037.glif</string>
+    <key>uni0037.alt1</key>
+    <string>uni0037.alt1.glif</string>
+    <key>uni0037.alt2</key>
+    <string>uni0037.alt2.glif</string>
+    <key>uni0037.alt3</key>
+    <string>uni0037.alt3.glif</string>
     <key>uni0037.tab</key>
     <string>uni0037.tab.glif</string>
     <key>uni0038</key>
     <string>uni0038.glif</string>
+    <key>uni0038.alt1</key>
+    <string>uni0038.alt1.glif</string>
+    <key>uni0038.alt2</key>
+    <string>uni0038.alt2.glif</string>
+    <key>uni0038.alt3</key>
+    <string>uni0038.alt3.glif</string>
     <key>uni0038.tab</key>
     <string>uni0038.tab.glif</string>
     <key>uni0039</key>
     <string>uni0039.glif</string>
+    <key>uni0039.alt1</key>
+    <string>uni0039.alt1.glif</string>
+    <key>uni0039.alt2</key>
+    <string>uni0039.alt2.glif</string>
+    <key>uni0039.alt3</key>
+    <string>uni0039.alt3.glif</string>
+    <key>uni0039.alt4</key>
+    <string>uni0039.alt4.glif</string>
     <key>uni0039.tab</key>
     <string>uni0039.tab.glif</string>
     <key>uni003A</key>
     <string>uni003A_.glif</string>
+    <key>uni003A.alt1</key>
+    <string>uni003A_.alt1.glif</string>
     <key>uni003B</key>
     <string>uni003B_.glif</string>
+    <key>uni003B.alt1</key>
+    <string>uni003B_.alt1.glif</string>
+    <key>uni003B.alt2</key>
+    <string>uni003B_.alt2.glif</string>
     <key>uni003C</key>
     <string>uni003C_.glif</string>
     <key>uni003D</key>
@@ -90,279 +214,851 @@
     <string>uni003E_.glif</string>
     <key>uni003F</key>
     <string>uni003F_.glif</string>
+    <key>uni003F.alt1</key>
+    <string>uni003F_.alt1.glif</string>
     <key>uni0040</key>
     <string>uni0040.glif</string>
+    <key>uni0040.alt1</key>
+    <string>uni0040.alt1.glif</string>
     <key>uni0041</key>
     <string>uni0041.glif</string>
+    <key>uni0041.alt1</key>
+    <string>uni0041.alt1.glif</string>
     <key>uni0042</key>
     <string>uni0042.glif</string>
+    <key>uni0042.alt1</key>
+    <string>uni0042.alt1.glif</string>
+    <key>uni0042.alt2</key>
+    <string>uni0042.alt2.glif</string>
     <key>uni0043</key>
     <string>uni0043.glif</string>
+    <key>uni0043.alt1</key>
+    <string>uni0043.alt1.glif</string>
     <key>uni0044</key>
     <string>uni0044.glif</string>
+    <key>uni0044.alt1</key>
+    <string>uni0044.alt1.glif</string>
     <key>uni0045</key>
     <string>uni0045.glif</string>
+    <key>uni0045.alt1</key>
+    <string>uni0045.alt1.glif</string>
+    <key>uni0045.alt2</key>
+    <string>uni0045.alt2.glif</string>
+    <key>uni0045.alt3</key>
+    <string>uni0045.alt3.glif</string>
     <key>uni0046</key>
     <string>uni0046.glif</string>
+    <key>uni0046.alt1</key>
+    <string>uni0046.alt1.glif</string>
     <key>uni0047</key>
     <string>uni0047.glif</string>
+    <key>uni0047.alt1</key>
+    <string>uni0047.alt1.glif</string>
+    <key>uni0047.alt2</key>
+    <string>uni0047.alt2.glif</string>
     <key>uni0048</key>
     <string>uni0048.glif</string>
+    <key>uni0048.alt1</key>
+    <string>uni0048.alt1.glif</string>
+    <key>uni0048.alt2</key>
+    <string>uni0048.alt2.glif</string>
     <key>uni0049</key>
     <string>uni0049.glif</string>
+    <key>uni0049.alt1</key>
+    <string>uni0049.alt1.glif</string>
     <key>uni004A</key>
     <string>uni004A_.glif</string>
+    <key>uni004A.alt1</key>
+    <string>uni004A_.alt1.glif</string>
     <key>uni004B</key>
     <string>uni004B_.glif</string>
+    <key>uni004B.alt1</key>
+    <string>uni004B_.alt1.glif</string>
     <key>uni004C</key>
     <string>uni004C_.glif</string>
+    <key>uni004C.alt1</key>
+    <string>uni004C_.alt1.glif</string>
     <key>uni004D</key>
     <string>uni004D_.glif</string>
+    <key>uni004D.alt1</key>
+    <string>uni004D_.alt1.glif</string>
     <key>uni004E</key>
     <string>uni004E_.glif</string>
+    <key>uni004E.alt1</key>
+    <string>uni004E_.alt1.glif</string>
+    <key>uni004E.alt2</key>
+    <string>uni004E_.alt2.glif</string>
+    <key>uni004E.alt3</key>
+    <string>uni004E_.alt3.glif</string>
+    <key>uni004E.alt4</key>
+    <string>uni004E_.alt4.glif</string>
     <key>uni004F</key>
     <string>uni004F_.glif</string>
+    <key>uni004F.alt1</key>
+    <string>uni004F_.alt1.glif</string>
+    <key>uni004F.alt2</key>
+    <string>uni004F_.alt2.glif</string>
+    <key>uni004F.alt3</key>
+    <string>uni004F_.alt3.glif</string>
+    <key>uni004F.alt4</key>
+    <string>uni004F_.alt4.glif</string>
     <key>uni0050</key>
     <string>uni0050.glif</string>
+    <key>uni0050.alt1</key>
+    <string>uni0050.alt1.glif</string>
     <key>uni0051</key>
     <string>uni0051.glif</string>
+    <key>uni0051.alt1</key>
+    <string>uni0051.alt1.glif</string>
     <key>uni0052</key>
     <string>uni0052.glif</string>
+    <key>uni0052.alt1</key>
+    <string>uni0052.alt1.glif</string>
+    <key>uni0052.alt2</key>
+    <string>uni0052.alt2.glif</string>
+    <key>uni0052.alt3</key>
+    <string>uni0052.alt3.glif</string>
+    <key>uni0052.alt4</key>
+    <string>uni0052.alt4.glif</string>
     <key>uni0053</key>
     <string>uni0053.glif</string>
+    <key>uni0053.alt1</key>
+    <string>uni0053.alt1.glif</string>
+    <key>uni0053.alt2</key>
+    <string>uni0053.alt2.glif</string>
+    <key>uni0053.alt3</key>
+    <string>uni0053.alt3.glif</string>
     <key>uni0054</key>
     <string>uni0054.glif</string>
+    <key>uni0054.alt1</key>
+    <string>uni0054.alt1.glif</string>
+    <key>uni0054.alt2</key>
+    <string>uni0054.alt2.glif</string>
     <key>uni0055</key>
     <string>uni0055.glif</string>
+    <key>uni0055.alt1</key>
+    <string>uni0055.alt1.glif</string>
     <key>uni0056</key>
     <string>uni0056.glif</string>
+    <key>uni0056.alt1</key>
+    <string>uni0056.alt1.glif</string>
+    <key>uni0056.alt2</key>
+    <string>uni0056.alt2.glif</string>
     <key>uni0057</key>
     <string>uni0057.glif</string>
+    <key>uni0057.alt1</key>
+    <string>uni0057.alt1.glif</string>
     <key>uni0058</key>
     <string>uni0058.glif</string>
+    <key>uni0058.alt1</key>
+    <string>uni0058.alt1.glif</string>
+    <key>uni0058.alt2</key>
+    <string>uni0058.alt2.glif</string>
     <key>uni0059</key>
     <string>uni0059.glif</string>
+    <key>uni0059.alt1</key>
+    <string>uni0059.alt1.glif</string>
     <key>uni005A</key>
     <string>uni005A_.glif</string>
+    <key>uni005A.alt1</key>
+    <string>uni005A_.alt1.glif</string>
     <key>uni005B</key>
     <string>uni005B_.glif</string>
     <key>uni005C</key>
     <string>uni005C_.glif</string>
+    <key>uni005C.alt1</key>
+    <string>uni005C_.alt1.glif</string>
     <key>uni005D</key>
     <string>uni005D_.glif</string>
     <key>uni005E</key>
     <string>uni005E_.glif</string>
+    <key>uni005E.alt1</key>
+    <string>uni005E_.alt1.glif</string>
     <key>uni005F</key>
     <string>uni005F_.glif</string>
     <key>uni0061</key>
     <string>uni0061.glif</string>
+    <key>uni0061.alt1</key>
+    <string>uni0061.alt1.glif</string>
+    <key>uni0061.alt2</key>
+    <string>uni0061.alt2.glif</string>
     <key>uni0062</key>
     <string>uni0062.glif</string>
+    <key>uni0062.alt1</key>
+    <string>uni0062.alt1.glif</string>
     <key>uni0063</key>
     <string>uni0063.glif</string>
+    <key>uni0063.alt1</key>
+    <string>uni0063.alt1.glif</string>
     <key>uni0064</key>
     <string>uni0064.glif</string>
+    <key>uni0064.alt1</key>
+    <string>uni0064.alt1.glif</string>
+    <key>uni0064.alt2</key>
+    <string>uni0064.alt2.glif</string>
     <key>uni0065</key>
     <string>uni0065.glif</string>
+    <key>uni0065.alt1</key>
+    <string>uni0065.alt1.glif</string>
+    <key>uni0065.alt2</key>
+    <string>uni0065.alt2.glif</string>
+    <key>uni0065.alt3</key>
+    <string>uni0065.alt3.glif</string>
     <key>uni0066</key>
     <string>uni0066.glif</string>
+    <key>uni0066.alt1</key>
+    <string>uni0066.alt1.glif</string>
+    <key>uni0066.alt2</key>
+    <string>uni0066.alt2.glif</string>
     <key>uni0067</key>
     <string>uni0067.glif</string>
+    <key>uni0067.alt1</key>
+    <string>uni0067.alt1.glif</string>
+    <key>uni0067.alt2</key>
+    <string>uni0067.alt2.glif</string>
     <key>uni0068</key>
     <string>uni0068.glif</string>
+    <key>uni0068.alt1</key>
+    <string>uni0068.alt1.glif</string>
     <key>uni0069</key>
     <string>uni0069.glif</string>
     <key>uni006A</key>
     <string>uni006A_.glif</string>
+    <key>uni006A.alt1</key>
+    <string>uni006A_.alt1.glif</string>
     <key>uni006B</key>
     <string>uni006B_.glif</string>
+    <key>uni006B.alt1</key>
+    <string>uni006B_.alt1.glif</string>
+    <key>uni006B.alt2</key>
+    <string>uni006B_.alt2.glif</string>
+    <key>uni006B.alt3</key>
+    <string>uni006B_.alt3.glif</string>
     <key>uni006C</key>
     <string>uni006C_.glif</string>
+    <key>uni006C.alt1</key>
+    <string>uni006C_.alt1.glif</string>
     <key>uni006D</key>
     <string>uni006D_.glif</string>
+    <key>uni006D.alt1</key>
+    <string>uni006D_.alt1.glif</string>
     <key>uni006E</key>
     <string>uni006E_.glif</string>
+    <key>uni006E.alt1</key>
+    <string>uni006E_.alt1.glif</string>
+    <key>uni006E.alt2</key>
+    <string>uni006E_.alt2.glif</string>
     <key>uni006F</key>
     <string>uni006F_.glif</string>
+    <key>uni006F.alt1</key>
+    <string>uni006F_.alt1.glif</string>
+    <key>uni006F.alt2</key>
+    <string>uni006F_.alt2.glif</string>
+    <key>uni006F.alt3</key>
+    <string>uni006F_.alt3.glif</string>
+    <key>uni006F.alt4</key>
+    <string>uni006F_.alt4.glif</string>
+    <key>uni006F.alt5</key>
+    <string>uni006F_.alt5.glif</string>
     <key>uni0070</key>
     <string>uni0070.glif</string>
+    <key>uni0070.alt1</key>
+    <string>uni0070.alt1.glif</string>
     <key>uni0071</key>
     <string>uni0071.glif</string>
+    <key>uni0071.alt1</key>
+    <string>uni0071.alt1.glif</string>
     <key>uni0072</key>
     <string>uni0072.glif</string>
     <key>uni0072.after_e</key>
     <string>uni0072.after_e.glif</string>
+    <key>uni0072.alt1</key>
+    <string>uni0072.alt1.glif</string>
+    <key>uni0072.alt2</key>
+    <string>uni0072.alt2.glif</string>
     <key>uni0073</key>
     <string>uni0073.glif</string>
+    <key>uni0073.alt1</key>
+    <string>uni0073.alt1.glif</string>
     <key>uni0074</key>
     <string>uni0074.glif</string>
+    <key>uni0074.alt1</key>
+    <string>uni0074.alt1.glif</string>
     <key>uni0075</key>
     <string>uni0075.glif</string>
+    <key>uni0075.alt1</key>
+    <string>uni0075.alt1.glif</string>
+    <key>uni0075.alt2</key>
+    <string>uni0075.alt2.glif</string>
     <key>uni0076</key>
     <string>uni0076.glif</string>
+    <key>uni0076.alt1</key>
+    <string>uni0076.alt1.glif</string>
     <key>uni0077</key>
     <string>uni0077.glif</string>
+    <key>uni0077.alt1</key>
+    <string>uni0077.alt1.glif</string>
     <key>uni0078</key>
     <string>uni0078.glif</string>
+    <key>uni0078.alt1</key>
+    <string>uni0078.alt1.glif</string>
     <key>uni0079</key>
     <string>uni0079.glif</string>
+    <key>uni0079.alt1</key>
+    <string>uni0079.alt1.glif</string>
+    <key>uni0079.alt2</key>
+    <string>uni0079.alt2.glif</string>
+    <key>uni0079.alt3</key>
+    <string>uni0079.alt3.glif</string>
     <key>uni007A</key>
     <string>uni007A_.glif</string>
+    <key>uni007A.alt1</key>
+    <string>uni007A_.alt1.glif</string>
     <key>uni007B</key>
     <string>uni007B_.glif</string>
     <key>uni007C</key>
     <string>uni007C_.glif</string>
+    <key>uni007C.alt1</key>
+    <string>uni007C_.alt1.glif</string>
     <key>uni007D</key>
     <string>uni007D_.glif</string>
     <key>uni007E</key>
     <string>uni007E_.glif</string>
     <key>uni00AB</key>
     <string>uni00A_B_.glif</string>
+    <key>uni00AB.alt1</key>
+    <string>uni00A_B_.alt1.glif</string>
+    <key>uni00B0</key>
+    <string>uni00B_0.glif</string>
     <key>uni00BB</key>
     <string>uni00B_B_.glif</string>
+    <key>uni00BB.alt1</key>
+    <string>uni00B_B_.alt1.glif</string>
     <key>uni0401</key>
     <string>uni0401.glif</string>
+    <key>uni0401.alt1</key>
+    <string>uni0401.alt1.glif</string>
+    <key>uni0401.alt2</key>
+    <string>uni0401.alt2.glif</string>
     <key>uni0410</key>
     <string>uni0410.glif</string>
+    <key>uni0410.alt1</key>
+    <string>uni0410.alt1.glif</string>
+    <key>uni0410.alt2</key>
+    <string>uni0410.alt2.glif</string>
+    <key>uni0410.alt3</key>
+    <string>uni0410.alt3.glif</string>
     <key>uni0411</key>
     <string>uni0411.glif</string>
+    <key>uni0411.alt1</key>
+    <string>uni0411.alt1.glif</string>
+    <key>uni0411.alt2</key>
+    <string>uni0411.alt2.glif</string>
+    <key>uni0411.alt3</key>
+    <string>uni0411.alt3.glif</string>
     <key>uni0412</key>
     <string>uni0412.glif</string>
+    <key>uni0412.alt1</key>
+    <string>uni0412.alt1.glif</string>
+    <key>uni0412.alt2</key>
+    <string>uni0412.alt2.glif</string>
     <key>uni0413</key>
     <string>uni0413.glif</string>
+    <key>uni0413.alt1</key>
+    <string>uni0413.alt1.glif</string>
+    <key>uni0413.alt2</key>
+    <string>uni0413.alt2.glif</string>
+    <key>uni0413.alt3</key>
+    <string>uni0413.alt3.glif</string>
     <key>uni0414</key>
     <string>uni0414.glif</string>
+    <key>uni0414.alt1</key>
+    <string>uni0414.alt1.glif</string>
+    <key>uni0414.alt2</key>
+    <string>uni0414.alt2.glif</string>
+    <key>uni0414.alt3</key>
+    <string>uni0414.alt3.glif</string>
+    <key>uni0414.alt4</key>
+    <string>uni0414.alt4.glif</string>
+    <key>uni0414.alt5</key>
+    <string>uni0414.alt5.glif</string>
     <key>uni0415</key>
     <string>uni0415.glif</string>
+    <key>uni0415.alt1</key>
+    <string>uni0415.alt1.glif</string>
+    <key>uni0415.alt2</key>
+    <string>uni0415.alt2.glif</string>
+    <key>uni0415.alt3</key>
+    <string>uni0415.alt3.glif</string>
+    <key>uni0415.alt4</key>
+    <string>uni0415.alt4.glif</string>
     <key>uni0416</key>
     <string>uni0416.glif</string>
+    <key>uni0416.alt1</key>
+    <string>uni0416.alt1.glif</string>
+    <key>uni0416.alt2</key>
+    <string>uni0416.alt2.glif</string>
+    <key>uni0416.alt3</key>
+    <string>uni0416.alt3.glif</string>
     <key>uni0417</key>
     <string>uni0417.glif</string>
+    <key>uni0417.alt1</key>
+    <string>uni0417.alt1.glif</string>
+    <key>uni0417.alt2</key>
+    <string>uni0417.alt2.glif</string>
+    <key>uni0417.alt3</key>
+    <string>uni0417.alt3.glif</string>
     <key>uni0418</key>
     <string>uni0418.glif</string>
+    <key>uni0418.alt1</key>
+    <string>uni0418.alt1.glif</string>
+    <key>uni0418.alt2</key>
+    <string>uni0418.alt2.glif</string>
+    <key>uni0418.alt3</key>
+    <string>uni0418.alt3.glif</string>
     <key>uni0419</key>
     <string>uni0419.glif</string>
+    <key>uni0419.alt1</key>
+    <string>uni0419.alt1.glif</string>
     <key>uni041A</key>
     <string>uni041A_.glif</string>
+    <key>uni041A.alt1</key>
+    <string>uni041A_.alt1.glif</string>
+    <key>uni041A.alt2</key>
+    <string>uni041A_.alt2.glif</string>
+    <key>uni041A.alt3</key>
+    <string>uni041A_.alt3.glif</string>
+    <key>uni041A.alt4</key>
+    <string>uni041A_.alt4.glif</string>
     <key>uni041B</key>
     <string>uni041B_.glif</string>
+    <key>uni041B.alt1</key>
+    <string>uni041B_.alt1.glif</string>
+    <key>uni041B.alt2</key>
+    <string>uni041B_.alt2.glif</string>
+    <key>uni041B.alt3</key>
+    <string>uni041B_.alt3.glif</string>
     <key>uni041C</key>
     <string>uni041C_.glif</string>
+    <key>uni041C.alt1</key>
+    <string>uni041C_.alt1.glif</string>
+    <key>uni041C.alt2</key>
+    <string>uni041C_.alt2.glif</string>
     <key>uni041D</key>
     <string>uni041D_.glif</string>
+    <key>uni041D.alt1</key>
+    <string>uni041D_.alt1.glif</string>
+    <key>uni041D.alt2</key>
+    <string>uni041D_.alt2.glif</string>
     <key>uni041E</key>
     <string>uni041E_.glif</string>
+    <key>uni041E.alt1</key>
+    <string>uni041E_.alt1.glif</string>
+    <key>uni041E.alt2</key>
+    <string>uni041E_.alt2.glif</string>
     <key>uni041F</key>
     <string>uni041F_.glif</string>
+    <key>uni041F.alt1</key>
+    <string>uni041F_.alt1.glif</string>
+    <key>uni041F.alt2</key>
+    <string>uni041F_.alt2.glif</string>
     <key>uni0420</key>
     <string>uni0420.glif</string>
+    <key>uni0420.alt1</key>
+    <string>uni0420.alt1.glif</string>
+    <key>uni0420.alt2</key>
+    <string>uni0420.alt2.glif</string>
     <key>uni0421</key>
     <string>uni0421.glif</string>
+    <key>uni0421.alt1</key>
+    <string>uni0421.alt1.glif</string>
+    <key>uni0421.alt2</key>
+    <string>uni0421.alt2.glif</string>
+    <key>uni0421.alt3</key>
+    <string>uni0421.alt3.glif</string>
+    <key>uni0421.alt4</key>
+    <string>uni0421.alt4.glif</string>
     <key>uni0422</key>
     <string>uni0422.glif</string>
+    <key>uni0422.alt1</key>
+    <string>uni0422.alt1.glif</string>
     <key>uni0423</key>
     <string>uni0423.glif</string>
+    <key>uni0423.alt1</key>
+    <string>uni0423.alt1.glif</string>
+    <key>uni0423.alt2</key>
+    <string>uni0423.alt2.glif</string>
+    <key>uni0423.alt3</key>
+    <string>uni0423.alt3.glif</string>
+    <key>uni0423.alt4</key>
+    <string>uni0423.alt4.glif</string>
     <key>uni0424</key>
     <string>uni0424.glif</string>
+    <key>uni0424.alt1</key>
+    <string>uni0424.alt1.glif</string>
+    <key>uni0424.alt2</key>
+    <string>uni0424.alt2.glif</string>
+    <key>uni0424.alt3</key>
+    <string>uni0424.alt3.glif</string>
+    <key>uni0424.alt4</key>
+    <string>uni0424.alt4.glif</string>
     <key>uni0425</key>
     <string>uni0425.glif</string>
+    <key>uni0425.alt1</key>
+    <string>uni0425.alt1.glif</string>
+    <key>uni0425.alt2</key>
+    <string>uni0425.alt2.glif</string>
+    <key>uni0425.alt3</key>
+    <string>uni0425.alt3.glif</string>
+    <key>uni0425.alt4</key>
+    <string>uni0425.alt4.glif</string>
     <key>uni0426</key>
     <string>uni0426.glif</string>
+    <key>uni0426.alt1</key>
+    <string>uni0426.alt1.glif</string>
+    <key>uni0426.alt2</key>
+    <string>uni0426.alt2.glif</string>
+    <key>uni0426.alt3</key>
+    <string>uni0426.alt3.glif</string>
+    <key>uni0426.alt4</key>
+    <string>uni0426.alt4.glif</string>
     <key>uni0427</key>
     <string>uni0427.glif</string>
+    <key>uni0427.alt1</key>
+    <string>uni0427.alt1.glif</string>
+    <key>uni0427.alt2</key>
+    <string>uni0427.alt2.glif</string>
     <key>uni0428</key>
     <string>uni0428.glif</string>
+    <key>uni0428.alt1</key>
+    <string>uni0428.alt1.glif</string>
+    <key>uni0428.alt2</key>
+    <string>uni0428.alt2.glif</string>
+    <key>uni0428.alt3</key>
+    <string>uni0428.alt3.glif</string>
     <key>uni0429</key>
     <string>uni0429.glif</string>
+    <key>uni0429.alt1</key>
+    <string>uni0429.alt1.glif</string>
+    <key>uni0429.alt2</key>
+    <string>uni0429.alt2.glif</string>
     <key>uni042A</key>
     <string>uni042A_.glif</string>
+    <key>uni042A.alt1</key>
+    <string>uni042A_.alt1.glif</string>
+    <key>uni042A.alt2</key>
+    <string>uni042A_.alt2.glif</string>
     <key>uni042B</key>
     <string>uni042B_.glif</string>
+    <key>uni042B.alt1</key>
+    <string>uni042B_.alt1.glif</string>
+    <key>uni042B.alt2</key>
+    <string>uni042B_.alt2.glif</string>
+    <key>uni042B.alt3</key>
+    <string>uni042B_.alt3.glif</string>
     <key>uni042C</key>
     <string>uni042C_.glif</string>
+    <key>uni042C.alt1</key>
+    <string>uni042C_.alt1.glif</string>
+    <key>uni042C.alt2</key>
+    <string>uni042C_.alt2.glif</string>
     <key>uni042D</key>
     <string>uni042D_.glif</string>
+    <key>uni042D.alt1</key>
+    <string>uni042D_.alt1.glif</string>
+    <key>uni042D.alt2</key>
+    <string>uni042D_.alt2.glif</string>
+    <key>uni042D.alt3</key>
+    <string>uni042D_.alt3.glif</string>
     <key>uni042E</key>
     <string>uni042E_.glif</string>
+    <key>uni042E.alt1</key>
+    <string>uni042E_.alt1.glif</string>
+    <key>uni042E.alt2</key>
+    <string>uni042E_.alt2.glif</string>
     <key>uni042F</key>
     <string>uni042F_.glif</string>
+    <key>uni042F.alt1</key>
+    <string>uni042F_.alt1.glif</string>
+    <key>uni042F.alt2</key>
+    <string>uni042F_.alt2.glif</string>
     <key>uni0430</key>
     <string>uni0430.glif</string>
+    <key>uni0430.alt1</key>
+    <string>uni0430.alt1.glif</string>
+    <key>uni0430.alt2</key>
+    <string>uni0430.alt2.glif</string>
+    <key>uni0430.alt3</key>
+    <string>uni0430.alt3.glif</string>
+    <key>uni0430.alt4</key>
+    <string>uni0430.alt4.glif</string>
+    <key>uni0430.alt5</key>
+    <string>uni0430.alt5.glif</string>
+    <key>uni0430.alt6</key>
+    <string>uni0430.alt6.glif</string>
     <key>uni0431</key>
     <string>uni0431.glif</string>
+    <key>uni0431.alt1</key>
+    <string>uni0431.alt1.glif</string>
+    <key>uni0431.alt2</key>
+    <string>uni0431.alt2.glif</string>
+    <key>uni0431.alt3</key>
+    <string>uni0431.alt3.glif</string>
     <key>uni0432</key>
     <string>uni0432.glif</string>
+    <key>uni0432.alt1</key>
+    <string>uni0432.alt1.glif</string>
+    <key>uni0432.alt2</key>
+    <string>uni0432.alt2.glif</string>
     <key>uni0433</key>
     <string>uni0433.glif</string>
+    <key>uni0433.alt1</key>
+    <string>uni0433.alt1.glif</string>
+    <key>uni0433.alt2</key>
+    <string>uni0433.alt2.glif</string>
+    <key>uni0433.alt3</key>
+    <string>uni0433.alt3.glif</string>
     <key>uni0434</key>
     <string>uni0434.glif</string>
+    <key>uni0434.alt1</key>
+    <string>uni0434.alt1.glif</string>
+    <key>uni0434.alt2</key>
+    <string>uni0434.alt2.glif</string>
     <key>uni0435</key>
     <string>uni0435.glif</string>
+    <key>uni0435.alt1</key>
+    <string>uni0435.alt1.glif</string>
+    <key>uni0435.alt2</key>
+    <string>uni0435.alt2.glif</string>
+    <key>uni0435.alt3</key>
+    <string>uni0435.alt3.glif</string>
+    <key>uni0435.alt4</key>
+    <string>uni0435.alt4.glif</string>
     <key>uni0436</key>
     <string>uni0436.glif</string>
+    <key>uni0436.alt1</key>
+    <string>uni0436.alt1.glif</string>
+    <key>uni0436.alt2</key>
+    <string>uni0436.alt2.glif</string>
     <key>uni0437</key>
     <string>uni0437.glif</string>
+    <key>uni0437.alt1</key>
+    <string>uni0437.alt1.glif</string>
+    <key>uni0437.alt2</key>
+    <string>uni0437.alt2.glif</string>
     <key>uni0438</key>
     <string>uni0438.glif</string>
+    <key>uni0438.alt1</key>
+    <string>uni0438.alt1.glif</string>
+    <key>uni0438.alt2</key>
+    <string>uni0438.alt2.glif</string>
+    <key>uni0438.alt3</key>
+    <string>uni0438.alt3.glif</string>
+    <key>uni0438.alt4</key>
+    <string>uni0438.alt4.glif</string>
     <key>uni0439</key>
     <string>uni0439.glif</string>
+    <key>uni0439.alt1</key>
+    <string>uni0439.alt1.glif</string>
+    <key>uni0439.alt2</key>
+    <string>uni0439.alt2.glif</string>
+    <key>uni0439.alt3</key>
+    <string>uni0439.alt3.glif</string>
+    <key>uni0439.alt4</key>
+    <string>uni0439.alt4.glif</string>
     <key>uni043A</key>
     <string>uni043A_.glif</string>
+    <key>uni043A.alt1</key>
+    <string>uni043A_.alt1.glif</string>
+    <key>uni043A.alt2</key>
+    <string>uni043A_.alt2.glif</string>
+    <key>uni043A.alt3</key>
+    <string>uni043A_.alt3.glif</string>
+    <key>uni043A.alt4</key>
+    <string>uni043A_.alt4.glif</string>
+    <key>uni043A.alt5</key>
+    <string>uni043A_.alt5.glif</string>
     <key>uni043B</key>
     <string>uni043B_.glif</string>
+    <key>uni043B.alt1</key>
+    <string>uni043B_.alt1.glif</string>
+    <key>uni043B.alt2</key>
+    <string>uni043B_.alt2.glif</string>
     <key>uni043C</key>
     <string>uni043C_.glif</string>
+    <key>uni043C.alt1</key>
+    <string>uni043C_.alt1.glif</string>
+    <key>uni043C.alt2</key>
+    <string>uni043C_.alt2.glif</string>
     <key>uni043D</key>
     <string>uni043D_.glif</string>
+    <key>uni043D.alt1</key>
+    <string>uni043D_.alt1.glif</string>
+    <key>uni043D.alt2</key>
+    <string>uni043D_.alt2.glif</string>
+    <key>uni043D.alt3</key>
+    <string>uni043D_.alt3.glif</string>
     <key>uni043E</key>
     <string>uni043E_.glif</string>
+    <key>uni043E.alt1</key>
+    <string>uni043E_.alt1.glif</string>
+    <key>uni043E.alt2</key>
+    <string>uni043E_.alt2.glif</string>
     <key>uni043F</key>
     <string>uni043F_.glif</string>
+    <key>uni043F.alt1</key>
+    <string>uni043F_.alt1.glif</string>
     <key>uni0440</key>
     <string>uni0440.glif</string>
+    <key>uni0440.alt1</key>
+    <string>uni0440.alt1.glif</string>
+    <key>uni0440.alt2</key>
+    <string>uni0440.alt2.glif</string>
     <key>uni0441</key>
     <string>uni0441.glif</string>
+    <key>uni0441.alt1</key>
+    <string>uni0441.alt1.glif</string>
+    <key>uni0441.alt2</key>
+    <string>uni0441.alt2.glif</string>
+    <key>uni0441.alt3</key>
+    <string>uni0441.alt3.glif</string>
+    <key>uni0441.alt4</key>
+    <string>uni0441.alt4.glif</string>
     <key>uni0442</key>
     <string>uni0442.glif</string>
+    <key>uni0442.alt1</key>
+    <string>uni0442.alt1.glif</string>
+    <key>uni0442.alt2</key>
+    <string>uni0442.alt2.glif</string>
+    <key>uni0442.alt3</key>
+    <string>uni0442.alt3.glif</string>
+    <key>uni0442.alt4</key>
+    <string>uni0442.alt4.glif</string>
+    <key>uni0442.alt5</key>
+    <string>uni0442.alt5.glif</string>
     <key>uni0443</key>
     <string>uni0443.glif</string>
+    <key>uni0443.alt1</key>
+    <string>uni0443.alt1.glif</string>
+    <key>uni0443.alt2</key>
+    <string>uni0443.alt2.glif</string>
+    <key>uni0443.alt3</key>
+    <string>uni0443.alt3.glif</string>
+    <key>uni0443.alt4</key>
+    <string>uni0443.alt4.glif</string>
     <key>uni0443.open</key>
     <string>uni0443.open.glif</string>
     <key>uni0444</key>
     <string>uni0444.glif</string>
+    <key>uni0444.alt1</key>
+    <string>uni0444.alt1.glif</string>
+    <key>uni0444.alt2</key>
+    <string>uni0444.alt2.glif</string>
+    <key>uni0444.alt3</key>
+    <string>uni0444.alt3.glif</string>
     <key>uni0445</key>
     <string>uni0445.glif</string>
+    <key>uni0445.alt1</key>
+    <string>uni0445.alt1.glif</string>
+    <key>uni0445.alt2</key>
+    <string>uni0445.alt2.glif</string>
+    <key>uni0445.alt3</key>
+    <string>uni0445.alt3.glif</string>
     <key>uni0446</key>
     <string>uni0446.glif</string>
+    <key>uni0446.alt1</key>
+    <string>uni0446.alt1.glif</string>
+    <key>uni0446.alt2</key>
+    <string>uni0446.alt2.glif</string>
     <key>uni0447</key>
     <string>uni0447.glif</string>
+    <key>uni0447.alt1</key>
+    <string>uni0447.alt1.glif</string>
+    <key>uni0447.alt2</key>
+    <string>uni0447.alt2.glif</string>
     <key>uni0448</key>
     <string>uni0448.glif</string>
+    <key>uni0448.alt1</key>
+    <string>uni0448.alt1.glif</string>
+    <key>uni0448.alt2</key>
+    <string>uni0448.alt2.glif</string>
     <key>uni0449</key>
     <string>uni0449.glif</string>
+    <key>uni0449.alt1</key>
+    <string>uni0449.alt1.glif</string>
+    <key>uni0449.alt2</key>
+    <string>uni0449.alt2.glif</string>
+    <key>uni0449.alt3</key>
+    <string>uni0449.alt3.glif</string>
     <key>uni044A</key>
     <string>uni044A_.glif</string>
+    <key>uni044A.alt1</key>
+    <string>uni044A_.alt1.glif</string>
+    <key>uni044A.alt2</key>
+    <string>uni044A_.alt2.glif</string>
     <key>uni044B</key>
     <string>uni044B_.glif</string>
+    <key>uni044B.alt1</key>
+    <string>uni044B_.alt1.glif</string>
+    <key>uni044B.alt2</key>
+    <string>uni044B_.alt2.glif</string>
+    <key>uni044B.alt3</key>
+    <string>uni044B_.alt3.glif</string>
     <key>uni044C</key>
     <string>uni044C_.glif</string>
+    <key>uni044C.alt1</key>
+    <string>uni044C_.alt1.glif</string>
+    <key>uni044C.alt2</key>
+    <string>uni044C_.alt2.glif</string>
+    <key>uni044C.alt3</key>
+    <string>uni044C_.alt3.glif</string>
     <key>uni044D</key>
     <string>uni044D_.glif</string>
+    <key>uni044D.alt1</key>
+    <string>uni044D_.alt1.glif</string>
+    <key>uni044D.alt2</key>
+    <string>uni044D_.alt2.glif</string>
+    <key>uni044D.alt3</key>
+    <string>uni044D_.alt3.glif</string>
+    <key>uni044D.alt4</key>
+    <string>uni044D_.alt4.glif</string>
     <key>uni044E</key>
     <string>uni044E_.glif</string>
+    <key>uni044E.alt1</key>
+    <string>uni044E_.alt1.glif</string>
+    <key>uni044E.alt2</key>
+    <string>uni044E_.alt2.glif</string>
+    <key>uni044E.alt3</key>
+    <string>uni044E_.alt3.glif</string>
     <key>uni044F</key>
     <string>uni044F_.glif</string>
+    <key>uni044F.alt1</key>
+    <string>uni044F_.alt1.glif</string>
+    <key>uni044F.alt2</key>
+    <string>uni044F_.alt2.glif</string>
     <key>uni0451</key>
     <string>uni0451.glif</string>
+    <key>uni0451.alt1</key>
+    <string>uni0451.alt1.glif</string>
     <key>uni2013</key>
     <string>uni2013.glif</string>
     <key>uni2014</key>
     <string>uni2014.glif</string>
+    <key>uni2014.alt1</key>
+    <string>uni2014.alt1.glif</string>
     <key>uni2026</key>
     <string>uni2026.glif</string>
     <key>uni20BD</key>
     <string>uni20B_D_.glif</string>
     <key>uni2116</key>
     <string>uni2116.glif</string>
+    <key>uni2116.alt1</key>
+    <string>uni2116.alt1.glif</string>
+    <key>uni2116.alt2</key>
+    <string>uni2116.alt2.glif</string>
+    <key>uni2116.alt3</key>
+    <string>uni2116.alt3.glif</string>
+    <key>uni2116.alt4</key>
+    <string>uni2116.alt4.glif</string>
   </dict>
 </plist>

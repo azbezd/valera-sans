@@ -6,8 +6,6 @@ Source variant 02, IMG_2687.HEIC, word французских. Context: after ц
 </note>
   <outline>
     <contour>
-      <point x="77" y="478" type="qcurve"/>
-      <point x="114" y="483"/>
       <point x="133" y="445" type="qcurve"/>
       <point x="136" y="439"/>
       <point x="141" y="429"/>
@@ -94,16 +92,10 @@ Source variant 02, IMG_2687.HEIC, word французских. Context: after ц
       <point x="473" y="380" type="qcurve"/>
       <point x="474" y="380"/>
       <point x="481" y="373"/>
-      <point x="489" y="365"/>
-      <point x="496" y="359"/>
-      <point x="496" y="359" type="qcurve"/>
-      <point x="499" y="359"/>
-      <point x="500" y="353"/>
-      <point x="500" y="327"/>
-      <point x="499" y="323"/>
-      <point x="496" y="322" type="qcurve"/>
-      <point x="493" y="320"/>
-      <point x="490" y="311" type="qcurve"/>
+      <point x="485" y="369" type="qcurve" smooth="yes"/>
+      <point x="497" y="357"/>
+      <point x="495" y="327"/>
+      <point x="490" y="311" type="qcurve" smooth="yes"/>
       <point x="488" y="305"/>
       <point x="486" y="302" type="qcurve"/>
       <point x="485" y="298"/>
@@ -288,6 +280,8 @@ Source variant 02, IMG_2687.HEIC, word французских. Context: after ц
       <point x="37" y="432" type="qcurve"/>
       <point x="38" y="449"/>
       <point x="61" y="475"/>
+      <point x="77" y="478" type="qcurve"/>
+      <point x="114" y="483"/>
     </contour>
   </outline>
 </glyph>

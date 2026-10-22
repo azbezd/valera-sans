@@ -33,7 +33,16 @@ def names(style):
         14:CONFIG['repository']+'/blob/main/LICENSE',16:family,17:style}
 
 def legacy_kern(font,features):
-    pairs=sorted(((a,b),int(v))for a,b,v in re.findall(r'^\s*pos\s+(\S+)\s+(\S+)\s+(-?\d+);',features,re.M)if int(v))
+    # Старые программы читают только kern и не делают замен calt, поэтому в таблицу идут
+    # пары базовых глифов: группы разворачиваются, варианты (.altN) отбрасываются.
+    classes={n:m.split()for n,m in re.findall(r'^(@\S+)\s*=\s*\[([^\]]*)\];',features,re.M)}
+    members=lambda x:classes.get(x,[x])
+    pairs={}
+    for a,b,v in re.findall(r'^\s*pos\s+(\S+)\s+(\S+)\s+(-?\d+);',features,re.M):
+        for ga in members(a):
+            for gb in members(b):
+                if int(v) and '.alt' not in ga+gb:pairs.setdefault((ga,gb),int(v))
+    pairs=sorted(pairs.items())
     table=newTable('kern');table.version=0;table.kernTables=[]
     for start in range(0,len(pairs),10000):
         sub=KernTable_format_0();sub.version=0;sub.coverage=1

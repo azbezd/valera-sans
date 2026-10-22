@@ -4,15 +4,13 @@
   <unicode hex="0025"/>
   <outline>
     <contour>
-      <point x="232" y="783" type="qcurve"/>
-      <point x="247" y="792"/>
-      <point x="264" y="798"/>
-      <point x="276" y="794"/>
       <point x="285" y="787" type="qcurve"/>
       <point x="298" y="776"/>
       <point x="322" y="717"/>
       <point x="326" y="684" type="qcurve"/>
-      <point x="330" y="654" type="line"/>
+      <point x="327" y="679" type="line"/>
+      <point x="330" y="654"/>
+      <point x="313" y="638" type="qcurve" smooth="yes"/>
       <point x="301" y="627" type="line"/>
       <point x="286" y="612"/>
       <point x="244" y="589"/>
@@ -26,6 +24,10 @@
       <point x="192" y="769" type="qcurve"/>
       <point x="198" y="769"/>
       <point x="221" y="778"/>
+      <point x="232" y="783" type="qcurve"/>
+      <point x="247" y="792"/>
+      <point x="264" y="798"/>
+      <point x="276" y="794"/>
     </contour>
     <contour>
       <point x="273" y="719" type="qcurve"/>

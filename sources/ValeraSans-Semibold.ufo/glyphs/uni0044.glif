@@ -4,11 +4,6 @@
   <unicode hex="0044"/>
   <outline>
     <contour>
-      <point x="99" y="886" type="qcurve"/>
-      <point x="106" y="893"/>
-      <point x="118" y="898"/>
-      <point x="142" y="895"/>
-      <point x="192" y="883"/>
       <point x="237" y="871" type="qcurve"/>
       <point x="274" y="862"/>
       <point x="348" y="837"/>
@@ -39,10 +34,12 @@
       <point x="274" y="25"/>
       <point x="213" y="15"/>
       <point x="169" y="15" type="qcurve"/>
-      <point x="132" y="15"/>
-      <point x="96" y="21"/>
-      <point x="84" y="39"/>
-      <point x="85" y="57" type="qcurve"/>
+      <point x="143" y="15"/>
+      <point x="127" y="16" type="qcurve" smooth="yes"/>
+      <point x="116" y="17"/>
+      <point x="96" y="28"/>
+      <point x="84" y="46"/>
+      <point x="85" y="57" type="qcurve" smooth="yes"/>
       <point x="86" y="78"/>
       <point x="73" y="91" type="qcurve"/>
       <point x="69" y="95"/>
@@ -63,6 +60,11 @@
       <point x="83" y="847"/>
       <point x="87" y="871"/>
       <point x="94" y="881"/>
+      <point x="99" y="886" type="qcurve"/>
+      <point x="106" y="893"/>
+      <point x="118" y="898"/>
+      <point x="142" y="895"/>
+      <point x="192" y="883"/>
     </contour>
     <contour>
       <point x="260" y="770" type="qcurve"/>
