@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.6.2 — 2026-10-22
+
+- Even out the stroke edges in all glyphs and weights: bumps and waves left from the scans are smoothed by an adaptive low-pass filter (strong on stems and bowls, light on tight curves and stroke ends), corners and joins kept. Edges move at most 8 units; dots, commas and quotes are left as drawn.
+- Stroke thickness and counters unchanged: every glyph keeps its number of parts and counters (three Semibold alternates with a pinched gap are frozen locally), median stroke ratio 1.00.
+- Simpler outlines: 24–28% fewer points; web WOFF2 203–217 KB per weight (was 232–243 KB).
+- Kerning recomputed on the new outlines through the same pipeline as 0.6.0–0.6.1.
+- OpenType revision: **0.602**.
+
 ## 0.6.1 — 2026-10-22
 
 - Enlarge all figures (default, tabular and alternate forms) to about 95% of the cap height in all three weights: Regular 607 → 696 units, Light 604 → 691, Semibold 624 → 708 (caps 728–745). Previously figures sat between lowercase and caps (~61% of the em) and looked small next to letters, for example in prices.

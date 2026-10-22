@@ -1,0 +1,7380 @@
+{
+".notdef": {
+"moved": 0.0,
+"step": 0,
+"points": [
+8,
+63
+],
+"stroke": [
+30.0,
+30.0
+],
+"area": 1.0,
+"topology_same": true
+},
+"uni0041": {
+"moved": 6.4,
+"step": 0,
+"points": [
+120,
+111
+],
+"stroke": [
+90.0,
+90.0
+],
+"area": 0.9995,
+"topology_same": true
+},
+"uni0042": {
+"moved": 8.0,
+"step": 0,
+"points": [
+124,
+145
+],
+"stroke": [
+88.0,
+86.0
+],
+"area": 0.998,
+"topology_same": true
+},
+"uni0043": {
+"moved": 4.5,
+"step": 0,
+"points": [
+82,
+66
+],
+"stroke": [
+96.1,
+96.1
+],
+"area": 0.9991,
+"topology_same": true
+},
+"uni0044": {
+"moved": 5.8,
+"step": 0,
+"points": [
+99,
+92
+],
+"stroke": [
+90.0,
+90.0
+],
+"area": 0.9996,
+"topology_same": true
+},
+"uni0045": {
+"moved": 7.9,
+"step": 0,
+"points": [
+92,
+99
+],
+"stroke": [
+92.2,
+94.0
+],
+"area": 0.9977,
+"topology_same": true
+},
+"uni0046": {
+"moved": 6.3,
+"step": 0,
+"points": [
+75,
+79
+],
+"stroke": [
+100.0,
+102.0
+],
+"area": 1.0022,
+"topology_same": true
+},
+"uni0047": {
+"moved": 5.7,
+"step": 0,
+"points": [
+110,
+121
+],
+"stroke": [
+96.0,
+96.0
+],
+"area": 0.9995,
+"topology_same": true
+},
+"uni0048": {
+"moved": 6.5,
+"step": 0,
+"points": [
+89,
+95
+],
+"stroke": [
+98.7,
+98.0
+],
+"area": 0.9942,
+"topology_same": true
+},
+"uni0049": {
+"moved": 6.0,
+"step": 0,
+"points": [
+68,
+84
+],
+"stroke": [
+98.0,
+97.3
+],
+"area": 0.9947,
+"topology_same": true
+},
+"uni004A": {
+"moved": 7.9,
+"step": 0,
+"points": [
+50,
+67
+],
+"stroke": [
+100.0,
+100.0
+],
+"area": 0.9938,
+"topology_same": true
+},
+"uni004B": {
+"moved": 4.5,
+"step": 0,
+"points": [
+94,
+95
+],
+"stroke": [
+92.0,
+92.0
+],
+"area": 0.9982,
+"topology_same": true
+},
+"uni004C": {
+"moved": 4.6,
+"step": 0,
+"points": [
+53,
+52
+],
+"stroke": [
+98.5,
+100.0
+],
+"area": 0.995,
+"topology_same": true
+},
+"uni004D": {
+"moved": 4.7,
+"step": 0,
+"points": [
+107,
+104
+],
+"stroke": [
+94.3,
+94.1
+],
+"area": 0.9973,
+"topology_same": true
+},
+"uni004E": {
+"moved": 5.1,
+"step": 0,
+"points": [
+107,
+93
+],
+"stroke": [
+94.1,
+94.1
+],
+"area": 0.9998,
+"topology_same": true
+},
+"uni004F": {
+"moved": 6.3,
+"step": 0,
+"points": [
+71,
+69
+],
+"stroke": [
+92.1,
+92.1
+],
+"area": 0.9983,
+"topology_same": true
+},
+"uni0050": {
+"moved": 5.8,
+"step": 0,
+"points": [
+90,
+80
+],
+"stroke": [
+92.5,
+94.5
+],
+"area": 0.9998,
+"topology_same": true
+},
+"uni0051": {
+"moved": 8.0,
+"step": 0,
+"points": [
+134,
+133
+],
+"stroke": [
+87.9,
+87.7
+],
+"area": 0.9997,
+"topology_same": true
+},
+"uni0052": {
+"moved": 6.1,
+"step": 0,
+"points": [
+108,
+102
+],
+"stroke": [
+94.0,
+96.3
+],
+"area": 1.0008,
+"topology_same": true
+},
+"uni0053": {
+"moved": 5.1,
+"step": 0,
+"points": [
+104,
+103
+],
+"stroke": [
+94.0,
+94.0
+],
+"area": 0.9965,
+"topology_same": true
+},
+"uni0054": {
+"moved": 4.3,
+"step": 0,
+"points": [
+64,
+66
+],
+"stroke": [
+94.0,
+92.1
+],
+"area": 0.9949,
+"topology_same": true
+},
+"uni0055": {
+"moved": 4.6,
+"step": 0,
+"points": [
+65,
+74
+],
+"stroke": [
+92.0,
+92.0
+],
+"area": 0.999,
+"topology_same": true
+},
+"uni0056": {
+"moved": 3.1,
+"step": 0,
+"points": [
+73,
+64
+],
+"stroke": [
+91.9,
+93.0
+],
+"area": 0.9989,
+"topology_same": true
+},
+"uni0057": {
+"moved": 4.6,
+"step": 0,
+"points": [
+113,
+111
+],
+"stroke": [
+90.6,
+91.8
+],
+"area": 1.0008,
+"topology_same": true
+},
+"uni0058": {
+"moved": 5.1,
+"step": 0,
+"points": [
+88,
+103
+],
+"stroke": [
+97.7,
+97.6
+],
+"area": 0.9971,
+"topology_same": true
+},
+"uni0059": {
+"moved": 4.7,
+"step": 0,
+"points": [
+86,
+67
+],
+"stroke": [
+93.3,
+94.0
+],
+"area": 0.9998,
+"topology_same": true
+},
+"uni005A": {
+"moved": 6.5,
+"step": 0,
+"points": [
+86,
+79
+],
+"stroke": [
+94.0,
+94.1
+],
+"area": 0.9968,
+"topology_same": true
+},
+"uni0061": {
+"moved": 6.4,
+"step": 0,
+"points": [
+97,
+107
+],
+"stroke": [
+84.9,
+84.9
+],
+"area": 0.9989,
+"topology_same": true
+},
+"uni0062": {
+"moved": 8.0,
+"step": 0,
+"points": [
+82,
+111
+],
+"stroke": [
+88.5,
+88.8
+],
+"area": 0.9992,
+"topology_same": true
+},
+"uni0063": {
+"moved": 6.4,
+"step": 0,
+"points": [
+39,
+53
+],
+"stroke": [
+92.0,
+92.5
+],
+"area": 0.9991,
+"topology_same": true
+},
+"uni0064": {
+"moved": 6.0,
+"step": 0,
+"points": [
+94,
+90
+],
+"stroke": [
+90.0,
+90.0
+],
+"area": 1.0002,
+"topology_same": true
+},
+"uni0065": {
+"moved": 5.5,
+"step": 0,
+"points": [
+73,
+76
+],
+"stroke": [
+88.6,
+89.4
+],
+"area": 0.9977,
+"topology_same": true
+},
+"uni0066": {
+"moved": 4.9,
+"step": 0,
+"points": [
+78,
+101
+],
+"stroke": [
+80.0,
+80.0
+],
+"area": 0.9945,
+"topology_same": true
+},
+"uni0067": {
+"moved": 8.0,
+"step": 0,
+"points": [
+92,
+104
+],
+"stroke": [
+85.9,
+86.1
+],
+"area": 1.0012,
+"topology_same": true
+},
+"uni0068": {
+"moved": 8.0,
+"step": 0,
+"points": [
+101,
+82
+],
+"stroke": [
+86.0,
+86.0
+],
+"area": 0.9953,
+"topology_same": true
+},
+"uni0069": {
+"moved": 4.3,
+"step": 0,
+"points": [
+41,
+43
+],
+"stroke": [
+94.0,
+94.3
+],
+"area": 0.9946,
+"topology_same": true
+},
+"uni006A": {
+"moved": 8.0,
+"step": 0,
+"points": [
+82,
+79
+],
+"stroke": [
+90.0,
+88.6
+],
+"area": 0.9985,
+"topology_same": true
+},
+"uni006B": {
+"moved": 4.8,
+"step": 0,
+"points": [
+89,
+85
+],
+"stroke": [
+91.6,
+91.1
+],
+"area": 0.9979,
+"topology_same": true
+},
+"uni006C": {
+"moved": 4.7,
+"step": 0,
+"points": [
+35,
+40
+],
+"stroke": [
+86.0,
+87.0
+],
+"area": 0.999,
+"topology_same": true
+},
+"uni006D": {
+"moved": 5.0,
+"step": 0,
+"points": [
+110,
+119
+],
+"stroke": [
+88.3,
+88.8
+],
+"area": 1.0001,
+"topology_same": true
+},
+"uni006E": {
+"moved": 7.4,
+"step": 0,
+"points": [
+71,
+80
+],
+"stroke": [
+91.8,
+92.2
+],
+"area": 0.9952,
+"topology_same": true
+},
+"uni006F": {
+"moved": 3.4,
+"step": 0,
+"points": [
+56,
+58
+],
+"stroke": [
+85.9,
+87.1
+],
+"area": 0.9999,
+"topology_same": true
+},
+"uni0070": {
+"moved": 6.1,
+"step": 0,
+"points": [
+94,
+91
+],
+"stroke": [
+89.5,
+90.0
+],
+"area": 0.9995,
+"topology_same": true
+},
+"uni0071": {
+"moved": 7.8,
+"step": 0,
+"points": [
+94,
+91
+],
+"stroke": [
+94.0,
+94.0
+],
+"area": 0.9973,
+"topology_same": true
+},
+"uni0072": {
+"moved": 8.0,
+"step": 0,
+"points": [
+215,
+65
+],
+"stroke": [
+90.0,
+90.6
+],
+"area": 0.9896,
+"topology_same": true
+},
+"uni0073": {
+"moved": 6.4,
+"step": 0,
+"points": [
+77,
+80
+],
+"stroke": [
+90.2,
+90.4
+],
+"area": 0.9983,
+"topology_same": true
+},
+"uni0074": {
+"moved": 8.0,
+"step": 0,
+"points": [
+88,
+91
+],
+"stroke": [
+86.3,
+87.9
+],
+"area": 0.9973,
+"topology_same": true
+},
+"uni0075": {
+"moved": 5.1,
+"step": 0,
+"points": [
+66,
+78
+],
+"stroke": [
+88.6,
+88.4
+],
+"area": 0.9976,
+"topology_same": true
+},
+"uni0076": {
+"moved": 5.4,
+"step": 0,
+"points": [
+72,
+65
+],
+"stroke": [
+91.4,
+91.0
+],
+"area": 0.9955,
+"topology_same": true
+},
+"uni0077": {
+"moved": 4.2,
+"step": 0,
+"points": [
+83,
+88
+],
+"stroke": [
+90.4,
+90.7
+],
+"area": 0.9987,
+"topology_same": true
+},
+"uni0078": {
+"moved": 6.4,
+"step": 0,
+"points": [
+74,
+87
+],
+"stroke": [
+94.4,
+94.8
+],
+"area": 0.996,
+"topology_same": true
+},
+"uni0079": {
+"moved": 6.4,
+"step": 0,
+"points": [
+106,
+96
+],
+"stroke": [
+90.2,
+90.2
+],
+"area": 0.9984,
+"topology_same": true
+},
+"uni007A": {
+"moved": 4.6,
+"step": 0,
+"points": [
+67,
+71
+],
+"stroke": [
+94.0,
+94.0
+],
+"area": 0.9953,
+"topology_same": true
+},
+"uni0030": {
+"moved": 5.0,
+"step": 0,
+"points": [
+75,
+76
+],
+"stroke": [
+88.1,
+88.3
+],
+"area": 0.9964,
+"topology_same": true
+},
+"uni0031": {
+"moved": 6.3,
+"step": 0,
+"points": [
+56,
+65
+],
+"stroke": [
+90.7,
+90.1
+],
+"area": 0.9979,
+"topology_same": true
+},
+"uni0032": {
+"moved": 5.0,
+"step": 0,
+"points": [
+61,
+76
+],
+"stroke": [
+90.1,
+91.2
+],
+"area": 0.9982,
+"topology_same": true
+},
+"uni0033": {
+"moved": 6.8,
+"step": 0,
+"points": [
+88,
+93
+],
+"stroke": [
+86.8,
+87.9
+],
+"area": 0.9972,
+"topology_same": true
+},
+"uni0034": {
+"moved": 8.0,
+"step": 0,
+"points": [
+66,
+75
+],
+"stroke": [
+96.0,
+96.7
+],
+"area": 0.9962,
+"topology_same": true
+},
+"uni0035": {
+"moved": 8.0,
+"step": 0,
+"points": [
+93,
+100
+],
+"stroke": [
+92.8,
+94.0
+],
+"area": 0.9976,
+"topology_same": true
+},
+"uni0036": {
+"moved": 6.0,
+"step": 0,
+"points": [
+75,
+96
+],
+"stroke": [
+88.0,
+87.7
+],
+"area": 0.9989,
+"topology_same": true
+},
+"uni0037": {
+"moved": 5.8,
+"step": 0,
+"points": [
+78,
+98
+],
+"stroke": [
+90.8,
+91.4
+],
+"area": 0.9985,
+"topology_same": true
+},
+"uni0038": {
+"moved": 5.4,
+"step": 0,
+"points": [
+81,
+102
+],
+"stroke": [
+86.6,
+87.7
+],
+"area": 1.0029,
+"topology_same": true
+},
+"uni0039": {
+"moved": 7.8,
+"step": 0,
+"points": [
+81,
+88
+],
+"stroke": [
+88.1,
+90.0
+],
+"area": 1.0009,
+"topology_same": true
+},
+"uni0410": {
+"moved": 5.3,
+"step": 0,
+"points": [
+76,
+82
+],
+"stroke": [
+88.0,
+88.3
+],
+"area": 0.9982,
+"topology_same": true
+},
+"uni0411": {
+"moved": 6.2,
+"step": 0,
+"points": [
+92,
+103
+],
+"stroke": [
+86.1,
+86.6
+],
+"area": 0.9975,
+"topology_same": true
+},
+"uni0412": {
+"moved": 6.0,
+"step": 0,
+"points": [
+90,
+107
+],
+"stroke": [
+86.6,
+87.3
+],
+"area": 0.9993,
+"topology_same": true
+},
+"uni0413": {
+"moved": 5.4,
+"step": 0,
+"points": [
+50,
+58
+],
+"stroke": [
+84.0,
+84.0
+],
+"area": 0.9974,
+"topology_same": true
+},
+"uni0414": {
+"moved": 7.4,
+"step": 0,
+"points": [
+99,
+92
+],
+"stroke": [
+87.1,
+86.6
+],
+"area": 1.0003,
+"topology_same": true
+},
+"uni0415": {
+"moved": 8.0,
+"step": 0,
+"points": [
+111,
+110
+],
+"stroke": [
+94.7,
+96.0
+],
+"area": 0.9974,
+"topology_same": true
+},
+"uni0401": {
+"moved": 6.5,
+"step": 0,
+"points": [
+116,
+118
+],
+"stroke": [
+93.9,
+94.0
+],
+"area": 0.9997,
+"topology_same": true
+},
+"uni0416": {
+"moved": 5.9,
+"step": 0,
+"points": [
+132,
+133
+],
+"stroke": [
+88.8,
+89.2
+],
+"area": 0.9963,
+"topology_same": true
+},
+"uni0417": {
+"moved": 4.9,
+"step": 0,
+"points": [
+79,
+88
+],
+"stroke": [
+89.2,
+89.6
+],
+"area": 0.9973,
+"topology_same": true
+},
+"uni0418": {
+"moved": 4.9,
+"step": 0,
+"points": [
+97,
+80
+],
+"stroke": [
+90.0,
+90.2
+],
+"area": 0.9973,
+"topology_same": true
+},
+"uni0419": {
+"moved": 5.0,
+"step": 0,
+"points": [
+99,
+111
+],
+"stroke": [
+88.4,
+88.8
+],
+"area": 0.9988,
+"topology_same": true
+},
+"uni041A": {
+"moved": 5.4,
+"step": 0,
+"points": [
+83,
+96
+],
+"stroke": [
+90.0,
+91.2
+],
+"area": 0.9983,
+"topology_same": true
+},
+"uni041B": {
+"moved": 4.3,
+"step": 0,
+"points": [
+59,
+69
+],
+"stroke": [
+87.4,
+87.1
+],
+"area": 0.998,
+"topology_same": true
+},
+"uni041C": {
+"moved": 3.6,
+"step": 0,
+"points": [
+116,
+110
+],
+"stroke": [
+89.6,
+91.4
+],
+"area": 0.9986,
+"topology_same": true
+},
+"uni041D": {
+"moved": 5.8,
+"step": 0,
+"points": [
+95,
+100
+],
+"stroke": [
+86.2,
+86.0
+],
+"area": 0.9944,
+"topology_same": true
+},
+"uni041E": {
+"moved": 5.4,
+"step": 0,
+"points": [
+68,
+78
+],
+"stroke": [
+82.0,
+83.1
+],
+"area": 1.0013,
+"topology_same": true
+},
+"uni041F": {
+"moved": 8.0,
+"step": 0,
+"points": [
+84,
+80
+],
+"stroke": [
+89.8,
+88.0
+],
+"area": 0.9952,
+"topology_same": true
+},
+"uni0420": {
+"moved": 8.0,
+"step": 0,
+"points": [
+74,
+85
+],
+"stroke": [
+76.0,
+76.0
+],
+"area": 0.9954,
+"topology_same": true
+},
+"uni0421": {
+"moved": 8.0,
+"step": 0,
+"points": [
+59,
+69
+],
+"stroke": [
+92.2,
+92.6
+],
+"area": 0.9994,
+"topology_same": true
+},
+"uni0422": {
+"moved": 5.1,
+"step": 0,
+"points": [
+62,
+69
+],
+"stroke": [
+94.0,
+94.0
+],
+"area": 0.9952,
+"topology_same": true
+},
+"uni0423": {
+"moved": 6.3,
+"step": 0,
+"points": [
+72,
+66
+],
+"stroke": [
+96.8,
+97.1
+],
+"area": 0.9979,
+"topology_same": true
+},
+"uni0424": {
+"moved": 7.6,
+"step": 0,
+"points": [
+110,
+123
+],
+"stroke": [
+86.0,
+86.0
+],
+"area": 1.0001,
+"topology_same": true
+},
+"uni0425": {
+"moved": 6.3,
+"step": 0,
+"points": [
+93,
+93
+],
+"stroke": [
+91.6,
+91.6
+],
+"area": 0.9981,
+"topology_same": true
+},
+"uni0426": {
+"moved": 8.0,
+"step": 0,
+"points": [
+104,
+105
+],
+"stroke": [
+87.7,
+88.0
+],
+"area": 0.9979,
+"topology_same": true
+},
+"uni0427": {
+"moved": 3.8,
+"step": 0,
+"points": [
+56,
+74
+],
+"stroke": [
+92.5,
+93.1
+],
+"area": 0.9951,
+"topology_same": true
+},
+"uni0428": {
+"moved": 5.6,
+"step": 0,
+"points": [
+106,
+107
+],
+"stroke": [
+89.1,
+89.8
+],
+"area": 0.9981,
+"topology_same": true
+},
+"uni0429": {
+"moved": 8.0,
+"step": 0,
+"points": [
+123,
+127
+],
+"stroke": [
+90.0,
+90.0
+],
+"area": 0.9986,
+"topology_same": true
+},
+"uni042A": {
+"moved": 4.7,
+"step": 0,
+"points": [
+77,
+86
+],
+"stroke": [
+88.6,
+89.4
+],
+"area": 1.0003,
+"topology_same": true
+},
+"uni042B": {
+"moved": 5.9,
+"step": 0,
+"points": [
+90,
+110
+],
+"stroke": [
+88.5,
+89.1
+],
+"area": 0.9997,
+"topology_same": true
+},
+"uni042C": {
+"moved": 6.3,
+"step": 0,
+"points": [
+63,
+71
+],
+"stroke": [
+89.4,
+90.0
+],
+"area": 0.9986,
+"topology_same": true
+},
+"uni042D": {
+"moved": 8.0,
+"step": 0,
+"points": [
+89,
+106
+],
+"stroke": [
+97.5,
+97.6
+],
+"area": 0.998,
+"topology_same": true
+},
+"uni042E": {
+"moved": 7.2,
+"step": 0,
+"points": [
+110,
+129
+],
+"stroke": [
+90.6,
+91.8
+],
+"area": 0.998,
+"topology_same": true
+},
+"uni042F": {
+"moved": 4.7,
+"step": 0,
+"points": [
+98,
+113
+],
+"stroke": [
+94.0,
+94.8
+],
+"area": 0.9997,
+"topology_same": true
+},
+"uni0430": {
+"moved": 6.8,
+"step": 0,
+"points": [
+106,
+106
+],
+"stroke": [
+86.0,
+86.4
+],
+"area": 1.0013,
+"topology_same": true
+},
+"uni0431": {
+"moved": 7.3,
+"step": 0,
+"points": [
+110,
+114
+],
+"stroke": [
+92.0,
+91.4
+],
+"area": 0.9993,
+"topology_same": true
+},
+"uni0432": {
+"moved": 8.0,
+"step": 0,
+"points": [
+126,
+141
+],
+"stroke": [
+90.9,
+93.1
+],
+"area": 0.9986,
+"topology_same": true
+},
+"uni0433": {
+"moved": 5.7,
+"step": 0,
+"points": [
+75,
+80
+],
+"stroke": [
+96.6,
+97.4
+],
+"area": 0.998,
+"topology_same": true
+},
+"uni0434": {
+"moved": 5.4,
+"step": 0,
+"points": [
+79,
+78
+],
+"stroke": [
+92.6,
+93.4
+],
+"area": 0.9988,
+"topology_same": true
+},
+"uni0435": {
+"moved": 5.2,
+"step": 0,
+"points": [
+63,
+88
+],
+"stroke": [
+86.4,
+87.7
+],
+"area": 1.0016,
+"topology_same": true
+},
+"uni0436": {
+"moved": 4.9,
+"step": 0,
+"points": [
+107,
+127
+],
+"stroke": [
+93.1,
+93.7
+],
+"area": 0.9975,
+"topology_same": true
+},
+"uni0437": {
+"moved": 5.8,
+"step": 0,
+"points": [
+100,
+93
+],
+"stroke": [
+92.1,
+93.7
+],
+"area": 0.9975,
+"topology_same": true
+},
+"uni0438": {
+"moved": 4.5,
+"step": 0,
+"points": [
+62,
+77
+],
+"stroke": [
+90.4,
+90.4
+],
+"area": 0.9982,
+"topology_same": true
+},
+"uni0439": {
+"moved": 4.4,
+"step": 0,
+"points": [
+79,
+94
+],
+"stroke": [
+86.4,
+86.8
+],
+"area": 0.9971,
+"topology_same": true
+},
+"uni043A": {
+"moved": 5.7,
+"step": 0,
+"points": [
+79,
+82
+],
+"stroke": [
+93.3,
+94.0
+],
+"area": 0.9965,
+"topology_same": true
+},
+"uni043B": {
+"moved": 4.1,
+"step": 0,
+"points": [
+50,
+56
+],
+"stroke": [
+88.3,
+88.5
+],
+"area": 0.9964,
+"topology_same": true
+},
+"uni043C": {
+"moved": 5.2,
+"step": 0,
+"points": [
+83,
+105
+],
+"stroke": [
+86.8,
+87.3
+],
+"area": 0.9978,
+"topology_same": true
+},
+"uni043D": {
+"moved": 4.6,
+"step": 0,
+"points": [
+67,
+82
+],
+"stroke": [
+92.5,
+92.1
+],
+"area": 0.9968,
+"topology_same": true
+},
+"uni043E": {
+"moved": 5.7,
+"step": 0,
+"points": [
+55,
+67
+],
+"stroke": [
+86.0,
+86.0
+],
+"area": 0.9995,
+"topology_same": true
+},
+"uni043F": {
+"moved": 4.7,
+"step": 0,
+"points": [
+62,
+78
+],
+"stroke": [
+91.8,
+92.6
+],
+"area": 0.9997,
+"topology_same": true
+},
+"uni0440": {
+"moved": 7.2,
+"step": 0,
+"points": [
+86,
+97
+],
+"stroke": [
+91.8,
+92.0
+],
+"area": 0.9982,
+"topology_same": true
+},
+"uni0441": {
+"moved": 4.0,
+"step": 0,
+"points": [
+48,
+56
+],
+"stroke": [
+98.0,
+98.0
+],
+"area": 0.9997,
+"topology_same": true
+},
+"uni0442": {
+"moved": 5.2,
+"step": 0,
+"points": [
+126,
+145
+],
+"stroke": [
+95.4,
+95.7
+],
+"area": 0.9972,
+"topology_same": true
+},
+"uni0443": {
+"moved": 8.0,
+"step": 0,
+"points": [
+102,
+120
+],
+"stroke": [
+96.1,
+96.0
+],
+"area": 0.9994,
+"topology_same": true
+},
+"uni0444": {
+"moved": 6.1,
+"step": 0,
+"points": [
+127,
+131
+],
+"stroke": [
+88.0,
+88.0
+],
+"area": 1.0006,
+"topology_same": true
+},
+"uni0445": {
+"moved": 5.9,
+"step": 0,
+"points": [
+89,
+89
+],
+"stroke": [
+84.9,
+86.3
+],
+"area": 0.997,
+"topology_same": true
+},
+"uni0446": {
+"moved": 5.0,
+"step": 0,
+"points": [
+90,
+105
+],
+"stroke": [
+84.9,
+87.1
+],
+"area": 0.9955,
+"topology_same": true
+},
+"uni0447": {
+"moved": 7.4,
+"step": 0,
+"points": [
+50,
+75
+],
+"stroke": [
+82.0,
+82.0
+],
+"area": 0.9947,
+"topology_same": true
+},
+"uni0448": {
+"moved": 4.3,
+"step": 0,
+"points": [
+121,
+157
+],
+"stroke": [
+82.1,
+83.2
+],
+"area": 0.9956,
+"topology_same": true
+},
+"uni0449": {
+"moved": 8.0,
+"step": 0,
+"points": [
+113,
+154
+],
+"stroke": [
+82.0,
+82.4
+],
+"area": 0.9991,
+"topology_same": true
+},
+"uni044A": {
+"moved": 4.8,
+"step": 0,
+"points": [
+65,
+77
+],
+"stroke": [
+81.8,
+82.2
+],
+"area": 0.9982,
+"topology_same": true
+},
+"uni044B": {
+"moved": 5.3,
+"step": 0,
+"points": [
+79,
+100
+],
+"stroke": [
+81.2,
+81.5
+],
+"area": 0.9978,
+"topology_same": true
+},
+"uni044C": {
+"moved": 6.1,
+"step": 0,
+"points": [
+65,
+71
+],
+"stroke": [
+88.8,
+90.0
+],
+"area": 0.999,
+"topology_same": true
+},
+"uni044D": {
+"moved": 8.0,
+"step": 0,
+"points": [
+85,
+92
+],
+"stroke": [
+96.3,
+96.5
+],
+"area": 0.9988,
+"topology_same": true
+},
+"uni044E": {
+"moved": 6.7,
+"step": 0,
+"points": [
+98,
+113
+],
+"stroke": [
+80.2,
+80.4
+],
+"area": 0.9988,
+"topology_same": true
+},
+"uni044F": {
+"moved": 4.9,
+"step": 0,
+"points": [
+74,
+99
+],
+"stroke": [
+91.4,
+92.0
+],
+"area": 0.9968,
+"topology_same": true
+},
+"uni0021": {
+"moved": 5.5,
+"step": 0,
+"points": [
+40,
+54
+],
+"stroke": [
+89.4,
+88.4
+],
+"area": 0.9926,
+"topology_same": true
+},
+"uni0023": {
+"moved": 4.7,
+"step": 0,
+"points": [
+161,
+205
+],
+"stroke": [
+88.0,
+88.6
+],
+"area": 0.9979,
+"topology_same": true
+},
+"uni0024": {
+"moved": 8.0,
+"step": 0,
+"points": [
+180,
+254
+],
+"stroke": [
+75.0,
+74.4
+],
+"area": 0.9986,
+"topology_same": true
+},
+"uni0026": {
+"moved": 8.0,
+"step": 0,
+"points": [
+147,
+173
+],
+"stroke": [
+87.7,
+87.5
+],
+"area": 0.9992,
+"topology_same": true
+},
+"uni0028": {
+"moved": 4.7,
+"step": 0,
+"points": [
+35,
+40
+],
+"stroke": [
+82.0,
+82.4
+],
+"area": 0.9958,
+"topology_same": true
+},
+"uni0029": {
+"moved": 4.7,
+"step": 0,
+"points": [
+40,
+43
+],
+"stroke": [
+86.6,
+87.9
+],
+"area": 0.9958,
+"topology_same": true
+},
+"uni002A": {
+"moved": 8.0,
+"step": 0,
+"points": [
+83,
+112
+],
+"stroke": [
+88.1,
+88.8
+],
+"area": 0.9805,
+"topology_same": true
+},
+"uni002B": {
+"moved": 5.0,
+"step": 0,
+"points": [
+65,
+83
+],
+"stroke": [
+90.0,
+90.0
+],
+"area": 0.9948,
+"topology_same": true
+},
+"uni002F": {
+"moved": 5.8,
+"step": 0,
+"points": [
+42,
+39
+],
+"stroke": [
+82.2,
+81.4
+],
+"area": 0.9988,
+"topology_same": true
+},
+"uni003C": {
+"moved": 5.3,
+"step": 0,
+"points": [
+42,
+51
+],
+"stroke": [
+79.6,
+81.1
+],
+"area": 0.9977,
+"topology_same": true
+},
+"uni003E": {
+"moved": 4.5,
+"step": 0,
+"points": [
+46,
+54
+],
+"stroke": [
+83.5,
+86.3
+],
+"area": 0.9981,
+"topology_same": true
+},
+"uni003F": {
+"moved": 6.1,
+"step": 0,
+"points": [
+68,
+66
+],
+"stroke": [
+92.1,
+92.1
+],
+"area": 0.9967,
+"topology_same": true
+},
+"uni0040": {
+"moved": 6.4,
+"step": 0,
+"points": [
+163,
+152
+],
+"stroke": [
+78.2,
+78.7
+],
+"area": 1.0015,
+"topology_same": true
+},
+"uni005B": {
+"moved": 4.9,
+"step": 0,
+"points": [
+61,
+62
+],
+"stroke": [
+86.6,
+86.1
+],
+"area": 0.9981,
+"topology_same": true
+},
+"uni005C": {
+"moved": 3.9,
+"step": 0,
+"points": [
+35,
+37
+],
+"stroke": [
+80.5,
+81.0
+],
+"area": 0.9978,
+"topology_same": true
+},
+"uni005D": {
+"moved": 5.2,
+"step": 0,
+"points": [
+64,
+62
+],
+"stroke": [
+85.5,
+86.0
+],
+"area": 0.9962,
+"topology_same": true
+},
+"uni005E": {
+"moved": 4.5,
+"step": 0,
+"points": [
+42,
+48
+],
+"stroke": [
+94.9,
+96.6
+],
+"area": 0.9926,
+"topology_same": true
+},
+"uni007B": {
+"moved": 7.9,
+"step": 0,
+"points": [
+77,
+85
+],
+"stroke": [
+93.4,
+93.7
+],
+"area": 0.9946,
+"topology_same": true
+},
+"uni007C": {
+"moved": 6.6,
+"step": 0,
+"points": [
+43,
+43
+],
+"stroke": [
+90.0,
+89.1
+],
+"area": 0.9986,
+"topology_same": true
+},
+"uni007D": {
+"moved": 7.6,
+"step": 0,
+"points": [
+75,
+81
+],
+"stroke": [
+100.0,
+98.3
+],
+"area": 0.9957,
+"topology_same": true
+},
+"uni0022": {
+"moved": 4.9,
+"step": 0,
+"points": [
+43,
+59
+],
+"stroke": [
+90.0,
+92.0
+],
+"area": 0.9872,
+"topology_same": true
+},
+"uni0027": {
+"moved": 3.8,
+"step": 0,
+"points": [
+20,
+30
+],
+"stroke": [
+95.4,
+96.5
+],
+"area": 0.9804,
+"topology_same": true
+},
+"uni0025": {
+"moved": 6.1,
+"step": 0,
+"points": [
+107,
+129
+],
+"stroke": [
+82.0,
+82.0
+],
+"area": 0.9966,
+"topology_same": true
+},
+"uni002C": {
+"moved": 0.0,
+"step": 0,
+"points": [
+16,
+16
+],
+"stroke": [
+86.3,
+86.3
+],
+"area": 1.0,
+"topology_same": true
+},
+"uni002E": {
+"moved": 0.0,
+"step": 0,
+"points": [
+10,
+10
+],
+"stroke": [
+77.3,
+77.3
+],
+"area": 1.0,
+"topology_same": true
+},
+"uni003A": {
+"moved": 0.0,
+"step": 0,
+"points": [
+25,
+25
+],
+"stroke": [
+92.6,
+92.6
+],
+"area": 1.0,
+"topology_same": true
+},
+"uni003B": {
+"moved": 4.4,
+"step": 0,
+"points": [
+34,
+42
+],
+"stroke": [
+95.7,
+96.6
+],
+"area": 0.9907,
+"topology_same": true
+},
+"uni002D": {
+"moved": 5.5,
+"step": 0,
+"points": [
+25,
+30
+],
+"stroke": [
+88.0,
+90.0
+],
+"area": 0.9929,
+"topology_same": true
+},
+"uni2013": {
+"moved": 3.8,
+"step": 0,
+"points": [
+31,
+37
+],
+"stroke": [
+89.4,
+88.6
+],
+"area": 0.9909,
+"topology_same": true
+},
+"uni2014": {
+"moved": 6.4,
+"step": 0,
+"points": [
+40,
+42
+],
+"stroke": [
+92.0,
+92.0
+],
+"area": 0.9981,
+"topology_same": true
+},
+"uni003D": {
+"moved": 4.8,
+"step": 0,
+"points": [
+57,
+62
+],
+"stroke": [
+86.0,
+85.2
+],
+"area": 0.992,
+"topology_same": true
+},
+"uni005F": {
+"moved": 4.2,
+"step": 0,
+"points": [
+29,
+37
+],
+"stroke": [
+90.0,
+90.0
+],
+"area": 0.9939,
+"topology_same": true
+},
+"uni007E": {
+"moved": 7.5,
+"step": 0,
+"points": [
+42,
+52
+],
+"stroke": [
+96.1,
+96.1
+],
+"area": 0.9953,
+"topology_same": true
+},
+"uni2116": {
+"moved": 6.4,
+"step": 0,
+"points": [
+165,
+172
+],
+"stroke": [
+86.8,
+87.1
+],
+"area": 0.9962,
+"topology_same": true
+},
+"uni0451": {
+"moved": 5.2,
+"step": 0,
+"points": [
+91,
+116
+],
+"stroke": [
+86.2,
+86.6
+],
+"area": 1.0021,
+"topology_same": true
+},
+"uni20BD": {
+"moved": 8.0,
+"step": 0,
+"points": [
+156,
+137
+],
+"stroke": [
+70.7,
+72.0
+],
+"area": 0.9975,
+"topology_same": true
+},
+"uni00AB": {
+"moved": 5.2,
+"step": 0,
+"points": [
+82,
+93
+],
+"stroke": [
+80.4,
+81.2
+],
+"area": 0.9967,
+"topology_same": true
+},
+"uni00BB": {
+"moved": 4.5,
+"step": 0,
+"points": [
+94,
+110
+],
+"stroke": [
+83.5,
+86.4
+],
+"area": 0.9978,
+"topology_same": true
+},
+"uni2026": {
+"moved": 0.0,
+"step": 0,
+"points": [
+30,
+30
+],
+"stroke": [
+77.3,
+77.3
+],
+"area": 1.0,
+"topology_same": true
+},
+"uni0030.tab": {
+"moved": 5.0,
+"step": 0,
+"points": [
+75,
+73
+],
+"stroke": [
+87.9,
+88.6
+],
+"area": 0.9978,
+"topology_same": true
+},
+"uni0031.tab": {
+"moved": 6.3,
+"step": 0,
+"points": [
+56,
+67
+],
+"stroke": [
+89.8,
+89.1
+],
+"area": 0.9974,
+"topology_same": true
+},
+"uni0032.tab": {
+"moved": 5.1,
+"step": 0,
+"points": [
+61,
+76
+],
+"stroke": [
+90.4,
+90.4
+],
+"area": 0.9963,
+"topology_same": true
+},
+"uni0033.tab": {
+"moved": 6.9,
+"step": 0,
+"points": [
+88,
+95
+],
+"stroke": [
+86.8,
+87.9
+],
+"area": 0.9973,
+"topology_same": true
+},
+"uni0034.tab": {
+"moved": 8.0,
+"step": 0,
+"points": [
+66,
+77
+],
+"stroke": [
+96.0,
+96.0
+],
+"area": 0.9966,
+"topology_same": true
+},
+"uni0035.tab": {
+"moved": 8.0,
+"step": 0,
+"points": [
+93,
+99
+],
+"stroke": [
+92.8,
+94.0
+],
+"area": 0.9973,
+"topology_same": true
+},
+"uni0036.tab": {
+"moved": 6.0,
+"step": 0,
+"points": [
+75,
+96
+],
+"stroke": [
+88.0,
+87.7
+],
+"area": 0.9987,
+"topology_same": true
+},
+"uni0037.tab": {
+"moved": 5.8,
+"step": 0,
+"points": [
+78,
+100
+],
+"stroke": [
+91.1,
+90.8
+],
+"area": 0.9975,
+"topology_same": true
+},
+"uni0038.tab": {
+"moved": 5.4,
+"step": 0,
+"points": [
+81,
+104
+],
+"stroke": [
+86.8,
+87.9
+],
+"area": 1.0034,
+"topology_same": true
+},
+"uni0039.tab": {
+"moved": 7.8,
+"step": 0,
+"points": [
+81,
+93
+],
+"stroke": [
+88.1,
+88.6
+],
+"area": 1.0011,
+"topology_same": true
+},
+"uni0072.after_e": {
+"moved": 7.3,
+"step": 0,
+"points": [
+43,
+58
+],
+"stroke": [
+94.0,
+93.7
+],
+"area": 0.9928,
+"topology_same": true
+},
+"uni0443.open": {
+"moved": 5.2,
+"step": 0,
+"points": [
+276,
+73
+],
+"stroke": [
+91.1,
+91.0
+],
+"area": 0.9924,
+"topology_same": true
+},
+"uni0021.alt1": {
+"moved": 4.2,
+"step": 0,
+"points": [
+68,
+49
+],
+"stroke": [
+90.0,
+90.5
+],
+"area": 0.9963,
+"topology_same": true
+},
+"uni0021.alt2": {
+"moved": 3.8,
+"step": 0,
+"points": [
+70,
+49
+],
+"stroke": [
+88.0,
+88.0
+],
+"area": 0.994,
+"topology_same": true
+},
+"uni0022.alt1": {
+"moved": 5.3,
+"step": 0,
+"points": [
+67,
+62
+],
+"stroke": [
+87.5,
+90.2
+],
+"area": 0.9866,
+"topology_same": true
+},
+"uni0023.alt1": {
+"moved": 8.0,
+"step": 0,
+"points": [
+260,
+200
+],
+"stroke": [
+94.5,
+95.7
+],
+"area": 0.998,
+"topology_same": true
+},
+"uni0023.alt2": {
+"moved": 8.0,
+"step": 0,
+"points": [
+272,
+216
+],
+"stroke": [
+91.4,
+92.0
+],
+"area": 0.9968,
+"topology_same": true
+},
+"uni0024.alt1": {
+"moved": 8.0,
+"step": 0,
+"points": [
+325,
+278
+],
+"stroke": [
+89.1,
+90.0
+],
+"area": 0.9974,
+"topology_same": true
+},
+"uni0025.alt1": {
+"moved": 5.7,
+"step": 0,
+"points": [
+243,
+144
+],
+"stroke": [
+88.8,
+89.3
+],
+"area": 0.9979,
+"topology_same": true
+},
+"uni0025.alt2": {
+"moved": 6.1,
+"step": 0,
+"points": [
+226,
+156
+],
+"stroke": [
+90.0,
+91.9
+],
+"area": 0.9976,
+"topology_same": true
+},
+"uni0025.alt3": {
+"moved": 8.0,
+"step": 0,
+"points": [
+263,
+150
+],
+"stroke": [
+87.7,
+87.9
+],
+"area": 0.9977,
+"topology_same": true
+},
+"uni0026.alt1": {
+"moved": 8.0,
+"step": 0,
+"points": [
+316,
+189
+],
+"stroke": [
+88.8,
+90.0
+],
+"area": 0.9987,
+"topology_same": true
+},
+"uni0026.alt2": {
+"moved": 7.5,
+"step": 0,
+"points": [
+214,
+153
+],
+"stroke": [
+90.9,
+91.6
+],
+"area": 0.9968,
+"topology_same": true
+},
+"uni0026.alt3": {
+"moved": 6.9,
+"step": 0,
+"points": [
+227,
+172
+],
+"stroke": [
+91.3,
+92.6
+],
+"area": 0.9986,
+"topology_same": true
+},
+"uni0026.alt4": {
+"moved": 8.0,
+"step": 0,
+"points": [
+272,
+156
+],
+"stroke": [
+88.1,
+88.8
+],
+"area": 0.998,
+"topology_same": true
+},
+"uni0026.alt5": {
+"moved": 7.5,
+"step": 0,
+"points": [
+253,
+165
+],
+"stroke": [
+90.3,
+90.0
+],
+"area": 0.9956,
+"topology_same": true
+},
+"uni0028.alt1": {
+"moved": 4.7,
+"step": 0,
+"points": [
+79,
+47
+],
+"stroke": [
+86.0,
+86.0
+],
+"area": 0.9946,
+"topology_same": true
+},
+"uni0029.alt1": {
+"moved": 6.9,
+"step": 0,
+"points": [
+86,
+49
+],
+"stroke": [
+90.0,
+91.4
+],
+"area": 0.9958,
+"topology_same": true
+},
+"uni002A.alt1": {
+"moved": 7.1,
+"step": 0,
+"points": [
+71,
+97
+],
+"stroke": [
+91.5,
+94.4
+],
+"area": 0.9798,
+"topology_same": true
+},
+"uni002A.alt2": {
+"moved": 7.3,
+"step": 0,
+"points": [
+90,
+131
+],
+"stroke": [
+94.0,
+96.0
+],
+"area": 0.9801,
+"topology_same": true
+},
+"uni002B.alt1": {
+"moved": 6.3,
+"step": 0,
+"points": [
+117,
+83
+],
+"stroke": [
+92.2,
+94.0
+],
+"area": 0.9939,
+"topology_same": true
+},
+"uni002C.alt1": {
+"moved": 5.2,
+"step": 0,
+"points": [
+23,
+28
+],
+"stroke": [
+88.0,
+92.1
+],
+"area": 0.9853,
+"topology_same": true
+},
+"uni002C.alt2": {
+"moved": 0.0,
+"step": 0,
+"points": [
+27,
+27
+],
+"stroke": [
+91.0,
+91.0
+],
+"area": 1.0,
+"topology_same": true
+},
+"uni002C.alt3": {
+"moved": 4.5,
+"step": 0,
+"points": [
+29,
+27
+],
+"stroke": [
+89.2,
+94.1
+],
+"area": 0.9807,
+"topology_same": true
+},
+"uni002D.alt1": {
+"moved": 5.9,
+"step": 0,
+"points": [
+42,
+30
+],
+"stroke": [
+91.9,
+90.2
+],
+"area": 0.9885,
+"topology_same": true
+},
+"uni0030.alt1": {
+"moved": 6.3,
+"step": 0,
+"points": [
+127,
+73
+],
+"stroke": [
+87.7,
+88.0
+],
+"area": 0.9985,
+"topology_same": true
+},
+"uni0030.alt2": {
+"moved": 5.5,
+"step": 0,
+"points": [
+138,
+78
+],
+"stroke": [
+88.6,
+89.2
+],
+"area": 1.0007,
+"topology_same": true
+},
+"uni0030.alt3": {
+"moved": 8.0,
+"step": 0,
+"points": [
+144,
+75
+],
+"stroke": [
+87.4,
+87.9
+],
+"area": 1.0004,
+"topology_same": true
+},
+"uni0031.alt1": {
+"moved": 8.0,
+"step": 0,
+"points": [
+78,
+72
+],
+"stroke": [
+89.3,
+86.0
+],
+"area": 0.9943,
+"topology_same": true
+},
+"uni0031.alt2": {
+"moved": 6.4,
+"step": 0,
+"points": [
+72,
+44
+],
+"stroke": [
+93.7,
+93.7
+],
+"area": 0.9947,
+"topology_same": true
+},
+"uni0031.alt3": {
+"moved": 7.1,
+"step": 0,
+"points": [
+79,
+52
+],
+"stroke": [
+92.3,
+94.0
+],
+"area": 0.9923,
+"topology_same": true
+},
+"uni0031.alt4": {
+"moved": 6.2,
+"step": 0,
+"points": [
+65,
+45
+],
+"stroke": [
+88.4,
+88.0
+],
+"area": 0.9926,
+"topology_same": true
+},
+"uni0031.alt5": {
+"moved": 5.1,
+"step": 0,
+"points": [
+70,
+59
+],
+"stroke": [
+86.8,
+88.6
+],
+"area": 0.9955,
+"topology_same": true
+},
+"uni0032.alt1": {
+"moved": 7.1,
+"step": 0,
+"points": [
+115,
+81
+],
+"stroke": [
+89.8,
+90.4
+],
+"area": 0.9957,
+"topology_same": true
+},
+"uni0032.alt2": {
+"moved": 4.0,
+"step": 0,
+"points": [
+118,
+79
+],
+"stroke": [
+90.7,
+91.2
+],
+"area": 0.9938,
+"topology_same": true
+},
+"uni0032.alt3": {
+"moved": 5.0,
+"step": 0,
+"points": [
+134,
+89
+],
+"stroke": [
+94.8,
+96.0
+],
+"area": 0.999,
+"topology_same": true
+},
+"uni0032.alt4": {
+"moved": 5.3,
+"step": 0,
+"points": [
+129,
+92
+],
+"stroke": [
+88.3,
+88.4
+],
+"area": 0.9961,
+"topology_same": true
+},
+"uni0032.alt5": {
+"moved": 5.1,
+"step": 0,
+"points": [
+176,
+100
+],
+"stroke": [
+89.2,
+88.8
+],
+"area": 0.9983,
+"topology_same": true
+},
+"uni0033.alt1": {
+"moved": 8.0,
+"step": 0,
+"points": [
+134,
+101
+],
+"stroke": [
+91.8,
+93.1
+],
+"area": 0.9971,
+"topology_same": true
+},
+"uni0033.alt2": {
+"moved": 5.7,
+"step": 0,
+"points": [
+133,
+90
+],
+"stroke": [
+90.2,
+90.8
+],
+"area": 0.9958,
+"topology_same": true
+},
+"uni0034.alt1": {
+"moved": 5.3,
+"step": 0,
+"points": [
+112,
+81
+],
+"stroke": [
+87.7,
+87.1
+],
+"area": 0.9969,
+"topology_same": true
+},
+"uni0034.alt2": {
+"moved": 5.4,
+"step": 0,
+"points": [
+146,
+93
+],
+"stroke": [
+90.0,
+91.4
+],
+"area": 0.9966,
+"topology_same": true
+},
+"uni0034.alt3": {
+"moved": 6.2,
+"step": 0,
+"points": [
+97,
+82
+],
+"stroke": [
+92.8,
+92.6
+],
+"area": 0.9967,
+"topology_same": true
+},
+"uni0035.alt1": {
+"moved": 4.9,
+"step": 0,
+"points": [
+152,
+98
+],
+"stroke": [
+91.9,
+92.0
+],
+"area": 0.9969,
+"topology_same": true
+},
+"uni0035.alt2": {
+"moved": 5.0,
+"step": 0,
+"points": [
+113,
+85
+],
+"stroke": [
+90.6,
+91.8
+],
+"area": 0.9968,
+"topology_same": true
+},
+"uni0035.alt3": {
+"moved": 7.6,
+"step": 0,
+"points": [
+115,
+96
+],
+"stroke": [
+86.4,
+88.1
+],
+"area": 0.999,
+"topology_same": true
+},
+"uni0035.alt4": {
+"moved": 8.0,
+"step": 0,
+"points": [
+148,
+109
+],
+"stroke": [
+90.8,
+91.4
+],
+"area": 0.9979,
+"topology_same": true
+},
+"uni0035.alt5": {
+"moved": 5.9,
+"step": 0,
+"points": [
+142,
+95
+],
+"stroke": [
+88.6,
+90.2
+],
+"area": 0.9981,
+"topology_same": true
+},
+"uni0036.alt1": {
+"moved": 4.6,
+"step": 0,
+"points": [
+115,
+77
+],
+"stroke": [
+92.3,
+93.4
+],
+"area": 0.9999,
+"topology_same": true
+},
+"uni0036.alt2": {
+"moved": 6.5,
+"step": 0,
+"points": [
+116,
+76
+],
+"stroke": [
+92.0,
+92.3
+],
+"area": 1.0009,
+"topology_same": true
+},
+"uni0036.alt3": {
+"moved": 6.1,
+"step": 0,
+"points": [
+142,
+86
+],
+"stroke": [
+87.1,
+87.9
+],
+"area": 1.0005,
+"topology_same": true
+},
+"uni0037.alt1": {
+"moved": 8.0,
+"step": 0,
+"points": [
+105,
+85
+],
+"stroke": [
+87.9,
+88.0
+],
+"area": 0.9944,
+"topology_same": true
+},
+"uni0037.alt2": {
+"moved": 6.9,
+"step": 0,
+"points": [
+135,
+109
+],
+"stroke": [
+88.1,
+88.0
+],
+"area": 0.9977,
+"topology_same": true
+},
+"uni0037.alt3": {
+"moved": 6.7,
+"step": 0,
+"points": [
+126,
+100
+],
+"stroke": [
+90.0,
+90.4
+],
+"area": 0.9955,
+"topology_same": true
+},
+"uni0038.alt1": {
+"moved": 6.1,
+"step": 0,
+"points": [
+124,
+98
+],
+"stroke": [
+86.0,
+85.9
+],
+"area": 1.0016,
+"topology_same": true
+},
+"uni0038.alt2": {
+"moved": 6.5,
+"step": 0,
+"points": [
+156,
+111
+],
+"stroke": [
+89.4,
+90.4
+],
+"area": 1.0028,
+"topology_same": true
+},
+"uni0038.alt3": {
+"moved": 7.8,
+"step": 0,
+"points": [
+132,
+108
+],
+"stroke": [
+89.8,
+90.1
+],
+"area": 1.0013,
+"topology_same": true
+},
+"uni0039.alt1": {
+"moved": 8.0,
+"step": 0,
+"points": [
+103,
+82
+],
+"stroke": [
+86.6,
+88.0
+],
+"area": 1.0035,
+"topology_same": true
+},
+"uni0039.alt2": {
+"moved": 5.7,
+"step": 0,
+"points": [
+103,
+77
+],
+"stroke": [
+88.0,
+90.7
+],
+"area": 1.0013,
+"topology_same": true
+},
+"uni0039.alt3": {
+"moved": 6.9,
+"step": 0,
+"points": [
+94,
+76
+],
+"stroke": [
+90.5,
+90.6
+],
+"area": 1.0003,
+"topology_same": true
+},
+"uni0039.alt4": {
+"moved": 6.2,
+"step": 0,
+"points": [
+108,
+78
+],
+"stroke": [
+90.7,
+93.4
+],
+"area": 1.002,
+"topology_same": true
+},
+"uni003A.alt1": {
+"moved": 0.0,
+"step": 0,
+"points": [
+24,
+24
+],
+"stroke": [
+87.3,
+87.3
+],
+"area": 1.0,
+"topology_same": true
+},
+"uni003B.alt1": {
+"moved": 7.4,
+"step": 0,
+"points": [
+31,
+37
+],
+"stroke": [
+87.9,
+90.6
+],
+"area": 0.9913,
+"topology_same": true
+},
+"uni003B.alt2": {
+"moved": 6.0,
+"step": 0,
+"points": [
+44,
+42
+],
+"stroke": [
+89.8,
+93.1
+],
+"area": 0.991,
+"topology_same": true
+},
+"uni003F.alt1": {
+"moved": 5.4,
+"step": 0,
+"points": [
+106,
+67
+],
+"stroke": [
+89.1,
+89.3
+],
+"area": 0.9965,
+"topology_same": true
+},
+"uni0040.alt1": {
+"moved": 4.9,
+"step": 0,
+"points": [
+310,
+161
+],
+"stroke": [
+88.5,
+90.0
+],
+"area": 0.9992,
+"topology_same": true
+},
+"uni0041.alt1": {
+"moved": 8.0,
+"step": 1,
+"points": [
+220,
+115
+],
+"stroke": [
+90.1,
+89.8
+],
+"area": 0.9978,
+"topology_same": true
+},
+"uni0042.alt1": {
+"moved": 8.0,
+"step": 0,
+"points": [
+183,
+147
+],
+"stroke": [
+90.0,
+88.3
+],
+"area": 1.0009,
+"topology_same": true
+},
+"uni0042.alt2": {
+"moved": 8.0,
+"step": 0,
+"points": [
+348,
+174
+],
+"stroke": [
+92.1,
+92.5
+],
+"area": 0.9969,
+"topology_same": true
+},
+"uni0043.alt1": {
+"moved": 5.6,
+"step": 0,
+"points": [
+183,
+85
+],
+"stroke": [
+88.0,
+88.8
+],
+"area": 0.9964,
+"topology_same": true
+},
+"uni0044.alt1": {
+"moved": 6.7,
+"step": 0,
+"points": [
+236,
+101
+],
+"stroke": [
+86.2,
+86.6
+],
+"area": 0.997,
+"topology_same": true
+},
+"uni0045.alt1": {
+"moved": 8.0,
+"step": 0,
+"points": [
+210,
+117
+],
+"stroke": [
+88.0,
+88.0
+],
+"area": 0.9944,
+"topology_same": true
+},
+"uni0045.alt2": {
+"moved": 8.0,
+"step": 0,
+"points": [
+180,
+116
+],
+"stroke": [
+88.8,
+88.0
+],
+"area": 0.9942,
+"topology_same": true
+},
+"uni0045.alt3": {
+"moved": 6.9,
+"step": 0,
+"points": [
+195,
+122
+],
+"stroke": [
+86.0,
+87.1
+],
+"area": 0.9948,
+"topology_same": true
+},
+"uni0046.alt1": {
+"moved": 8.0,
+"step": 0,
+"points": [
+154,
+103
+],
+"stroke": [
+90.0,
+90.2
+],
+"area": 0.9967,
+"topology_same": true
+},
+"uni0047.alt1": {
+"moved": 8.0,
+"step": 0,
+"points": [
+243,
+126
+],
+"stroke": [
+90.4,
+90.6
+],
+"area": 0.9957,
+"topology_same": true
+},
+"uni0047.alt2": {
+"moved": 8.0,
+"step": 0,
+"points": [
+274,
+119
+],
+"stroke": [
+90.0,
+90.0
+],
+"area": 0.9986,
+"topology_same": true
+},
+"uni0048.alt1": {
+"moved": 5.4,
+"step": 0,
+"points": [
+161,
+112
+],
+"stroke": [
+88.0,
+88.0
+],
+"area": 0.9978,
+"topology_same": true
+},
+"uni0048.alt2": {
+"moved": 5.5,
+"step": 0,
+"points": [
+175,
+104
+],
+"stroke": [
+88.4,
+90.0
+],
+"area": 0.998,
+"topology_same": true
+},
+"uni0049.alt1": {
+"moved": 7.4,
+"step": 0,
+"points": [
+161,
+102
+],
+"stroke": [
+92.0,
+92.2
+],
+"area": 0.9965,
+"topology_same": true
+},
+"uni004A.alt1": {
+"moved": 5.6,
+"step": 0,
+"points": [
+115,
+75
+],
+"stroke": [
+90.0,
+90.0
+],
+"area": 0.9954,
+"topology_same": true
+},
+"uni004B.alt1": {
+"moved": 6.9,
+"step": 0,
+"points": [
+217,
+107
+],
+"stroke": [
+91.6,
+92.0
+],
+"area": 0.996,
+"topology_same": true
+},
+"uni004C.alt1": {
+"moved": 5.7,
+"step": 0,
+"points": [
+108,
+68
+],
+"stroke": [
+92.0,
+92.0
+],
+"area": 0.9963,
+"topology_same": true
+},
+"uni004D.alt1": {
+"moved": 5.0,
+"step": 0,
+"points": [
+210,
+108
+],
+"stroke": [
+92.1,
+92.5
+],
+"area": 0.9985,
+"topology_same": true
+},
+"uni004E.alt1": {
+"moved": 4.6,
+"step": 0,
+"points": [
+210,
+104
+],
+"stroke": [
+90.6,
+90.2
+],
+"area": 0.9983,
+"topology_same": true
+},
+"uni004E.alt2": {
+"moved": 4.4,
+"step": 0,
+"points": [
+202,
+107
+],
+"stroke": [
+92.0,
+92.0
+],
+"area": 1.0002,
+"topology_same": true
+},
+"uni004E.alt3": {
+"moved": 7.0,
+"step": 0,
+"points": [
+206,
+113
+],
+"stroke": [
+92.0,
+94.9
+],
+"area": 0.9981,
+"topology_same": true
+},
+"uni004E.alt4": {
+"moved": 6.5,
+"step": 0,
+"points": [
+214,
+107
+],
+"stroke": [
+86.0,
+86.1
+],
+"area": 0.9977,
+"topology_same": true
+},
+"uni004F.alt1": {
+"moved": 8.0,
+"step": 0,
+"points": [
+221,
+89
+],
+"stroke": [
+87.3,
+88.0
+],
+"area": 0.9979,
+"topology_same": true
+},
+"uni004F.alt2": {
+"moved": 8.0,
+"step": 0,
+"points": [
+168,
+80
+],
+"stroke": [
+88.0,
+88.0
+],
+"area": 0.9985,
+"topology_same": true
+},
+"uni004F.alt3": {
+"moved": 4.7,
+"step": 0,
+"points": [
+159,
+70
+],
+"stroke": [
+86.3,
+86.0
+],
+"area": 0.9991,
+"topology_same": true
+},
+"uni004F.alt4": {
+"moved": 8.0,
+"step": 0,
+"points": [
+164,
+84
+],
+"stroke": [
+86.0,
+86.3
+],
+"area": 1.0026,
+"topology_same": true
+},
+"uni0050.alt1": {
+"moved": 6.8,
+"step": 0,
+"points": [
+143,
+96
+],
+"stroke": [
+88.0,
+88.8
+],
+"area": 1.001,
+"topology_same": true
+},
+"uni0051.alt1": {
+"moved": 7.4,
+"step": 0,
+"points": [
+234,
+134
+],
+"stroke": [
+88.0,
+88.2
+],
+"area": 0.9982,
+"topology_same": true
+},
+"uni0052.alt1": {
+"moved": 6.7,
+"step": 0,
+"points": [
+188,
+115
+],
+"stroke": [
+90.0,
+90.1
+],
+"area": 1.0013,
+"topology_same": true
+},
+"uni0052.alt2": {
+"moved": 6.6,
+"step": 0,
+"points": [
+196,
+112
+],
+"stroke": [
+88.1,
+90.4
+],
+"area": 1.0009,
+"topology_same": true
+},
+"uni0052.alt3": {
+"moved": 8.0,
+"step": 0,
+"points": [
+211,
+129
+],
+"stroke": [
+88.0,
+88.1
+],
+"area": 0.999,
+"topology_same": true
+},
+"uni0052.alt4": {
+"moved": 7.4,
+"step": 0,
+"points": [
+240,
+134
+],
+"stroke": [
+96.8,
+98.7
+],
+"area": 0.9986,
+"topology_same": true
+},
+"uni0053.alt1": {
+"moved": 6.7,
+"step": 0,
+"points": [
+142,
+82
+],
+"stroke": [
+93.3,
+93.7
+],
+"area": 0.9977,
+"topology_same": true
+},
+"uni0053.alt2": {
+"moved": 4.9,
+"step": 0,
+"points": [
+179,
+97
+],
+"stroke": [
+90.4,
+91.8
+],
+"area": 0.9973,
+"topology_same": true
+},
+"uni0053.alt3": {
+"moved": 8.0,
+"step": 0,
+"points": [
+161,
+97
+],
+"stroke": [
+89.2,
+90.6
+],
+"area": 0.9975,
+"topology_same": true
+},
+"uni0054.alt1": {
+"moved": 5.4,
+"step": 0,
+"points": [
+146,
+82
+],
+"stroke": [
+90.6,
+92.2
+],
+"area": 0.9976,
+"topology_same": true
+},
+"uni0054.alt2": {
+"moved": 5.4,
+"step": 0,
+"points": [
+129,
+72
+],
+"stroke": [
+88.8,
+89.1
+],
+"area": 0.995,
+"topology_same": true
+},
+"uni0055.alt1": {
+"moved": 4.1,
+"step": 0,
+"points": [
+145,
+70
+],
+"stroke": [
+88.6,
+88.8
+],
+"area": 0.9979,
+"topology_same": true
+},
+"uni0056.alt1": {
+"moved": 3.8,
+"step": 0,
+"points": [
+145,
+64
+],
+"stroke": [
+93.0,
+93.9
+],
+"area": 0.9998,
+"topology_same": true
+},
+"uni0056.alt2": {
+"moved": 4.9,
+"step": 0,
+"points": [
+151,
+74
+],
+"stroke": [
+87.4,
+87.7
+],
+"area": 0.9966,
+"topology_same": true
+},
+"uni0057.alt1": {
+"moved": 6.4,
+"step": 0,
+"points": [
+262,
+132
+],
+"stroke": [
+90.4,
+90.7
+],
+"area": 0.9971,
+"topology_same": true
+},
+"uni0058.alt1": {
+"moved": 4.3,
+"step": 0,
+"points": [
+199,
+102
+],
+"stroke": [
+89.4,
+90.0
+],
+"area": 0.9996,
+"topology_same": true
+},
+"uni0058.alt2": {
+"moved": 8.0,
+"step": 0,
+"points": [
+193,
+111
+],
+"stroke": [
+89.8,
+89.3
+],
+"area": 0.9964,
+"topology_same": true
+},
+"uni0059.alt1": {
+"moved": 5.3,
+"step": 0,
+"points": [
+157,
+67
+],
+"stroke": [
+87.5,
+87.7
+],
+"area": 1.0006,
+"topology_same": true
+},
+"uni005A.alt1": {
+"moved": 5.7,
+"step": 0,
+"points": [
+156,
+99
+],
+"stroke": [
+90.4,
+92.1
+],
+"area": 0.9967,
+"topology_same": true
+},
+"uni005C.alt1": {
+"moved": 5.3,
+"step": 0,
+"points": [
+99,
+45
+],
+"stroke": [
+88.8,
+89.8
+],
+"area": 0.9974,
+"topology_same": true
+},
+"uni005E.alt1": {
+"moved": 5.8,
+"step": 0,
+"points": [
+70,
+45
+],
+"stroke": [
+88.4,
+94.5
+],
+"area": 0.9971,
+"topology_same": true
+},
+"uni0061.alt1": {
+"moved": 6.7,
+"step": 0,
+"points": [
+170,
+107
+],
+"stroke": [
+90.0,
+90.4
+],
+"area": 0.9987,
+"topology_same": true
+},
+"uni0061.alt2": {
+"moved": 7.8,
+"step": 0,
+"points": [
+171,
+108
+],
+"stroke": [
+90.4,
+91.8
+],
+"area": 1.0013,
+"topology_same": true
+},
+"uni0062.alt1": {
+"moved": 5.3,
+"step": 0,
+"points": [
+204,
+102
+],
+"stroke": [
+89.8,
+89.3
+],
+"area": 0.9966,
+"topology_same": true
+},
+"uni0063.alt1": {
+"moved": 6.5,
+"step": 0,
+"points": [
+76,
+54
+],
+"stroke": [
+88.6,
+90.4
+],
+"area": 0.9993,
+"topology_same": true
+},
+"uni0064.alt1": {
+"moved": 8.0,
+"step": 0,
+"points": [
+146,
+83
+],
+"stroke": [
+91.1,
+91.4
+],
+"area": 1.0004,
+"topology_same": true
+},
+"uni0064.alt2": {
+"moved": 6.5,
+"step": 0,
+"points": [
+134,
+90
+],
+"stroke": [
+88.0,
+89.1
+],
+"area": 1.0024,
+"topology_same": true
+},
+"uni0065.alt1": {
+"moved": 3.9,
+"step": 0,
+"points": [
+108,
+79
+],
+"stroke": [
+87.9,
+89.1
+],
+"area": 0.9997,
+"topology_same": true
+},
+"uni0065.alt2": {
+"moved": 5.5,
+"step": 0,
+"points": [
+129,
+88
+],
+"stroke": [
+85.9,
+84.0
+],
+"area": 0.9982,
+"topology_same": true
+},
+"uni0065.alt3": {
+"moved": 8.0,
+"step": 0,
+"points": [
+105,
+88
+],
+"stroke": [
+91.1,
+90.6
+],
+"area": 0.9957,
+"topology_same": true
+},
+"uni0066.alt1": {
+"moved": 8.0,
+"step": 0,
+"points": [
+223,
+127
+],
+"stroke": [
+87.5,
+87.4
+],
+"area": 0.9969,
+"topology_same": true
+},
+"uni0066.alt2": {
+"moved": 8.0,
+"step": 0,
+"points": [
+186,
+115
+],
+"stroke": [
+92.5,
+94.0
+],
+"area": 0.9972,
+"topology_same": true
+},
+"uni0067.alt1": {
+"moved": 7.1,
+"step": 0,
+"points": [
+187,
+117
+],
+"stroke": [
+90.0,
+90.2
+],
+"area": 0.9996,
+"topology_same": true
+},
+"uni0067.alt2": {
+"moved": 5.9,
+"step": 0,
+"points": [
+169,
+98
+],
+"stroke": [
+90.0,
+90.0
+],
+"area": 1.0013,
+"topology_same": true
+},
+"uni0068.alt1": {
+"moved": 6.3,
+"step": 0,
+"points": [
+210,
+94
+],
+"stroke": [
+87.7,
+88.0
+],
+"area": 0.9979,
+"topology_same": true
+},
+"uni006A.alt1": {
+"moved": 5.4,
+"step": 0,
+"points": [
+116,
+88
+],
+"stroke": [
+94.0,
+94.0
+],
+"area": 0.9965,
+"topology_same": true
+},
+"uni006B.alt1": {
+"moved": 4.7,
+"step": 0,
+"points": [
+123,
+88
+],
+"stroke": [
+88.0,
+89.8
+],
+"area": 0.9969,
+"topology_same": true
+},
+"uni006B.alt2": {
+"moved": 4.7,
+"step": 0,
+"points": [
+114,
+92
+],
+"stroke": [
+90.0,
+90.0
+],
+"area": 0.9978,
+"topology_same": true
+},
+"uni006B.alt3": {
+"moved": 5.3,
+"step": 0,
+"points": [
+144,
+97
+],
+"stroke": [
+90.0,
+90.0
+],
+"area": 0.9973,
+"topology_same": true
+},
+"uni006C.alt1": {
+"moved": 5.5,
+"step": 0,
+"points": [
+107,
+58
+],
+"stroke": [
+94.0,
+94.0
+],
+"area": 0.9966,
+"topology_same": true
+},
+"uni006D.alt1": {
+"moved": 5.5,
+"step": 0,
+"points": [
+251,
+140
+],
+"stroke": [
+94.0,
+95.0
+],
+"area": 0.9976,
+"topology_same": true
+},
+"uni006E.alt1": {
+"moved": 6.0,
+"step": 0,
+"points": [
+185,
+93
+],
+"stroke": [
+90.4,
+90.0
+],
+"area": 0.9997,
+"topology_same": true
+},
+"uni006E.alt2": {
+"moved": 6.0,
+"step": 0,
+"points": [
+201,
+98
+],
+"stroke": [
+94.0,
+93.4
+],
+"area": 0.9982,
+"topology_same": true
+},
+"uni006F.alt1": {
+"moved": 5.9,
+"step": 0,
+"points": [
+157,
+83
+],
+"stroke": [
+93.0,
+94.3
+],
+"area": 0.9971,
+"topology_same": true
+},
+"uni006F.alt2": {
+"moved": 7.1,
+"step": 0,
+"points": [
+167,
+84
+],
+"stroke": [
+86.1,
+86.8
+],
+"area": 0.9968,
+"topology_same": true
+},
+"uni006F.alt3": {
+"moved": 6.9,
+"step": 0,
+"points": [
+198,
+70
+],
+"stroke": [
+90.0,
+92.0
+],
+"area": 0.9981,
+"topology_same": true
+},
+"uni006F.alt4": {
+"moved": 8.0,
+"step": 0,
+"points": [
+155,
+71
+],
+"stroke": [
+89.1,
+89.8
+],
+"area": 1.0008,
+"topology_same": true
+},
+"uni006F.alt5": {
+"moved": 8.0,
+"step": 0,
+"points": [
+143,
+67
+],
+"stroke": [
+92.1,
+92.7
+],
+"area": 0.9991,
+"topology_same": true
+},
+"uni0070.alt1": {
+"moved": 7.3,
+"step": 0,
+"points": [
+157,
+93
+],
+"stroke": [
+88.2,
+88.4
+],
+"area": 0.9996,
+"topology_same": true
+},
+"uni0071.alt1": {
+"moved": 8.0,
+"step": 0,
+"points": [
+160,
+91
+],
+"stroke": [
+90.0,
+90.6
+],
+"area": 1.0002,
+"topology_same": true
+},
+"uni0072.alt1": {
+"moved": 7.8,
+"step": 0,
+"points": [
+98,
+61
+],
+"stroke": [
+89.8,
+90.1
+],
+"area": 0.9956,
+"topology_same": true
+},
+"uni0072.alt2": {
+"moved": 6.4,
+"step": 0,
+"points": [
+90,
+60
+],
+"stroke": [
+89.8,
+90.0
+],
+"area": 0.9932,
+"topology_same": true
+},
+"uni0073.alt1": {
+"moved": 4.9,
+"step": 0,
+"points": [
+120,
+77
+],
+"stroke": [
+93.0,
+92.6
+],
+"area": 0.995,
+"topology_same": true
+},
+"uni0074.alt1": {
+"moved": 8.0,
+"step": 0,
+"points": [
+164,
+96
+],
+"stroke": [
+88.0,
+88.0
+],
+"area": 0.9976,
+"topology_same": true
+},
+"uni0075.alt1": {
+"moved": 5.8,
+"step": 0,
+"points": [
+136,
+81
+],
+"stroke": [
+91.1,
+92.0
+],
+"area": 0.998,
+"topology_same": true
+},
+"uni0075.alt2": {
+"moved": 5.1,
+"step": 0,
+"points": [
+140,
+90
+],
+"stroke": [
+94.0,
+96.0
+],
+"area": 0.9973,
+"topology_same": true
+},
+"uni0076.alt1": {
+"moved": 5.3,
+"step": 0,
+"points": [
+120,
+63
+],
+"stroke": [
+90.2,
+90.6
+],
+"area": 0.9997,
+"topology_same": true
+},
+"uni0077.alt1": {
+"moved": 5.8,
+"step": 0,
+"points": [
+184,
+109
+],
+"stroke": [
+93.3,
+94.3
+],
+"area": 0.9975,
+"topology_same": true
+},
+"uni0078.alt1": {
+"moved": 6.9,
+"step": 0,
+"points": [
+146,
+96
+],
+"stroke": [
+92.5,
+94.8
+],
+"area": 0.9971,
+"topology_same": true
+},
+"uni0079.alt1": {
+"moved": 6.8,
+"step": 0,
+"points": [
+178,
+108
+],
+"stroke": [
+89.1,
+89.8
+],
+"area": 0.9949,
+"topology_same": true
+},
+"uni0079.alt2": {
+"moved": 5.0,
+"step": 0,
+"points": [
+152,
+101
+],
+"stroke": [
+94.1,
+94.0
+],
+"area": 0.9974,
+"topology_same": true
+},
+"uni0079.alt3": {
+"moved": 4.9,
+"step": 0,
+"points": [
+154,
+82
+],
+"stroke": [
+88.6,
+89.4
+],
+"area": 0.998,
+"topology_same": true
+},
+"uni007A.alt1": {
+"moved": 6.6,
+"step": 0,
+"points": [
+90,
+69
+],
+"stroke": [
+87.9,
+87.9
+],
+"area": 0.9939,
+"topology_same": true
+},
+"uni007C.alt1": {
+"moved": 4.7,
+"step": 0,
+"points": [
+106,
+58
+],
+"stroke": [
+91.4,
+94.0
+],
+"area": 0.9957,
+"topology_same": true
+},
+"uni00AB.alt1": {
+"moved": 5.3,
+"step": 0,
+"points": [
+155,
+95
+],
+"stroke": [
+91.6,
+93.9
+],
+"area": 0.9936,
+"topology_same": true
+},
+"uni00B0": {
+"moved": 8.0,
+"step": 0,
+"points": [
+66,
+46
+],
+"stroke": [
+88.1,
+88.8
+],
+"area": 0.9965,
+"topology_same": true
+},
+"uni00BB.alt1": {
+"moved": 6.1,
+"step": 0,
+"points": [
+161,
+97
+],
+"stroke": [
+89.6,
+89.9
+],
+"area": 0.9939,
+"topology_same": true
+},
+"uni0401.alt1": {
+"moved": 6.1,
+"step": 0,
+"points": [
+154,
+113
+],
+"stroke": [
+90.0,
+92.0
+],
+"area": 0.9993,
+"topology_same": true
+},
+"uni0401.alt2": {
+"moved": 6.4,
+"step": 0,
+"points": [
+204,
+135
+],
+"stroke": [
+89.8,
+90.0
+],
+"area": 0.9965,
+"topology_same": true
+},
+"uni0410.alt1": {
+"moved": 7.7,
+"step": 0,
+"points": [
+138,
+93
+],
+"stroke": [
+90.2,
+90.7
+],
+"area": 0.9982,
+"topology_same": true
+},
+"uni0410.alt2": {
+"moved": 6.2,
+"step": 0,
+"points": [
+161,
+105
+],
+"stroke": [
+89.4,
+90.2
+],
+"area": 1.0004,
+"topology_same": true
+},
+"uni0410.alt3": {
+"moved": 8.0,
+"step": 0,
+"points": [
+154,
+92
+],
+"stroke": [
+88.1,
+89.6
+],
+"area": 0.9994,
+"topology_same": true
+},
+"uni0411.alt1": {
+"moved": 8.0,
+"step": 0,
+"points": [
+162,
+123
+],
+"stroke": [
+96.0,
+97.4
+],
+"area": 0.9977,
+"topology_same": true
+},
+"uni0411.alt2": {
+"moved": 5.7,
+"step": 0,
+"points": [
+213,
+105
+],
+"stroke": [
+88.0,
+87.9
+],
+"area": 0.9972,
+"topology_same": true
+},
+"uni0411.alt3": {
+"moved": 7.8,
+"step": 0,
+"points": [
+231,
+105
+],
+"stroke": [
+90.2,
+90.2
+],
+"area": 0.9963,
+"topology_same": true
+},
+"uni0412.alt1": {
+"moved": 8.0,
+"step": 0,
+"points": [
+160,
+135
+],
+"stroke": [
+89.8,
+90.2
+],
+"area": 0.9991,
+"topology_same": true
+},
+"uni0412.alt2": {
+"moved": 8.0,
+"step": 0,
+"points": [
+177,
+124
+],
+"stroke": [
+86.8,
+87.7
+],
+"area": 0.9996,
+"topology_same": true
+},
+"uni0413.alt1": {
+"moved": 6.4,
+"step": 0,
+"points": [
+85,
+55
+],
+"stroke": [
+90.0,
+89.8
+],
+"area": 1.0005,
+"topology_same": true
+},
+"uni0413.alt2": {
+"moved": 5.0,
+"step": 0,
+"points": [
+84,
+63
+],
+"stroke": [
+93.4,
+95.0
+],
+"area": 0.9915,
+"topology_same": true
+},
+"uni0413.alt3": {
+"moved": 5.0,
+"step": 0,
+"points": [
+104,
+65
+],
+"stroke": [
+88.0,
+88.0
+],
+"area": 0.9941,
+"topology_same": true
+},
+"uni0414.alt1": {
+"moved": 5.2,
+"step": 0,
+"points": [
+168,
+94
+],
+"stroke": [
+89.8,
+90.4
+],
+"area": 0.9975,
+"topology_same": true
+},
+"uni0414.alt2": {
+"moved": 7.6,
+"step": 0,
+"points": [
+167,
+107
+],
+"stroke": [
+88.0,
+87.1
+],
+"area": 0.9963,
+"topology_same": true
+},
+"uni0414.alt3": {
+"moved": 8.0,
+"step": 0,
+"points": [
+193,
+96
+],
+"stroke": [
+89.9,
+89.8
+],
+"area": 0.9989,
+"topology_same": true
+},
+"uni0414.alt4": {
+"moved": 6.3,
+"step": 0,
+"points": [
+166,
+90
+],
+"stroke": [
+90.0,
+91.8
+],
+"area": 0.9959,
+"topology_same": true
+},
+"uni0414.alt5": {
+"moved": 7.5,
+"step": 0,
+"points": [
+169,
+106
+],
+"stroke": [
+88.5,
+89.1
+],
+"area": 0.9982,
+"topology_same": true
+},
+"uni0415.alt1": {
+"moved": 5.8,
+"step": 0,
+"points": [
+182,
+108
+],
+"stroke": [
+90.0,
+90.8
+],
+"area": 0.9992,
+"topology_same": true
+},
+"uni0415.alt2": {
+"moved": 6.7,
+"step": 0,
+"points": [
+166,
+101
+],
+"stroke": [
+94.1,
+96.1
+],
+"area": 0.9981,
+"topology_same": true
+},
+"uni0415.alt3": {
+"moved": 6.6,
+"step": 0,
+"points": [
+204,
+123
+],
+"stroke": [
+92.5,
+94.0
+],
+"area": 0.9965,
+"topology_same": true
+},
+"uni0415.alt4": {
+"moved": 8.0,
+"step": 0,
+"points": [
+203,
+114
+],
+"stroke": [
+92.0,
+92.3
+],
+"area": 0.997,
+"topology_same": true
+},
+"uni0416.alt1": {
+"moved": 5.9,
+"step": 0,
+"points": [
+202,
+151
+],
+"stroke": [
+90.0,
+90.0
+],
+"area": 0.9973,
+"topology_same": true
+},
+"uni0416.alt2": {
+"moved": 6.2,
+"step": 0,
+"points": [
+158,
+135
+],
+"stroke": [
+87.7,
+89.1
+],
+"area": 0.9959,
+"topology_same": true
+},
+"uni0416.alt3": {
+"moved": 5.3,
+"step": 0,
+"points": [
+192,
+138
+],
+"stroke": [
+90.5,
+92.0
+],
+"area": 0.9959,
+"topology_same": true
+},
+"uni0417.alt1": {
+"moved": 5.4,
+"step": 0,
+"points": [
+171,
+100
+],
+"stroke": [
+90.0,
+89.8
+],
+"area": 0.995,
+"topology_same": true
+},
+"uni0417.alt2": {
+"moved": 4.7,
+"step": 0,
+"points": [
+132,
+90
+],
+"stroke": [
+89.4,
+90.0
+],
+"area": 0.999,
+"topology_same": true
+},
+"uni0417.alt3": {
+"moved": 8.0,
+"step": 0,
+"points": [
+127,
+93
+],
+"stroke": [
+90.0,
+91.6
+],
+"area": 0.9977,
+"topology_same": true
+},
+"uni0418.alt1": {
+"moved": 4.7,
+"step": 0,
+"points": [
+169,
+99
+],
+"stroke": [
+91.1,
+92.0
+],
+"area": 0.9982,
+"topology_same": true
+},
+"uni0418.alt2": {
+"moved": 6.1,
+"step": 0,
+"points": [
+170,
+93
+],
+"stroke": [
+90.0,
+90.7
+],
+"area": 0.9981,
+"topology_same": true
+},
+"uni0418.alt3": {
+"moved": 5.8,
+"step": 0,
+"points": [
+145,
+89
+],
+"stroke": [
+89.1,
+90.0
+],
+"area": 0.9995,
+"topology_same": true
+},
+"uni0419.alt1": {
+"moved": 4.7,
+"step": 0,
+"points": [
+173,
+102
+],
+"stroke": [
+94.0,
+94.3
+],
+"area": 0.9972,
+"topology_same": true
+},
+"uni041A.alt1": {
+"moved": 4.7,
+"step": 0,
+"points": [
+142,
+90
+],
+"stroke": [
+92.6,
+94.0
+],
+"area": 0.9971,
+"topology_same": true
+},
+"uni041A.alt2": {
+"moved": 4.7,
+"step": 0,
+"points": [
+140,
+93
+],
+"stroke": [
+91.6,
+92.9
+],
+"area": 0.9989,
+"topology_same": true
+},
+"uni041A.alt3": {
+"moved": 4.9,
+"step": 0,
+"points": [
+152,
+104
+],
+"stroke": [
+92.0,
+94.0
+],
+"area": 0.9982,
+"topology_same": true
+},
+"uni041A.alt4": {
+"moved": 5.1,
+"step": 0,
+"points": [
+142,
+91
+],
+"stroke": [
+92.8,
+94.2
+],
+"area": 0.9984,
+"topology_same": true
+},
+"uni041B.alt1": {
+"moved": 4.6,
+"step": 0,
+"points": [
+152,
+65
+],
+"stroke": [
+88.8,
+90.0
+],
+"area": 0.9969,
+"topology_same": true
+},
+"uni041B.alt2": {
+"moved": 4.5,
+"step": 0,
+"points": [
+162,
+70
+],
+"stroke": [
+96.0,
+95.5
+],
+"area": 0.9967,
+"topology_same": true
+},
+"uni041B.alt3": {
+"moved": 5.6,
+"step": 0,
+"points": [
+172,
+79
+],
+"stroke": [
+87.9,
+87.9
+],
+"area": 0.9983,
+"topology_same": true
+},
+"uni041C.alt1": {
+"moved": 4.9,
+"step": 0,
+"points": [
+232,
+120
+],
+"stroke": [
+91.8,
+92.0
+],
+"area": 0.9993,
+"topology_same": true
+},
+"uni041C.alt2": {
+"moved": 4.9,
+"step": 0,
+"points": [
+228,
+117
+],
+"stroke": [
+94.0,
+94.0
+],
+"area": 0.9986,
+"topology_same": true
+},
+"uni041D.alt1": {
+"moved": 8.0,
+"step": 0,
+"points": [
+178,
+113
+],
+"stroke": [
+92.0,
+94.0
+],
+"area": 0.998,
+"topology_same": true
+},
+"uni041D.alt2": {
+"moved": 5.1,
+"step": 0,
+"points": [
+192,
+115
+],
+"stroke": [
+91.4,
+92.0
+],
+"area": 0.9997,
+"topology_same": true
+},
+"uni041E.alt1": {
+"moved": 4.3,
+"step": 0,
+"points": [
+185,
+76
+],
+"stroke": [
+87.9,
+87.9
+],
+"area": 1.0011,
+"topology_same": true
+},
+"uni041E.alt2": {
+"moved": 7.5,
+"step": 0,
+"points": [
+190,
+92
+],
+"stroke": [
+88.3,
+88.2
+],
+"area": 0.9992,
+"topology_same": true
+},
+"uni041F.alt1": {
+"moved": 6.9,
+"step": 0,
+"points": [
+153,
+87
+],
+"stroke": [
+95.4,
+94.5
+],
+"area": 0.9957,
+"topology_same": true
+},
+"uni041F.alt2": {
+"moved": 6.4,
+"step": 0,
+"points": [
+135,
+94
+],
+"stroke": [
+88.0,
+88.0
+],
+"area": 0.9968,
+"topology_same": true
+},
+"uni0420.alt1": {
+"moved": 8.0,
+"step": 0,
+"points": [
+153,
+92
+],
+"stroke": [
+90.0,
+90.4
+],
+"area": 0.9974,
+"topology_same": true
+},
+"uni0420.alt2": {
+"moved": 5.7,
+"step": 0,
+"points": [
+152,
+88
+],
+"stroke": [
+90.0,
+90.0
+],
+"area": 0.9978,
+"topology_same": true
+},
+"uni0421.alt1": {
+"moved": 6.3,
+"step": 0,
+"points": [
+198,
+85
+],
+"stroke": [
+86.2,
+85.2
+],
+"area": 0.9941,
+"topology_same": true
+},
+"uni0421.alt2": {
+"moved": 4.1,
+"step": 0,
+"points": [
+164,
+67
+],
+"stroke": [
+92.2,
+92.8
+],
+"area": 0.9987,
+"topology_same": true
+},
+"uni0421.alt3": {
+"moved": 6.3,
+"step": 0,
+"points": [
+131,
+67
+],
+"stroke": [
+95.1,
+95.3
+],
+"area": 0.9977,
+"topology_same": true
+},
+"uni0421.alt4": {
+"moved": 5.0,
+"step": 0,
+"points": [
+149,
+66
+],
+"stroke": [
+90.1,
+91.1
+],
+"area": 0.9989,
+"topology_same": true
+},
+"uni0422.alt1": {
+"moved": 6.0,
+"step": 0,
+"points": [
+109,
+82
+],
+"stroke": [
+90.1,
+90.0
+],
+"area": 0.9953,
+"topology_same": true
+},
+"uni0423.alt1": {
+"moved": 5.1,
+"step": 0,
+"points": [
+138,
+69
+],
+"stroke": [
+90.5,
+90.6
+],
+"area": 0.9959,
+"topology_same": true
+},
+"uni0423.alt2": {
+"moved": 5.2,
+"step": 0,
+"points": [
+127,
+67
+],
+"stroke": [
+91.4,
+92.3
+],
+"area": 0.9976,
+"topology_same": true
+},
+"uni0423.alt3": {
+"moved": 5.0,
+"step": 0,
+"points": [
+121,
+72
+],
+"stroke": [
+91.8,
+93.0
+],
+"area": 0.9994,
+"topology_same": true
+},
+"uni0423.alt4": {
+"moved": 4.4,
+"step": 0,
+"points": [
+128,
+79
+],
+"stroke": [
+87.7,
+87.7
+],
+"area": 0.9964,
+"topology_same": true
+},
+"uni0424.alt1": {
+"moved": 8.0,
+"step": 0,
+"points": [
+202,
+147
+],
+"stroke": [
+88.6,
+89.1
+],
+"area": 1.003,
+"topology_same": true
+},
+"uni0424.alt2": {
+"moved": 7.9,
+"step": 0,
+"points": [
+244,
+141
+],
+"stroke": [
+91.6,
+92.0
+],
+"area": 1.0007,
+"topology_same": true
+},
+"uni0424.alt3": {
+"moved": 8.0,
+"step": 0,
+"points": [
+224,
+135
+],
+"stroke": [
+85.2,
+85.9
+],
+"area": 0.9998,
+"topology_same": true
+},
+"uni0424.alt4": {
+"moved": 8.0,
+"step": 0,
+"points": [
+230,
+138
+],
+"stroke": [
+86.0,
+86.0
+],
+"area": 1.0012,
+"topology_same": true
+},
+"uni0425.alt1": {
+"moved": 6.4,
+"step": 0,
+"points": [
+189,
+113
+],
+"stroke": [
+86.8,
+86.6
+],
+"area": 0.9972,
+"topology_same": true
+},
+"uni0425.alt2": {
+"moved": 5.4,
+"step": 0,
+"points": [
+155,
+90
+],
+"stroke": [
+91.0,
+91.2
+],
+"area": 0.9965,
+"topology_same": true
+},
+"uni0425.alt3": {
+"moved": 5.4,
+"step": 0,
+"points": [
+179,
+109
+],
+"stroke": [
+92.5,
+92.3
+],
+"area": 0.9956,
+"topology_same": true
+},
+"uni0425.alt4": {
+"moved": 8.0,
+"step": 0,
+"points": [
+160,
+101
+],
+"stroke": [
+88.4,
+89.1
+],
+"area": 0.9968,
+"topology_same": true
+},
+"uni0426.alt1": {
+"moved": 8.0,
+"step": 0,
+"points": [
+173,
+122
+],
+"stroke": [
+70.0,
+69.4
+],
+"area": 0.9925,
+"topology_same": true
+},
+"uni0426.alt2": {
+"moved": 7.8,
+"step": 0,
+"points": [
+178,
+106
+],
+"stroke": [
+94.0,
+94.0
+],
+"area": 0.9968,
+"topology_same": true
+},
+"uni0426.alt3": {
+"moved": 8.0,
+"step": 0,
+"points": [
+222,
+112
+],
+"stroke": [
+88.3,
+89.8
+],
+"area": 0.9959,
+"topology_same": true
+},
+"uni0426.alt4": {
+"moved": 7.7,
+"step": 0,
+"points": [
+163,
+106
+],
+"stroke": [
+92.0,
+92.0
+],
+"area": 0.9963,
+"topology_same": true
+},
+"uni0427.alt1": {
+"moved": 5.0,
+"step": 0,
+"points": [
+116,
+79
+],
+"stroke": [
+96.0,
+94.0
+],
+"area": 0.9947,
+"topology_same": true
+},
+"uni0427.alt2": {
+"moved": 5.6,
+"step": 0,
+"points": [
+128,
+89
+],
+"stroke": [
+88.0,
+88.1
+],
+"area": 0.9955,
+"topology_same": true
+},
+"uni0428.alt1": {
+"moved": 6.0,
+"step": 0,
+"points": [
+189,
+112
+],
+"stroke": [
+92.0,
+93.4
+],
+"area": 0.9972,
+"topology_same": true
+},
+"uni0428.alt2": {
+"moved": 7.8,
+"step": 0,
+"points": [
+180,
+111
+],
+"stroke": [
+96.5,
+97.7
+],
+"area": 0.9953,
+"topology_same": true
+},
+"uni0428.alt3": {
+"moved": 8.0,
+"step": 0,
+"points": [
+183,
+120
+],
+"stroke": [
+91.4,
+90.1
+],
+"area": 0.9972,
+"topology_same": true
+},
+"uni0429.alt1": {
+"moved": 8.0,
+"step": 0,
+"points": [
+186,
+142
+],
+"stroke": [
+92.0,
+93.1
+],
+"area": 0.9948,
+"topology_same": true
+},
+"uni0429.alt2": {
+"moved": 8.0,
+"step": 0,
+"points": [
+178,
+132
+],
+"stroke": [
+91.1,
+92.0
+],
+"area": 0.9979,
+"topology_same": true
+},
+"uni042A.alt1": {
+"moved": 5.5,
+"step": 0,
+"points": [
+133,
+87
+],
+"stroke": [
+92.0,
+90.7
+],
+"area": 0.9983,
+"topology_same": true
+},
+"uni042A.alt2": {
+"moved": 5.0,
+"step": 0,
+"points": [
+170,
+86
+],
+"stroke": [
+91.8,
+92.6
+],
+"area": 1.001,
+"topology_same": true
+},
+"uni042B.alt1": {
+"moved": 6.0,
+"step": 0,
+"points": [
+169,
+120
+],
+"stroke": [
+90.0,
+90.0
+],
+"area": 0.997,
+"topology_same": true
+},
+"uni042B.alt2": {
+"moved": 6.3,
+"step": 0,
+"points": [
+174,
+114
+],
+"stroke": [
+90.2,
+92.0
+],
+"area": 0.9993,
+"topology_same": true
+},
+"uni042B.alt3": {
+"moved": 6.3,
+"step": 0,
+"points": [
+176,
+112
+],
+"stroke": [
+86.1,
+86.6
+],
+"area": 0.9975,
+"topology_same": true
+},
+"uni042C.alt1": {
+"moved": 4.1,
+"step": 0,
+"points": [
+133,
+79
+],
+"stroke": [
+94.0,
+93.1
+],
+"area": 0.9999,
+"topology_same": true
+},
+"uni042C.alt2": {
+"moved": 8.0,
+"step": 0,
+"points": [
+121,
+82
+],
+"stroke": [
+88.4,
+90.6
+],
+"area": 1.0024,
+"topology_same": true
+},
+"uni042D.alt1": {
+"moved": 5.3,
+"step": 0,
+"points": [
+171,
+96
+],
+"stroke": [
+90.0,
+90.6
+],
+"area": 0.9973,
+"topology_same": true
+},
+"uni042D.alt2": {
+"moved": 6.6,
+"step": 0,
+"points": [
+184,
+102
+],
+"stroke": [
+92.0,
+92.0
+],
+"area": 0.9954,
+"topology_same": true
+},
+"uni042D.alt3": {
+"moved": 6.7,
+"step": 0,
+"points": [
+181,
+104
+],
+"stroke": [
+90.0,
+92.0
+],
+"area": 0.9964,
+"topology_same": true
+},
+"uni042E.alt1": {
+"moved": 7.6,
+"step": 0,
+"points": [
+251,
+145
+],
+"stroke": [
+89.6,
+92.1
+],
+"area": 0.9971,
+"topology_same": true
+},
+"uni042E.alt2": {
+"moved": 7.2,
+"step": 0,
+"points": [
+309,
+151
+],
+"stroke": [
+90.0,
+90.4
+],
+"area": 1.0009,
+"topology_same": true
+},
+"uni042F.alt1": {
+"moved": 5.8,
+"step": 0,
+"points": [
+156,
+130
+],
+"stroke": [
+87.1,
+85.6
+],
+"area": 0.9982,
+"topology_same": true
+},
+"uni042F.alt2": {
+"moved": 6.9,
+"step": 0,
+"points": [
+160,
+105
+],
+"stroke": [
+88.0,
+89.4
+],
+"area": 0.9986,
+"topology_same": true
+},
+"uni0430.alt1": {
+"moved": 8.0,
+"step": 0,
+"points": [
+125,
+96
+],
+"stroke": [
+87.7,
+88.0
+],
+"area": 0.9998,
+"topology_same": true
+},
+"uni0430.alt2": {
+"moved": 6.4,
+"step": 0,
+"points": [
+123,
+99
+],
+"stroke": [
+92.5,
+93.2
+],
+"area": 0.9977,
+"topology_same": true
+},
+"uni0430.alt3": {
+"moved": 7.5,
+"step": 0,
+"points": [
+145,
+110
+],
+"stroke": [
+94.0,
+95.0
+],
+"area": 0.9968,
+"topology_same": true
+},
+"uni0430.alt4": {
+"moved": 8.0,
+"step": 0,
+"points": [
+148,
+99
+],
+"stroke": [
+88.8,
+89.8
+],
+"area": 0.9977,
+"topology_same": true
+},
+"uni0430.alt5": {
+"moved": 8.0,
+"step": 0,
+"points": [
+186,
+105
+],
+"stroke": [
+87.9,
+89.1
+],
+"area": 1.0002,
+"topology_same": true
+},
+"uni0430.alt6": {
+"moved": 7.6,
+"step": 0,
+"points": [
+154,
+103
+],
+"stroke": [
+88.0,
+88.0
+],
+"area": 0.9986,
+"topology_same": true
+},
+"uni0431.alt1": {
+"moved": 7.1,
+"step": 0,
+"points": [
+189,
+111
+],
+"stroke": [
+93.7,
+93.3
+],
+"area": 0.9998,
+"topology_same": true
+},
+"uni0431.alt2": {
+"moved": 8.0,
+"step": 0,
+"points": [
+193,
+126
+],
+"stroke": [
+94.0,
+94.0
+],
+"area": 0.9979,
+"topology_same": true
+},
+"uni0431.alt3": {
+"moved": 8.0,
+"step": 0,
+"points": [
+242,
+133
+],
+"stroke": [
+87.9,
+87.9
+],
+"area": 0.998,
+"topology_same": true
+},
+"uni0432.alt1": {
+"moved": 8.0,
+"step": 0,
+"points": [
+187,
+120
+],
+"stroke": [
+92.1,
+93.7
+],
+"area": 0.9995,
+"topology_same": true
+},
+"uni0432.alt2": {
+"moved": 7.9,
+"step": 0,
+"points": [
+201,
+132
+],
+"stroke": [
+88.0,
+88.8
+],
+"area": 0.9961,
+"topology_same": true
+},
+"uni0433.alt1": {
+"moved": 4.4,
+"step": 0,
+"points": [
+138,
+80
+],
+"stroke": [
+88.0,
+87.5
+],
+"area": 0.998,
+"topology_same": true
+},
+"uni0433.alt2": {
+"moved": 6.9,
+"step": 0,
+"points": [
+97,
+65
+],
+"stroke": [
+96.0,
+98.0
+],
+"area": 0.9963,
+"topology_same": true
+},
+"uni0433.alt3": {
+"moved": 6.6,
+"step": 0,
+"points": [
+115,
+63
+],
+"stroke": [
+90.0,
+90.0
+],
+"area": 0.9957,
+"topology_same": true
+},
+"uni0434.alt1": {
+"moved": 6.3,
+"step": 0,
+"points": [
+207,
+106
+],
+"stroke": [
+90.5,
+92.1
+],
+"area": 1.0004,
+"topology_same": true
+},
+"uni0434.alt2": {
+"moved": 6.8,
+"step": 0,
+"points": [
+182,
+107
+],
+"stroke": [
+89.4,
+89.4
+],
+"area": 0.9952,
+"topology_same": true
+},
+"uni0435.alt1": {
+"moved": 3.7,
+"step": 0,
+"points": [
+142,
+91
+],
+"stroke": [
+91.8,
+91.8
+],
+"area": 0.9979,
+"topology_same": true
+},
+"uni0435.alt2": {
+"moved": 4.5,
+"step": 0,
+"points": [
+159,
+89
+],
+"stroke": [
+89.8,
+90.0
+],
+"area": 0.9987,
+"topology_same": true
+},
+"uni0435.alt3": {
+"moved": 5.4,
+"step": 0,
+"points": [
+116,
+72
+],
+"stroke": [
+90.4,
+91.2
+],
+"area": 1.0,
+"topology_same": true
+},
+"uni0435.alt4": {
+"moved": 6.2,
+"step": 0,
+"points": [
+151,
+84
+],
+"stroke": [
+88.5,
+89.4
+],
+"area": 0.9999,
+"topology_same": true
+},
+"uni0436.alt1": {
+"moved": 6.6,
+"step": 1,
+"points": [
+185,
+154
+],
+"stroke": [
+87.7,
+88.2
+],
+"area": 0.9977,
+"topology_same": true
+},
+"uni0436.alt2": {
+"moved": 7.2,
+"step": 0,
+"points": [
+228,
+151
+],
+"stroke": [
+97.8,
+99.5
+],
+"area": 0.9956,
+"topology_same": true
+},
+"uni0437.alt1": {
+"moved": 4.9,
+"step": 0,
+"points": [
+137,
+95
+],
+"stroke": [
+92.2,
+93.4
+],
+"area": 0.9967,
+"topology_same": true
+},
+"uni0437.alt2": {
+"moved": 7.4,
+"step": 0,
+"points": [
+162,
+107
+],
+"stroke": [
+89.9,
+92.0
+],
+"area": 0.9992,
+"topology_same": true
+},
+"uni0438.alt1": {
+"moved": 5.0,
+"step": 0,
+"points": [
+145,
+83
+],
+"stroke": [
+94.0,
+93.7
+],
+"area": 0.9974,
+"topology_same": true
+},
+"uni0438.alt2": {
+"moved": 4.7,
+"step": 0,
+"points": [
+127,
+74
+],
+"stroke": [
+96.0,
+96.1
+],
+"area": 0.995,
+"topology_same": true
+},
+"uni0438.alt3": {
+"moved": 8.0,
+"step": 0,
+"points": [
+129,
+87
+],
+"stroke": [
+97.4,
+94.4
+],
+"area": 0.9931,
+"topology_same": true
+},
+"uni0438.alt4": {
+"moved": 5.7,
+"step": 0,
+"points": [
+116,
+74
+],
+"stroke": [
+88.4,
+89.3
+],
+"area": 0.9981,
+"topology_same": true
+},
+"uni0439.alt1": {
+"moved": 4.8,
+"step": 0,
+"points": [
+123,
+87
+],
+"stroke": [
+92.0,
+92.0
+],
+"area": 0.9971,
+"topology_same": true
+},
+"uni0439.alt2": {
+"moved": 5.8,
+"step": 0,
+"points": [
+161,
+113
+],
+"stroke": [
+90.0,
+90.0
+],
+"area": 0.9939,
+"topology_same": true
+},
+"uni0439.alt3": {
+"moved": 7.7,
+"step": 0,
+"points": [
+173,
+115
+],
+"stroke": [
+90.0,
+90.0
+],
+"area": 0.9933,
+"topology_same": true
+},
+"uni0439.alt4": {
+"moved": 4.7,
+"step": 0,
+"points": [
+197,
+115
+],
+"stroke": [
+91.2,
+92.0
+],
+"area": 0.9939,
+"topology_same": true
+},
+"uni043A.alt1": {
+"moved": 5.2,
+"step": 0,
+"points": [
+138,
+87
+],
+"stroke": [
+94.1,
+96.0
+],
+"area": 0.9973,
+"topology_same": true
+},
+"uni043A.alt2": {
+"moved": 6.4,
+"step": 0,
+"points": [
+116,
+91
+],
+"stroke": [
+88.8,
+88.8
+],
+"area": 0.9948,
+"topology_same": true
+},
+"uni043A.alt3": {
+"moved": 7.6,
+"step": 0,
+"points": [
+146,
+103
+],
+"stroke": [
+90.0,
+90.2
+],
+"area": 0.9927,
+"topology_same": true
+},
+"uni043A.alt4": {
+"moved": 8.0,
+"step": 0,
+"points": [
+152,
+98
+],
+"stroke": [
+96.0,
+97.7
+],
+"area": 0.9958,
+"topology_same": true
+},
+"uni043A.alt5": {
+"moved": 8.0,
+"step": 0,
+"points": [
+167,
+99
+],
+"stroke": [
+88.0,
+89.2
+],
+"area": 0.9942,
+"topology_same": true
+},
+"uni043B.alt1": {
+"moved": 5.6,
+"step": 0,
+"points": [
+124,
+55
+],
+"stroke": [
+91.8,
+91.8
+],
+"area": 0.9981,
+"topology_same": true
+},
+"uni043B.alt2": {
+"moved": 8.0,
+"step": 0,
+"points": [
+123,
+71
+],
+"stroke": [
+90.0,
+91.8
+],
+"area": 0.9967,
+"topology_same": true
+},
+"uni043C.alt1": {
+"moved": 5.1,
+"step": 0,
+"points": [
+158,
+105
+],
+"stroke": [
+90.0,
+90.0
+],
+"area": 0.9968,
+"topology_same": true
+},
+"uni043C.alt2": {
+"moved": 7.1,
+"step": 0,
+"points": [
+187,
+103
+],
+"stroke": [
+96.0,
+96.7
+],
+"area": 0.9965,
+"topology_same": true
+},
+"uni043D.alt1": {
+"moved": 5.6,
+"step": 0,
+"points": [
+90,
+84
+],
+"stroke": [
+94.0,
+94.0
+],
+"area": 0.9962,
+"topology_same": true
+},
+"uni043D.alt2": {
+"moved": 4.9,
+"step": 0,
+"points": [
+84,
+84
+],
+"stroke": [
+88.0,
+90.0
+],
+"area": 0.9971,
+"topology_same": true
+},
+"uni043D.alt3": {
+"moved": 6.7,
+"step": 0,
+"points": [
+127,
+90
+],
+"stroke": [
+94.0,
+94.1
+],
+"area": 0.9951,
+"topology_same": true
+},
+"uni043E.alt1": {
+"moved": 4.9,
+"step": 0,
+"points": [
+116,
+64
+],
+"stroke": [
+92.0,
+92.2
+],
+"area": 0.9952,
+"topology_same": true
+},
+"uni043E.alt2": {
+"moved": 8.0,
+"step": 0,
+"points": [
+142,
+74
+],
+"stroke": [
+90.4,
+91.1
+],
+"area": 1.0021,
+"topology_same": true
+},
+"uni043F.alt1": {
+"moved": 6.7,
+"step": 0,
+"points": [
+120,
+69
+],
+"stroke": [
+90.0,
+90.0
+],
+"area": 0.9985,
+"topology_same": true
+},
+"uni0440.alt1": {
+"moved": 6.0,
+"step": 0,
+"points": [
+200,
+101
+],
+"stroke": [
+92.2,
+93.1
+],
+"area": 0.9994,
+"topology_same": true
+},
+"uni0440.alt2": {
+"moved": 8.0,
+"step": 0,
+"points": [
+187,
+92
+],
+"stroke": [
+90.6,
+90.2
+],
+"area": 0.9981,
+"topology_same": true
+},
+"uni0441.alt1": {
+"moved": 4.8,
+"step": 0,
+"points": [
+111,
+59
+],
+"stroke": [
+95.0,
+96.0
+],
+"area": 0.9975,
+"topology_same": true
+},
+"uni0441.alt2": {
+"moved": 8.0,
+"step": 0,
+"points": [
+71,
+50
+],
+"stroke": [
+85.0,
+85.9
+],
+"area": 0.995,
+"topology_same": true
+},
+"uni0441.alt3": {
+"moved": 6.1,
+"step": 0,
+"points": [
+96,
+53
+],
+"stroke": [
+87.9,
+89.6
+],
+"area": 0.9968,
+"topology_same": true
+},
+"uni0441.alt4": {
+"moved": 7.5,
+"step": 0,
+"points": [
+105,
+60
+],
+"stroke": [
+89.4,
+91.1
+],
+"area": 0.9937,
+"topology_same": true
+},
+"uni0442.alt1": {
+"moved": 6.2,
+"step": 0,
+"points": [
+209,
+151
+],
+"stroke": [
+92.3,
+93.7
+],
+"area": 0.9962,
+"topology_same": true
+},
+"uni0442.alt2": {
+"moved": 6.1,
+"step": 0,
+"points": [
+221,
+164
+],
+"stroke": [
+91.5,
+91.8
+],
+"area": 0.9965,
+"topology_same": true
+},
+"uni0442.alt3": {
+"moved": 5.9,
+"step": 0,
+"points": [
+202,
+156
+],
+"stroke": [
+91.1,
+92.0
+],
+"area": 0.9951,
+"topology_same": true
+},
+"uni0442.alt4": {
+"moved": 6.3,
+"step": 0,
+"points": [
+210,
+144
+],
+"stroke": [
+94.0,
+94.8
+],
+"area": 0.9944,
+"topology_same": true
+},
+"uni0442.alt5": {
+"moved": 6.3,
+"step": 0,
+"points": [
+234,
+152
+],
+"stroke": [
+92.0,
+92.0
+],
+"area": 0.9951,
+"topology_same": true
+},
+"uni0443.alt1": {
+"moved": 4.9,
+"step": 0,
+"points": [
+121,
+70
+],
+"stroke": [
+89.1,
+89.6
+],
+"area": 0.9983,
+"topology_same": true
+},
+"uni0443.alt2": {
+"moved": 6.2,
+"step": 0,
+"points": [
+109,
+68
+],
+"stroke": [
+92.0,
+93.7
+],
+"area": 0.9961,
+"topology_same": true
+},
+"uni0443.alt3": {
+"moved": 7.6,
+"step": 0,
+"points": [
+155,
+72
+],
+"stroke": [
+91.1,
+91.4
+],
+"area": 0.997,
+"topology_same": true
+},
+"uni0443.alt4": {
+"moved": 6.7,
+"step": 0,
+"points": [
+135,
+76
+],
+"stroke": [
+87.1,
+88.5
+],
+"area": 0.9984,
+"topology_same": true
+},
+"uni0444.alt1": {
+"moved": 8.0,
+"step": 0,
+"points": [
+187,
+130
+],
+"stroke": [
+86.3,
+88.0
+],
+"area": 1.0007,
+"topology_same": true
+},
+"uni0444.alt2": {
+"moved": 8.0,
+"step": 0,
+"points": [
+174,
+121
+],
+"stroke": [
+91.9,
+90.8
+],
+"area": 1.0,
+"topology_same": true
+},
+"uni0444.alt3": {
+"moved": 8.0,
+"step": 0,
+"points": [
+250,
+134
+],
+"stroke": [
+86.3,
+86.3
+],
+"area": 1.0017,
+"topology_same": true
+},
+"uni0445.alt1": {
+"moved": 7.2,
+"step": 0,
+"points": [
+102,
+79
+],
+"stroke": [
+92.8,
+92.8
+],
+"area": 0.9955,
+"topology_same": true
+},
+"uni0445.alt2": {
+"moved": 8.0,
+"step": 0,
+"points": [
+118,
+83
+],
+"stroke": [
+92.2,
+91.9
+],
+"area": 0.9929,
+"topology_same": true
+},
+"uni0445.alt3": {
+"moved": 6.9,
+"step": 0,
+"points": [
+120,
+84
+],
+"stroke": [
+89.1,
+89.4
+],
+"area": 0.998,
+"topology_same": true
+},
+"uni0446.alt1": {
+"moved": 7.7,
+"step": 0,
+"points": [
+149,
+107
+],
+"stroke": [
+90.0,
+90.8
+],
+"area": 0.9981,
+"topology_same": true
+},
+"uni0446.alt2": {
+"moved": 7.3,
+"step": 0,
+"points": [
+125,
+106
+],
+"stroke": [
+90.6,
+91.8
+],
+"area": 0.9972,
+"topology_same": true
+},
+"uni0447.alt1": {
+"moved": 7.6,
+"step": 0,
+"points": [
+113,
+80
+],
+"stroke": [
+89.2,
+89.2
+],
+"area": 0.9959,
+"topology_same": true
+},
+"uni0447.alt2": {
+"moved": 7.1,
+"step": 0,
+"points": [
+137,
+80
+],
+"stroke": [
+92.8,
+94.5
+],
+"area": 0.9961,
+"topology_same": true
+},
+"uni0448.alt1": {
+"moved": 4.8,
+"step": 0,
+"points": [
+203,
+150
+],
+"stroke": [
+89.1,
+89.8
+],
+"area": 0.9963,
+"topology_same": true
+},
+"uni0448.alt2": {
+"moved": 6.3,
+"step": 0,
+"points": [
+298,
+171
+],
+"stroke": [
+90.6,
+92.2
+],
+"area": 0.9965,
+"topology_same": true
+},
+"uni0449.alt1": {
+"moved": 7.8,
+"step": 0,
+"points": [
+203,
+155
+],
+"stroke": [
+90.4,
+90.9
+],
+"area": 0.9959,
+"topology_same": true
+},
+"uni0449.alt2": {
+"moved": 7.3,
+"step": 0,
+"points": [
+172,
+128
+],
+"stroke": [
+89.1,
+90.0
+],
+"area": 0.9957,
+"topology_same": true
+},
+"uni0449.alt3": {
+"moved": 6.7,
+"step": 0,
+"points": [
+189,
+134
+],
+"stroke": [
+87.7,
+89.8
+],
+"area": 0.9972,
+"topology_same": true
+},
+"uni044A.alt1": {
+"moved": 5.3,
+"step": 0,
+"points": [
+101,
+80
+],
+"stroke": [
+90.4,
+90.4
+],
+"area": 0.9983,
+"topology_same": true
+},
+"uni044A.alt2": {
+"moved": 6.8,
+"step": 0,
+"points": [
+138,
+87
+],
+"stroke": [
+90.4,
+93.6
+],
+"area": 1.0001,
+"topology_same": true
+},
+"uni044B.alt1": {
+"moved": 5.9,
+"step": 0,
+"points": [
+117,
+104
+],
+"stroke": [
+92.8,
+94.4
+],
+"area": 0.9974,
+"topology_same": true
+},
+"uni044B.alt2": {
+"moved": 7.2,
+"step": 0,
+"points": [
+165,
+113
+],
+"stroke": [
+88.8,
+90.4
+],
+"area": 0.9981,
+"topology_same": true
+},
+"uni044B.alt3": {
+"moved": 5.6,
+"step": 0,
+"points": [
+144,
+111
+],
+"stroke": [
+88.3,
+92.0
+],
+"area": 0.9986,
+"topology_same": true
+},
+"uni044C.alt1": {
+"moved": 4.5,
+"step": 0,
+"points": [
+100,
+67
+],
+"stroke": [
+90.2,
+90.7
+],
+"area": 1.0007,
+"topology_same": true
+},
+"uni044C.alt2": {
+"moved": 4.1,
+"step": 0,
+"points": [
+123,
+78
+],
+"stroke": [
+90.0,
+91.8
+],
+"area": 1.0009,
+"topology_same": true
+},
+"uni044C.alt3": {
+"moved": 4.5,
+"step": 0,
+"points": [
+121,
+69
+],
+"stroke": [
+88.0,
+88.4
+],
+"area": 1.0002,
+"topology_same": true
+},
+"uni044D.alt1": {
+"moved": 7.9,
+"step": 0,
+"points": [
+85,
+83
+],
+"stroke": [
+92.0,
+92.0
+],
+"area": 0.9996,
+"topology_same": true
+},
+"uni044D.alt2": {
+"moved": 6.0,
+"step": 0,
+"points": [
+169,
+92
+],
+"stroke": [
+92.0,
+93.0
+],
+"area": 0.9963,
+"topology_same": true
+},
+"uni044D.alt3": {
+"moved": 7.0,
+"step": 1,
+"points": [
+147,
+94
+],
+"stroke": [
+88.0,
+88.0
+],
+"area": 0.9942,
+"topology_same": true
+},
+"uni044D.alt4": {
+"moved": 8.0,
+"step": 0,
+"points": [
+153,
+95
+],
+"stroke": [
+88.2,
+89.6
+],
+"area": 0.996,
+"topology_same": true
+},
+"uni044E.alt1": {
+"moved": 6.2,
+"step": 0,
+"points": [
+185,
+108
+],
+"stroke": [
+92.0,
+92.1
+],
+"area": 0.9996,
+"topology_same": true
+},
+"uni044E.alt2": {
+"moved": 8.0,
+"step": 0,
+"points": [
+180,
+105
+],
+"stroke": [
+86.8,
+87.7
+],
+"area": 0.9999,
+"topology_same": true
+},
+"uni044E.alt3": {
+"moved": 6.9,
+"step": 0,
+"points": [
+184,
+112
+],
+"stroke": [
+90.2,
+91.9
+],
+"area": 0.9997,
+"topology_same": true
+},
+"uni044F.alt1": {
+"moved": 6.8,
+"step": 0,
+"points": [
+132,
+99
+],
+"stroke": [
+92.0,
+93.3
+],
+"area": 0.9987,
+"topology_same": true
+},
+"uni044F.alt2": {
+"moved": 8.0,
+"step": 0,
+"points": [
+151,
+100
+],
+"stroke": [
+87.7,
+87.1
+],
+"area": 0.9989,
+"topology_same": true
+},
+"uni0451.alt1": {
+"moved": 7.5,
+"step": 0,
+"points": [
+182,
+130
+],
+"stroke": [
+87.9,
+87.7
+],
+"area": 0.9929,
+"topology_same": true
+},
+"uni2014.alt1": {
+"moved": 6.1,
+"step": 0,
+"points": [
+112,
+60
+],
+"stroke": [
+94.0,
+95.0
+],
+"area": 0.9958,
+"topology_same": true
+},
+"uni2116.alt1": {
+"moved": 7.3,
+"step": 0,
+"points": [
+364,
+202
+],
+"stroke": [
+91.6,
+91.8
+],
+"area": 0.9964,
+"topology_same": true
+},
+"uni2116.alt2": {
+"moved": 5.8,
+"step": 0,
+"points": [
+344,
+184
+],
+"stroke": [
+90.2,
+90.2
+],
+"area": 0.9949,
+"topology_same": true
+},
+"uni2116.alt3": {
+"moved": 5.1,
+"step": 0,
+"points": [
+331,
+194
+],
+"stroke": [
+91.1,
+92.0
+],
+"area": 0.996,
+"topology_same": true
+},
+"uni2116.alt4": {
+"moved": 5.3,
+"step": 0,
+"points": [
+326,
+200
+],
+"stroke": [
+89.1,
+90.0
+],
+"area": 0.996,
+"topology_same": true
+}
+}

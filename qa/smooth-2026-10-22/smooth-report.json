@@ -1,0 +1,6347 @@
+{
+"Light": {
+".notdef": {
+"moved": 0.0,
+"frozen": []
+},
+"uni0021": {
+"moved": 4.3,
+"frozen": []
+},
+"uni0022": {
+"moved": 5.8,
+"frozen": []
+},
+"uni0023": {
+"moved": 7.4,
+"frozen": []
+},
+"uni0024": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0025": {
+"moved": 5.5,
+"frozen": []
+},
+"uni0026": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0027": {
+"moved": 0.0,
+"frozen": []
+},
+"uni0028": {
+"moved": 5.1,
+"frozen": []
+},
+"uni0029": {
+"moved": 5.7,
+"frozen": []
+},
+"uni002A": {
+"moved": 8.0,
+"frozen": []
+},
+"uni002B": {
+"moved": 5.7,
+"frozen": []
+},
+"uni002C": {
+"moved": 0.0,
+"frozen": []
+},
+"uni002D": {
+"moved": 5.3,
+"frozen": []
+},
+"uni002E": {
+"moved": 0.0,
+"frozen": []
+},
+"uni002F": {
+"moved": 5.0,
+"frozen": []
+},
+"uni0030": {
+"moved": 4.9,
+"frozen": []
+},
+"uni0030.tab": {
+"moved": 4.8,
+"frozen": []
+},
+"uni0031": {
+"moved": 7.1,
+"frozen": []
+},
+"uni0031.tab": {
+"moved": 7.1,
+"frozen": []
+},
+"uni0032": {
+"moved": 4.9,
+"frozen": []
+},
+"uni0032.tab": {
+"moved": 4.9,
+"frozen": []
+},
+"uni0033": {
+"moved": 5.1,
+"frozen": []
+},
+"uni0033.tab": {
+"moved": 5.1,
+"frozen": []
+},
+"uni0034": {
+"moved": 7.5,
+"frozen": []
+},
+"uni0034.tab": {
+"moved": 7.6,
+"frozen": []
+},
+"uni0035": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0035.tab": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0036": {
+"moved": 5.9,
+"frozen": []
+},
+"uni0036.tab": {
+"moved": 6.1,
+"frozen": []
+},
+"uni0037": {
+"moved": 6.5,
+"frozen": []
+},
+"uni0037.tab": {
+"moved": 6.5,
+"frozen": []
+},
+"uni0038": {
+"moved": 5.9,
+"frozen": []
+},
+"uni0038.tab": {
+"moved": 5.7,
+"frozen": []
+},
+"uni0039": {
+"moved": 7.1,
+"frozen": []
+},
+"uni0039.tab": {
+"moved": 7.1,
+"frozen": []
+},
+"uni003A": {
+"moved": 0.0,
+"frozen": []
+},
+"uni003B": {
+"moved": 3.7,
+"frozen": []
+},
+"uni003C": {
+"moved": 4.9,
+"frozen": []
+},
+"uni003D": {
+"moved": 4.5,
+"frozen": []
+},
+"uni003E": {
+"moved": 3.7,
+"frozen": []
+},
+"uni003F": {
+"moved": 5.5,
+"frozen": []
+},
+"uni0040": {
+"moved": 6.9,
+"frozen": []
+},
+"uni0041": {
+"moved": 7.0,
+"frozen": []
+},
+"uni0042": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0043": {
+"moved": 4.2,
+"frozen": []
+},
+"uni0044": {
+"moved": 5.5,
+"frozen": []
+},
+"uni0045": {
+"moved": 7.1,
+"frozen": []
+},
+"uni0046": {
+"moved": 4.9,
+"frozen": []
+},
+"uni0047": {
+"moved": 7.5,
+"frozen": []
+},
+"uni0048": {
+"moved": 5.7,
+"frozen": []
+},
+"uni0049": {
+"moved": 6.1,
+"frozen": []
+},
+"uni004A": {
+"moved": 8.0,
+"frozen": []
+},
+"uni004B": {
+"moved": 4.6,
+"frozen": []
+},
+"uni004C": {
+"moved": 5.3,
+"frozen": []
+},
+"uni004D": {
+"moved": 4.8,
+"frozen": []
+},
+"uni004E": {
+"moved": 4.6,
+"frozen": []
+},
+"uni004F": {
+"moved": 6.3,
+"frozen": []
+},
+"uni0050": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0051": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0052": {
+"moved": 4.5,
+"frozen": []
+},
+"uni0053": {
+"moved": 5.1,
+"frozen": []
+},
+"uni0054": {
+"moved": 5.6,
+"frozen": []
+},
+"uni0055": {
+"moved": 5.2,
+"frozen": []
+},
+"uni0056": {
+"moved": 3.8,
+"frozen": []
+},
+"uni0057": {
+"moved": 3.9,
+"frozen": []
+},
+"uni0058": {
+"moved": 7.4,
+"frozen": []
+},
+"uni0059": {
+"moved": 4.2,
+"frozen": []
+},
+"uni005A": {
+"moved": 7.5,
+"frozen": []
+},
+"uni005B": {
+"moved": 6.1,
+"frozen": []
+},
+"uni005C": {
+"moved": 5.9,
+"frozen": []
+},
+"uni005D": {
+"moved": 8.0,
+"frozen": []
+},
+"uni005E": {
+"moved": 5.4,
+"frozen": []
+},
+"uni005F": {
+"moved": 4.4,
+"frozen": []
+},
+"uni0061": {
+"moved": 6.6,
+"frozen": []
+},
+"uni0062": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0063": {
+"moved": 6.9,
+"frozen": []
+},
+"uni0064": {
+"moved": 5.3,
+"frozen": []
+},
+"uni0065": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0066": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0067": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0068": {
+"moved": 6.9,
+"frozen": []
+},
+"uni0069": {
+"moved": 5.3,
+"frozen": []
+},
+"uni006A": {
+"moved": 8.0,
+"frozen": []
+},
+"uni006B": {
+"moved": 4.8,
+"frozen": []
+},
+"uni006C": {
+"moved": 4.2,
+"frozen": []
+},
+"uni006D": {
+"moved": 3.8,
+"frozen": []
+},
+"uni006E": {
+"moved": 7.1,
+"frozen": []
+},
+"uni006F": {
+"moved": 4.3,
+"frozen": []
+},
+"uni0070": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0071": {
+"moved": 3.7,
+"frozen": []
+},
+"uni0072": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0072.after_e": {
+"moved": 6.7,
+"frozen": []
+},
+"uni0073": {
+"moved": 5.7,
+"frozen": []
+},
+"uni0074": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0075": {
+"moved": 5.6,
+"frozen": []
+},
+"uni0076": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0077": {
+"moved": 4.0,
+"frozen": []
+},
+"uni0078": {
+"moved": 6.7,
+"frozen": []
+},
+"uni0079": {
+"moved": 5.0,
+"frozen": []
+},
+"uni007A": {
+"moved": 5.2,
+"frozen": []
+},
+"uni007B": {
+"moved": 7.6,
+"frozen": []
+},
+"uni007C": {
+"moved": 3.8,
+"frozen": []
+},
+"uni007D": {
+"moved": 5.8,
+"frozen": []
+},
+"uni007E": {
+"moved": 7.2,
+"frozen": []
+},
+"uni00AB": {
+"moved": 4.9,
+"frozen": []
+},
+"uni00BB": {
+"moved": 3.7,
+"frozen": []
+},
+"uni0401": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0410": {
+"moved": 4.3,
+"frozen": []
+},
+"uni0411": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0412": {
+"moved": 5.2,
+"frozen": []
+},
+"uni0413": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0414": {
+"moved": 7.7,
+"frozen": []
+},
+"uni0415": {
+"moved": 7.6,
+"frozen": []
+},
+"uni0416": {
+"moved": 5.0,
+"frozen": []
+},
+"uni0417": {
+"moved": 4.6,
+"frozen": []
+},
+"uni0418": {
+"moved": 5.8,
+"frozen": []
+},
+"uni0419": {
+"moved": 4.1,
+"frozen": []
+},
+"uni041A": {
+"moved": 4.1,
+"frozen": []
+},
+"uni041B": {
+"moved": 4.9,
+"frozen": []
+},
+"uni041C": {
+"moved": 3.9,
+"frozen": []
+},
+"uni041D": {
+"moved": 5.1,
+"frozen": []
+},
+"uni041E": {
+"moved": 6.0,
+"frozen": []
+},
+"uni041F": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0420": {
+"moved": 7.8,
+"frozen": []
+},
+"uni0421": {
+"moved": 7.5,
+"frozen": []
+},
+"uni0422": {
+"moved": 4.5,
+"frozen": []
+},
+"uni0423": {
+"moved": 5.0,
+"frozen": []
+},
+"uni0424": {
+"moved": 6.5,
+"frozen": []
+},
+"uni0425": {
+"moved": 6.5,
+"frozen": []
+},
+"uni0426": {
+"moved": 7.8,
+"frozen": []
+},
+"uni0427": {
+"moved": 5.3,
+"frozen": []
+},
+"uni0428": {
+"moved": 5.6,
+"frozen": []
+},
+"uni0429": {
+"moved": 7.0,
+"frozen": []
+},
+"uni042A": {
+"moved": 5.4,
+"frozen": []
+},
+"uni042B": {
+"moved": 7.5,
+"frozen": []
+},
+"uni042C": {
+"moved": 6.9,
+"frozen": []
+},
+"uni042D": {
+"moved": 7.9,
+"frozen": []
+},
+"uni042E": {
+"moved": 4.9,
+"frozen": []
+},
+"uni042F": {
+"moved": 5.1,
+"frozen": []
+},
+"uni0430": {
+"moved": 6.9,
+"frozen": []
+},
+"uni0431": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0432": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0433": {
+"moved": 4.2,
+"frozen": []
+},
+"uni0434": {
+"moved": 4.3,
+"frozen": []
+},
+"uni0435": {
+"moved": 4.2,
+"frozen": []
+},
+"uni0436": {
+"moved": 4.5,
+"frozen": []
+},
+"uni0437": {
+"moved": 5.6,
+"frozen": []
+},
+"uni0438": {
+"moved": 5.1,
+"frozen": []
+},
+"uni0439": {
+"moved": 4.0,
+"frozen": []
+},
+"uni043A": {
+"moved": 4.0,
+"frozen": []
+},
+"uni043B": {
+"moved": 3.7,
+"frozen": []
+},
+"uni043C": {
+"moved": 3.8,
+"frozen": []
+},
+"uni043D": {
+"moved": 5.2,
+"frozen": []
+},
+"uni043E": {
+"moved": 5.2,
+"frozen": []
+},
+"uni043F": {
+"moved": 4.4,
+"frozen": []
+},
+"uni0440": {
+"moved": 6.6,
+"frozen": []
+},
+"uni0441": {
+"moved": 6.2,
+"frozen": []
+},
+"uni0442": {
+"moved": 5.6,
+"frozen": []
+},
+"uni0443": {
+"moved": 7.4,
+"frozen": []
+},
+"uni0443.open": {
+"moved": 5.1,
+"frozen": []
+},
+"uni0444": {
+"moved": 6.2,
+"frozen": []
+},
+"uni0445": {
+"moved": 5.9,
+"frozen": []
+},
+"uni0446": {
+"moved": 4.5,
+"frozen": []
+},
+"uni0447": {
+"moved": 5.8,
+"frozen": []
+},
+"uni0448": {
+"moved": 4.7,
+"frozen": []
+},
+"uni0449": {
+"moved": 8.0,
+"frozen": []
+},
+"uni044A": {
+"moved": 3.7,
+"frozen": []
+},
+"uni044B": {
+"moved": 4.5,
+"frozen": []
+},
+"uni044C": {
+"moved": 6.3,
+"frozen": []
+},
+"uni044D": {
+"moved": 8.0,
+"frozen": []
+},
+"uni044E": {
+"moved": 7.1,
+"frozen": []
+},
+"uni044F": {
+"moved": 5.8,
+"frozen": []
+},
+"uni0451": {
+"moved": 4.2,
+"frozen": []
+},
+"uni2013": {
+"moved": 3.8,
+"frozen": []
+},
+"uni2014": {
+"moved": 7.0,
+"frozen": []
+},
+"uni2026": {
+"moved": 0.0,
+"frozen": []
+},
+"uni20BD": {
+"moved": 8.0,
+"frozen": []
+},
+"uni2116": {
+"moved": 4.8,
+"frozen": []
+},
+"uni0021.alt1": {
+"moved": 6.0,
+"frozen": []
+},
+"uni0021.alt2": {
+"moved": 4.0,
+"frozen": []
+},
+"uni0022.alt1": {
+"moved": 4.7,
+"frozen": []
+},
+"uni0023.alt1": {
+"moved": 7.8,
+"frozen": []
+},
+"uni0023.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0024.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0025.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0025.alt2": {
+"moved": 6.3,
+"frozen": []
+},
+"uni0025.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0026.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0026.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0026.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0026.alt4": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0026.alt5": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0028.alt1": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0029.alt1": {
+"moved": 7.5,
+"frozen": []
+},
+"uni002A.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni002A.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni002B.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni002C.alt1": {
+"moved": 0.0,
+"frozen": []
+},
+"uni002C.alt2": {
+"moved": 0.0,
+"frozen": []
+},
+"uni002C.alt3": {
+"moved": 0.0,
+"frozen": []
+},
+"uni002D.alt1": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0030.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0030.alt2": {
+"moved": 7.2,
+"frozen": []
+},
+"uni0030.alt3": {
+"moved": 7.4,
+"frozen": []
+},
+"uni0031.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0031.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0031.alt3": {
+"moved": 6.8,
+"frozen": []
+},
+"uni0031.alt4": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0031.alt5": {
+"moved": 4.7,
+"frozen": []
+},
+"uni0032.alt1": {
+"moved": 3.8,
+"frozen": []
+},
+"uni0032.alt2": {
+"moved": 4.7,
+"frozen": []
+},
+"uni0032.alt3": {
+"moved": 4.7,
+"frozen": []
+},
+"uni0032.alt4": {
+"moved": 5.1,
+"frozen": []
+},
+"uni0032.alt5": {
+"moved": 6.0,
+"frozen": []
+},
+"uni0033.alt1": {
+"moved": 7.9,
+"frozen": []
+},
+"uni0033.alt2": {
+"moved": 6.8,
+"frozen": []
+},
+"uni0034.alt1": {
+"moved": 5.3,
+"frozen": []
+},
+"uni0034.alt2": {
+"moved": 5.1,
+"frozen": []
+},
+"uni0034.alt3": {
+"moved": 5.7,
+"frozen": []
+},
+"uni0035.alt1": {
+"moved": 5.3,
+"frozen": []
+},
+"uni0035.alt2": {
+"moved": 4.5,
+"frozen": []
+},
+"uni0035.alt3": {
+"moved": 5.9,
+"frozen": []
+},
+"uni0035.alt4": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0035.alt5": {
+"moved": 7.3,
+"frozen": []
+},
+"uni0036.alt1": {
+"moved": 4.9,
+"frozen": []
+},
+"uni0036.alt2": {
+"moved": 5.9,
+"frozen": []
+},
+"uni0036.alt3": {
+"moved": 5.0,
+"frozen": []
+},
+"uni0037.alt1": {
+"moved": 7.2,
+"frozen": []
+},
+"uni0037.alt2": {
+"moved": 6.4,
+"frozen": []
+},
+"uni0037.alt3": {
+"moved": 6.8,
+"frozen": []
+},
+"uni0038.alt1": {
+"moved": 5.6,
+"frozen": []
+},
+"uni0038.alt2": {
+"moved": 5.2,
+"frozen": []
+},
+"uni0038.alt3": {
+"moved": 6.6,
+"frozen": []
+},
+"uni0039.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0039.alt2": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0039.alt3": {
+"moved": 7.2,
+"frozen": []
+},
+"uni0039.alt4": {
+"moved": 6.3,
+"frozen": []
+},
+"uni003A.alt1": {
+"moved": 0.0,
+"frozen": []
+},
+"uni003B.alt1": {
+"moved": 0.0,
+"frozen": []
+},
+"uni003B.alt2": {
+"moved": 0.0,
+"frozen": []
+},
+"uni003F.alt1": {
+"moved": 5.2,
+"frozen": []
+},
+"uni0040.alt1": {
+"moved": 7.4,
+"frozen": []
+},
+"uni0041.alt1": {
+"moved": 7.0,
+"frozen": []
+},
+"uni0042.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0042.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0043.alt1": {
+"moved": 5.6,
+"frozen": []
+},
+"uni0044.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0045.alt1": {
+"moved": 7.5,
+"frozen": []
+},
+"uni0045.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0045.alt3": {
+"moved": 5.6,
+"frozen": []
+},
+"uni0046.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0047.alt1": {
+"moved": 7.0,
+"frozen": []
+},
+"uni0047.alt2": {
+"moved": 7.7,
+"frozen": []
+},
+"uni0048.alt1": {
+"moved": 6.0,
+"frozen": []
+},
+"uni0048.alt2": {
+"moved": 6.8,
+"frozen": []
+},
+"uni0049.alt1": {
+"moved": 7.7,
+"frozen": []
+},
+"uni004A.alt1": {
+"moved": 6.3,
+"frozen": []
+},
+"uni004B.alt1": {
+"moved": 7.6,
+"frozen": []
+},
+"uni004C.alt1": {
+"moved": 5.1,
+"frozen": []
+},
+"uni004D.alt1": {
+"moved": 4.3,
+"frozen": []
+},
+"uni004E.alt1": {
+"moved": 4.4,
+"frozen": []
+},
+"uni004E.alt2": {
+"moved": 4.3,
+"frozen": []
+},
+"uni004E.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni004E.alt4": {
+"moved": 6.4,
+"frozen": []
+},
+"uni004F.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni004F.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni004F.alt3": {
+"moved": 5.6,
+"frozen": []
+},
+"uni004F.alt4": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0050.alt1": {
+"moved": 6.2,
+"frozen": []
+},
+"uni0051.alt1": {
+"moved": 5.6,
+"frozen": []
+},
+"uni0052.alt1": {
+"moved": 5.9,
+"frozen": []
+},
+"uni0052.alt2": {
+"moved": 6.8,
+"frozen": []
+},
+"uni0052.alt3": {
+"moved": 7.0,
+"frozen": []
+},
+"uni0052.alt4": {
+"moved": 5.9,
+"frozen": []
+},
+"uni0053.alt1": {
+"moved": 7.3,
+"frozen": []
+},
+"uni0053.alt2": {
+"moved": 5.3,
+"frozen": []
+},
+"uni0053.alt3": {
+"moved": 7.9,
+"frozen": []
+},
+"uni0054.alt1": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0054.alt2": {
+"moved": 6.2,
+"frozen": []
+},
+"uni0055.alt1": {
+"moved": 4.0,
+"frozen": []
+},
+"uni0056.alt1": {
+"moved": 4.6,
+"frozen": []
+},
+"uni0056.alt2": {
+"moved": 4.6,
+"frozen": []
+},
+"uni0057.alt1": {
+"moved": 7.6,
+"frozen": []
+},
+"uni0058.alt1": {
+"moved": 4.6,
+"frozen": []
+},
+"uni0058.alt2": {
+"moved": 6.9,
+"frozen": []
+},
+"uni0059.alt1": {
+"moved": 4.5,
+"frozen": []
+},
+"uni005A.alt1": {
+"moved": 5.0,
+"frozen": []
+},
+"uni005C.alt1": {
+"moved": 4.4,
+"frozen": []
+},
+"uni005E.alt1": {
+"moved": 4.9,
+"frozen": []
+},
+"uni0061.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0061.alt2": {
+"moved": 6.3,
+"frozen": []
+},
+"uni0062.alt1": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0063.alt1": {
+"moved": 6.2,
+"frozen": []
+},
+"uni0064.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0064.alt2": {
+"moved": 6.3,
+"frozen": []
+},
+"uni0065.alt1": {
+"moved": 4.1,
+"frozen": []
+},
+"uni0065.alt2": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0065.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0066.alt1": {
+"moved": 7.3,
+"frozen": []
+},
+"uni0066.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0067.alt1": {
+"moved": 7.3,
+"frozen": []
+},
+"uni0067.alt2": {
+"moved": 6.1,
+"frozen": []
+},
+"uni0068.alt1": {
+"moved": 6.2,
+"frozen": []
+},
+"uni006A.alt1": {
+"moved": 6.7,
+"frozen": []
+},
+"uni006B.alt1": {
+"moved": 4.8,
+"frozen": []
+},
+"uni006B.alt2": {
+"moved": 4.7,
+"frozen": []
+},
+"uni006B.alt3": {
+"moved": 6.5,
+"frozen": []
+},
+"uni006C.alt1": {
+"moved": 6.6,
+"frozen": []
+},
+"uni006D.alt1": {
+"moved": 5.4,
+"frozen": []
+},
+"uni006E.alt1": {
+"moved": 5.7,
+"frozen": []
+},
+"uni006E.alt2": {
+"moved": 5.4,
+"frozen": []
+},
+"uni006F.alt1": {
+"moved": 7.1,
+"frozen": []
+},
+"uni006F.alt2": {
+"moved": 7.2,
+"frozen": []
+},
+"uni006F.alt3": {
+"moved": 6.1,
+"frozen": []
+},
+"uni006F.alt4": {
+"moved": 8.0,
+"frozen": []
+},
+"uni006F.alt5": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0070.alt1": {
+"moved": 6.3,
+"frozen": []
+},
+"uni0071.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0072.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0072.alt2": {
+"moved": 7.2,
+"frozen": []
+},
+"uni0073.alt1": {
+"moved": 5.8,
+"frozen": []
+},
+"uni0074.alt1": {
+"moved": 6.8,
+"frozen": []
+},
+"uni0075.alt1": {
+"moved": 6.4,
+"frozen": []
+},
+"uni0075.alt2": {
+"moved": 5.5,
+"frozen": []
+},
+"uni0076.alt1": {
+"moved": 7.1,
+"frozen": []
+},
+"uni0077.alt1": {
+"moved": 6.5,
+"frozen": []
+},
+"uni0078.alt1": {
+"moved": 6.5,
+"frozen": []
+},
+"uni0079.alt1": {
+"moved": 5.7,
+"frozen": []
+},
+"uni0079.alt2": {
+"moved": 4.4,
+"frozen": []
+},
+"uni0079.alt3": {
+"moved": 5.6,
+"frozen": []
+},
+"uni007A.alt1": {
+"moved": 6.6,
+"frozen": []
+},
+"uni007C.alt1": {
+"moved": 3.7,
+"frozen": []
+},
+"uni00AB.alt1": {
+"moved": 6.2,
+"frozen": []
+},
+"uni00B0": {
+"moved": 7.7,
+"frozen": []
+},
+"uni00BB.alt1": {
+"moved": 6.6,
+"frozen": []
+},
+"uni0401.alt1": {
+"moved": 5.8,
+"frozen": []
+},
+"uni0401.alt2": {
+"moved": 6.1,
+"frozen": []
+},
+"uni0410.alt1": {
+"moved": 6.6,
+"frozen": []
+},
+"uni0410.alt2": {
+"moved": 5.5,
+"frozen": []
+},
+"uni0410.alt3": {
+"moved": 7.3,
+"frozen": []
+},
+"uni0411.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0411.alt2": {
+"moved": 6.0,
+"frozen": []
+},
+"uni0411.alt3": {
+"moved": 6.5,
+"frozen": []
+},
+"uni0412.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0412.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0413.alt1": {
+"moved": 6.1,
+"frozen": []
+},
+"uni0413.alt2": {
+"moved": 4.4,
+"frozen": []
+},
+"uni0413.alt3": {
+"moved": 5.1,
+"frozen": []
+},
+"uni0414.alt1": {
+"moved": 7.6,
+"frozen": []
+},
+"uni0414.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0414.alt3": {
+"moved": 7.8,
+"frozen": []
+},
+"uni0414.alt4": {
+"moved": 6.4,
+"frozen": []
+},
+"uni0414.alt5": {
+"moved": 7.0,
+"frozen": []
+},
+"uni0415.alt1": {
+"moved": 5.2,
+"frozen": []
+},
+"uni0415.alt2": {
+"moved": 5.3,
+"frozen": []
+},
+"uni0415.alt3": {
+"moved": 7.1,
+"frozen": []
+},
+"uni0415.alt4": {
+"moved": 7.4,
+"frozen": []
+},
+"uni0416.alt1": {
+"moved": 6.2,
+"frozen": []
+},
+"uni0416.alt2": {
+"moved": 5.2,
+"frozen": []
+},
+"uni0416.alt3": {
+"moved": 5.7,
+"frozen": []
+},
+"uni0417.alt1": {
+"moved": 5.7,
+"frozen": []
+},
+"uni0417.alt2": {
+"moved": 5.8,
+"frozen": []
+},
+"uni0417.alt3": {
+"moved": 7.7,
+"frozen": []
+},
+"uni0418.alt1": {
+"moved": 4.0,
+"frozen": []
+},
+"uni0418.alt2": {
+"moved": 7.4,
+"frozen": []
+},
+"uni0418.alt3": {
+"moved": 6.4,
+"frozen": []
+},
+"uni0419.alt1": {
+"moved": 4.3,
+"frozen": []
+},
+"uni041A.alt1": {
+"moved": 4.5,
+"frozen": []
+},
+"uni041A.alt2": {
+"moved": 5.9,
+"frozen": []
+},
+"uni041A.alt3": {
+"moved": 5.3,
+"frozen": []
+},
+"uni041A.alt4": {
+"moved": 5.0,
+"frozen": []
+},
+"uni041B.alt1": {
+"moved": 4.0,
+"frozen": []
+},
+"uni041B.alt2": {
+"moved": 4.1,
+"frozen": []
+},
+"uni041B.alt3": {
+"moved": 6.8,
+"frozen": []
+},
+"uni041C.alt1": {
+"moved": 4.8,
+"frozen": []
+},
+"uni041C.alt2": {
+"moved": 4.9,
+"frozen": []
+},
+"uni041D.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni041D.alt2": {
+"moved": 5.0,
+"frozen": []
+},
+"uni041E.alt1": {
+"moved": 4.1,
+"frozen": []
+},
+"uni041E.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni041F.alt1": {
+"moved": 6.1,
+"frozen": []
+},
+"uni041F.alt2": {
+"moved": 6.4,
+"frozen": []
+},
+"uni0420.alt1": {
+"moved": 7.4,
+"frozen": []
+},
+"uni0420.alt2": {
+"moved": 5.5,
+"frozen": []
+},
+"uni0421.alt1": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0421.alt2": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0421.alt3": {
+"moved": 6.7,
+"frozen": []
+},
+"uni0421.alt4": {
+"moved": 4.6,
+"frozen": []
+},
+"uni0422.alt1": {
+"moved": 6.7,
+"frozen": []
+},
+"uni0423.alt1": {
+"moved": 5.2,
+"frozen": []
+},
+"uni0423.alt2": {
+"moved": 4.8,
+"frozen": []
+},
+"uni0423.alt3": {
+"moved": 4.9,
+"frozen": []
+},
+"uni0423.alt4": {
+"moved": 4.1,
+"frozen": []
+},
+"uni0424.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0424.alt2": {
+"moved": 6.8,
+"frozen": []
+},
+"uni0424.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0424.alt4": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0425.alt1": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0425.alt2": {
+"moved": 6.0,
+"frozen": []
+},
+"uni0425.alt3": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0425.alt4": {
+"moved": 6.8,
+"frozen": []
+},
+"uni0426.alt1": {
+"moved": 7.6,
+"frozen": []
+},
+"uni0426.alt2": {
+"moved": 6.5,
+"frozen": []
+},
+"uni0426.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0426.alt4": {
+"moved": 6.5,
+"frozen": []
+},
+"uni0427.alt1": {
+"moved": 5.3,
+"frozen": []
+},
+"uni0427.alt2": {
+"moved": 5.6,
+"frozen": []
+},
+"uni0428.alt1": {
+"moved": 5.3,
+"frozen": []
+},
+"uni0428.alt2": {
+"moved": 7.3,
+"frozen": []
+},
+"uni0428.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0429.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0429.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni042A.alt1": {
+"moved": 4.7,
+"frozen": []
+},
+"uni042A.alt2": {
+"moved": 5.7,
+"frozen": []
+},
+"uni042B.alt1": {
+"moved": 5.7,
+"frozen": []
+},
+"uni042B.alt2": {
+"moved": 6.7,
+"frozen": []
+},
+"uni042B.alt3": {
+"moved": 6.5,
+"frozen": []
+},
+"uni042C.alt1": {
+"moved": 4.8,
+"frozen": []
+},
+"uni042C.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni042D.alt1": {
+"moved": 5.8,
+"frozen": []
+},
+"uni042D.alt2": {
+"moved": 6.7,
+"frozen": []
+},
+"uni042D.alt3": {
+"moved": 6.8,
+"frozen": []
+},
+"uni042E.alt1": {
+"moved": 6.2,
+"frozen": []
+},
+"uni042E.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni042F.alt1": {
+"moved": 7.1,
+"frozen": []
+},
+"uni042F.alt2": {
+"moved": 5.2,
+"frozen": []
+},
+"uni0430.alt1": {
+"moved": 6.2,
+"frozen": []
+},
+"uni0430.alt2": {
+"moved": 5.6,
+"frozen": []
+},
+"uni0430.alt3": {
+"moved": 7.0,
+"frozen": []
+},
+"uni0430.alt4": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0430.alt5": {
+"moved": 7.1,
+"frozen": []
+},
+"uni0430.alt6": {
+"moved": 6.4,
+"frozen": []
+},
+"uni0431.alt1": {
+"moved": 7.1,
+"frozen": []
+},
+"uni0431.alt2": {
+"moved": 7.7,
+"frozen": []
+},
+"uni0431.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0432.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0432.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0433.alt1": {
+"moved": 4.8,
+"frozen": []
+},
+"uni0433.alt2": {
+"moved": 7.7,
+"frozen": []
+},
+"uni0433.alt3": {
+"moved": 5.8,
+"frozen": []
+},
+"uni0434.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0434.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0435.alt1": {
+"moved": 4.6,
+"frozen": []
+},
+"uni0435.alt2": {
+"moved": 4.9,
+"frozen": []
+},
+"uni0435.alt3": {
+"moved": 4.9,
+"frozen": []
+},
+"uni0435.alt4": {
+"moved": 6.3,
+"frozen": []
+},
+"uni0436.alt1": {
+"moved": 6.9,
+"frozen": []
+},
+"uni0436.alt2": {
+"moved": 6.8,
+"frozen": []
+},
+"uni0437.alt1": {
+"moved": 4.4,
+"frozen": []
+},
+"uni0437.alt2": {
+"moved": 5.9,
+"frozen": []
+},
+"uni0438.alt1": {
+"moved": 5.1,
+"frozen": []
+},
+"uni0438.alt2": {
+"moved": 4.5,
+"frozen": []
+},
+"uni0438.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0438.alt4": {
+"moved": 5.7,
+"frozen": []
+},
+"uni0439.alt1": {
+"moved": 6.2,
+"frozen": []
+},
+"uni0439.alt2": {
+"moved": 6.5,
+"frozen": []
+},
+"uni0439.alt3": {
+"moved": 7.6,
+"frozen": []
+},
+"uni0439.alt4": {
+"moved": 4.7,
+"frozen": []
+},
+"uni043A.alt1": {
+"moved": 5.4,
+"frozen": []
+},
+"uni043A.alt2": {
+"moved": 6.6,
+"frozen": []
+},
+"uni043A.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni043A.alt4": {
+"moved": 6.6,
+"frozen": []
+},
+"uni043A.alt5": {
+"moved": 6.3,
+"frozen": []
+},
+"uni043B.alt1": {
+"moved": 7.8,
+"frozen": []
+},
+"uni043B.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni043C.alt1": {
+"moved": 5.1,
+"frozen": []
+},
+"uni043C.alt2": {
+"moved": 7.2,
+"frozen": []
+},
+"uni043D.alt1": {
+"moved": 6.0,
+"frozen": []
+},
+"uni043D.alt2": {
+"moved": 4.8,
+"frozen": []
+},
+"uni043D.alt3": {
+"moved": 7.3,
+"frozen": []
+},
+"uni043E.alt1": {
+"moved": 5.6,
+"frozen": []
+},
+"uni043E.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni043F.alt1": {
+"moved": 6.6,
+"frozen": []
+},
+"uni0440.alt1": {
+"moved": 5.1,
+"frozen": []
+},
+"uni0440.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0441.alt1": {
+"moved": 5.2,
+"frozen": []
+},
+"uni0441.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0441.alt3": {
+"moved": 6.1,
+"frozen": []
+},
+"uni0441.alt4": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0442.alt1": {
+"moved": 5.0,
+"frozen": []
+},
+"uni0442.alt2": {
+"moved": 4.8,
+"frozen": []
+},
+"uni0442.alt3": {
+"moved": 6.5,
+"frozen": []
+},
+"uni0442.alt4": {
+"moved": 5.2,
+"frozen": []
+},
+"uni0442.alt5": {
+"moved": 5.7,
+"frozen": []
+},
+"uni0443.alt1": {
+"moved": 4.3,
+"frozen": []
+},
+"uni0443.alt2": {
+"moved": 7.7,
+"frozen": []
+},
+"uni0443.alt3": {
+"moved": 5.6,
+"frozen": []
+},
+"uni0443.alt4": {
+"moved": 6.8,
+"frozen": []
+},
+"uni0444.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0444.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0444.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0445.alt1": {
+"moved": 6.2,
+"frozen": []
+},
+"uni0445.alt2": {
+"moved": 7.7,
+"frozen": []
+},
+"uni0445.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0446.alt1": {
+"moved": 6.2,
+"frozen": []
+},
+"uni0446.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0447.alt1": {
+"moved": 5.5,
+"frozen": []
+},
+"uni0447.alt2": {
+"moved": 6.3,
+"frozen": []
+},
+"uni0448.alt1": {
+"moved": 6.4,
+"frozen": []
+},
+"uni0448.alt2": {
+"moved": 5.8,
+"frozen": []
+},
+"uni0449.alt1": {
+"moved": 6.1,
+"frozen": []
+},
+"uni0449.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0449.alt3": {
+"moved": 6.5,
+"frozen": []
+},
+"uni044A.alt1": {
+"moved": 5.3,
+"frozen": []
+},
+"uni044A.alt2": {
+"moved": 7.0,
+"frozen": []
+},
+"uni044B.alt1": {
+"moved": 4.7,
+"frozen": []
+},
+"uni044B.alt2": {
+"moved": 6.5,
+"frozen": []
+},
+"uni044B.alt3": {
+"moved": 6.1,
+"frozen": []
+},
+"uni044C.alt1": {
+"moved": 5.0,
+"frozen": []
+},
+"uni044C.alt2": {
+"moved": 4.6,
+"frozen": []
+},
+"uni044C.alt3": {
+"moved": 5.5,
+"frozen": []
+},
+"uni044D.alt1": {
+"moved": 6.5,
+"frozen": []
+},
+"uni044D.alt2": {
+"moved": 6.3,
+"frozen": []
+},
+"uni044D.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni044D.alt4": {
+"moved": 8.0,
+"frozen": []
+},
+"uni044E.alt1": {
+"moved": 7.7,
+"frozen": []
+},
+"uni044E.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni044E.alt3": {
+"moved": 7.2,
+"frozen": []
+},
+"uni044F.alt1": {
+"moved": 7.4,
+"frozen": []
+},
+"uni044F.alt2": {
+"moved": 6.5,
+"frozen": []
+},
+"uni0451.alt1": {
+"moved": 7.5,
+"frozen": []
+},
+"uni2014.alt1": {
+"moved": 6.3,
+"frozen": []
+},
+"uni2116.alt1": {
+"moved": 6.7,
+"frozen": []
+},
+"uni2116.alt2": {
+"moved": 5.5,
+"frozen": []
+},
+"uni2116.alt3": {
+"moved": 6.4,
+"frozen": []
+},
+"uni2116.alt4": {
+"moved": 5.3,
+"frozen": []
+}
+},
+"Regular": {
+".notdef": {
+"moved": 0.0,
+"frozen": []
+},
+"uni0021": {
+"moved": 4.6,
+"frozen": []
+},
+"uni0022": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0023": {
+"moved": 7.2,
+"frozen": []
+},
+"uni0024": {
+"moved": 7.7,
+"frozen": []
+},
+"uni0025": {
+"moved": 5.5,
+"frozen": []
+},
+"uni0026": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0027": {
+"moved": 0.0,
+"frozen": []
+},
+"uni0028": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0029": {
+"moved": 6.0,
+"frozen": []
+},
+"uni002A": {
+"moved": 8.0,
+"frozen": []
+},
+"uni002B": {
+"moved": 5.6,
+"frozen": []
+},
+"uni002C": {
+"moved": 0.0,
+"frozen": []
+},
+"uni002D": {
+"moved": 5.8,
+"frozen": []
+},
+"uni002E": {
+"moved": 0.0,
+"frozen": []
+},
+"uni002F": {
+"moved": 5.0,
+"frozen": []
+},
+"uni0030": {
+"moved": 5.2,
+"frozen": []
+},
+"uni0030.tab": {
+"moved": 5.2,
+"frozen": []
+},
+"uni0031": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0031.tab": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0032": {
+"moved": 4.7,
+"frozen": []
+},
+"uni0032.tab": {
+"moved": 4.7,
+"frozen": []
+},
+"uni0033": {
+"moved": 6.8,
+"frozen": []
+},
+"uni0033.tab": {
+"moved": 6.7,
+"frozen": []
+},
+"uni0034": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0034.tab": {
+"moved": 5.3,
+"frozen": []
+},
+"uni0035": {
+"moved": 6.5,
+"frozen": []
+},
+"uni0035.tab": {
+"moved": 6.5,
+"frozen": []
+},
+"uni0036": {
+"moved": 5.7,
+"frozen": []
+},
+"uni0036.tab": {
+"moved": 5.5,
+"frozen": []
+},
+"uni0037": {
+"moved": 5.9,
+"frozen": []
+},
+"uni0037.tab": {
+"moved": 6.0,
+"frozen": []
+},
+"uni0038": {
+"moved": 5.5,
+"frozen": []
+},
+"uni0038.tab": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0039": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0039.tab": {
+"moved": 8.0,
+"frozen": []
+},
+"uni003A": {
+"moved": 0.0,
+"frozen": []
+},
+"uni003B": {
+"moved": 4.1,
+"frozen": []
+},
+"uni003C": {
+"moved": 5.0,
+"frozen": []
+},
+"uni003D": {
+"moved": 4.0,
+"frozen": []
+},
+"uni003E": {
+"moved": 3.7,
+"frozen": []
+},
+"uni003F": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0040": {
+"moved": 6.2,
+"frozen": []
+},
+"uni0041": {
+"moved": 7.0,
+"frozen": []
+},
+"uni0042": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0043": {
+"moved": 4.5,
+"frozen": []
+},
+"uni0044": {
+"moved": 5.3,
+"frozen": []
+},
+"uni0045": {
+"moved": 7.3,
+"frozen": []
+},
+"uni0046": {
+"moved": 5.3,
+"frozen": []
+},
+"uni0047": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0048": {
+"moved": 6.6,
+"frozen": []
+},
+"uni0049": {
+"moved": 6.0,
+"frozen": []
+},
+"uni004A": {
+"moved": 7.1,
+"frozen": []
+},
+"uni004B": {
+"moved": 4.6,
+"frozen": []
+},
+"uni004C": {
+"moved": 5.0,
+"frozen": []
+},
+"uni004D": {
+"moved": 4.8,
+"frozen": []
+},
+"uni004E": {
+"moved": 4.4,
+"frozen": []
+},
+"uni004F": {
+"moved": 6.2,
+"frozen": []
+},
+"uni0050": {
+"moved": 5.5,
+"frozen": []
+},
+"uni0051": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0052": {
+"moved": 4.6,
+"frozen": []
+},
+"uni0053": {
+"moved": 5.7,
+"frozen": []
+},
+"uni0054": {
+"moved": 5.7,
+"frozen": []
+},
+"uni0055": {
+"moved": 4.8,
+"frozen": []
+},
+"uni0056": {
+"moved": 3.7,
+"frozen": []
+},
+"uni0057": {
+"moved": 4.1,
+"frozen": []
+},
+"uni0058": {
+"moved": 7.5,
+"frozen": []
+},
+"uni0059": {
+"moved": 5.2,
+"frozen": []
+},
+"uni005A": {
+"moved": 7.2,
+"frozen": []
+},
+"uni005B": {
+"moved": 5.6,
+"frozen": []
+},
+"uni005C": {
+"moved": 5.8,
+"frozen": []
+},
+"uni005D": {
+"moved": 5.6,
+"frozen": []
+},
+"uni005E": {
+"moved": 5.3,
+"frozen": []
+},
+"uni005F": {
+"moved": 4.5,
+"frozen": []
+},
+"uni0061": {
+"moved": 7.2,
+"frozen": []
+},
+"uni0062": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0063": {
+"moved": 7.1,
+"frozen": []
+},
+"uni0064": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0065": {
+"moved": 5.1,
+"frozen": []
+},
+"uni0066": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0067": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0068": {
+"moved": 6.8,
+"frozen": []
+},
+"uni0069": {
+"moved": 5.9,
+"frozen": []
+},
+"uni006A": {
+"moved": 6.7,
+"frozen": []
+},
+"uni006B": {
+"moved": 6.5,
+"frozen": []
+},
+"uni006C": {
+"moved": 4.1,
+"frozen": []
+},
+"uni006D": {
+"moved": 3.8,
+"frozen": []
+},
+"uni006E": {
+"moved": 6.7,
+"frozen": []
+},
+"uni006F": {
+"moved": 4.1,
+"frozen": []
+},
+"uni0070": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0071": {
+"moved": 6.8,
+"frozen": []
+},
+"uni0072": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0072.after_e": {
+"moved": 7.2,
+"frozen": []
+},
+"uni0073": {
+"moved": 6.0,
+"frozen": []
+},
+"uni0074": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0075": {
+"moved": 6.0,
+"frozen": []
+},
+"uni0076": {
+"moved": 4.7,
+"frozen": []
+},
+"uni0077": {
+"moved": 4.2,
+"frozen": []
+},
+"uni0078": {
+"moved": 6.9,
+"frozen": []
+},
+"uni0079": {
+"moved": 5.3,
+"frozen": []
+},
+"uni007A": {
+"moved": 5.3,
+"frozen": []
+},
+"uni007B": {
+"moved": 7.6,
+"frozen": []
+},
+"uni007C": {
+"moved": 3.7,
+"frozen": []
+},
+"uni007D": {
+"moved": 5.5,
+"frozen": []
+},
+"uni007E": {
+"moved": 7.3,
+"frozen": []
+},
+"uni00AB": {
+"moved": 5.0,
+"frozen": []
+},
+"uni00BB": {
+"moved": 3.7,
+"frozen": []
+},
+"uni0401": {
+"moved": 6.5,
+"frozen": []
+},
+"uni0410": {
+"moved": 5.0,
+"frozen": []
+},
+"uni0411": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0412": {
+"moved": 4.9,
+"frozen": []
+},
+"uni0413": {
+"moved": 5.9,
+"frozen": []
+},
+"uni0414": {
+"moved": 7.4,
+"frozen": []
+},
+"uni0415": {
+"moved": 7.3,
+"frozen": []
+},
+"uni0416": {
+"moved": 5.1,
+"frozen": []
+},
+"uni0417": {
+"moved": 4.6,
+"frozen": []
+},
+"uni0418": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0419": {
+"moved": 4.3,
+"frozen": []
+},
+"uni041A": {
+"moved": 6.0,
+"frozen": []
+},
+"uni041B": {
+"moved": 5.1,
+"frozen": []
+},
+"uni041C": {
+"moved": 3.7,
+"frozen": []
+},
+"uni041D": {
+"moved": 6.0,
+"frozen": []
+},
+"uni041E": {
+"moved": 6.5,
+"frozen": []
+},
+"uni041F": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0420": {
+"moved": 7.9,
+"frozen": []
+},
+"uni0421": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0422": {
+"moved": 4.2,
+"frozen": []
+},
+"uni0423": {
+"moved": 4.9,
+"frozen": []
+},
+"uni0424": {
+"moved": 7.3,
+"frozen": []
+},
+"uni0425": {
+"moved": 6.4,
+"frozen": []
+},
+"uni0426": {
+"moved": 6.3,
+"frozen": []
+},
+"uni0427": {
+"moved": 5.2,
+"frozen": []
+},
+"uni0428": {
+"moved": 5.2,
+"frozen": []
+},
+"uni0429": {
+"moved": 8.0,
+"frozen": []
+},
+"uni042A": {
+"moved": 5.6,
+"frozen": []
+},
+"uni042B": {
+"moved": 5.8,
+"frozen": []
+},
+"uni042C": {
+"moved": 6.0,
+"frozen": []
+},
+"uni042D": {
+"moved": 7.6,
+"frozen": []
+},
+"uni042E": {
+"moved": 6.5,
+"frozen": []
+},
+"uni042F": {
+"moved": 5.9,
+"frozen": []
+},
+"uni0430": {
+"moved": 6.9,
+"frozen": []
+},
+"uni0431": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0432": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0433": {
+"moved": 4.5,
+"frozen": []
+},
+"uni0434": {
+"moved": 5.1,
+"frozen": []
+},
+"uni0435": {
+"moved": 6.7,
+"frozen": []
+},
+"uni0436": {
+"moved": 4.4,
+"frozen": []
+},
+"uni0437": {
+"moved": 5.5,
+"frozen": []
+},
+"uni0438": {
+"moved": 4.6,
+"frozen": []
+},
+"uni0439": {
+"moved": 4.0,
+"frozen": []
+},
+"uni043A": {
+"moved": 4.2,
+"frozen": []
+},
+"uni043B": {
+"moved": 4.1,
+"frozen": []
+},
+"uni043C": {
+"moved": 4.8,
+"frozen": []
+},
+"uni043D": {
+"moved": 5.2,
+"frozen": []
+},
+"uni043E": {
+"moved": 5.7,
+"frozen": []
+},
+"uni043F": {
+"moved": 5.1,
+"frozen": []
+},
+"uni0440": {
+"moved": 6.3,
+"frozen": []
+},
+"uni0441": {
+"moved": 6.7,
+"frozen": []
+},
+"uni0442": {
+"moved": 6.3,
+"frozen": []
+},
+"uni0443": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0443.open": {
+"moved": 5.7,
+"frozen": []
+},
+"uni0444": {
+"moved": 6.3,
+"frozen": []
+},
+"uni0445": {
+"moved": 7.2,
+"frozen": []
+},
+"uni0446": {
+"moved": 4.4,
+"frozen": []
+},
+"uni0447": {
+"moved": 6.7,
+"frozen": []
+},
+"uni0448": {
+"moved": 4.3,
+"frozen": []
+},
+"uni0449": {
+"moved": 8.0,
+"frozen": []
+},
+"uni044A": {
+"moved": 3.5,
+"frozen": []
+},
+"uni044B": {
+"moved": 5.2,
+"frozen": []
+},
+"uni044C": {
+"moved": 6.0,
+"frozen": []
+},
+"uni044D": {
+"moved": 8.0,
+"frozen": []
+},
+"uni044E": {
+"moved": 6.9,
+"frozen": []
+},
+"uni044F": {
+"moved": 5.5,
+"frozen": []
+},
+"uni0451": {
+"moved": 6.7,
+"frozen": []
+},
+"uni2013": {
+"moved": 3.6,
+"frozen": []
+},
+"uni2014": {
+"moved": 7.3,
+"frozen": []
+},
+"uni2026": {
+"moved": 0.0,
+"frozen": []
+},
+"uni20BD": {
+"moved": 7.0,
+"frozen": []
+},
+"uni2116": {
+"moved": 5.6,
+"frozen": []
+},
+"uni0021.alt1": {
+"moved": 5.7,
+"frozen": []
+},
+"uni0021.alt2": {
+"moved": 4.2,
+"frozen": []
+},
+"uni0022.alt1": {
+"moved": 5.1,
+"frozen": []
+},
+"uni0023.alt1": {
+"moved": 7.7,
+"frozen": []
+},
+"uni0023.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0024.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0025.alt1": {
+"moved": 7.8,
+"frozen": []
+},
+"uni0025.alt2": {
+"moved": 6.4,
+"frozen": []
+},
+"uni0025.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0026.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0026.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0026.alt3": {
+"moved": 7.6,
+"frozen": []
+},
+"uni0026.alt4": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0026.alt5": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0028.alt1": {
+"moved": 5.5,
+"frozen": []
+},
+"uni0029.alt1": {
+"moved": 7.5,
+"frozen": []
+},
+"uni002A.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni002A.alt2": {
+"moved": 7.1,
+"frozen": []
+},
+"uni002B.alt1": {
+"moved": 6.6,
+"frozen": []
+},
+"uni002C.alt1": {
+"moved": 0.0,
+"frozen": []
+},
+"uni002C.alt2": {
+"moved": 0.0,
+"frozen": []
+},
+"uni002C.alt3": {
+"moved": 0.0,
+"frozen": []
+},
+"uni002D.alt1": {
+"moved": 5.8,
+"frozen": []
+},
+"uni0030.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0030.alt2": {
+"moved": 6.8,
+"frozen": []
+},
+"uni0030.alt3": {
+"moved": 7.2,
+"frozen": []
+},
+"uni0031.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0031.alt2": {
+"moved": 7.8,
+"frozen": []
+},
+"uni0031.alt3": {
+"moved": 6.0,
+"frozen": []
+},
+"uni0031.alt4": {
+"moved": 7.8,
+"frozen": []
+},
+"uni0031.alt5": {
+"moved": 4.3,
+"frozen": []
+},
+"uni0032.alt1": {
+"moved": 5.9,
+"frozen": []
+},
+"uni0032.alt2": {
+"moved": 4.5,
+"frozen": []
+},
+"uni0032.alt3": {
+"moved": 5.3,
+"frozen": []
+},
+"uni0032.alt4": {
+"moved": 5.5,
+"frozen": []
+},
+"uni0032.alt5": {
+"moved": 5.9,
+"frozen": []
+},
+"uni0033.alt1": {
+"moved": 7.5,
+"frozen": []
+},
+"uni0033.alt2": {
+"moved": 7.2,
+"frozen": []
+},
+"uni0034.alt1": {
+"moved": 5.3,
+"frozen": []
+},
+"uni0034.alt2": {
+"moved": 5.1,
+"frozen": []
+},
+"uni0034.alt3": {
+"moved": 6.4,
+"frozen": []
+},
+"uni0035.alt1": {
+"moved": 5.6,
+"frozen": []
+},
+"uni0035.alt2": {
+"moved": 4.9,
+"frozen": []
+},
+"uni0035.alt3": {
+"moved": 6.3,
+"frozen": []
+},
+"uni0035.alt4": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0035.alt5": {
+"moved": 6.8,
+"frozen": []
+},
+"uni0036.alt1": {
+"moved": 5.1,
+"frozen": []
+},
+"uni0036.alt2": {
+"moved": 6.7,
+"frozen": []
+},
+"uni0036.alt3": {
+"moved": 5.9,
+"frozen": []
+},
+"uni0037.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0037.alt2": {
+"moved": 6.5,
+"frozen": []
+},
+"uni0037.alt3": {
+"moved": 6.5,
+"frozen": []
+},
+"uni0038.alt1": {
+"moved": 5.2,
+"frozen": []
+},
+"uni0038.alt2": {
+"moved": 5.3,
+"frozen": []
+},
+"uni0038.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0039.alt1": {
+"moved": 6.9,
+"frozen": []
+},
+"uni0039.alt2": {
+"moved": 5.6,
+"frozen": []
+},
+"uni0039.alt3": {
+"moved": 7.2,
+"frozen": []
+},
+"uni0039.alt4": {
+"moved": 6.8,
+"frozen": []
+},
+"uni003A.alt1": {
+"moved": 0.0,
+"frozen": []
+},
+"uni003B.alt1": {
+"moved": 6.7,
+"frozen": []
+},
+"uni003B.alt2": {
+"moved": 0.0,
+"frozen": []
+},
+"uni003F.alt1": {
+"moved": 5.5,
+"frozen": []
+},
+"uni0040.alt1": {
+"moved": 7.1,
+"frozen": []
+},
+"uni0041.alt1": {
+"moved": 7.7,
+"frozen": []
+},
+"uni0042.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0042.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0043.alt1": {
+"moved": 5.9,
+"frozen": []
+},
+"uni0044.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0045.alt1": {
+"moved": 7.7,
+"frozen": []
+},
+"uni0045.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0045.alt3": {
+"moved": 6.2,
+"frozen": []
+},
+"uni0046.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0047.alt1": {
+"moved": 7.9,
+"frozen": []
+},
+"uni0047.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0048.alt1": {
+"moved": 6.0,
+"frozen": []
+},
+"uni0048.alt2": {
+"moved": 6.5,
+"frozen": []
+},
+"uni0049.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni004A.alt1": {
+"moved": 6.4,
+"frozen": []
+},
+"uni004B.alt1": {
+"moved": 7.3,
+"frozen": []
+},
+"uni004C.alt1": {
+"moved": 5.0,
+"frozen": []
+},
+"uni004D.alt1": {
+"moved": 4.6,
+"frozen": []
+},
+"uni004E.alt1": {
+"moved": 4.7,
+"frozen": []
+},
+"uni004E.alt2": {
+"moved": 4.6,
+"frozen": []
+},
+"uni004E.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni004E.alt4": {
+"moved": 6.2,
+"frozen": []
+},
+"uni004F.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni004F.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni004F.alt3": {
+"moved": 5.2,
+"frozen": []
+},
+"uni004F.alt4": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0050.alt1": {
+"moved": 7.0,
+"frozen": []
+},
+"uni0051.alt1": {
+"moved": 6.5,
+"frozen": []
+},
+"uni0052.alt1": {
+"moved": 6.0,
+"frozen": []
+},
+"uni0052.alt2": {
+"moved": 7.2,
+"frozen": []
+},
+"uni0052.alt3": {
+"moved": 7.5,
+"frozen": []
+},
+"uni0052.alt4": {
+"moved": 7.2,
+"frozen": []
+},
+"uni0053.alt1": {
+"moved": 7.0,
+"frozen": []
+},
+"uni0053.alt2": {
+"moved": 5.1,
+"frozen": []
+},
+"uni0053.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0054.alt1": {
+"moved": 5.3,
+"frozen": []
+},
+"uni0054.alt2": {
+"moved": 5.8,
+"frozen": []
+},
+"uni0055.alt1": {
+"moved": 3.7,
+"frozen": []
+},
+"uni0056.alt1": {
+"moved": 4.4,
+"frozen": []
+},
+"uni0056.alt2": {
+"moved": 4.1,
+"frozen": []
+},
+"uni0057.alt1": {
+"moved": 6.1,
+"frozen": []
+},
+"uni0058.alt1": {
+"moved": 4.4,
+"frozen": []
+},
+"uni0058.alt2": {
+"moved": 7.5,
+"frozen": []
+},
+"uni0059.alt1": {
+"moved": 4.7,
+"frozen": []
+},
+"uni005A.alt1": {
+"moved": 5.2,
+"frozen": []
+},
+"uni005C.alt1": {
+"moved": 4.3,
+"frozen": []
+},
+"uni005E.alt1": {
+"moved": 5.5,
+"frozen": []
+},
+"uni0061.alt1": {
+"moved": 7.6,
+"frozen": []
+},
+"uni0061.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0062.alt1": {
+"moved": 5.6,
+"frozen": []
+},
+"uni0063.alt1": {
+"moved": 6.5,
+"frozen": []
+},
+"uni0064.alt1": {
+"moved": 7.6,
+"frozen": []
+},
+"uni0064.alt2": {
+"moved": 6.7,
+"frozen": []
+},
+"uni0065.alt1": {
+"moved": 4.4,
+"frozen": []
+},
+"uni0065.alt2": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0065.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0066.alt1": {
+"moved": 7.3,
+"frozen": []
+},
+"uni0066.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0067.alt1": {
+"moved": 6.7,
+"frozen": []
+},
+"uni0067.alt2": {
+"moved": 5.9,
+"frozen": []
+},
+"uni0068.alt1": {
+"moved": 6.5,
+"frozen": []
+},
+"uni006A.alt1": {
+"moved": 6.9,
+"frozen": []
+},
+"uni006B.alt1": {
+"moved": 4.9,
+"frozen": []
+},
+"uni006B.alt2": {
+"moved": 4.5,
+"frozen": []
+},
+"uni006B.alt3": {
+"moved": 5.9,
+"frozen": []
+},
+"uni006C.alt1": {
+"moved": 6.5,
+"frozen": []
+},
+"uni006D.alt1": {
+"moved": 5.5,
+"frozen": []
+},
+"uni006E.alt1": {
+"moved": 5.7,
+"frozen": []
+},
+"uni006E.alt2": {
+"moved": 5.8,
+"frozen": []
+},
+"uni006F.alt1": {
+"moved": 6.6,
+"frozen": []
+},
+"uni006F.alt2": {
+"moved": 7.3,
+"frozen": []
+},
+"uni006F.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni006F.alt4": {
+"moved": 8.0,
+"frozen": []
+},
+"uni006F.alt5": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0070.alt1": {
+"moved": 6.6,
+"frozen": []
+},
+"uni0071.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0072.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0072.alt2": {
+"moved": 6.8,
+"frozen": []
+},
+"uni0073.alt1": {
+"moved": 5.6,
+"frozen": []
+},
+"uni0074.alt1": {
+"moved": 7.3,
+"frozen": []
+},
+"uni0075.alt1": {
+"moved": 6.1,
+"frozen": []
+},
+"uni0075.alt2": {
+"moved": 5.7,
+"frozen": []
+},
+"uni0076.alt1": {
+"moved": 6.7,
+"frozen": []
+},
+"uni0077.alt1": {
+"moved": 7.3,
+"frozen": []
+},
+"uni0078.alt1": {
+"moved": 7.0,
+"frozen": []
+},
+"uni0079.alt1": {
+"moved": 6.8,
+"frozen": []
+},
+"uni0079.alt2": {
+"moved": 4.6,
+"frozen": []
+},
+"uni0079.alt3": {
+"moved": 5.2,
+"frozen": []
+},
+"uni007A.alt1": {
+"moved": 6.8,
+"frozen": []
+},
+"uni007C.alt1": {
+"moved": 4.3,
+"frozen": []
+},
+"uni00AB.alt1": {
+"moved": 5.5,
+"frozen": []
+},
+"uni00B0": {
+"moved": 6.7,
+"frozen": []
+},
+"uni00BB.alt1": {
+"moved": 6.6,
+"frozen": []
+},
+"uni0401.alt1": {
+"moved": 5.8,
+"frozen": []
+},
+"uni0401.alt2": {
+"moved": 6.2,
+"frozen": []
+},
+"uni0410.alt1": {
+"moved": 7.4,
+"frozen": []
+},
+"uni0410.alt2": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0410.alt3": {
+"moved": 7.2,
+"frozen": []
+},
+"uni0411.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0411.alt2": {
+"moved": 6.0,
+"frozen": []
+},
+"uni0411.alt3": {
+"moved": 7.0,
+"frozen": []
+},
+"uni0412.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0412.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0413.alt1": {
+"moved": 6.1,
+"frozen": []
+},
+"uni0413.alt2": {
+"moved": 4.4,
+"frozen": []
+},
+"uni0413.alt3": {
+"moved": 5.6,
+"frozen": []
+},
+"uni0414.alt1": {
+"moved": 7.5,
+"frozen": []
+},
+"uni0414.alt2": {
+"moved": 7.4,
+"frozen": []
+},
+"uni0414.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0414.alt4": {
+"moved": 6.4,
+"frozen": []
+},
+"uni0414.alt5": {
+"moved": 7.7,
+"frozen": []
+},
+"uni0415.alt1": {
+"moved": 6.0,
+"frozen": []
+},
+"uni0415.alt2": {
+"moved": 6.1,
+"frozen": []
+},
+"uni0415.alt3": {
+"moved": 7.0,
+"frozen": []
+},
+"uni0415.alt4": {
+"moved": 7.4,
+"frozen": []
+},
+"uni0416.alt1": {
+"moved": 6.9,
+"frozen": []
+},
+"uni0416.alt2": {
+"moved": 5.3,
+"frozen": []
+},
+"uni0416.alt3": {
+"moved": 6.1,
+"frozen": []
+},
+"uni0417.alt1": {
+"moved": 5.3,
+"frozen": []
+},
+"uni0417.alt2": {
+"moved": 5.3,
+"frozen": []
+},
+"uni0417.alt3": {
+"moved": 7.1,
+"frozen": []
+},
+"uni0418.alt1": {
+"moved": 4.4,
+"frozen": []
+},
+"uni0418.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0418.alt3": {
+"moved": 5.6,
+"frozen": []
+},
+"uni0419.alt1": {
+"moved": 4.4,
+"frozen": []
+},
+"uni041A.alt1": {
+"moved": 4.7,
+"frozen": []
+},
+"uni041A.alt2": {
+"moved": 5.5,
+"frozen": []
+},
+"uni041A.alt3": {
+"moved": 5.6,
+"frozen": []
+},
+"uni041A.alt4": {
+"moved": 5.1,
+"frozen": []
+},
+"uni041B.alt1": {
+"moved": 4.0,
+"frozen": []
+},
+"uni041B.alt2": {
+"moved": 4.2,
+"frozen": []
+},
+"uni041B.alt3": {
+"moved": 7.3,
+"frozen": []
+},
+"uni041C.alt1": {
+"moved": 4.6,
+"frozen": []
+},
+"uni041C.alt2": {
+"moved": 4.7,
+"frozen": []
+},
+"uni041D.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni041D.alt2": {
+"moved": 5.0,
+"frozen": []
+},
+"uni041E.alt1": {
+"moved": 4.6,
+"frozen": []
+},
+"uni041E.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni041F.alt1": {
+"moved": 6.3,
+"frozen": []
+},
+"uni041F.alt2": {
+"moved": 7.1,
+"frozen": []
+},
+"uni0420.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0420.alt2": {
+"moved": 5.6,
+"frozen": []
+},
+"uni0421.alt1": {
+"moved": 5.8,
+"frozen": []
+},
+"uni0421.alt2": {
+"moved": 4.8,
+"frozen": []
+},
+"uni0421.alt3": {
+"moved": 7.2,
+"frozen": []
+},
+"uni0421.alt4": {
+"moved": 4.9,
+"frozen": []
+},
+"uni0422.alt1": {
+"moved": 6.6,
+"frozen": []
+},
+"uni0423.alt1": {
+"moved": 5.2,
+"frozen": []
+},
+"uni0423.alt2": {
+"moved": 4.8,
+"frozen": []
+},
+"uni0423.alt3": {
+"moved": 4.5,
+"frozen": []
+},
+"uni0423.alt4": {
+"moved": 4.1,
+"frozen": []
+},
+"uni0424.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0424.alt2": {
+"moved": 7.1,
+"frozen": []
+},
+"uni0424.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0424.alt4": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0425.alt1": {
+"moved": 5.9,
+"frozen": []
+},
+"uni0425.alt2": {
+"moved": 5.2,
+"frozen": []
+},
+"uni0425.alt3": {
+"moved": 5.0,
+"frozen": []
+},
+"uni0425.alt4": {
+"moved": 7.4,
+"frozen": []
+},
+"uni0426.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0426.alt2": {
+"moved": 6.9,
+"frozen": []
+},
+"uni0426.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0426.alt4": {
+"moved": 7.1,
+"frozen": []
+},
+"uni0427.alt1": {
+"moved": 5.3,
+"frozen": []
+},
+"uni0427.alt2": {
+"moved": 6.1,
+"frozen": []
+},
+"uni0428.alt1": {
+"moved": 6.0,
+"frozen": []
+},
+"uni0428.alt2": {
+"moved": 7.0,
+"frozen": []
+},
+"uni0428.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0429.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0429.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni042A.alt1": {
+"moved": 5.3,
+"frozen": []
+},
+"uni042A.alt2": {
+"moved": 5.8,
+"frozen": []
+},
+"uni042B.alt1": {
+"moved": 6.5,
+"frozen": []
+},
+"uni042B.alt2": {
+"moved": 7.1,
+"frozen": []
+},
+"uni042B.alt3": {
+"moved": 6.1,
+"frozen": []
+},
+"uni042C.alt1": {
+"moved": 4.6,
+"frozen": []
+},
+"uni042C.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni042D.alt1": {
+"moved": 5.6,
+"frozen": []
+},
+"uni042D.alt2": {
+"moved": 6.1,
+"frozen": []
+},
+"uni042D.alt3": {
+"moved": 6.9,
+"frozen": []
+},
+"uni042E.alt1": {
+"moved": 6.8,
+"frozen": []
+},
+"uni042E.alt2": {
+"moved": 7.7,
+"frozen": []
+},
+"uni042F.alt1": {
+"moved": 6.8,
+"frozen": []
+},
+"uni042F.alt2": {
+"moved": 6.0,
+"frozen": []
+},
+"uni0430.alt1": {
+"moved": 7.5,
+"frozen": []
+},
+"uni0430.alt2": {
+"moved": 6.2,
+"frozen": []
+},
+"uni0430.alt3": {
+"moved": 7.1,
+"frozen": []
+},
+"uni0430.alt4": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0430.alt5": {
+"moved": 6.8,
+"frozen": []
+},
+"uni0430.alt6": {
+"moved": 7.3,
+"frozen": []
+},
+"uni0431.alt1": {
+"moved": 7.9,
+"frozen": []
+},
+"uni0431.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0431.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0432.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0432.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0433.alt1": {
+"moved": 4.7,
+"frozen": []
+},
+"uni0433.alt2": {
+"moved": 7.3,
+"frozen": []
+},
+"uni0433.alt3": {
+"moved": 6.6,
+"frozen": []
+},
+"uni0434.alt1": {
+"moved": 5.7,
+"frozen": []
+},
+"uni0434.alt2": {
+"moved": 7.2,
+"frozen": []
+},
+"uni0435.alt1": {
+"moved": 4.1,
+"frozen": []
+},
+"uni0435.alt2": {
+"moved": 4.9,
+"frozen": []
+},
+"uni0435.alt3": {
+"moved": 5.1,
+"frozen": []
+},
+"uni0435.alt4": {
+"moved": 5.9,
+"frozen": []
+},
+"uni0436.alt1": {
+"moved": 6.9,
+"frozen": []
+},
+"uni0436.alt2": {
+"moved": 7.1,
+"frozen": []
+},
+"uni0437.alt1": {
+"moved": 4.4,
+"frozen": []
+},
+"uni0437.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0438.alt1": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0438.alt2": {
+"moved": 4.7,
+"frozen": []
+},
+"uni0438.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0438.alt4": {
+"moved": 6.4,
+"frozen": []
+},
+"uni0439.alt1": {
+"moved": 5.9,
+"frozen": []
+},
+"uni0439.alt2": {
+"moved": 6.4,
+"frozen": []
+},
+"uni0439.alt3": {
+"moved": 7.8,
+"frozen": []
+},
+"uni0439.alt4": {
+"moved": 4.7,
+"frozen": []
+},
+"uni043A.alt1": {
+"moved": 5.5,
+"frozen": []
+},
+"uni043A.alt2": {
+"moved": 5.8,
+"frozen": []
+},
+"uni043A.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni043A.alt4": {
+"moved": 7.7,
+"frozen": []
+},
+"uni043A.alt5": {
+"moved": 7.3,
+"frozen": []
+},
+"uni043B.alt1": {
+"moved": 7.3,
+"frozen": []
+},
+"uni043B.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni043C.alt1": {
+"moved": 5.1,
+"frozen": []
+},
+"uni043C.alt2": {
+"moved": 7.6,
+"frozen": []
+},
+"uni043D.alt1": {
+"moved": 5.7,
+"frozen": []
+},
+"uni043D.alt2": {
+"moved": 4.6,
+"frozen": []
+},
+"uni043D.alt3": {
+"moved": 6.8,
+"frozen": []
+},
+"uni043E.alt1": {
+"moved": 5.8,
+"frozen": []
+},
+"uni043E.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni043F.alt1": {
+"moved": 7.3,
+"frozen": []
+},
+"uni0440.alt1": {
+"moved": 5.3,
+"frozen": []
+},
+"uni0440.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0441.alt1": {
+"moved": 4.4,
+"frozen": []
+},
+"uni0441.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0441.alt3": {
+"moved": 6.4,
+"frozen": []
+},
+"uni0441.alt4": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0442.alt1": {
+"moved": 6.5,
+"frozen": []
+},
+"uni0442.alt2": {
+"moved": 4.8,
+"frozen": []
+},
+"uni0442.alt3": {
+"moved": 7.1,
+"frozen": []
+},
+"uni0442.alt4": {
+"moved": 6.5,
+"frozen": []
+},
+"uni0442.alt5": {
+"moved": 6.7,
+"frozen": []
+},
+"uni0443.alt1": {
+"moved": 4.3,
+"frozen": []
+},
+"uni0443.alt2": {
+"moved": 7.1,
+"frozen": []
+},
+"uni0443.alt3": {
+"moved": 7.0,
+"frozen": []
+},
+"uni0443.alt4": {
+"moved": 6.8,
+"frozen": []
+},
+"uni0444.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0444.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0444.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0445.alt1": {
+"moved": 6.7,
+"frozen": []
+},
+"uni0445.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0445.alt3": {
+"moved": 7.8,
+"frozen": []
+},
+"uni0446.alt1": {
+"moved": 6.4,
+"frozen": []
+},
+"uni0446.alt2": {
+"moved": 7.0,
+"frozen": []
+},
+"uni0447.alt1": {
+"moved": 7.3,
+"frozen": []
+},
+"uni0447.alt2": {
+"moved": 6.2,
+"frozen": []
+},
+"uni0448.alt1": {
+"moved": 5.5,
+"frozen": []
+},
+"uni0448.alt2": {
+"moved": 6.3,
+"frozen": []
+},
+"uni0449.alt1": {
+"moved": 7.0,
+"frozen": []
+},
+"uni0449.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0449.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni044A.alt1": {
+"moved": 5.1,
+"frozen": []
+},
+"uni044A.alt2": {
+"moved": 7.0,
+"frozen": []
+},
+"uni044B.alt1": {
+"moved": 5.2,
+"frozen": []
+},
+"uni044B.alt2": {
+"moved": 6.9,
+"frozen": []
+},
+"uni044B.alt3": {
+"moved": 5.9,
+"frozen": []
+},
+"uni044C.alt1": {
+"moved": 4.4,
+"frozen": []
+},
+"uni044C.alt2": {
+"moved": 4.1,
+"frozen": []
+},
+"uni044C.alt3": {
+"moved": 5.1,
+"frozen": []
+},
+"uni044D.alt1": {
+"moved": 6.6,
+"frozen": []
+},
+"uni044D.alt2": {
+"moved": 6.1,
+"frozen": []
+},
+"uni044D.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni044D.alt4": {
+"moved": 8.0,
+"frozen": []
+},
+"uni044E.alt1": {
+"moved": 7.5,
+"frozen": []
+},
+"uni044E.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni044E.alt3": {
+"moved": 7.8,
+"frozen": []
+},
+"uni044F.alt1": {
+"moved": 6.7,
+"frozen": []
+},
+"uni044F.alt2": {
+"moved": 7.0,
+"frozen": []
+},
+"uni0451.alt1": {
+"moved": 7.4,
+"frozen": []
+},
+"uni2014.alt1": {
+"moved": 6.6,
+"frozen": []
+},
+"uni2116.alt1": {
+"moved": 6.8,
+"frozen": []
+},
+"uni2116.alt2": {
+"moved": 5.9,
+"frozen": []
+},
+"uni2116.alt3": {
+"moved": 7.1,
+"frozen": []
+},
+"uni2116.alt4": {
+"moved": 5.5,
+"frozen": []
+}
+},
+"Semibold": {
+".notdef": {
+"moved": 0.0,
+"frozen": []
+},
+"uni0021": {
+"moved": 5.5,
+"frozen": []
+},
+"uni0022": {
+"moved": 4.9,
+"frozen": []
+},
+"uni0023": {
+"moved": 4.7,
+"frozen": []
+},
+"uni0024": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0025": {
+"moved": 6.1,
+"frozen": []
+},
+"uni0026": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0027": {
+"moved": 3.8,
+"frozen": []
+},
+"uni0028": {
+"moved": 4.7,
+"frozen": []
+},
+"uni0029": {
+"moved": 4.7,
+"frozen": []
+},
+"uni002A": {
+"moved": 8.0,
+"frozen": []
+},
+"uni002B": {
+"moved": 5.0,
+"frozen": []
+},
+"uni002C": {
+"moved": 0.0,
+"frozen": []
+},
+"uni002D": {
+"moved": 5.5,
+"frozen": []
+},
+"uni002E": {
+"moved": 0.0,
+"frozen": []
+},
+"uni002F": {
+"moved": 5.8,
+"frozen": []
+},
+"uni0030": {
+"moved": 5.0,
+"frozen": []
+},
+"uni0030.tab": {
+"moved": 5.0,
+"frozen": []
+},
+"uni0031": {
+"moved": 6.3,
+"frozen": []
+},
+"uni0031.tab": {
+"moved": 6.3,
+"frozen": []
+},
+"uni0032": {
+"moved": 5.0,
+"frozen": []
+},
+"uni0032.tab": {
+"moved": 5.1,
+"frozen": []
+},
+"uni0033": {
+"moved": 6.8,
+"frozen": []
+},
+"uni0033.tab": {
+"moved": 6.9,
+"frozen": []
+},
+"uni0034": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0034.tab": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0035": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0035.tab": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0036": {
+"moved": 6.0,
+"frozen": []
+},
+"uni0036.tab": {
+"moved": 6.0,
+"frozen": []
+},
+"uni0037": {
+"moved": 5.8,
+"frozen": []
+},
+"uni0037.tab": {
+"moved": 5.8,
+"frozen": []
+},
+"uni0038": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0038.tab": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0039": {
+"moved": 7.8,
+"frozen": []
+},
+"uni0039.tab": {
+"moved": 7.8,
+"frozen": []
+},
+"uni003A": {
+"moved": 0.0,
+"frozen": []
+},
+"uni003B": {
+"moved": 4.4,
+"frozen": []
+},
+"uni003C": {
+"moved": 5.3,
+"frozen": []
+},
+"uni003D": {
+"moved": 4.8,
+"frozen": []
+},
+"uni003E": {
+"moved": 4.5,
+"frozen": []
+},
+"uni003F": {
+"moved": 6.1,
+"frozen": []
+},
+"uni0040": {
+"moved": 6.4,
+"frozen": []
+},
+"uni0041": {
+"moved": 6.4,
+"frozen": []
+},
+"uni0042": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0043": {
+"moved": 4.5,
+"frozen": []
+},
+"uni0044": {
+"moved": 5.8,
+"frozen": []
+},
+"uni0045": {
+"moved": 7.9,
+"frozen": []
+},
+"uni0046": {
+"moved": 6.3,
+"frozen": []
+},
+"uni0047": {
+"moved": 5.7,
+"frozen": []
+},
+"uni0048": {
+"moved": 6.5,
+"frozen": []
+},
+"uni0049": {
+"moved": 6.0,
+"frozen": []
+},
+"uni004A": {
+"moved": 7.9,
+"frozen": []
+},
+"uni004B": {
+"moved": 4.5,
+"frozen": []
+},
+"uni004C": {
+"moved": 4.6,
+"frozen": []
+},
+"uni004D": {
+"moved": 4.7,
+"frozen": []
+},
+"uni004E": {
+"moved": 5.1,
+"frozen": []
+},
+"uni004F": {
+"moved": 6.3,
+"frozen": []
+},
+"uni0050": {
+"moved": 5.8,
+"frozen": []
+},
+"uni0051": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0052": {
+"moved": 6.1,
+"frozen": []
+},
+"uni0053": {
+"moved": 5.1,
+"frozen": []
+},
+"uni0054": {
+"moved": 4.3,
+"frozen": []
+},
+"uni0055": {
+"moved": 4.6,
+"frozen": []
+},
+"uni0056": {
+"moved": 3.1,
+"frozen": []
+},
+"uni0057": {
+"moved": 4.6,
+"frozen": []
+},
+"uni0058": {
+"moved": 5.1,
+"frozen": []
+},
+"uni0059": {
+"moved": 4.7,
+"frozen": []
+},
+"uni005A": {
+"moved": 6.5,
+"frozen": []
+},
+"uni005B": {
+"moved": 4.9,
+"frozen": []
+},
+"uni005C": {
+"moved": 3.9,
+"frozen": []
+},
+"uni005D": {
+"moved": 5.2,
+"frozen": []
+},
+"uni005E": {
+"moved": 4.5,
+"frozen": []
+},
+"uni005F": {
+"moved": 4.2,
+"frozen": []
+},
+"uni0061": {
+"moved": 6.4,
+"frozen": []
+},
+"uni0062": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0063": {
+"moved": 6.4,
+"frozen": []
+},
+"uni0064": {
+"moved": 6.0,
+"frozen": []
+},
+"uni0065": {
+"moved": 5.5,
+"frozen": []
+},
+"uni0066": {
+"moved": 4.9,
+"frozen": []
+},
+"uni0067": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0068": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0069": {
+"moved": 4.3,
+"frozen": []
+},
+"uni006A": {
+"moved": 8.0,
+"frozen": []
+},
+"uni006B": {
+"moved": 4.8,
+"frozen": []
+},
+"uni006C": {
+"moved": 4.7,
+"frozen": []
+},
+"uni006D": {
+"moved": 5.0,
+"frozen": []
+},
+"uni006E": {
+"moved": 7.4,
+"frozen": []
+},
+"uni006F": {
+"moved": 3.4,
+"frozen": []
+},
+"uni0070": {
+"moved": 6.1,
+"frozen": []
+},
+"uni0071": {
+"moved": 7.8,
+"frozen": []
+},
+"uni0072": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0072.after_e": {
+"moved": 7.3,
+"frozen": []
+},
+"uni0073": {
+"moved": 6.4,
+"frozen": []
+},
+"uni0074": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0075": {
+"moved": 5.1,
+"frozen": []
+},
+"uni0076": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0077": {
+"moved": 4.2,
+"frozen": []
+},
+"uni0078": {
+"moved": 6.4,
+"frozen": []
+},
+"uni0079": {
+"moved": 6.4,
+"frozen": []
+},
+"uni007A": {
+"moved": 4.6,
+"frozen": []
+},
+"uni007B": {
+"moved": 7.9,
+"frozen": []
+},
+"uni007C": {
+"moved": 6.6,
+"frozen": []
+},
+"uni007D": {
+"moved": 7.6,
+"frozen": []
+},
+"uni007E": {
+"moved": 7.5,
+"frozen": []
+},
+"uni00AB": {
+"moved": 5.2,
+"frozen": []
+},
+"uni00BB": {
+"moved": 4.5,
+"frozen": []
+},
+"uni0401": {
+"moved": 6.5,
+"frozen": []
+},
+"uni0410": {
+"moved": 5.3,
+"frozen": []
+},
+"uni0411": {
+"moved": 6.2,
+"frozen": []
+},
+"uni0412": {
+"moved": 6.0,
+"frozen": []
+},
+"uni0413": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0414": {
+"moved": 7.4,
+"frozen": []
+},
+"uni0415": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0416": {
+"moved": 5.9,
+"frozen": []
+},
+"uni0417": {
+"moved": 4.9,
+"frozen": []
+},
+"uni0418": {
+"moved": 4.9,
+"frozen": []
+},
+"uni0419": {
+"moved": 5.0,
+"frozen": []
+},
+"uni041A": {
+"moved": 5.4,
+"frozen": []
+},
+"uni041B": {
+"moved": 4.3,
+"frozen": []
+},
+"uni041C": {
+"moved": 3.6,
+"frozen": []
+},
+"uni041D": {
+"moved": 5.8,
+"frozen": []
+},
+"uni041E": {
+"moved": 5.4,
+"frozen": []
+},
+"uni041F": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0420": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0421": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0422": {
+"moved": 5.1,
+"frozen": []
+},
+"uni0423": {
+"moved": 6.3,
+"frozen": []
+},
+"uni0424": {
+"moved": 7.6,
+"frozen": []
+},
+"uni0425": {
+"moved": 6.3,
+"frozen": []
+},
+"uni0426": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0427": {
+"moved": 3.8,
+"frozen": []
+},
+"uni0428": {
+"moved": 5.6,
+"frozen": []
+},
+"uni0429": {
+"moved": 8.0,
+"frozen": []
+},
+"uni042A": {
+"moved": 4.7,
+"frozen": []
+},
+"uni042B": {
+"moved": 5.9,
+"frozen": []
+},
+"uni042C": {
+"moved": 6.3,
+"frozen": []
+},
+"uni042D": {
+"moved": 8.0,
+"frozen": []
+},
+"uni042E": {
+"moved": 7.2,
+"frozen": []
+},
+"uni042F": {
+"moved": 4.7,
+"frozen": []
+},
+"uni0430": {
+"moved": 6.8,
+"frozen": []
+},
+"uni0431": {
+"moved": 7.3,
+"frozen": []
+},
+"uni0432": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0433": {
+"moved": 5.7,
+"frozen": []
+},
+"uni0434": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0435": {
+"moved": 5.2,
+"frozen": []
+},
+"uni0436": {
+"moved": 4.9,
+"frozen": []
+},
+"uni0437": {
+"moved": 5.8,
+"frozen": []
+},
+"uni0438": {
+"moved": 4.5,
+"frozen": []
+},
+"uni0439": {
+"moved": 4.4,
+"frozen": []
+},
+"uni043A": {
+"moved": 5.7,
+"frozen": []
+},
+"uni043B": {
+"moved": 4.1,
+"frozen": []
+},
+"uni043C": {
+"moved": 5.2,
+"frozen": []
+},
+"uni043D": {
+"moved": 4.6,
+"frozen": []
+},
+"uni043E": {
+"moved": 5.7,
+"frozen": []
+},
+"uni043F": {
+"moved": 4.7,
+"frozen": []
+},
+"uni0440": {
+"moved": 7.2,
+"frozen": []
+},
+"uni0441": {
+"moved": 4.0,
+"frozen": []
+},
+"uni0442": {
+"moved": 5.2,
+"frozen": []
+},
+"uni0443": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0443.open": {
+"moved": 5.2,
+"frozen": []
+},
+"uni0444": {
+"moved": 6.1,
+"frozen": []
+},
+"uni0445": {
+"moved": 5.9,
+"frozen": []
+},
+"uni0446": {
+"moved": 5.0,
+"frozen": []
+},
+"uni0447": {
+"moved": 7.4,
+"frozen": []
+},
+"uni0448": {
+"moved": 4.3,
+"frozen": []
+},
+"uni0449": {
+"moved": 8.0,
+"frozen": []
+},
+"uni044A": {
+"moved": 4.8,
+"frozen": []
+},
+"uni044B": {
+"moved": 5.3,
+"frozen": []
+},
+"uni044C": {
+"moved": 6.1,
+"frozen": []
+},
+"uni044D": {
+"moved": 8.0,
+"frozen": []
+},
+"uni044E": {
+"moved": 6.7,
+"frozen": []
+},
+"uni044F": {
+"moved": 4.9,
+"frozen": []
+},
+"uni0451": {
+"moved": 5.2,
+"frozen": []
+},
+"uni2013": {
+"moved": 3.8,
+"frozen": []
+},
+"uni2014": {
+"moved": 6.4,
+"frozen": []
+},
+"uni2026": {
+"moved": 0.0,
+"frozen": []
+},
+"uni20BD": {
+"moved": 8.0,
+"frozen": []
+},
+"uni2116": {
+"moved": 6.4,
+"frozen": []
+},
+"uni0021.alt1": {
+"moved": 4.2,
+"frozen": []
+},
+"uni0021.alt2": {
+"moved": 3.8,
+"frozen": []
+},
+"uni0022.alt1": {
+"moved": 5.3,
+"frozen": []
+},
+"uni0023.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0023.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0024.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0025.alt1": {
+"moved": 5.7,
+"frozen": []
+},
+"uni0025.alt2": {
+"moved": 6.1,
+"frozen": []
+},
+"uni0025.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0026.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0026.alt2": {
+"moved": 7.5,
+"frozen": []
+},
+"uni0026.alt3": {
+"moved": 6.9,
+"frozen": []
+},
+"uni0026.alt4": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0026.alt5": {
+"moved": 7.5,
+"frozen": []
+},
+"uni0028.alt1": {
+"moved": 4.7,
+"frozen": []
+},
+"uni0029.alt1": {
+"moved": 6.9,
+"frozen": []
+},
+"uni002A.alt1": {
+"moved": 7.1,
+"frozen": []
+},
+"uni002A.alt2": {
+"moved": 7.3,
+"frozen": []
+},
+"uni002B.alt1": {
+"moved": 6.3,
+"frozen": []
+},
+"uni002C.alt1": {
+"moved": 5.2,
+"frozen": []
+},
+"uni002C.alt2": {
+"moved": 0.0,
+"frozen": []
+},
+"uni002C.alt3": {
+"moved": 4.5,
+"frozen": []
+},
+"uni002D.alt1": {
+"moved": 5.9,
+"frozen": []
+},
+"uni0030.alt1": {
+"moved": 6.3,
+"frozen": []
+},
+"uni0030.alt2": {
+"moved": 5.5,
+"frozen": []
+},
+"uni0030.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0031.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0031.alt2": {
+"moved": 6.4,
+"frozen": []
+},
+"uni0031.alt3": {
+"moved": 7.1,
+"frozen": []
+},
+"uni0031.alt4": {
+"moved": 6.2,
+"frozen": []
+},
+"uni0031.alt5": {
+"moved": 5.1,
+"frozen": []
+},
+"uni0032.alt1": {
+"moved": 7.1,
+"frozen": []
+},
+"uni0032.alt2": {
+"moved": 4.0,
+"frozen": []
+},
+"uni0032.alt3": {
+"moved": 5.0,
+"frozen": []
+},
+"uni0032.alt4": {
+"moved": 5.3,
+"frozen": []
+},
+"uni0032.alt5": {
+"moved": 5.1,
+"frozen": []
+},
+"uni0033.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0033.alt2": {
+"moved": 5.7,
+"frozen": []
+},
+"uni0034.alt1": {
+"moved": 5.3,
+"frozen": []
+},
+"uni0034.alt2": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0034.alt3": {
+"moved": 6.2,
+"frozen": []
+},
+"uni0035.alt1": {
+"moved": 4.9,
+"frozen": []
+},
+"uni0035.alt2": {
+"moved": 5.0,
+"frozen": []
+},
+"uni0035.alt3": {
+"moved": 7.6,
+"frozen": []
+},
+"uni0035.alt4": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0035.alt5": {
+"moved": 5.9,
+"frozen": []
+},
+"uni0036.alt1": {
+"moved": 4.6,
+"frozen": []
+},
+"uni0036.alt2": {
+"moved": 6.5,
+"frozen": []
+},
+"uni0036.alt3": {
+"moved": 6.1,
+"frozen": []
+},
+"uni0037.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0037.alt2": {
+"moved": 6.9,
+"frozen": []
+},
+"uni0037.alt3": {
+"moved": 6.7,
+"frozen": []
+},
+"uni0038.alt1": {
+"moved": 6.1,
+"frozen": []
+},
+"uni0038.alt2": {
+"moved": 6.5,
+"frozen": []
+},
+"uni0038.alt3": {
+"moved": 7.8,
+"frozen": []
+},
+"uni0039.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0039.alt2": {
+"moved": 5.7,
+"frozen": []
+},
+"uni0039.alt3": {
+"moved": 6.9,
+"frozen": []
+},
+"uni0039.alt4": {
+"moved": 6.2,
+"frozen": []
+},
+"uni003A.alt1": {
+"moved": 0.0,
+"frozen": []
+},
+"uni003B.alt1": {
+"moved": 7.4,
+"frozen": []
+},
+"uni003B.alt2": {
+"moved": 6.0,
+"frozen": []
+},
+"uni003F.alt1": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0040.alt1": {
+"moved": 4.9,
+"frozen": []
+},
+"uni0041.alt1": {
+"moved": 8.0,
+"frozen": [
+[
+382,
+269
+]
+]
+},
+"uni0042.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0042.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0043.alt1": {
+"moved": 5.6,
+"frozen": []
+},
+"uni0044.alt1": {
+"moved": 6.7,
+"frozen": []
+},
+"uni0045.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0045.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0045.alt3": {
+"moved": 6.9,
+"frozen": []
+},
+"uni0046.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0047.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0047.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0048.alt1": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0048.alt2": {
+"moved": 5.5,
+"frozen": []
+},
+"uni0049.alt1": {
+"moved": 7.4,
+"frozen": []
+},
+"uni004A.alt1": {
+"moved": 5.6,
+"frozen": []
+},
+"uni004B.alt1": {
+"moved": 6.9,
+"frozen": []
+},
+"uni004C.alt1": {
+"moved": 5.7,
+"frozen": []
+},
+"uni004D.alt1": {
+"moved": 5.0,
+"frozen": []
+},
+"uni004E.alt1": {
+"moved": 4.6,
+"frozen": []
+},
+"uni004E.alt2": {
+"moved": 4.4,
+"frozen": []
+},
+"uni004E.alt3": {
+"moved": 7.0,
+"frozen": []
+},
+"uni004E.alt4": {
+"moved": 6.5,
+"frozen": []
+},
+"uni004F.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni004F.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni004F.alt3": {
+"moved": 4.7,
+"frozen": []
+},
+"uni004F.alt4": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0050.alt1": {
+"moved": 6.8,
+"frozen": []
+},
+"uni0051.alt1": {
+"moved": 7.4,
+"frozen": []
+},
+"uni0052.alt1": {
+"moved": 6.7,
+"frozen": []
+},
+"uni0052.alt2": {
+"moved": 6.6,
+"frozen": []
+},
+"uni0052.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0052.alt4": {
+"moved": 7.4,
+"frozen": []
+},
+"uni0053.alt1": {
+"moved": 6.7,
+"frozen": []
+},
+"uni0053.alt2": {
+"moved": 4.9,
+"frozen": []
+},
+"uni0053.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0054.alt1": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0054.alt2": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0055.alt1": {
+"moved": 4.1,
+"frozen": []
+},
+"uni0056.alt1": {
+"moved": 3.8,
+"frozen": []
+},
+"uni0056.alt2": {
+"moved": 4.9,
+"frozen": []
+},
+"uni0057.alt1": {
+"moved": 6.4,
+"frozen": []
+},
+"uni0058.alt1": {
+"moved": 4.3,
+"frozen": []
+},
+"uni0058.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0059.alt1": {
+"moved": 5.3,
+"frozen": []
+},
+"uni005A.alt1": {
+"moved": 5.7,
+"frozen": []
+},
+"uni005C.alt1": {
+"moved": 5.3,
+"frozen": []
+},
+"uni005E.alt1": {
+"moved": 5.8,
+"frozen": []
+},
+"uni0061.alt1": {
+"moved": 6.7,
+"frozen": []
+},
+"uni0061.alt2": {
+"moved": 7.8,
+"frozen": []
+},
+"uni0062.alt1": {
+"moved": 5.3,
+"frozen": []
+},
+"uni0063.alt1": {
+"moved": 6.5,
+"frozen": []
+},
+"uni0064.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0064.alt2": {
+"moved": 6.5,
+"frozen": []
+},
+"uni0065.alt1": {
+"moved": 3.9,
+"frozen": []
+},
+"uni0065.alt2": {
+"moved": 5.5,
+"frozen": []
+},
+"uni0065.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0066.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0066.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0067.alt1": {
+"moved": 7.1,
+"frozen": []
+},
+"uni0067.alt2": {
+"moved": 5.9,
+"frozen": []
+},
+"uni0068.alt1": {
+"moved": 6.3,
+"frozen": []
+},
+"uni006A.alt1": {
+"moved": 5.4,
+"frozen": []
+},
+"uni006B.alt1": {
+"moved": 4.7,
+"frozen": []
+},
+"uni006B.alt2": {
+"moved": 4.7,
+"frozen": []
+},
+"uni006B.alt3": {
+"moved": 5.3,
+"frozen": []
+},
+"uni006C.alt1": {
+"moved": 5.5,
+"frozen": []
+},
+"uni006D.alt1": {
+"moved": 5.5,
+"frozen": []
+},
+"uni006E.alt1": {
+"moved": 6.0,
+"frozen": []
+},
+"uni006E.alt2": {
+"moved": 6.0,
+"frozen": []
+},
+"uni006F.alt1": {
+"moved": 5.9,
+"frozen": []
+},
+"uni006F.alt2": {
+"moved": 7.1,
+"frozen": []
+},
+"uni006F.alt3": {
+"moved": 6.9,
+"frozen": []
+},
+"uni006F.alt4": {
+"moved": 8.0,
+"frozen": []
+},
+"uni006F.alt5": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0070.alt1": {
+"moved": 7.3,
+"frozen": []
+},
+"uni0071.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0072.alt1": {
+"moved": 7.8,
+"frozen": []
+},
+"uni0072.alt2": {
+"moved": 6.4,
+"frozen": []
+},
+"uni0073.alt1": {
+"moved": 4.9,
+"frozen": []
+},
+"uni0074.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0075.alt1": {
+"moved": 5.8,
+"frozen": []
+},
+"uni0075.alt2": {
+"moved": 5.1,
+"frozen": []
+},
+"uni0076.alt1": {
+"moved": 5.3,
+"frozen": []
+},
+"uni0077.alt1": {
+"moved": 5.8,
+"frozen": []
+},
+"uni0078.alt1": {
+"moved": 6.9,
+"frozen": []
+},
+"uni0079.alt1": {
+"moved": 6.8,
+"frozen": []
+},
+"uni0079.alt2": {
+"moved": 5.0,
+"frozen": []
+},
+"uni0079.alt3": {
+"moved": 4.9,
+"frozen": []
+},
+"uni007A.alt1": {
+"moved": 6.6,
+"frozen": []
+},
+"uni007C.alt1": {
+"moved": 4.7,
+"frozen": []
+},
+"uni00AB.alt1": {
+"moved": 5.3,
+"frozen": []
+},
+"uni00B0": {
+"moved": 8.0,
+"frozen": []
+},
+"uni00BB.alt1": {
+"moved": 6.1,
+"frozen": []
+},
+"uni0401.alt1": {
+"moved": 6.1,
+"frozen": []
+},
+"uni0401.alt2": {
+"moved": 6.4,
+"frozen": []
+},
+"uni0410.alt1": {
+"moved": 7.7,
+"frozen": []
+},
+"uni0410.alt2": {
+"moved": 6.2,
+"frozen": []
+},
+"uni0410.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0411.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0411.alt2": {
+"moved": 5.7,
+"frozen": []
+},
+"uni0411.alt3": {
+"moved": 7.8,
+"frozen": []
+},
+"uni0412.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0412.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0413.alt1": {
+"moved": 6.4,
+"frozen": []
+},
+"uni0413.alt2": {
+"moved": 5.0,
+"frozen": []
+},
+"uni0413.alt3": {
+"moved": 5.0,
+"frozen": []
+},
+"uni0414.alt1": {
+"moved": 5.2,
+"frozen": []
+},
+"uni0414.alt2": {
+"moved": 7.6,
+"frozen": []
+},
+"uni0414.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0414.alt4": {
+"moved": 6.3,
+"frozen": []
+},
+"uni0414.alt5": {
+"moved": 7.5,
+"frozen": []
+},
+"uni0415.alt1": {
+"moved": 5.8,
+"frozen": []
+},
+"uni0415.alt2": {
+"moved": 6.7,
+"frozen": []
+},
+"uni0415.alt3": {
+"moved": 6.6,
+"frozen": []
+},
+"uni0415.alt4": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0416.alt1": {
+"moved": 5.9,
+"frozen": []
+},
+"uni0416.alt2": {
+"moved": 6.2,
+"frozen": []
+},
+"uni0416.alt3": {
+"moved": 5.3,
+"frozen": []
+},
+"uni0417.alt1": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0417.alt2": {
+"moved": 4.7,
+"frozen": []
+},
+"uni0417.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0418.alt1": {
+"moved": 4.7,
+"frozen": []
+},
+"uni0418.alt2": {
+"moved": 6.1,
+"frozen": []
+},
+"uni0418.alt3": {
+"moved": 5.8,
+"frozen": []
+},
+"uni0419.alt1": {
+"moved": 4.7,
+"frozen": []
+},
+"uni041A.alt1": {
+"moved": 4.7,
+"frozen": []
+},
+"uni041A.alt2": {
+"moved": 4.7,
+"frozen": []
+},
+"uni041A.alt3": {
+"moved": 4.9,
+"frozen": []
+},
+"uni041A.alt4": {
+"moved": 5.1,
+"frozen": []
+},
+"uni041B.alt1": {
+"moved": 4.6,
+"frozen": []
+},
+"uni041B.alt2": {
+"moved": 4.5,
+"frozen": []
+},
+"uni041B.alt3": {
+"moved": 5.6,
+"frozen": []
+},
+"uni041C.alt1": {
+"moved": 4.9,
+"frozen": []
+},
+"uni041C.alt2": {
+"moved": 4.9,
+"frozen": []
+},
+"uni041D.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni041D.alt2": {
+"moved": 5.1,
+"frozen": []
+},
+"uni041E.alt1": {
+"moved": 4.3,
+"frozen": []
+},
+"uni041E.alt2": {
+"moved": 7.5,
+"frozen": []
+},
+"uni041F.alt1": {
+"moved": 6.9,
+"frozen": []
+},
+"uni041F.alt2": {
+"moved": 6.4,
+"frozen": []
+},
+"uni0420.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0420.alt2": {
+"moved": 5.7,
+"frozen": []
+},
+"uni0421.alt1": {
+"moved": 6.3,
+"frozen": []
+},
+"uni0421.alt2": {
+"moved": 4.1,
+"frozen": []
+},
+"uni0421.alt3": {
+"moved": 6.3,
+"frozen": []
+},
+"uni0421.alt4": {
+"moved": 5.0,
+"frozen": []
+},
+"uni0422.alt1": {
+"moved": 6.0,
+"frozen": []
+},
+"uni0423.alt1": {
+"moved": 5.1,
+"frozen": []
+},
+"uni0423.alt2": {
+"moved": 5.2,
+"frozen": []
+},
+"uni0423.alt3": {
+"moved": 5.0,
+"frozen": []
+},
+"uni0423.alt4": {
+"moved": 4.4,
+"frozen": []
+},
+"uni0424.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0424.alt2": {
+"moved": 7.9,
+"frozen": []
+},
+"uni0424.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0424.alt4": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0425.alt1": {
+"moved": 6.4,
+"frozen": []
+},
+"uni0425.alt2": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0425.alt3": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0425.alt4": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0426.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0426.alt2": {
+"moved": 7.8,
+"frozen": []
+},
+"uni0426.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0426.alt4": {
+"moved": 7.7,
+"frozen": []
+},
+"uni0427.alt1": {
+"moved": 5.0,
+"frozen": []
+},
+"uni0427.alt2": {
+"moved": 5.6,
+"frozen": []
+},
+"uni0428.alt1": {
+"moved": 6.0,
+"frozen": []
+},
+"uni0428.alt2": {
+"moved": 7.8,
+"frozen": []
+},
+"uni0428.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0429.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0429.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni042A.alt1": {
+"moved": 5.5,
+"frozen": []
+},
+"uni042A.alt2": {
+"moved": 5.0,
+"frozen": []
+},
+"uni042B.alt1": {
+"moved": 6.0,
+"frozen": []
+},
+"uni042B.alt2": {
+"moved": 6.3,
+"frozen": []
+},
+"uni042B.alt3": {
+"moved": 6.3,
+"frozen": []
+},
+"uni042C.alt1": {
+"moved": 4.1,
+"frozen": []
+},
+"uni042C.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni042D.alt1": {
+"moved": 5.3,
+"frozen": []
+},
+"uni042D.alt2": {
+"moved": 6.6,
+"frozen": []
+},
+"uni042D.alt3": {
+"moved": 6.7,
+"frozen": []
+},
+"uni042E.alt1": {
+"moved": 7.6,
+"frozen": []
+},
+"uni042E.alt2": {
+"moved": 7.2,
+"frozen": []
+},
+"uni042F.alt1": {
+"moved": 5.8,
+"frozen": []
+},
+"uni042F.alt2": {
+"moved": 6.9,
+"frozen": []
+},
+"uni0430.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0430.alt2": {
+"moved": 6.4,
+"frozen": []
+},
+"uni0430.alt3": {
+"moved": 7.5,
+"frozen": []
+},
+"uni0430.alt4": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0430.alt5": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0430.alt6": {
+"moved": 7.6,
+"frozen": []
+},
+"uni0431.alt1": {
+"moved": 7.1,
+"frozen": []
+},
+"uni0431.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0431.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0432.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0432.alt2": {
+"moved": 7.9,
+"frozen": []
+},
+"uni0433.alt1": {
+"moved": 4.4,
+"frozen": []
+},
+"uni0433.alt2": {
+"moved": 6.9,
+"frozen": []
+},
+"uni0433.alt3": {
+"moved": 6.6,
+"frozen": []
+},
+"uni0434.alt1": {
+"moved": 6.3,
+"frozen": []
+},
+"uni0434.alt2": {
+"moved": 6.8,
+"frozen": []
+},
+"uni0435.alt1": {
+"moved": 3.7,
+"frozen": []
+},
+"uni0435.alt2": {
+"moved": 4.5,
+"frozen": []
+},
+"uni0435.alt3": {
+"moved": 5.4,
+"frozen": []
+},
+"uni0435.alt4": {
+"moved": 6.2,
+"frozen": []
+},
+"uni0436.alt1": {
+"moved": 6.6,
+"frozen": [
+[
+418,
+426
+]
+]
+},
+"uni0436.alt2": {
+"moved": 7.2,
+"frozen": []
+},
+"uni0437.alt1": {
+"moved": 4.9,
+"frozen": []
+},
+"uni0437.alt2": {
+"moved": 7.4,
+"frozen": []
+},
+"uni0438.alt1": {
+"moved": 5.0,
+"frozen": []
+},
+"uni0438.alt2": {
+"moved": 4.7,
+"frozen": []
+},
+"uni0438.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0438.alt4": {
+"moved": 5.7,
+"frozen": []
+},
+"uni0439.alt1": {
+"moved": 4.8,
+"frozen": []
+},
+"uni0439.alt2": {
+"moved": 5.8,
+"frozen": []
+},
+"uni0439.alt3": {
+"moved": 7.7,
+"frozen": []
+},
+"uni0439.alt4": {
+"moved": 4.7,
+"frozen": []
+},
+"uni043A.alt1": {
+"moved": 5.2,
+"frozen": []
+},
+"uni043A.alt2": {
+"moved": 6.4,
+"frozen": []
+},
+"uni043A.alt3": {
+"moved": 7.6,
+"frozen": []
+},
+"uni043A.alt4": {
+"moved": 8.0,
+"frozen": []
+},
+"uni043A.alt5": {
+"moved": 8.0,
+"frozen": []
+},
+"uni043B.alt1": {
+"moved": 5.6,
+"frozen": []
+},
+"uni043B.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni043C.alt1": {
+"moved": 5.1,
+"frozen": []
+},
+"uni043C.alt2": {
+"moved": 7.1,
+"frozen": []
+},
+"uni043D.alt1": {
+"moved": 5.6,
+"frozen": []
+},
+"uni043D.alt2": {
+"moved": 4.9,
+"frozen": []
+},
+"uni043D.alt3": {
+"moved": 6.7,
+"frozen": []
+},
+"uni043E.alt1": {
+"moved": 4.9,
+"frozen": []
+},
+"uni043E.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni043F.alt1": {
+"moved": 6.7,
+"frozen": []
+},
+"uni0440.alt1": {
+"moved": 6.0,
+"frozen": []
+},
+"uni0440.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0441.alt1": {
+"moved": 4.8,
+"frozen": []
+},
+"uni0441.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0441.alt3": {
+"moved": 6.1,
+"frozen": []
+},
+"uni0441.alt4": {
+"moved": 7.5,
+"frozen": []
+},
+"uni0442.alt1": {
+"moved": 6.2,
+"frozen": []
+},
+"uni0442.alt2": {
+"moved": 6.1,
+"frozen": []
+},
+"uni0442.alt3": {
+"moved": 5.9,
+"frozen": []
+},
+"uni0442.alt4": {
+"moved": 6.3,
+"frozen": []
+},
+"uni0442.alt5": {
+"moved": 6.3,
+"frozen": []
+},
+"uni0443.alt1": {
+"moved": 4.9,
+"frozen": []
+},
+"uni0443.alt2": {
+"moved": 6.2,
+"frozen": []
+},
+"uni0443.alt3": {
+"moved": 7.6,
+"frozen": []
+},
+"uni0443.alt4": {
+"moved": 6.7,
+"frozen": []
+},
+"uni0444.alt1": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0444.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0444.alt3": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0445.alt1": {
+"moved": 7.2,
+"frozen": []
+},
+"uni0445.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0445.alt3": {
+"moved": 6.9,
+"frozen": []
+},
+"uni0446.alt1": {
+"moved": 7.7,
+"frozen": []
+},
+"uni0446.alt2": {
+"moved": 7.3,
+"frozen": []
+},
+"uni0447.alt1": {
+"moved": 7.6,
+"frozen": []
+},
+"uni0447.alt2": {
+"moved": 7.1,
+"frozen": []
+},
+"uni0448.alt1": {
+"moved": 4.8,
+"frozen": []
+},
+"uni0448.alt2": {
+"moved": 6.3,
+"frozen": []
+},
+"uni0449.alt1": {
+"moved": 7.8,
+"frozen": []
+},
+"uni0449.alt2": {
+"moved": 7.3,
+"frozen": []
+},
+"uni0449.alt3": {
+"moved": 6.7,
+"frozen": []
+},
+"uni044A.alt1": {
+"moved": 5.3,
+"frozen": []
+},
+"uni044A.alt2": {
+"moved": 6.8,
+"frozen": []
+},
+"uni044B.alt1": {
+"moved": 5.9,
+"frozen": []
+},
+"uni044B.alt2": {
+"moved": 7.2,
+"frozen": []
+},
+"uni044B.alt3": {
+"moved": 5.6,
+"frozen": []
+},
+"uni044C.alt1": {
+"moved": 4.5,
+"frozen": []
+},
+"uni044C.alt2": {
+"moved": 4.1,
+"frozen": []
+},
+"uni044C.alt3": {
+"moved": 4.5,
+"frozen": []
+},
+"uni044D.alt1": {
+"moved": 7.9,
+"frozen": []
+},
+"uni044D.alt2": {
+"moved": 6.0,
+"frozen": []
+},
+"uni044D.alt3": {
+"moved": 7.0,
+"frozen": [
+[
+345,
+337
+]
+]
+},
+"uni044D.alt4": {
+"moved": 8.0,
+"frozen": []
+},
+"uni044E.alt1": {
+"moved": 6.2,
+"frozen": []
+},
+"uni044E.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni044E.alt3": {
+"moved": 6.9,
+"frozen": []
+},
+"uni044F.alt1": {
+"moved": 6.8,
+"frozen": []
+},
+"uni044F.alt2": {
+"moved": 8.0,
+"frozen": []
+},
+"uni0451.alt1": {
+"moved": 7.5,
+"frozen": []
+},
+"uni2014.alt1": {
+"moved": 6.1,
+"frozen": []
+},
+"uni2116.alt1": {
+"moved": 7.3,
+"frozen": []
+},
+"uni2116.alt2": {
+"moved": 5.8,
+"frozen": []
+},
+"uni2116.alt3": {
+"moved": 5.1,
+"frozen": []
+},
+"uni2116.alt4": {
+"moved": 5.3,
+"frozen": []
+}
+}
+}

@@ -21,6 +21,7 @@ BASE_TAG = 'df51644'   # эталон после правки капель — �
 CHANGED_BASE = {'uni006A'}          # убрана лишняя точка (i со скана)
 CHANGED_BASE |= {f'uni003{d}{t}' for d in range(10) for t in ('', '.tab')}   # цифры крупнее (qa/digits-2026-10-22)
 POLISHED = json.loads((Path(__file__).parent / 'polish-report.json').read_text())  # отполированные глифы
+SMOOTHED = json.loads((ROOT / 'qa/smooth-2026-10-22/smooth-report.json').read_text())  # выровненный край (0.6.2)
 NEW_ENCODED = {'uni00B0': 0xB0}
 
 
@@ -43,7 +44,7 @@ def main():
         for name in tt.getGlyphOrder():
             coords, ends, flags = glyf[name].getCoordinates(glyf)
             entry = {'coords': [list(p) for p in coords], 'ends': list(ends), 'flags': list(flags), 'metrics': list(hmtx[name])}
-            changed = CHANGED_BASE | set(POLISHED.get(style, {}))
+            changed = CHANGED_BASE | set(POLISHED.get(style, {})) | set(SMOOTHED.get(style, {}))
             if name in rec['glyphs'] and name not in changed:
                 old = rec['glyphs'][name]
                 assert old['coords'] == entry['coords'] and old['metrics'] == entry['metrics'], (style, name, 'неожиданное изменение')
@@ -54,7 +55,8 @@ def main():
             rec['cmap'][str(cp)] = name
         rec['source'] += ('; alternates-2026-10-21: 348 scan alternates, degree sign, stray dot removed from j, '
                           'drips/spikes/dents polished (qa/contour-cleanup-2026-10-21); '
-                          'digits-2026-10-22: figures scaled to ~95% of cap height, stroke kept, Semibold zero evened')
+                          'digits-2026-10-22: figures scaled to ~95% of cap height, stroke kept, Semibold zero evened; '
+                          'smooth-2026-10-22: stroke edges evened (adaptive low-pass, corners and topology kept)')
         cmap = {int(k): v for k, v in rec['cmap'].items()}
         chars = ''.join(chr(c) for c in sorted(cmap))
         kern = Kerning(style)

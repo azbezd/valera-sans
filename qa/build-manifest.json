@@ -1,38 +1,38 @@
 {
   "fonts/otf/ValeraSans-Light.otf": {
-    "bytes": 1570248,
-    "sha256": "6887c68701b149db6e28274eadb8fd931ff3c50b33bc8fbdbf2b582c62ce5f5b"
+    "bytes": 1341704,
+    "sha256": "22282159f11041c9de0a0b03387ba0bf002d4bfe347174cb506f3622cd93307d"
   },
   "fonts/otf/ValeraSans-Regular.otf": {
-    "bytes": 1573452,
-    "sha256": "d0afc2cdcbfea345b472de32df19f0bfe41f537b291ab9b4562cb99aad4dd16e"
+    "bytes": 1324932,
+    "sha256": "df415d49f74abae53ea885d8455d8bbcae7a52a57b223f6f4160beaaebd7c3d7"
   },
   "fonts/otf/ValeraSans-Semibold.otf": {
-    "bytes": 1536596,
-    "sha256": "90dd2b817ab1912b0154de2616b397101d341fcc6735acd61122a0703ab7c762"
+    "bytes": 1268656,
+    "sha256": "efde836e3bb257ae571c06d763dacf1f9184da09da32416ec46c1a512c526780"
   },
   "fonts/ttf/ValeraSans-Light.ttf": {
-    "bytes": 735588,
-    "sha256": "0d0659d19d89145caf861e02d895abe041f730480a5b1862090ec0b80f64725f"
+    "bytes": 689836,
+    "sha256": "0767e9ba7979d2a6422b34a023fda0d09576c9a7c277132f9c08693a5bbbe1dc"
   },
   "fonts/ttf/ValeraSans-Regular.ttf": {
-    "bytes": 734088,
-    "sha256": "51b1b8701a962b5a29d9b844f3c4f47ca060b022b96ea8f8c763296953d1fb00"
+    "bytes": 682112,
+    "sha256": "3924d8259e15c2927067ab3fcd47097e6b5ba84ab2a5c264cc5dccf76bcb45c1"
   },
   "fonts/ttf/ValeraSans-Semibold.ttf": {
-    "bytes": 712992,
-    "sha256": "b3988bcbd7576b6b9a8044d99b248817bad6f867aff8d8ef7297b53d8cd9dd91"
+    "bytes": 658320,
+    "sha256": "82a0d2de8a41a116ae046e907a427813893a3ea4a0a9d7b8d08d79d0105eb3df"
   },
   "fonts/web/ValeraSans-Light.woff2": {
-    "bytes": 242512,
-    "sha256": "54bb96c93dcf4e78245e6df0c6871d5b6d6e7fd3f8e097208de281e33711974d"
+    "bytes": 216888,
+    "sha256": "ae89a0baba5366de3158187d1104069bf9e0e0ab0d9ff66e6079a02722aa402b"
   },
   "fonts/web/ValeraSans-Regular.woff2": {
-    "bytes": 241088,
-    "sha256": "68b91e76f1dfc35e11b070b2d15e59f85cf62ac070e496c6f442e7fa34c1da5b"
+    "bytes": 214100,
+    "sha256": "45316eeceaa27d86ed45cd9222a5824ccafe4f636742a64e129b944a27dbe891"
   },
   "fonts/web/ValeraSans-Semibold.woff2": {
-    "bytes": 231584,
-    "sha256": "995fe21ccf59dc480abcdd57c2f285ab935c672f0e6bee3e647fc655953527b4"
+    "bytes": 202860,
+    "sha256": "0394113bfc9f4b2851ae23e044e6585c34430938809bc65586d0089567ea9c88"
   }
 }

@@ -34,5 +34,7 @@ Version 0.6.0 adds 348 alternates of 151 characters chosen by the author from th
 
 Version 0.6.1 enlarges all figure forms to about 95% of the cap height (`qa/digits-2026-10-22`). The build asserts that no figure changes its number of parts or counters; stroke thickness before and after is recorded per glyph in `digits-report.json`. Figures join the changed glyphs of the approved geometry; pairs with figures are recomputed by the 0.4 formula and checked through the same model.
 
+Version 0.6.2 evens the stroke edges of all glyphs (`qa/smooth-2026-10-22`). Each glyph keeps its number of parts and counters (checked on a raster, with a local freeze where smoothing would pinch a gap); edges move at most 8 units. All smoothed glyphs join the changed glyphs of the approved geometry, and kerning is recomputed through the same pipeline.
+
 Kerning of alternates is computed, not hand-tuned pair by pair: the 0.4 formula, a minimum of 50 units between glyph edges (40 with punctuation) and tightening of loose pairs towards the 40th percentile of their group. Visual review used the author's marked words and representative text in all three weights.
 

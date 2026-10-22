@@ -38,6 +38,8 @@ sys.path.insert(0, str(Path(__file__).parent))
 import simplify as SIMPLIFY  # noqa: E402
 sys.path.insert(0, str(ROOT / 'qa/digits-2026-10-22'))
 import scale_digits as DIGITS  # noqa: E402
+sys.path.insert(0, str(ROOT / 'qa/smooth-2026-10-22'))
+import smooth as SMOOTH  # noqa: E402
 
 STYLES = ['Light', 'Regular', 'Semibold']
 BAND = 10
@@ -664,6 +666,7 @@ def refit_digit_pairs(font, base_pairs, names, digits, style, cmap_rev):
 def main():
     specs = {}
     digits_report = {}
+    smooth_report = {}
     all_polished = {}
     clear_report = {}
     for style in STYLES:
@@ -700,6 +703,8 @@ def main():
             polished.setdefault(n, []).append([0.0, 0.0, 0.0, 'manual'])
         # цифры ≈95% высоты прописных при прежнем штрихе (выбор автора, 0.6.1)
         digit_glyphs, digits_report[style] = DIGITS.scale_ufo(font, style)
+        # ровный край штриха: адаптивное сглаживание, углы и топология сохраняются (0.6.2)
+        smooth_report[style] = SMOOTH.smooth_ufo(font, DIGITS.flatten, DIGITS.ufo_contours)
         cmap_rev0 = {g.name: chr(g.unicodes[0]) for g in font if g.unicodes}
         base_names = [n for n in order if '.alt' not in n and char_of(n, cmap_rev0)]
         j_changed = refit_j_column(font, base_pairs, base_names, style, cmap_rev0)
@@ -727,11 +732,13 @@ def main():
                         'right_group': rep_r, 'left_group': rep_l}
         mv = np.array(list(moves.values()))
         print(style, f'точек вариантов {simplified[0]}→{simplified[1]}', '| пар «буква + д» возвращено к 0.5.5:', tuck, '| сближено рыхлых: базовых', len(dense_base), 'с вариантами', dense_alt,
-              'цели', {c: round(v) for c, v in dense_target.items()}, '| «л» поднято в парах', len(lifted), '| раздвинуто (слипались): базовых', len(clear_base), 'с вариантами', len(clear_alt), '| Λ-пар уплотнено', lam, '| пар «X+j» пересчитано', j_changed, '| цифры: масштаб', digits_report[style]['s'], 'пар пересчитано', digit_pairs, '| глифов', len(order), 'новых', len(names), 'исключений кернинга', len(exc),
+              'цели', {c: round(v) for c, v in dense_target.items()}, '| «л» поднято в парах', len(lifted), '| раздвинуто (слипались): базовых', len(clear_base), 'с вариантами', len(clear_alt), '| Λ-пар уплотнено', lam, '| пар «X+j» пересчитано', j_changed, '| цифры: масштаб', digits_report[style]['s'], 'пар пересчитано', digit_pairs,
+              '| выровнено глифов', sum(1 for v in smooth_report[style].values() if 'moved' in v), '| глифов', len(order), 'новых', len(names), 'исключений кернинга', len(exc),
               '| сдвиг полей, медиана |лев| |прав|:', round(float(np.median(abs(mv[:, 0])))), round(float(np.median(abs(mv[:, 1])))))
     (HERE / 'clearance-report.json').write_text(json.dumps(clear_report, ensure_ascii=False, indent=0))
     (HERE / 'polish-report.json').write_text(json.dumps(all_polished, ensure_ascii=False, indent=0))
     (ROOT / 'qa/digits-2026-10-22/digits-report.json').write_text(json.dumps(digits_report, ensure_ascii=False, indent=1))
+    (ROOT / 'qa/smooth-2026-10-22/smooth-report.json').write_text(json.dumps(smooth_report, ensure_ascii=False, indent=0))
     rot = {'phases': spec['phases'], 'phase': spec['phase'], 'forms': spec['forms'], 'shift': spec['shift'],
            'keep_after': [spec['forms'].get(KEEP_AFTER[0], [KEEP_AFTER[0]]), KEEP_AFTER[1]]}
     (ROOT / 'tests/alternates-spec.json').write_text(json.dumps({'rotation': rot, 'kerning': specs},
