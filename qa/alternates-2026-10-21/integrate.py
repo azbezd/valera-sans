@@ -34,6 +34,8 @@ sys.path.insert(0, str(ROOT / 'qa/contour-cleanup-2026-10-21'))
 sys.path.insert(0, str(HERE))
 from glyphraster import render, ASC  # noqa: E402
 import polish as POLISH  # noqa: E402
+sys.path.insert(0, str(Path(__file__).parent))
+import simplify as SIMPLIFY  # noqa: E402
 
 STYLES = ['Light', 'Regular', 'Semibold']
 BAND = 10
@@ -642,6 +644,10 @@ def main():
             fx = POLISH.polish(font[n])
             if fx:
                 polished[n] = fx
+        # упрощение трассированных контуров вариантов (меньше точек, отклонение ≤ 2,5 ед.)
+        SIMPLIFY.TOL, SIMPLIFY.MAX_DEV = 1.5, 2.5
+        simp = [SIMPLIFY.simplify(font[n], POLISH.topology) for n in names]
+        simplified = (sum(s[0] for s in simp), sum(s[1] for s in simp))
         forms = forms_map(font.keys(), names)
         order = list(font.glyphOrder)
         spec = rotation_spec(order, forms)
@@ -677,6 +683,8 @@ def main():
         clear_report[style] = {'base': {f'{a} {b}': v for (a, b), v in clear_base.items()},
                                'alternates': len(clear_alt)}
         font.features.text = build_features(old_fea, spec, base_pairs, exc, rep_r, rep_l, lifted)
+        major, minor = json.loads((ROOT / 'font-project.json').read_text())['font_version'].split('.')
+        font.info.versionMajor, font.info.versionMinor = int(major), int(minor)
         font.save(ROOT / f'sources/ValeraSans-{style}.ufo', overwrite=True)
         all_polished[style] = {k: [list(map(float, v[:3])) + [v[3]] for v in vals] for k, vals in polished.items()}
         specs[style] = {'lift': [[a, b, dy] for (a, b), (k, dy) in sorted(lifted.items())],
@@ -684,7 +692,7 @@ def main():
                         'exceptions': [[a, b, v] for (a, b), v in sorted(exc.items())],
                         'right_group': rep_r, 'left_group': rep_l}
         mv = np.array(list(moves.values()))
-        print(style, 'пар «буква + д» возвращено к 0.5.5:', tuck, '| сближено рыхлых: базовых', len(dense_base), 'с вариантами', dense_alt,
+        print(style, f'точек вариантов {simplified[0]}→{simplified[1]}', '| пар «буква + д» возвращено к 0.5.5:', tuck, '| сближено рыхлых: базовых', len(dense_base), 'с вариантами', dense_alt,
               'цели', {c: round(v) for c, v in dense_target.items()}, '| «л» поднято в парах', len(lifted), '| раздвинуто (слипались): базовых', len(clear_base), 'с вариантами', len(clear_alt), '| Λ-пар уплотнено', lam, '| пар «X+j» пересчитано', j_changed, '| глифов', len(order), 'новых', len(names), 'исключений кернинга', len(exc),
               '| сдвиг полей, медиана |лев| |прав|:', round(float(np.median(abs(mv[:, 0])))), round(float(np.median(abs(mv[:, 1])))))
     (HERE / 'clearance-report.json').write_text(json.dumps(clear_report, ensure_ascii=False, indent=0))

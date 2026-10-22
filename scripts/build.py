@@ -100,6 +100,8 @@ def build(style,weight,cff=False):
     ext='otf'if cff else 'ttf';path=ROOT/f'fonts/{ext}/ValeraSans-{style}.{ext}'
     path.parent.mkdir(parents=True,exist_ok=True);f.save(path)
     if not cff:
+        # Веб-версия: браузеры берут кернинг из GPOS, старая таблица kern им не нужна.
+        if 'kern' in f:del f['kern']
         f.flavor='woff2';(ROOT/'fonts/web').mkdir(exist_ok=True)
         f.save(ROOT/f'fonts/web/ValeraSans-{style}.woff2')
     return path

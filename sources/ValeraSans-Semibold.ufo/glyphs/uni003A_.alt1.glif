@@ -4,8 +4,7 @@
   <outline>
     <contour>
       <point x="103" y="368" type="qcurve"/>
-      <point x="115" y="372"/>
-      <point x="142" y="367"/>
+      <point x="131" y="377"/>
       <point x="149" y="360" type="qcurve"/>
       <point x="155" y="355"/>
       <point x="168" y="327"/>
@@ -23,15 +22,13 @@
       <point x="100" y="136"/>
       <point x="140" y="115"/>
       <point x="146" y="95" type="qcurve" smooth="yes"/>
-      <point x="150" y="83"/>
-      <point x="150" y="72"/>
+      <point x="152" y="77"/>
       <point x="146" y="62" type="qcurve" smooth="yes"/>
       <point x="138" y="40"/>
       <point x="95" y="31"/>
       <point x="77" y="48" type="qcurve"/>
-      <point x="66" y="60"/>
-      <point x="60" y="93"/>
-      <point x="70" y="122"/>
+      <point x="61" y="66"/>
+      <point x="63" y="119"/>
     </contour>
   </outline>
 </glyph>

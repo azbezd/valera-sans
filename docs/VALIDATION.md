@@ -7,10 +7,10 @@ Version 0.5.3 adds the open Cyrillic у, calibrates its stroke, softens its term
 `scripts/validate.py` checks every released TTF, CFF OTF and WOFF2:
 
 - Complete author, copyright, naming, style grouping, version, URLs and license records.
-- 170 encoded characters, 181 glyphs and approved advance widths.
+- 171 encoded characters, 529 glyphs (348 of them alternates) and approved advance widths.
 - Exact quadratic points and contour endpoints for TTF/WOFF2. CFF conversion bounds differ by less than 0.01 font units and signed area by less than 1 square font unit.
-- All 28,900 encoded pairs with calt both enabled and disabled, using actual HarfBuzz shaping.
-- All 3,300 tabular-digit contexts, plus erX / Xer, цуX / Xцу and щуX / Xщу, куX / Xку and КуX / XКу in Latin, Cyrillic and default shaping scripts, and representative words to verify the selected glyph and the kerning on both sides.
+- All 29,241 encoded pairs with calt both enabled and disabled, using actual HarfBuzz shaping.
+- All 3,320 tabular-digit contexts, plus erX / Xer, цуX / Xцу and щуX / Xщу, куX / Xку and КуX / XКу in Latin, Cyrillic and default shaping scripts, and representative words to verify the selected glyph and the kerning on both sides.
 - Compatibility metrics, positive underline/strikeout dimensions, and no clipping against the declared vertical bounds.
 - Relative documentation links.
 
@@ -29,3 +29,8 @@ Light and Semibold remain experimental derived weights. No dedicated hinting, it
 Version 0.5.4 extends only the contextual selection to к/К. The approved 0.5.3 geometry and all glyph-level kerning remain unchanged.
 
 Version 0.5.5 adopts the approved pair audit: 43 preceding character contexts, and 23 / 21 / 15 targeted kerning changes across Light / Regular / Semibold. All 28,900 XуY triples are checked with calt on and off, in addition to the encoded pair matrix. The approved outline baseline remains 0.5.3.
+
+Version 0.6.0 adds 348 alternates of 151 characters chosen by the author from the scans, rotated by `calt`. Expected behaviour is written down in `tests/alternates-spec.json` and modelled by `scripts/alternates_model.py`: which form HarfBuzz selects (contextual r/у, then rotation, then plain д after any form of а), the kerning of every pair (approved base pairs, profile groups and exceptions) and the vertical lift of л after letters with a bottom tail. `validate.py` compares every shaped context against this model, including the lift; the pair and browser fixtures are generated from the model, not from the build. Outline polishing changed approved geometry for the edited glyphs; every other glyph is checked point for point against the previous baseline. Web WOFF2 files omit the legacy `kern` table; TTF and OTF keep it with base pairs only.
+
+Kerning of alternates is computed, not hand-tuned pair by pair: the 0.4 formula, a minimum of 50 units between glyph edges (40 with punctuation) and tightening of loose pairs towards the 40th percentile of their group. Visual review used the author's marked words and representative text in all three weights.
+

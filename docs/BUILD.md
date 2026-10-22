@@ -32,10 +32,15 @@ Open http://127.0.0.1:8000/specimen/. For browser QA, run `npm ci`, `npx playwri
 Only the author or an explicitly authorized maintainer may modify the Font Software under this project's license.
 
 1. Create a work branch, review the glyph or metadata change and run the checks.
-2. Update `version` and `font_version` in `font-project.json`, and the matching UFO metadata. For 0.5.5 the OpenType revision is 0.505 (0.5.1 used 0.501). Record the mapping explicitly for every release.
+2. Update `version` and `font_version` in `font-project.json`, and the matching UFO metadata. For 0.6.0 the OpenType revision is 0.600 (0.5.5 used 0.505, 0.5.1 used 0.501). Record the mapping explicitly for every release.
 3. Update `CHANGELOG.md`, download links, specimens and license metadata as needed.
 4. Build, validate, review desktop/mobile specimens, and run `python scripts/package.py`.
-5. Commit the approved sources and generated fonts, then create an annotated tag such as `v0.5.5`. Never move a published tag.
+5. Commit the approved sources and generated fonts, then create an annotated tag such as `v0.6.0`. Never move a published tag.
 6. Publish a GitHub release from that tag and upload the font ZIP, source ZIP and `SHA256SUMS.txt` from `dist/`.
 
 CI rebuilds and validates every push and pull request. GitHub Pages deploys the specimen after successful checks on `main`. Publishing a new release remains an explicit maintainer action; a branch push does not create a release.
+
+## Alternates (0.6.0)
+
+The UFO masters are the source of truth. The 348 alternates, rotation, polishing and alternate kerning were produced by `qa/alternates-2026-10-21/integrate.py` from the outlines in `qa/alternates-2026-10-21/vector/` and the 0.5.5 masters; its README lists every step. Editing a glyph by hand in the UFO is fine; rerun `integrate.py` only to regenerate the alternate set as a whole, then `scripts/build.py`, `qa/alternates-2026-10-21/fixtures.py` and `scripts/validate.py`.
+

@@ -17,13 +17,17 @@ sys.path.insert(0, str(ROOT / 'scripts'))
 from alternates_model import expected_names, Kerning, SPEC  # noqa: E402
 
 STYLES = ['Light', 'Regular', 'Semibold']
+BASE_TAG = 'df51644'   # эталон после правки капель — с него стартует integrate (.orig)
 CHANGED_BASE = {'uni006A'}          # убрана лишняя точка (i со скана)
 POLISHED = json.loads((Path(__file__).parent / 'polish-report.json').read_text())  # отполированные глифы
 NEW_ENCODED = {'uni00B0': 0xB0}
 
 
 def main():
-    approved = json.loads((ROOT / 'tests/approved-v0.5.3.json').read_text())
+    # основа — эталон коммита с правкой капель: повторный запуск даёт тот же результат
+    import subprocess
+    approved = json.loads(subprocess.run(['git', 'show', f'{BASE_TAG}:tests/approved-v0.5.3.json'], cwd=ROOT,
+                                         capture_output=True, text=True, check=True).stdout)
     browser = json.loads((ROOT / 'tests/browser-expected.json').read_text())
     new_names = set()
     for fs in SPEC['rotation']['forms'].values():

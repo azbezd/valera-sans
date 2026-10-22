@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.6.0 — 2026-10-22
 
 - Remove scanned ink drips from 5, 9, a, j, }, а, б, д and э (and tabular 5/9) in the weights where they occurred; remove a detached speck under } in Regular.
 - Redraw the clipped loop of the ц descender and smooth the dent under the щ tail in all three weights.
@@ -16,6 +16,9 @@
 - Tighten loose letter pairs (same script, all form combinations): white space between letters is brought down to the 40th percentile of its case group, never closer than 50 units between edges.
 - After any form of а the plain д is used, and pairs before д keep the 0.5.5 values so its baseline stroke tucks under the previous letter (opened only where an alternate would come closer than 25 units).
 - Validation follows `tests/alternates-spec.json` through `scripts/alternates_model.py`; the legacy `kern` table keeps the base glyph pairs only.
+- Web WOFF2 files no longer carry the legacy `kern` table (browsers use GPOS); TTF and OTF keep it with the base pairs.
+- Alternate outlines simplified after tracing (deviation ≤ 2.5 units).
+- OpenType revision: **0.600**.
 
 ## 0.5.5 — 2026-10-21
 

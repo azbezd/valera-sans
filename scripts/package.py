@@ -27,7 +27,7 @@ for kind,files in [('fonts',font_files),('source',source_files)]:
         assert z.testzip()is None
         assert prefix+'LICENSE'in z.namelist()
         if kind == 'source':
-            for required in ['tests/browser-expected.json','tests/approved-v0.5.3.json','scripts/build.py','scripts/validate.py']:
+            for required in ['tests/browser-expected.json','tests/approved-v0.5.3.json','tests/alternates-spec.json','scripts/build.py','scripts/validate.py','scripts/alternates_model.py']:
                 assert prefix+required in z.namelist(), required
         for p in font_files:
             assert z.read(prefix+str(p.relative_to(ROOT)))==p.read_bytes()
